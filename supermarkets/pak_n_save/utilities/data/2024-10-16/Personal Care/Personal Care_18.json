@@ -1,0 +1,2360 @@
+{
+  "tobaccoProducts": false,
+  "products": [
+    {
+      "productId": "5108155-EA-000",
+      "brand": "Red Seal",
+      "name": "Activated Charcoal Capsules",
+      "displayName": "45pk",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 799,
+        "comparativePrice": {
+          "pricePerUnit": 1776,
+          "unitQuantity": 100,
+          "unitQuantityUom": " ",
+          "measureDescription": "100"
+        }
+      },
+      "categoryTrees": [
+        {
+          "level0": "Personal Care",
+          "level1": "Health & Wellness",
+          "level2": "Vitamins & Supplements"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5247654-EA-000",
+      "brand": "Musashi",
+      "name": "High Protein Vanilla Milkshake Flavour Muscle Recovery Powder",
+      "displayName": "375g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 3249,
+        "comparativePrice": {
+          "pricePerUnit": 866,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "categoryTrees": [
+        {
+          "level0": "Personal Care",
+          "level1": "Health & Wellness",
+          "level2": "Wellness & Sports Nutrition"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5027917-EA-000",
+      "brand": "Healtheries",
+      "name": "Naturally Slim Chocolate Flavour Protein Powder",
+      "displayName": "500g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 2499,
+        "promoId": "128943087",
+        "comparativePrice": {
+          "pricePerUnit": 500,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "128943087",
+          "rewardValue": 2499,
+          "decal": "6000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 500,
+            "unitQuantity": 100,
+            "unitQuantityUom": "g",
+            "measureDescription": "100g"
+          }
+        }
+      ],
+      "facets": [
+        {
+          "itemCode": "00020011",
+          "itemDescription": "Low Sugar"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Personal Care",
+          "level1": "Health & Wellness",
+          "level2": "Wellness & Sports Nutrition"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5085048-EA-000",
+      "brand": "Codral",
+      "name": "Lime & Lemon Flavour Duo Relief Sore Throat Lozenges",
+      "displayName": "16pk",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 799,
+        "comparativePrice": {
+          "pricePerUnit": 50,
+          "unitQuantity": 1,
+          "unitQuantityUom": "ea",
+          "measureDescription": "ea"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Personal Care",
+          "level1": "Health & Wellness",
+          "level2": "Cough, Cold & Flu"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5239305-EA-000",
+      "brand": "Organic Care",
+      "name": "Coco Repair Conditioner",
+      "displayName": "400ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 529,
+        "promoId": "128942819",
+        "comparativePrice": {
+          "pricePerUnit": 132,
+          "unitQuantity": 100,
+          "unitQuantityUom": "ml",
+          "measureDescription": "100ml"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "128942819",
+          "rewardValue": 529,
+          "decal": "6000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 132,
+            "unitQuantity": 100,
+            "unitQuantityUom": "ml",
+            "measureDescription": "100ml"
+          }
+        }
+      ],
+      "facets": [
+        {
+          "itemCode": "00020001",
+          "itemDescription": "Organic"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Personal Care",
+          "level1": "Beauty & Grooming",
+          "level2": "Hair Care & Treatments"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5031551-EA-000",
+      "brand": "Healtheries",
+      "name": "Men's Multi One A Day Tablets",
+      "displayName": "60pk",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 1699,
+        "promoId": "128943097",
+        "comparativePrice": {
+          "pricePerUnit": 2832,
+          "unitQuantity": 100,
+          "unitQuantityUom": " ",
+          "measureDescription": "100"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "128943097",
+          "rewardValue": 1699,
+          "decal": "6000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 2832,
+            "unitQuantity": 100,
+            "unitQuantityUom": " ",
+            "measureDescription": "100"
+          }
+        }
+      ],
+      "facets": [
+        {
+          "itemCode": "00020004",
+          "itemDescription": "Gluten Free"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Personal Care",
+          "level1": "Health & Wellness",
+          "level2": "Vitamins & Supplements"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5020238-EA-000",
+      "brand": "Thursday Plantation",
+      "name": "Tea Tree Shampoo for Dandruff",
+      "displayName": "250ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 899,
+        "promoId": "128959753",
+        "comparativePrice": {
+          "pricePerUnit": 360,
+          "unitQuantity": 100,
+          "unitQuantityUom": "ml",
+          "measureDescription": "100ml"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "128959753",
+          "rewardValue": 899,
+          "decal": "6000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 360,
+            "unitQuantity": 100,
+            "unitQuantityUom": "ml",
+            "measureDescription": "100ml"
+          }
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Personal Care",
+          "level1": "Beauty & Grooming",
+          "level2": "Hair Care & Treatments"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5208822-EA-000",
+      "brand": "Lemsip",
+      "name": "Cough Max For Mucus Cough And Cold Lemon Hot Drink Sachets",
+      "displayName": "10pk",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 1599,
+        "comparativePrice": {
+          "pricePerUnit": 160,
+          "unitQuantity": 1,
+          "unitQuantityUom": "ea",
+          "measureDescription": "ea"
+        }
+      },
+      "categoryTrees": [
+        {
+          "level0": "Personal Care",
+          "level1": "Health & Wellness",
+          "level2": "Cough, Cold & Flu"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5247830-EA-000",
+      "brand": "Nivea",
+      "name": "Q10 Power Replenishing Night Cream",
+      "displayName": "50ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 2649,
+        "comparativePrice": {
+          "pricePerUnit": 5298,
+          "unitQuantity": 100,
+          "unitQuantityUom": "ml",
+          "measureDescription": "100ml"
+        }
+      },
+      "categoryTrees": [
+        {
+          "level0": "Personal Care",
+          "level1": "Beauty & Grooming",
+          "level2": "Face & Lip Skin Care"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5026002-EA-000",
+      "brand": "Red Seal",
+      "name": "Executive Stress B Tablets",
+      "displayName": "60pk",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 1169,
+        "promoId": "128942680",
+        "comparativePrice": {
+          "pricePerUnit": 1948,
+          "unitQuantity": 100,
+          "unitQuantityUom": " ",
+          "measureDescription": "100"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "128942680",
+          "rewardValue": 1169,
+          "decal": "6000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 1948,
+            "unitQuantity": 100,
+            "unitQuantityUom": " ",
+            "measureDescription": "100"
+          }
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Personal Care",
+          "level1": "Health & Wellness",
+          "level2": "Vitamins & Supplements"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5090803-EA-000",
+      "brand": "OGX",
+      "name": "Quenching Coconut Curls Shampoo",
+      "displayName": "385ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 999,
+        "promoId": "128928784",
+        "comparativePrice": {
+          "pricePerUnit": 259,
+          "unitQuantity": 100,
+          "unitQuantityUom": "ml",
+          "measureDescription": "100ml"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "128928784",
+          "rewardValue": 999,
+          "decal": "6000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 259,
+            "unitQuantity": 100,
+            "unitQuantityUom": "ml",
+            "measureDescription": "100ml"
+          }
+        }
+      ],
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Personal Care",
+          "level1": "Beauty & Grooming",
+          "level2": "Hair Care & Treatments"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5264457-EA-000",
+      "brand": "Nivea",
+      "name": "Q10 Power Night Cream",
+      "displayName": "50ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 2809,
+        "comparativePrice": {
+          "pricePerUnit": 5618,
+          "unitQuantity": 100,
+          "unitQuantityUom": "ml",
+          "measureDescription": "100ml"
+        }
+      },
+      "categoryTrees": [
+        {
+          "level0": "Personal Care",
+          "level1": "Beauty & Grooming",
+          "level2": "Face & Lip Skin Care"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5246950-EA-000",
+      "brand": "Nature's Way",
+      "name": "Multi Vitamin Lemon Raspberry Strawberry  Adult Vita Gummies",
+      "displayName": "120pk",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 2099,
+        "comparativePrice": {
+          "pricePerUnit": 1749,
+          "unitQuantity": 100,
+          "unitQuantityUom": " ",
+          "measureDescription": "100"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Personal Care",
+          "level1": "Health & Wellness",
+          "level2": "Wellness & Sports Nutrition"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5137086-EA-000",
+      "brand": "L'Oreal Paris",
+      "name": "Revitalift Anti-Wrinkle + Extra Firming SPF30 Hydrating Day Cream",
+      "displayName": "50ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 2669,
+        "promoId": "128929806",
+        "comparativePrice": {
+          "pricePerUnit": 5338,
+          "unitQuantity": 100,
+          "unitQuantityUom": "ml",
+          "measureDescription": "100ml"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "128929806",
+          "rewardValue": 2669,
+          "decal": "6000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 5338,
+            "unitQuantity": 100,
+            "unitQuantityUom": "ml",
+            "measureDescription": "100ml"
+          }
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Personal Care",
+          "level1": "Beauty & Grooming",
+          "level2": "Face & Lip Skin Care"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5026090-EA-000",
+      "brand": "Red Seal",
+      "name": "Iron Plus Vitamin C Tablets",
+      "displayName": "100pk",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 899,
+        "promoId": "128942708",
+        "comparativePrice": {
+          "pricePerUnit": 899,
+          "unitQuantity": 100,
+          "unitQuantityUom": " ",
+          "measureDescription": "100"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "128942708",
+          "rewardValue": 899,
+          "decal": "6000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 899,
+            "unitQuantity": 100,
+            "unitQuantityUom": " ",
+            "measureDescription": "100"
+          }
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Personal Care",
+          "level1": "Health & Wellness",
+          "level2": "Vitamins & Supplements"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5027368-EA-000",
+      "brand": "Skyn",
+      "name": "Extra Lubricated Soft Non-Latex Condoms",
+      "displayName": "10pk",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 1249,
+        "promoId": "128942803",
+        "comparativePrice": {
+          "pricePerUnit": 125,
+          "unitQuantity": 1,
+          "unitQuantityUom": "ea",
+          "measureDescription": "ea"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "128942803",
+          "rewardValue": 1249,
+          "decal": "6000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 125,
+            "unitQuantity": 1,
+            "unitQuantityUom": "ea",
+            "measureDescription": "ea"
+          }
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Personal Care",
+          "level1": "Health & Wellness",
+          "level2": "Family Planning"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5012741-EA-000",
+      "brand": "Healtheries",
+      "name": "Vitamin C 1000mg Orange Flavour Chewable Tablets",
+      "displayName": "35pk",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 1229,
+        "comparativePrice": {
+          "pricePerUnit": 35,
+          "unitQuantity": 1,
+          "unitQuantityUom": "ea",
+          "measureDescription": "ea"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020004",
+          "itemDescription": "Gluten Free"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Personal Care",
+          "level1": "Health & Wellness",
+          "level2": "Vitamins & Supplements"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5026021-EA-000",
+      "brand": "Just For Men",
+      "name": "Shampoo-In Medium Brown Hair Colour",
+      "displayName": "1pk",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 1500,
+        "promoId": "128879098"
+      },
+      "promotions": [
+        {
+          "promoId": "128879098",
+          "rewardValue": 1500,
+          "decal": "6000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true
+        }
+      ],
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Personal Care",
+          "level1": "Beauty & Grooming",
+          "level2": "Hair Colouring"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5205832-EA-000",
+      "brand": "Essano Rosehip",
+      "name": "Jasmine Daily Repair Body Wash",
+      "displayName": "445ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 929,
+        "comparativePrice": {
+          "pricePerUnit": 209,
+          "unitQuantity": 100,
+          "unitQuantityUom": "ml",
+          "measureDescription": "100ml"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020001",
+          "itemDescription": "Organic"
+        },
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Personal Care",
+          "level1": "Beauty & Grooming",
+          "level2": "Hand & Body Care"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5011529-EA-000",
+      "brand": "Garnier",
+      "name": "Nutrisse 4.3 Cappuccino Dark Golden Brown Hair Colour",
+      "displayName": "ea",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 1429
+      },
+      "categoryTrees": [
+        {
+          "level0": "Personal Care",
+          "level1": "Beauty & Grooming",
+          "level2": "Hair Colouring"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5023925-EA-000",
+      "brand": "Clearblue",
+      "name": "Within Weeks Indicator Pregnancy Test",
+      "displayName": "ea",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 2249,
+        "promoId": "128928748"
+      },
+      "promotions": [
+        {
+          "promoId": "128928748",
+          "rewardValue": 2249,
+          "decal": "6000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Personal Care",
+          "level1": "Health & Wellness",
+          "level2": "Family Planning"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5014549-EA-000",
+      "brand": "Horleys",
+      "name": "Carb Less Crunch Rocky Road Protein Bar",
+      "displayName": "50g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 439,
+        "promoId": "128942890",
+        "comparativePrice": {
+          "pricePerUnit": 878,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "128942890",
+          "rewardValue": 439,
+          "decal": "6000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 878,
+            "unitQuantity": 100,
+            "unitQuantityUom": "g",
+            "measureDescription": "100g"
+          }
+        }
+      ],
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Personal Care",
+          "level1": "Health & Wellness",
+          "level2": "Wellness & Sports Nutrition"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5275653-EA-000",
+      "brand": "Natures Way",
+      "name": "Women's Multivitamin  Adult Vita Gummies",
+      "displayName": "100pk",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 2099,
+        "comparativePrice": {
+          "pricePerUnit": 2099,
+          "unitQuantity": 100,
+          "unitQuantityUom": " ",
+          "measureDescription": "100"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020007",
+          "itemDescription": "Dairy Free"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Personal Care",
+          "level1": "Health & Wellness",
+          "level2": "Wellness & Sports Nutrition"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5267681-EA-000",
+      "brand": "Nature's Way",
+      "name": "Magnesium Adult Vita Gummies",
+      "displayName": "90pk",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 2099,
+        "comparativePrice": {
+          "pricePerUnit": 2332,
+          "unitQuantity": 100,
+          "unitQuantityUom": " ",
+          "measureDescription": "100"
+        }
+      },
+      "categoryTrees": [
+        {
+          "level0": "Personal Care",
+          "level1": "Health & Wellness",
+          "level2": "Vitamins & Supplements"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5034401-EA-000",
+      "brand": "Em's Power Cookies",
+      "name": "Chocolate Oat Bar",
+      "displayName": "80g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 349,
+        "comparativePrice": {
+          "pricePerUnit": 436,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Personal Care",
+          "level1": "Health & Wellness",
+          "level2": "Wellness & Sports Nutrition"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5253456-EA-000",
+      "brand": "Lynx",
+      "name": "Chill 3 In 1 Bodywash",
+      "displayName": "400ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 729,
+        "comparativePrice": {
+          "pricePerUnit": 182,
+          "unitQuantity": 100,
+          "unitQuantityUom": "ml",
+          "measureDescription": "100ml"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Personal Care",
+          "level1": "Beauty & Grooming",
+          "level2": "Hand & Body Care"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5016362-EA-000",
+      "brand": "Nicorette",
+      "name": "Gum Icy Mint Regular Strength 2mg",
+      "displayName": "105ea",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 3329,
+        "comparativePrice": {
+          "pricePerUnit": 3170,
+          "unitQuantity": 100,
+          "unitQuantityUom": " ",
+          "measureDescription": "100"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020011",
+          "itemDescription": "Low Sugar"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Personal Care",
+          "level1": "Health & Wellness",
+          "level2": "Stop Smoking"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5026092-EA-000",
+      "brand": "Red Seal",
+      "name": "Cod Liver Oil Capsules",
+      "displayName": "100pk",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 979,
+        "comparativePrice": {
+          "pricePerUnit": 979,
+          "unitQuantity": 100,
+          "unitQuantityUom": " ",
+          "measureDescription": "100"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020004",
+          "itemDescription": "Gluten Free"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Personal Care",
+          "level1": "Health & Wellness",
+          "level2": "Vitamins & Supplements"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5283566-EA-000",
+      "brand": "Lynx",
+      "name": "Collision Wasabi + Fresh Linen 3 In 1 Body Face Hair Wash",
+      "displayName": "400ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 729,
+        "comparativePrice": {
+          "pricePerUnit": 182,
+          "unitQuantity": 100,
+          "unitQuantityUom": "ml",
+          "measureDescription": "100ml"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Personal Care",
+          "level1": "Beauty & Grooming",
+          "level2": "Hand & Body Care"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5013890-EA-000",
+      "brand": "Horleys",
+      "name": "Carb Less Crunch Caramel Deluxe Protein Bar",
+      "displayName": "50g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 439,
+        "promoId": "128942890",
+        "comparativePrice": {
+          "pricePerUnit": 878,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "128942890",
+          "rewardValue": 439,
+          "decal": "6000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 878,
+            "unitQuantity": 100,
+            "unitQuantityUom": "g",
+            "measureDescription": "100g"
+          }
+        }
+      ],
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Personal Care",
+          "level1": "Health & Wellness",
+          "level2": "Wellness & Sports Nutrition"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5276902-EA-000",
+      "brand": "Maxiclear",
+      "name": "Cold Flu Sinus Pain Relief Tablets",
+      "displayName": "20pk",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 929,
+        "promoId": "128901796",
+        "comparativePrice": {
+          "pricePerUnit": 46,
+          "unitQuantity": 1,
+          "unitQuantityUom": "ea",
+          "measureDescription": "ea"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "128901796",
+          "rewardValue": 929,
+          "decal": "6000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 46,
+            "unitQuantity": 1,
+            "unitQuantityUom": "ea",
+            "measureDescription": "ea"
+          }
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Personal Care",
+          "level1": "Health & Wellness",
+          "level2": "Cough, Cold & Flu"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5205830-EA-000",
+      "brand": "Essano Rosehip",
+      "name": "Coconut & Frangipani Soothe & Hydrate Body Wash",
+      "displayName": "445ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 929,
+        "comparativePrice": {
+          "pricePerUnit": 209,
+          "unitQuantity": 100,
+          "unitQuantityUom": "ml",
+          "measureDescription": "100ml"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020001",
+          "itemDescription": "Organic"
+        },
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Personal Care",
+          "level1": "Beauty & Grooming",
+          "level2": "Hand & Body Care"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5265109-EA-000",
+      "brand": "Garnier",
+      "name": "Micellar Rose Water Clean & Glow",
+      "displayName": "400ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 1688,
+        "comparativePrice": {
+          "pricePerUnit": 422,
+          "unitQuantity": 100,
+          "unitQuantityUom": "ml",
+          "measureDescription": "100ml"
+        }
+      },
+      "categoryTrees": [
+        {
+          "level0": "Personal Care",
+          "level1": "Beauty & Grooming",
+          "level2": "Face & Lip Skin Care"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5210500-EA-000",
+      "brand": "Nivea Men",
+      "name": "Aloe Vera Exfoliating Face Scrub",
+      "displayName": "125ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 1599,
+        "comparativePrice": {
+          "pricePerUnit": 1279,
+          "unitQuantity": 100,
+          "unitQuantityUom": "ml",
+          "measureDescription": "100ml"
+        }
+      },
+      "categoryTrees": [
+        {
+          "level0": "Personal Care",
+          "level1": "Beauty & Grooming",
+          "level2": "Face & Lip Skin Care"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5025728-EA-000",
+      "brand": "Red Seal",
+      "name": "Women's Multi Tablets",
+      "displayName": "60pk",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 1529,
+        "promoId": "128942722",
+        "comparativePrice": {
+          "pricePerUnit": 2548,
+          "unitQuantity": 100,
+          "unitQuantityUom": " ",
+          "measureDescription": "100"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "128942722",
+          "rewardValue": 1529,
+          "decal": "6000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 2548,
+            "unitQuantity": 100,
+            "unitQuantityUom": " ",
+            "measureDescription": "100"
+          }
+        }
+      ],
+      "facets": [
+        {
+          "itemCode": "00020004",
+          "itemDescription": "Gluten Free"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Personal Care",
+          "level1": "Health & Wellness",
+          "level2": "Vitamins & Supplements"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5032601-EA-000",
+      "brand": "St Ives",
+      "name": "Even & Bright Pink Lemon & Mandarin Orange Scrub",
+      "displayName": "150ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 1049,
+        "comparativePrice": {
+          "pricePerUnit": 699,
+          "unitQuantity": 100,
+          "unitQuantityUom": "ml",
+          "measureDescription": "100ml"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Personal Care",
+          "level1": "Beauty & Grooming",
+          "level2": "Face & Lip Skin Care"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5031549-EA-000",
+      "brand": "Healtheries",
+      "name": "Women's Multi One A Day Tablets",
+      "displayName": "30pk",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 1399,
+        "comparativePrice": {
+          "pricePerUnit": 47,
+          "unitQuantity": 1,
+          "unitQuantityUom": "ea",
+          "measureDescription": "ea"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020004",
+          "itemDescription": "Gluten Free"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Personal Care",
+          "level1": "Health & Wellness",
+          "level2": "Vitamins & Supplements"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5262938-EA-000",
+      "brand": "Musashi",
+      "name": "Vanilla Milkshake Flavour 100% Whey Powder",
+      "displayName": "330g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 3249,
+        "comparativePrice": {
+          "pricePerUnit": 985,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "categoryTrees": [
+        {
+          "level0": "Personal Care",
+          "level1": "Health & Wellness",
+          "level2": "Wellness & Sports Nutrition"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5025395-EA-000",
+      "brand": "Red Seal",
+      "name": "Dietary Supplement Floradix Tablets",
+      "displayName": "84pk",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 2989,
+        "comparativePrice": {
+          "pricePerUnit": 3558,
+          "unitQuantity": 100,
+          "unitQuantityUom": " ",
+          "measureDescription": "100"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020004",
+          "itemDescription": "Gluten Free"
+        },
+        {
+          "itemCode": "00020014",
+          "itemDescription": "Vegetarian"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Personal Care",
+          "level1": "Health & Wellness",
+          "level2": "Vitamins & Supplements"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5024436-EA-000",
+      "brand": "d3",
+      "name": "Rigid Strapping Tape",
+      "displayName": "2pk",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 1919,
+        "comparativePrice": {
+          "pricePerUnit": 960,
+          "unitQuantity": 1,
+          "unitQuantityUom": "ea",
+          "measureDescription": "ea"
+        }
+      },
+      "categoryTrees": [
+        {
+          "level0": "Personal Care",
+          "level1": "Health & Wellness",
+          "level2": "First Aid"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5200483-EA-000",
+      "brand": "Garnier",
+      "name": "Pure Active 3 In 1 Charcoal Anti-Blackhead Wash Scrub & Mask",
+      "displayName": "150ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 1419,
+        "comparativePrice": {
+          "pricePerUnit": 946,
+          "unitQuantity": 100,
+          "unitQuantityUom": "ml",
+          "measureDescription": "100ml"
+        }
+      },
+      "categoryTrees": [
+        {
+          "level0": "Personal Care",
+          "level1": "Beauty & Grooming",
+          "level2": "Face & Lip Skin Care"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5084263-EA-000",
+      "brand": "Gaviscon",
+      "name": "Dual Action Peppermint Heartburn & Indigestion Relief Liquid",
+      "displayName": "600ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 2899,
+        "comparativePrice": {
+          "pricePerUnit": 483,
+          "unitQuantity": 100,
+          "unitQuantityUom": "ml",
+          "measureDescription": "100ml"
+        }
+      },
+      "categoryTrees": [
+        {
+          "level0": "Personal Care",
+          "level1": "Health & Wellness",
+          "level2": "Digestion, Nausea & Laxatives"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5013395-EA-000",
+      "brand": "Healtheries",
+      "name": "Jointex Glucosamine Omega & Chondroitin Capsules",
+      "displayName": "60pk",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 2199,
+        "comparativePrice": {
+          "pricePerUnit": 3665,
+          "unitQuantity": 100,
+          "unitQuantityUom": " ",
+          "measureDescription": "100"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020007",
+          "itemDescription": "Dairy Free"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Personal Care",
+          "level1": "Health & Wellness",
+          "level2": "Vitamins & Supplements"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5232311-EA-000",
+      "brand": "Just For Men",
+      "name": "Moustache & Beard Real Black Brush In Colour Gel",
+      "displayName": "1pk",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 1500,
+        "promoId": "128879096"
+      },
+      "promotions": [
+        {
+          "promoId": "128879096",
+          "rewardValue": 1500,
+          "decal": "6000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true
+        }
+      ],
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Personal Care",
+          "level1": "Beauty & Grooming",
+          "level2": "Hair Colouring"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5025745-EA-000",
+      "brand": "Olay",
+      "name": "Anti-Wrinkle Provital Night Cream For Mature Skin",
+      "displayName": "50ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 1099,
+        "promoId": "128928630",
+        "comparativePrice": {
+          "pricePerUnit": 2198,
+          "unitQuantity": 100,
+          "unitQuantityUom": "ml",
+          "measureDescription": "100ml"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "128928630",
+          "rewardValue": 1099,
+          "decal": "6000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 2198,
+            "unitQuantity": 100,
+            "unitQuantityUom": "ml",
+            "measureDescription": "100ml"
+          }
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Personal Care",
+          "level1": "Beauty & Grooming",
+          "level2": "Face & Lip Skin Care"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5249166-EA-000",
+      "brand": "Pams Superfoods",
+      "name": "Hemp Seed Protein",
+      "displayName": "200g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 749,
+        "comparativePrice": {
+          "pricePerUnit": 375,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020011",
+          "itemDescription": "Low Sugar"
+        },
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        },
+        {
+          "itemCode": "00020007",
+          "itemDescription": "Dairy Free"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Personal Care",
+          "level1": "Health & Wellness",
+          "level2": "Wellness & Sports Nutrition"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5015565-EA-000",
+      "brand": "Aveeno",
+      "name": "Daily Moisturising Body Wash",
+      "displayName": "354ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 1779,
+        "comparativePrice": {
+          "pricePerUnit": 503,
+          "unitQuantity": 100,
+          "unitQuantityUom": "ml",
+          "measureDescription": "100ml"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Personal Care",
+          "level1": "Beauty & Grooming",
+          "level2": "Hand & Body Care"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5014467-EA-000",
+      "brand": "L'Oreal Paris",
+      "name": "Revitalift Anti-Ageing Day Cream",
+      "displayName": "50ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 2669,
+        "promoId": "128929806",
+        "comparativePrice": {
+          "pricePerUnit": 5338,
+          "unitQuantity": 100,
+          "unitQuantityUom": "ml",
+          "measureDescription": "100ml"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "128929806",
+          "rewardValue": 2669,
+          "decal": "6000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 5338,
+            "unitQuantity": 100,
+            "unitQuantityUom": "ml",
+            "measureDescription": "100ml"
+          }
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Personal Care",
+          "level1": "Beauty & Grooming",
+          "level2": "Face & Lip Skin Care"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5216706-EA-000",
+      "brand": "Musashi",
+      "name": "Pre Workout Lemon Lime Flavour Energy & Performance Powder",
+      "displayName": "225g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 3499,
+        "promoId": "128943122",
+        "comparativePrice": {
+          "pricePerUnit": 1555,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "128943122",
+          "rewardValue": 3499,
+          "decal": "6000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 1555,
+            "unitQuantity": 100,
+            "unitQuantityUom": "g",
+            "measureDescription": "100g"
+          }
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Personal Care",
+          "level1": "Health & Wellness",
+          "level2": "Wellness & Sports Nutrition"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5207614-EA-000",
+      "brand": "Healtheries",
+      "name": "Probiotic 10 Billion One A Day Vege Capsules",
+      "displayName": "30pk",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 1549,
+        "promoId": "128943055",
+        "comparativePrice": {
+          "pricePerUnit": 52,
+          "unitQuantity": 1,
+          "unitQuantityUom": "ea",
+          "measureDescription": "ea"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "128943055",
+          "rewardValue": 1549,
+          "decal": "6000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 52,
+            "unitQuantity": 1,
+            "unitQuantityUom": "ea",
+            "measureDescription": "ea"
+          }
+        }
+      ],
+      "facets": [
+        {
+          "itemCode": "00020007",
+          "itemDescription": "Dairy Free"
+        },
+        {
+          "itemCode": "00020014",
+          "itemDescription": "Vegetarian"
+        },
+        {
+          "itemCode": "00020004",
+          "itemDescription": "Gluten Free"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Personal Care",
+          "level1": "Health & Wellness",
+          "level2": "Vitamins & Supplements"
+        }
+      ],
+      "cateredFlag": false
+    }
+  ],
+  "algoliaSearchResult": {
+    "facets": {
+      "brand": {
+        "Healtheries": 70,
+        "L'Oreal Paris": 65,
+        "Nivea": 64,
+        "Colgate": 62,
+        "Garnier": 46,
+        "Red Seal": 46,
+        "Glow Lab": 39,
+        "Musashi": 39,
+        "Dove": 35,
+        "Neutrogena": 34,
+        "Korbond": 33,
+        "North Head": 33,
+        "Ecostore": 32,
+        "Nivea Men": 31,
+        "Dettol": 29,
+        "Schick": 29,
+        "Head & Shoulders": 28,
+        "Gillette": 26,
+        "Oral-B": 25,
+        "Essano": 22,
+        "Pams": 22,
+        "Sunsilk": 20,
+        "Olay": 19,
+        "Carefree": 18,
+        "OGX": 18,
+        "Schwarzkopf Extra Care": 18,
+        "Sensodyne": 18,
+        "U By Kotex": 18,
+        "Palmolive": 17,
+        "Pantene Pro-V": 17,
+        "Listerine": 15,
+        "Tresemme": 15,
+        "Elastoplast": 14,
+        "Tena": 14,
+        "Libra": 13,
+        "Palmolive Naturals": 13,
+        "Poise": 13,
+        "Anihana": 12,
+        "Berocca": 12,
+        "Herbal Essences": 12,
+        "Lynx": 12,
+        "Nature's Way": 12,
+        "Rexona": 12,
+        "Pantene": 11,
+        "Veet": 11,
+        "Aveeno": 10,
+        "Durex": 10,
+        "Grin": 10,
+        "Rexona Men": 10,
+        "Value": 10,
+        "Vicks": 10,
+        "Atkins": 9,
+        "Gaviscon": 9,
+        "Nurofen": 9,
+        "Quest": 9,
+        "Centrum": 8,
+        "Gillette Venus": 8,
+        "Organic Care": 8,
+        "Strepsils": 8,
+        "Mouthfresh": 7,
+        "Napro": 7,
+        "Reach": 7,
+        "Schwarzkopf Live": 7,
+        "Vaseline": 7,
+        "Horleys": 6,
+        "Just For Men": 6,
+        "Lemsip": 6,
+        "Nourish": 6,
+        "Panadol": 6,
+        "Polident": 6,
+        "Protex": 6,
+        "Schwarzkopf Brilliance": 6,
+        "Simply Silk": 6,
+        "Stayfree": 6,
+        "Tom Organic": 6,
+        "Blistex": 5,
+        "Codral": 5,
+        "Dominate": 5,
+        "Essano Rosehip": 5,
+        "Marzena": 5,
+        "Mitchum": 5,
+        "Natures Way": 5,
+        "Radox": 5,
+        "Silk": 5,
+        "Skyn": 5,
+        "Tampax": 5,
+        "Zealea": 5,
+        "d3": 5,
+        "Banana Boat": 4,
+        "Barebells": 4,
+        "Batiste": 4,
+        "Bic": 4,
+        "Brut": 4,
+        "Cetaphil": 4,
+        "Cool Charm": 4,
+        "Depend": 4,
+        "Em's Power Cookies": 4,
+        "Ethics": 4,
+        "Femfresh": 4,
+        "Helena": 4
+      },
+      "category1NI": {
+        "Beauty & Grooming": 1180,
+        "Health & Wellness": 537,
+        "Pams": 11,
+        "Baby Care": 2,
+        "Biscuits & Crackers": 2,
+        "Snack Foods": 1
+      },
+      "onPromotion": {
+        "21ecaaed-0749-4492-985e-4bb7ba43d59c": 717,
+        "b92cc33f-b5a8-4b57-9b82-412946800020": 578,
+        "e1925ea7-01bc-4358-ae7c-c6502da5ab12": 572,
+        "3c5e3145-0767-4066-9349-6c0a1313acc5": 530,
+        "92086ded-a55d-4241-a364-7d7ea91531b4": 530,
+        "65defcf2-bc15-490e-a84f-1f13b769cd22": 526,
+        "c0f80e87-16be-4488-9553-da437e8c6c2a": 525,
+        "64eab5b1-8d79-45f4-94f1-02b8cf8b6202": 516,
+        "c180a72d-5dbe-4403-b7c7-91655e505492": 512,
+        "3404c253-577f-45ca-b301-c98312e46efb": 509,
+        "48dd98cc-a757-4102-b15d-ea82b4b10571": 508,
+        "8f0d70be-5cb7-464b-99cb-8b0130671895": 507,
+        "714431ab-6e39-4df6-ac77-cfc5c1e25bc8": 506,
+        "3bb30799-82ce-4648-8c02-5113228963ed": 500,
+        "33d8d6fc-861a-45ff-9937-5ccdb55eaede": 493,
+        "a7d09522-bee2-41e4-8fe0-0b82b7f342f5": 493,
+        "c3f9e1a3-fc34-452d-af2e-95349e666ba4": 489,
+        "b2e98a14-c8ca-401e-99ed-edf74570c6f6": 487,
+        "15e6f441-5c1c-4d25-b4ec-1adf918c49c7": 480,
+        "5f167936-79ae-4f6a-b9d2-74afe1bb096b": 478,
+        "49037947-e450-49bf-ba1f-a94551c79a72": 475,
+        "61dd754e-8525-4b9e-9e08-173389eea8a8": 473,
+        "53989945-1a28-481d-a61c-d6f75f760ada": 469,
+        "7d48a781-4f68-4c91-a908-8659e1b22f95": 468,
+        "01a114de-149c-4f5f-80a1-90cc63f69c6e": 463,
+        "5cf0392f-c187-4fc4-a463-eb269d2e8f45": 461,
+        "6cda96e1-7d29-44a6-956b-3fcfdecc8184": 460,
+        "90082979-fb9f-4305-9c72-83274fc438cc": 453,
+        "715f0e22-95e0-45ce-af3a-07057209976e": 452,
+        "c2204dae-579e-4b6b-9d42-2e13ceaa6031": 452,
+        "1c388d5e-29ac-4956-b476-cb3431353d2e": 450,
+        "b83029b6-5dd5-449e-8056-26f3943a4e18": 449,
+        "b39562a4-2b72-43fe-b9ba-eda1d651ad0b": 447,
+        "98ec3885-ac93-4fcb-807b-59c9055c52c4": 444,
+        "529d66cc-60e3-432e-b8d1-efc9f2ec4919": 442,
+        "6e6809dd-01bc-45c9-aab1-f01ccd8338b0": 442,
+        "2ed73be8-936d-4f35-9398-75a707f40a7b": 438,
+        "b29a98bd-749c-489c-9eef-6aa38e66a29b": 437,
+        "be4c4780-218e-425a-a90f-63e21773572b": 433,
+        "d6d39eea-889d-4e20-923c-55cab225cf7f": 433,
+        "9cd8eb60-3222-4efc-bd7c-50e03e6a81a4": 430,
+        "dbca5e00-f7f9-43ae-91de-031ad16f8a92": 428,
+        "d8032da3-c1b9-456e-b626-41ce21f8c67b": 424,
+        "3bfe040b-f0c9-45e0-949b-b9ad5a591d55": 423,
+        "4fcc1c8e-cc5e-4675-ba25-5e56b579cf69": 414,
+        "4a279605-eaa8-470d-bcd4-0a9e3c9ab43b": 411,
+        "af385423-d0f1-41f0-9482-ffd10b745143": 404,
+        "50b1216b-d066-4457-b88b-9bccf97bf6d3": 403,
+        "d1cd1fdd-8767-46a6-a8d3-c3e0632c2dc8": 401,
+        "8cd700ae-d96f-4761-bd7a-805d6b93536d": 398,
+        "94ef1985-cab1-4b39-a2f3-230120f03c16": 364,
+        "076e8177-943b-41fc-a885-ba3d28297acf": 360,
+        "6c73764e-b8e6-4e55-ad37-f6a9d207da1f": 351,
+        "60561e46-ece7-43a7-b142-9b14812586e4": 349,
+        "3e82142c-78dc-46f3-82ec-28e65fcf84c9": 295
+      },
+      "productFacets": {
+        "Non-GMO": 360,
+        "Gluten Free": 114,
+        "Vegan": 72,
+        "Low Sugar": 53,
+        "Organic": 30,
+        "Dairy Free": 17,
+        "Low Fat": 13,
+        "Keto": 7,
+        "Vegetarian": 7,
+        "Halal": 5
+      }
+    }
+  },
+  "totalHits": 1000,
+  "page": 18,
+  "totalPages": 20,
+  "hitsPerPage": 50
+}

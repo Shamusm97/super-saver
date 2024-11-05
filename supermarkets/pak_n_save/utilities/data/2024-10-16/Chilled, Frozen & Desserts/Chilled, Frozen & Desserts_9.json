@@ -1,0 +1,2538 @@
+{
+  "tobaccoProducts": false,
+  "products": [
+    {
+      "productId": "5034236-EA-000",
+      "brand": "Chicago",
+      "name": "Extra Thin Hickory Smokehouse Trio Pizza",
+      "displayName": "360g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 699,
+        "promoId": "128958308",
+        "comparativePrice": {
+          "pricePerUnit": 194,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "128958308",
+          "rewardValue": 699,
+          "decal": "6000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 194,
+            "unitQuantity": 100,
+            "unitQuantityUom": "g",
+            "measureDescription": "100g"
+          }
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Chilled, Frozen & Desserts",
+          "level1": "Frozen Foods",
+          "level2": "Frozen Pizza & Bases"
+        },
+        {
+          "level0": "Meal Spot",
+          "level1": "Ready to Heat",
+          "level2": "Frozen Pizza & Bases"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5022800-EA-000",
+      "brand": "Dairyworks",
+      "name": "Edam Natural Cheese & Crackers",
+      "displayName": "120g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 539,
+        "comparativePrice": {
+          "pricePerUnit": 449,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        },
+        {
+          "itemCode": "00020004",
+          "itemDescription": "Gluten Free"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Chilled, Frozen & Desserts",
+          "level1": "Cheese",
+          "level2": "Cheese Slices"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5015323-EA-000",
+      "brand": "Ornelle",
+      "name": "Double Cream Brie",
+      "displayName": "220g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 899,
+        "comparativePrice": {
+          "pricePerUnit": 409,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Chilled, Frozen & Desserts",
+          "level1": "Cheese",
+          "level2": "Deli Specialty Cheeses"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5238434-EA-000",
+      "brand": "Anchor",
+      "name": "A2 Lite Milk",
+      "displayName": "2l",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 690,
+        "comparativePrice": {
+          "pricePerUnit": 345,
+          "unitQuantity": 1,
+          "unitQuantityUom": "L",
+          "measureDescription": "1L"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Fresh Foods & Bakery",
+          "level1": "Dairy & Eggs",
+          "level2": "Fresh Milk"
+        },
+        {
+          "level0": "Chilled, Frozen & Desserts",
+          "level1": "Dairy & Eggs",
+          "level2": "Fresh Milk"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5025998-EA-000",
+      "brand": "Mainland",
+      "name": "Smooth & Mellow Mild Cheese",
+      "displayName": "1kg",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 1379,
+        "comparativePrice": {
+          "pricePerUnit": 138,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Chilled, Frozen & Desserts",
+          "level1": "Cheese",
+          "level2": "Cheese Blocks"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5010251-EA-000",
+      "brand": "Wattie's",
+      "name": "Creamy Vanilla Original Creamed Rice",
+      "displayName": "420g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 279,
+        "comparativePrice": {
+          "pricePerUnit": 66,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Chilled, Frozen & Desserts",
+          "level1": "Desserts",
+          "level2": "Canned Desserts"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5212775-EA-000",
+      "brand": "Anchor",
+      "name": "Protein+ Passionfruit Greek Style Yoghurt",
+      "displayName": "180g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 279,
+        "promoId": "128970912",
+        "comparativePrice": {
+          "pricePerUnit": 155,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "128970912",
+          "rewardValue": 279,
+          "decal": "7000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 155,
+            "unitQuantity": 100,
+            "unitQuantityUom": "g",
+            "measureDescription": "100g"
+          }
+        }
+      ],
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Fresh Foods & Bakery",
+          "level1": "Dairy & Eggs",
+          "level2": "Yoghurt & Dairy Food"
+        },
+        {
+          "level0": "Chilled, Frozen & Desserts",
+          "level1": "Dairy & Eggs",
+          "level2": "Yoghurt & Dairy Food"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5010252-EA-000",
+      "brand": "Flora",
+      "name": "Original Spread",
+      "displayName": "500g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 439,
+        "comparativePrice": {
+          "pricePerUnit": 88,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Fresh Foods & Bakery",
+          "level1": "Dairy & Eggs",
+          "level2": "Butter & Spreads"
+        },
+        {
+          "level0": "Chilled, Frozen & Desserts",
+          "level1": "Dairy & Eggs",
+          "level2": "Butter & Spreads"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5223555-EA-000",
+      "brand": "Meadow Fresh",
+      "name": "Kalo Manuka Honey Authentic Greek Yoghurt",
+      "displayName": "800g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 749,
+        "comparativePrice": {
+          "pricePerUnit": 94,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Fresh Foods & Bakery",
+          "level1": "Dairy & Eggs",
+          "level2": "Yoghurt & Dairy Food"
+        },
+        {
+          "level0": "Chilled, Frozen & Desserts",
+          "level1": "Dairy & Eggs",
+          "level2": "Yoghurt & Dairy Food"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5086559-EA-000",
+      "brand": "Puhoi Valley",
+      "name": "Caramel & White Chocolate Flavoured Milk",
+      "displayName": "750ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 689,
+        "comparativePrice": {
+          "pricePerUnit": 919,
+          "unitQuantity": 1,
+          "unitQuantityUom": "L",
+          "measureDescription": "1L"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Fresh Foods & Bakery",
+          "level1": "Dairy & Eggs",
+          "level2": "Flavoured Milk"
+        },
+        {
+          "level0": "Chilled, Frozen & Desserts",
+          "level1": "Dairy & Eggs",
+          "level2": "Flavoured Milk"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5087177-EA-000",
+      "brand": "Puhoi Valley",
+      "name": "Nelson Boysenberries Yoghurt",
+      "displayName": "450g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 579,
+        "comparativePrice": {
+          "pricePerUnit": 129,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Fresh Foods & Bakery",
+          "level1": "Dairy & Eggs",
+          "level2": "Yoghurt & Dairy Food"
+        },
+        {
+          "level0": "Chilled, Frozen & Desserts",
+          "level1": "Dairy & Eggs",
+          "level2": "Yoghurt & Dairy Food"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5223557-EA-000",
+      "brand": "Meadow Fresh",
+      "name": "Kalo Berries Authentic Greek Yoghurt",
+      "displayName": "800g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 749,
+        "comparativePrice": {
+          "pricePerUnit": 94,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Fresh Foods & Bakery",
+          "level1": "Dairy & Eggs",
+          "level2": "Yoghurt & Dairy Food"
+        },
+        {
+          "level0": "Chilled, Frozen & Desserts",
+          "level1": "Dairy & Eggs",
+          "level2": "Yoghurt & Dairy Food"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5024961-EA-000",
+      "brand": "Perfect Italiano",
+      "name": "Mozzarella Block",
+      "displayName": "500g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 1399,
+        "comparativePrice": {
+          "pricePerUnit": 280,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Chilled, Frozen & Desserts",
+          "level1": "Cheese",
+          "level2": "Specialty Cheeses"
+        },
+        {
+          "level0": "Chilled, Frozen & Desserts",
+          "level1": "Cheese",
+          "level2": "Cheese Blocks"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5004772-EA-000",
+      "brand": "Pams",
+      "name": "Vanilla Flavoured Creamed Rice",
+      "displayName": "420g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 179,
+        "comparativePrice": {
+          "pricePerUnit": 43,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        },
+        {
+          "itemCode": "00020009",
+          "itemDescription": "Low Fat"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Chilled, Frozen & Desserts",
+          "level1": "Desserts",
+          "level2": "Canned Desserts"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5017855-EA-000",
+      "brand": "Wattie's",
+      "name": "Baby Peas",
+      "displayName": "750g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": true,
+      "originStatement": "Product of New Zealand",
+      "singlePrice": {
+        "price": 499,
+        "comparativePrice": {
+          "pricePerUnit": 665,
+          "unitQuantity": 1,
+          "unitQuantityUom": "kg",
+          "measureDescription": "1kg"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Chilled, Frozen & Desserts",
+          "level1": "Frozen Foods",
+          "level2": "Frozen Vegetables"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5227983-EA-000",
+      "brand": "Primo",
+      "name": "Banana Blast Flavoured Milk",
+      "displayName": "1.5l",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 549,
+        "comparativePrice": {
+          "pricePerUnit": 366,
+          "unitQuantity": 1,
+          "unitQuantityUom": "L",
+          "measureDescription": "1L"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Fresh Foods & Bakery",
+          "level1": "Dairy & Eggs",
+          "level2": "Flavoured Milk"
+        },
+        {
+          "level0": "Chilled, Frozen & Desserts",
+          "level1": "Dairy & Eggs",
+          "level2": "Flavoured Milk"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5268693-EA-000",
+      "brand": "Pams",
+      "name": "Edam Natural Cheese Sticks",
+      "displayName": "500g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 1219,
+        "comparativePrice": {
+          "pricePerUnit": 244,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Chilled, Frozen & Desserts",
+          "level1": "Cheese",
+          "level2": "Cheese Slices"
+        },
+        {
+          "level0": "Featured",
+          "level1": "Pams",
+          "level2": "Cheese"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5013374-EA-000",
+      "brand": "Birds Eye Oven Bake",
+      "name": "Original Crumb 100% Wild Caught NZ Hoki Fillets",
+      "displayName": "425g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 699,
+        "promoId": "128929240",
+        "comparativePrice": {
+          "pricePerUnit": 1645,
+          "unitQuantity": 1,
+          "unitQuantityUom": "kg",
+          "measureDescription": "1kg"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "128929240",
+          "rewardValue": 699,
+          "decal": "6000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 1645,
+            "unitQuantity": 1,
+            "unitQuantityUom": "kg",
+            "measureDescription": "1kg"
+          }
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Chilled, Frozen & Desserts",
+          "level1": "Frozen Foods",
+          "level2": "Frozen Fish"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5014607-EA-000",
+      "brand": "Meadow Fresh",
+      "name": "Calci Strong Super Strawberry Flavoured Milk",
+      "displayName": "250ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 119,
+        "comparativePrice": {
+          "pricePerUnit": 476,
+          "unitQuantity": 1,
+          "unitQuantityUom": "L",
+          "measureDescription": "1L"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Fresh Foods & Bakery",
+          "level1": "Dairy & Eggs",
+          "level2": "Long Life Milk & Milk Powder"
+        },
+        {
+          "level0": "Chilled, Frozen & Desserts",
+          "level1": "Dairy & Eggs",
+          "level2": "Long Life Milk & Milk Powder"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5035259-EA-000",
+      "brand": "Lewis Road Creamery",
+      "name": "Premium Double Cream",
+      "displayName": "300ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 439,
+        "comparativePrice": {
+          "pricePerUnit": 1463,
+          "unitQuantity": 1,
+          "unitQuantityUom": "L",
+          "measureDescription": "1L"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Fresh Foods & Bakery",
+          "level1": "Dairy & Eggs",
+          "level2": "Fresh Cream"
+        },
+        {
+          "level0": "Chilled, Frozen & Desserts",
+          "level1": "Dairy & Eggs",
+          "level2": "Fresh Cream"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5212419-EA-000",
+      "brand": "Leader",
+      "name": "Jalepeno Cheese Bites",
+      "displayName": "500g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 749,
+        "promoId": "128958281",
+        "comparativePrice": {
+          "pricePerUnit": 150,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "128958281",
+          "rewardValue": 749,
+          "decal": "6000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 150,
+            "unitQuantity": 100,
+            "unitQuantityUom": "g",
+            "measureDescription": "100g"
+          }
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Chilled, Frozen & Desserts",
+          "level1": "Frozen Foods",
+          "level2": "Frozen Vegetarian"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5014955-EA-000",
+      "brand": "Vitasoy",
+      "name": "Lite Soy Milky",
+      "displayName": "1l",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 379,
+        "comparativePrice": {
+          "pricePerUnit": 379,
+          "unitQuantity": 1,
+          "unitQuantityUom": "L",
+          "measureDescription": "1L"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020009",
+          "itemDescription": "Low Fat"
+        },
+        {
+          "itemCode": "00020013",
+          "itemDescription": "Vegan"
+        },
+        {
+          "itemCode": "00020014",
+          "itemDescription": "Vegetarian"
+        },
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        },
+        {
+          "itemCode": "00020011",
+          "itemDescription": "Low Sugar"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Fresh Foods & Bakery",
+          "level1": "Dairy & Eggs",
+          "level2": "Dairy & Lactose Free"
+        },
+        {
+          "level0": "Chilled, Frozen & Desserts",
+          "level1": "Dairy & Eggs",
+          "level2": "Dairy & Lactose Free"
+        },
+        {
+          "level0": "Drinks",
+          "level1": "Cold Drinks",
+          "level2": "Non Dairy Milks"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5227986-EA-000",
+      "brand": "Primo",
+      "name": "Smoooooth Strawberry Flavoured Milk",
+      "displayName": "1.5l",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 549,
+        "comparativePrice": {
+          "pricePerUnit": 366,
+          "unitQuantity": 1,
+          "unitQuantityUom": "L",
+          "measureDescription": "1L"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Fresh Foods & Bakery",
+          "level1": "Dairy & Eggs",
+          "level2": "Flavoured Milk"
+        },
+        {
+          "level0": "Chilled, Frozen & Desserts",
+          "level1": "Dairy & Eggs",
+          "level2": "Flavoured Milk"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5042122-EA-000",
+      "brand": "Gopala",
+      "name": "Pure Ghee",
+      "displayName": "750ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 1599,
+        "promoId": "129030379",
+        "comparativePrice": {
+          "pricePerUnit": 213,
+          "unitQuantity": 100,
+          "unitQuantityUom": "ml",
+          "measureDescription": "100ml"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "129030379",
+          "rewardValue": 1599,
+          "decal": "6000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 213,
+            "unitQuantity": 100,
+            "unitQuantityUom": "ml",
+            "measureDescription": "100ml"
+          }
+        }
+      ],
+      "facets": [
+        {
+          "itemCode": "00020014",
+          "itemDescription": "Vegetarian"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Fresh Foods & Bakery",
+          "level1": "Dairy & Eggs",
+          "level2": "Butter & Spreads"
+        },
+        {
+          "level0": "Chilled, Frozen & Desserts",
+          "level1": "Dairy & Eggs",
+          "level2": "Butter & Spreads"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5027011-EA-000",
+      "brand": "Mainland",
+      "name": "Noble Tasty Light Aged Cheddar Cheese",
+      "displayName": "500g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 1199,
+        "comparativePrice": {
+          "pricePerUnit": 240,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        },
+        {
+          "itemCode": "00020014",
+          "itemDescription": "Vegetarian"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Chilled, Frozen & Desserts",
+          "level1": "Cheese",
+          "level2": "Cheese Blocks"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5008267-EA-000",
+      "brand": "Pams",
+      "name": "Lime Flavoured Jelly Cups",
+      "displayName": "4 x 125g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 239,
+        "comparativePrice": {
+          "pricePerUnit": 48,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020014",
+          "itemDescription": "Vegetarian"
+        },
+        {
+          "itemCode": "00020007",
+          "itemDescription": "Dairy Free"
+        },
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Chilled, Frozen & Desserts",
+          "level1": "Desserts",
+          "level2": "Jelly & Powdered Desserts"
+        },
+        {
+          "level0": "Featured",
+          "level1": "Pams",
+          "level2": "Desserts"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5013778-EA-000",
+      "brand": "Sanitarium So Good",
+      "name": "Vanilla Flavoured Soy Milk",
+      "displayName": "1l",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 349,
+        "comparativePrice": {
+          "pricePerUnit": 349,
+          "unitQuantity": 1,
+          "unitQuantityUom": "L",
+          "measureDescription": "1L"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020007",
+          "itemDescription": "Dairy Free"
+        },
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        },
+        {
+          "itemCode": "00020004",
+          "itemDescription": "Gluten Free"
+        },
+        {
+          "itemCode": "00020009",
+          "itemDescription": "Low Fat"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Fresh Foods & Bakery",
+          "level1": "Dairy & Eggs",
+          "level2": "Dairy & Lactose Free"
+        },
+        {
+          "level0": "Chilled, Frozen & Desserts",
+          "level1": "Dairy & Eggs",
+          "level2": "Dairy & Lactose Free"
+        },
+        {
+          "level0": "Drinks",
+          "level1": "Cold Drinks",
+          "level2": "Non Dairy Milks"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5010428-EA-000",
+      "brand": "Tatua",
+      "name": "Chocolate Mousse",
+      "displayName": "250g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 519,
+        "comparativePrice": {
+          "pricePerUnit": 208,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Fresh Foods & Bakery",
+          "level1": "Dairy & Eggs",
+          "level2": "Fresh Cream"
+        },
+        {
+          "level0": "Chilled, Frozen & Desserts",
+          "level1": "Dairy & Eggs",
+          "level2": "Fresh Cream"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5008137-EA-000",
+      "brand": "Fruzio",
+      "name": "Premium Spinach",
+      "displayName": "1kg",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": true,
+      "originStatement": "Product of China",
+      "singlePrice": {
+        "price": 599,
+        "comparativePrice": {
+          "pricePerUnit": 599,
+          "unitQuantity": 1,
+          "unitQuantityUom": "kg",
+          "measureDescription": "1kg"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Chilled, Frozen & Desserts",
+          "level1": "Frozen Foods",
+          "level2": "Frozen Vegetables"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5015861-EA-000",
+      "brand": "Puhoi Valley",
+      "name": "Greek Style Yoghurt",
+      "displayName": "450g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 579,
+        "comparativePrice": {
+          "pricePerUnit": 129,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Fresh Foods & Bakery",
+          "level1": "Dairy & Eggs",
+          "level2": "Yoghurt & Dairy Food"
+        },
+        {
+          "level0": "Chilled, Frozen & Desserts",
+          "level1": "Dairy & Eggs",
+          "level2": "Yoghurt & Dairy Food"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5027124-EA-000",
+      "brand": "Meadow Fresh",
+      "name": "Calci Strong Super Strawberry Fresh Flavoured Milk",
+      "displayName": "2l",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 649,
+        "comparativePrice": {
+          "pricePerUnit": 325,
+          "unitQuantity": 1,
+          "unitQuantityUom": "L",
+          "measureDescription": "1L"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Fresh Foods & Bakery",
+          "level1": "Dairy & Eggs",
+          "level2": "Flavoured Milk"
+        },
+        {
+          "level0": "Chilled, Frozen & Desserts",
+          "level1": "Dairy & Eggs",
+          "level2": "Flavoured Milk"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5002654-EA-000",
+      "brand": "Mainland",
+      "name": "Semi-Soft Butter",
+      "displayName": "250g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 699,
+        "comparativePrice": {
+          "pricePerUnit": 280,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Fresh Foods & Bakery",
+          "level1": "Dairy & Eggs",
+          "level2": "Butter & Spreads"
+        },
+        {
+          "level0": "Chilled, Frozen & Desserts",
+          "level1": "Dairy & Eggs",
+          "level2": "Butter & Spreads"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5003359-EA-000",
+      "brand": "Talley's",
+      "name": "Mixed Vegetables",
+      "displayName": "1kg",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 529,
+        "comparativePrice": {
+          "pricePerUnit": 529,
+          "unitQuantity": 1,
+          "unitQuantityUom": "kg",
+          "measureDescription": "1kg"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020004",
+          "itemDescription": "Gluten Free"
+        },
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Chilled, Frozen & Desserts",
+          "level1": "Frozen Foods",
+          "level2": "Frozen Vegetables"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5080775-EA-000",
+      "brand": "Puhoi Valley",
+      "name": "Real Chocolate Flavoured Milk",
+      "displayName": "300ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 349,
+        "comparativePrice": {
+          "pricePerUnit": 1163,
+          "unitQuantity": 1,
+          "unitQuantityUom": "L",
+          "measureDescription": "1L"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Fresh Foods & Bakery",
+          "level1": "Dairy & Eggs",
+          "level2": "Flavoured Milk"
+        },
+        {
+          "level0": "Chilled, Frozen & Desserts",
+          "level1": "Dairy & Eggs",
+          "level2": "Flavoured Milk"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5237892-EA-000",
+      "brand": "Ornelle",
+      "name": "Parmesan Cheese",
+      "displayName": "200g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 849,
+        "comparativePrice": {
+          "pricePerUnit": 425,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Chilled, Frozen & Desserts",
+          "level1": "Cheese",
+          "level2": "Specialty Cheeses"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5203553-EA-000",
+      "brand": "Moondarra Cheese",
+      "name": "Apricot & Almond Cream Cheese",
+      "displayName": "200g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 749,
+        "promoId": "128991914",
+        "comparativePrice": {
+          "pricePerUnit": 375,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "128991914",
+          "rewardValue": 749,
+          "decal": "6000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 375,
+            "unitQuantity": 100,
+            "unitQuantityUom": "g",
+            "measureDescription": "100g"
+          }
+        }
+      ],
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Chilled, Frozen & Desserts",
+          "level1": "Cheese",
+          "level2": "Deli Specialty Cheeses"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5010235-EA-000",
+      "brand": "Gregg's",
+      "name": "Lemon Flavoured Jelly Crystals",
+      "displayName": "85g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 139,
+        "comparativePrice": {
+          "pricePerUnit": 164,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Chilled, Frozen & Desserts",
+          "level1": "Desserts",
+          "level2": "Jelly & Powdered Desserts"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5007549-EA-000",
+      "brand": "Perfect Italiano",
+      "name": "Ricotta Cheese",
+      "displayName": "500g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 949,
+        "comparativePrice": {
+          "pricePerUnit": 190,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        },
+        {
+          "itemCode": "00020002",
+          "itemDescription": "Halal"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Chilled, Frozen & Desserts",
+          "level1": "Cheese",
+          "level2": "Specialty Cheeses"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5039317-EA-000",
+      "brand": "Dad's Pies",
+      "name": "Mince & Cheese Pie",
+      "displayName": "200g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 429,
+        "comparativePrice": {
+          "pricePerUnit": 215,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Chilled, Frozen & Desserts",
+          "level1": "Frozen Foods",
+          "level2": "Frozen Pies"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5239511-EA-000",
+      "brand": "Pams",
+      "name": "Cheddar Cheese Wedges",
+      "displayName": "120g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 299,
+        "promoId": "128902090",
+        "comparativePrice": {
+          "pricePerUnit": 249,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "128902090",
+          "rewardValue": 299,
+          "decal": "6000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 249,
+            "unitQuantity": 100,
+            "unitQuantityUom": "g",
+            "measureDescription": "100g"
+          }
+        }
+      ],
+      "facets": [
+        {
+          "itemCode": "00020002",
+          "itemDescription": "Halal"
+        },
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Chilled, Frozen & Desserts",
+          "level1": "Cheese",
+          "level2": "Cheese Slices"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5287749-EA-000",
+      "brand": "Fresh 'n Fruity",
+      "name": "Indulge Creamy Vanilla Bean Gourmet Layered Yoghurt",
+      "displayName": "500g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 469,
+        "promoId": "128865981",
+        "comparativePrice": {
+          "pricePerUnit": 94,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "128865981",
+          "rewardValue": 469,
+          "decal": "7000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 94,
+            "unitQuantity": 100,
+            "unitQuantityUom": "g",
+            "measureDescription": "100g"
+          }
+        }
+      ],
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Fresh Foods & Bakery",
+          "level1": "Dairy & Eggs",
+          "level2": "Yoghurt & Dairy Food"
+        },
+        {
+          "level0": "Chilled, Frozen & Desserts",
+          "level1": "Dairy & Eggs",
+          "level2": "Yoghurt & Dairy Food"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5004417-EA-000",
+      "brand": "Mainland",
+      "name": "Special Reserve Double Cream Camembert Cheese",
+      "displayName": "125g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 549,
+        "promoId": "128929311",
+        "comparativePrice": {
+          "pricePerUnit": 439,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "128929311",
+          "rewardValue": 549,
+          "decal": "6000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 439,
+            "unitQuantity": 100,
+            "unitQuantityUom": "g",
+            "measureDescription": "100g"
+          }
+        }
+      ],
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Chilled, Frozen & Desserts",
+          "level1": "Cheese",
+          "level2": "Specialty Cheeses"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5235674-EA-000",
+      "brand": "Dairyworks",
+      "name": "Tasty Natural Cheese & Rice Crackers",
+      "displayName": "120g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 539,
+        "comparativePrice": {
+          "pricePerUnit": 449,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Chilled, Frozen & Desserts",
+          "level1": "Cheese",
+          "level2": "Cheese Slices"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5014504-EA-000",
+      "brand": "Chicago",
+      "name": "Gourmet BBQ Chicken & Bacon Pizza",
+      "displayName": "640g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 699,
+        "promoId": "128958308",
+        "comparativePrice": {
+          "pricePerUnit": 109,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "128958308",
+          "rewardValue": 699,
+          "decal": "6000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 109,
+            "unitQuantity": 100,
+            "unitQuantityUom": "g",
+            "measureDescription": "100g"
+          }
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Chilled, Frozen & Desserts",
+          "level1": "Frozen Foods",
+          "level2": "Frozen Pizza & Bases"
+        },
+        {
+          "level0": "Meal Spot",
+          "level1": "Ready to Heat",
+          "level2": "Frozen Pizza & Bases"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5003736-EA-000",
+      "brand": "Pams",
+      "name": "Vanilla Flavoured Custard Powder",
+      "displayName": "300g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 299,
+        "comparativePrice": {
+          "pricePerUnit": 100,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Chilled, Frozen & Desserts",
+          "level1": "Desserts",
+          "level2": "Jelly & Powdered Desserts"
+        },
+        {
+          "level0": "Featured",
+          "level1": "Pams",
+          "level2": "Desserts"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5006058-EA-000",
+      "brand": "Pams",
+      "name": "Reduced Fat Flaky Puff Pastry Sheets",
+      "displayName": "750g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 529,
+        "comparativePrice": {
+          "pricePerUnit": 71,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Chilled, Frozen & Desserts",
+          "level1": "Frozen Foods",
+          "level2": "Frozen Pastry"
+        },
+        {
+          "level0": "Featured",
+          "level1": "Pams",
+          "level2": "Frozen Foods"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5032051-EA-000",
+      "brand": "Sanitarium So Good",
+      "name": "Unsweetened Almond Coconut Milk",
+      "displayName": "1l",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 399,
+        "comparativePrice": {
+          "pricePerUnit": 399,
+          "unitQuantity": 1,
+          "unitQuantityUom": "L",
+          "measureDescription": "1L"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020004",
+          "itemDescription": "Gluten Free"
+        },
+        {
+          "itemCode": "00020007",
+          "itemDescription": "Dairy Free"
+        },
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Fresh Foods & Bakery",
+          "level1": "Dairy & Eggs",
+          "level2": "Dairy & Lactose Free"
+        },
+        {
+          "level0": "Chilled, Frozen & Desserts",
+          "level1": "Dairy & Eggs",
+          "level2": "Dairy & Lactose Free"
+        },
+        {
+          "level0": "Drinks",
+          "level1": "Cold Drinks",
+          "level2": "Non Dairy Milks"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5001681-EA-000",
+      "brand": "Vitasoy",
+      "name": "Calci-Plus Soy Milk",
+      "displayName": "1l",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 419,
+        "comparativePrice": {
+          "pricePerUnit": 419,
+          "unitQuantity": 1,
+          "unitQuantityUom": "L",
+          "measureDescription": "1L"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020007",
+          "itemDescription": "Dairy Free"
+        },
+        {
+          "itemCode": "00020013",
+          "itemDescription": "Vegan"
+        },
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        },
+        {
+          "itemCode": "00020014",
+          "itemDescription": "Vegetarian"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Fresh Foods & Bakery",
+          "level1": "Dairy & Eggs",
+          "level2": "Dairy & Lactose Free"
+        },
+        {
+          "level0": "Chilled, Frozen & Desserts",
+          "level1": "Dairy & Eggs",
+          "level2": "Dairy & Lactose Free"
+        },
+        {
+          "level0": "Drinks",
+          "level1": "Cold Drinks",
+          "level2": "Non Dairy Milks"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5014610-EA-000",
+      "brand": "Meadow Fresh",
+      "name": "Calci Strong Super Strawberry Flavoured Milk",
+      "displayName": "6 x 250ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 659,
+        "comparativePrice": {
+          "pricePerUnit": 439,
+          "unitQuantity": 1,
+          "unitQuantityUom": "L",
+          "measureDescription": "1L"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Fresh Foods & Bakery",
+          "level1": "Dairy & Eggs",
+          "level2": "Flavoured Milk"
+        },
+        {
+          "level0": "Chilled, Frozen & Desserts",
+          "level1": "Dairy & Eggs",
+          "level2": "Flavoured Milk"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5235406-EA-000",
+      "brand": "Yolo",
+      "name": "Halloumi Cheese",
+      "displayName": "200g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 629,
+        "comparativePrice": {
+          "pricePerUnit": 315,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Chilled, Frozen & Desserts",
+          "level1": "Cheese",
+          "level2": "Deli Specialty Cheeses"
+        }
+      ],
+      "cateredFlag": false
+    }
+  ],
+  "algoliaSearchResult": {
+    "facets": {
+      "brand": {
+        "Pams": 108,
+        "Anchor": 63,
+        "Tip Top": 49,
+        "Meadow Fresh": 46,
+        "Mainland": 45,
+        "Kapiti": 38,
+        "The Collective": 35,
+        "Fresh 'n Fruity": 29,
+        "Puhoi Valley": 26,
+        "Lewis Road Creamery": 25,
+        "McCain": 25,
+        "Magnum": 22,
+        "Wattie's": 22,
+        "Tegel": 21,
+        "Food Snob": 19,
+        "Whitestone Cheese Co": 19,
+        "Farmer Brown": 18,
+        "Aunt Betty's": 17,
+        "Leader": 17,
+        "Much Moore": 17,
+        "Yoplait": 16,
+        "Castello": 14,
+        "Dairyworks": 14,
+        "Birds Eye": 13,
+        "Emborg": 13,
+        "Streets": 13,
+        "Fruzio": 12,
+        "Shore Mariner": 12,
+        "Ben & Jerry's": 11,
+        "Fisherking": 11,
+        "Hansells": 11,
+        "Rolling Meadow": 11,
+        "Gopala": 10,
+        "Gregg's": 10,
+        "Hutchinsons": 10,
+        "Sealord": 10,
+        "Vitasoy": 10,
+        "Easiyo": 9,
+        "Moogurt": 9,
+        "Pams Value": 9,
+        "Raglan Coconut Yoghurt": 9,
+        "Angel Bay": 8,
+        "De Gustibus": 8,
+        "Flora": 8,
+        "KungFood": 8,
+        "Little Island Coconut Creamery": 8,
+        "Talbot Forest": 8,
+        "Leanne's Kitchen": 7,
+        "Moondarra Cheese": 7,
+        "Nudairy's": 7,
+        "Philadelphia": 7,
+        "Primo": 7,
+        "Quorn": 7,
+        "Woodland": 7,
+        "Barrys Bay": 6,
+        "Cadbury": 6,
+        "Chesdale": 6,
+        "Goodness Kitchen": 6,
+        "Ingham's": 6,
+        "Massimo's": 6,
+        "Meyer": 6,
+        "Mr Chips": 6,
+        "Olivani": 6,
+        "On The Menu": 6,
+        "Ornelle": 6,
+        "Perfect Italiano": 6,
+        "Sara Lee": 6,
+        "Tatua": 6,
+        "Waimata": 6,
+        "Zenzo": 6,
+        "Alpro": 5,
+        "Birds Eye Oven Bake": 5,
+        "Boss": 5,
+        "Bouton d'Or": 5,
+        "Chicago": 5,
+        "Henergy": 5,
+        "Juicy": 5,
+        "Kingfisher Seafood": 5,
+        "Oxford Pies": 5,
+        "Pams Plant Based": 5,
+        "Sanitarium So Good": 5,
+        "Tasman Bay": 5,
+        "The Cuisine Canteen": 5,
+        "Tip Top Crave": 5,
+        "Waitoa": 5,
+        "Yolo": 5,
+        "Angel Food": 4,
+        "Better Eggs": 4,
+        "Cartel Food Co": 4,
+        "Cathedral Cove Naturals": 4,
+        "Coombe Castle": 4,
+        "Duck Island": 4,
+        "Frozen Harvest": 4,
+        "Galaxy": 4,
+        "Lets Eat": 4,
+        "Mammoth Supply Co.": 4,
+        "Meadowlea": 4,
+        "Nanna's": 4,
+        "Nippy's": 4,
+        "Nishin": 4
+      },
+      "category1NI": {
+        "Dairy & Eggs": 462,
+        "Frozen Foods": 378,
+        "Cheese": 328,
+        "Desserts": 273,
+        "Pams": 80,
+        "Ready to Heat": 43,
+        "Cold Drinks": 27,
+        "Bakery": 1,
+        "Butchery": 1,
+        "Canned & Prepared Foods": 1,
+        "Household": 1
+      },
+      "onPromotion": {
+        "c3f9e1a3-fc34-452d-af2e-95349e666ba4": 412,
+        "5cf0392f-c187-4fc4-a463-eb269d2e8f45": 392,
+        "be4c4780-218e-425a-a90f-63e21773572b": 382,
+        "90082979-fb9f-4305-9c72-83274fc438cc": 380,
+        "8cd700ae-d96f-4761-bd7a-805d6b93536d": 378,
+        "61dd754e-8525-4b9e-9e08-173389eea8a8": 376,
+        "2ed73be8-936d-4f35-9398-75a707f40a7b": 373,
+        "dbca5e00-f7f9-43ae-91de-031ad16f8a92": 373,
+        "d8032da3-c1b9-456e-b626-41ce21f8c67b": 371,
+        "4a279605-eaa8-470d-bcd4-0a9e3c9ab43b": 362,
+        "b29a98bd-749c-489c-9eef-6aa38e66a29b": 361,
+        "715f0e22-95e0-45ce-af3a-07057209976e": 350,
+        "92086ded-a55d-4241-a364-7d7ea91531b4": 341,
+        "21ecaaed-0749-4492-985e-4bb7ba43d59c": 328,
+        "33d8d6fc-861a-45ff-9937-5ccdb55eaede": 324,
+        "64eab5b1-8d79-45f4-94f1-02b8cf8b6202": 302,
+        "3c5e3145-0767-4066-9349-6c0a1313acc5": 297,
+        "65defcf2-bc15-490e-a84f-1f13b769cd22": 295,
+        "3bb30799-82ce-4648-8c02-5113228963ed": 284,
+        "53989945-1a28-481d-a61c-d6f75f760ada": 284,
+        "e1925ea7-01bc-4358-ae7c-c6502da5ab12": 280,
+        "6e6809dd-01bc-45c9-aab1-f01ccd8338b0": 278,
+        "15e6f441-5c1c-4d25-b4ec-1adf918c49c7": 277,
+        "49037947-e450-49bf-ba1f-a94551c79a72": 276,
+        "c0f80e87-16be-4488-9553-da437e8c6c2a": 275,
+        "c180a72d-5dbe-4403-b7c7-91655e505492": 275,
+        "98ec3885-ac93-4fcb-807b-59c9055c52c4": 273,
+        "b92cc33f-b5a8-4b57-9b82-412946800020": 270,
+        "3404c253-577f-45ca-b301-c98312e46efb": 269,
+        "3bfe040b-f0c9-45e0-949b-b9ad5a591d55": 269,
+        "4fcc1c8e-cc5e-4675-ba25-5e56b579cf69": 269,
+        "01a114de-149c-4f5f-80a1-90cc63f69c6e": 267,
+        "6cda96e1-7d29-44a6-956b-3fcfdecc8184": 267,
+        "48dd98cc-a757-4102-b15d-ea82b4b10571": 266,
+        "5f167936-79ae-4f6a-b9d2-74afe1bb096b": 261,
+        "1c388d5e-29ac-4956-b476-cb3431353d2e": 259,
+        "8f0d70be-5cb7-464b-99cb-8b0130671895": 259,
+        "a7d09522-bee2-41e4-8fe0-0b82b7f342f5": 259,
+        "d1cd1fdd-8767-46a6-a8d3-c3e0632c2dc8": 258,
+        "9cd8eb60-3222-4efc-bd7c-50e03e6a81a4": 254,
+        "c2204dae-579e-4b6b-9d42-2e13ceaa6031": 254,
+        "b83029b6-5dd5-449e-8056-26f3943a4e18": 253,
+        "60561e46-ece7-43a7-b142-9b14812586e4": 250,
+        "7d48a781-4f68-4c91-a908-8659e1b22f95": 249,
+        "076e8177-943b-41fc-a885-ba3d28297acf": 248,
+        "6c73764e-b8e6-4e55-ad37-f6a9d207da1f": 248,
+        "714431ab-6e39-4df6-ac77-cfc5c1e25bc8": 248,
+        "529d66cc-60e3-432e-b8d1-efc9f2ec4919": 247,
+        "b39562a4-2b72-43fe-b9ba-eda1d651ad0b": 245,
+        "b2e98a14-c8ca-401e-99ed-edf74570c6f6": 242,
+        "d6d39eea-889d-4e20-923c-55cab225cf7f": 238,
+        "50b1216b-d066-4457-b88b-9bccf97bf6d3": 237,
+        "af385423-d0f1-41f0-9482-ffd10b745143": 237,
+        "3e82142c-78dc-46f3-82ec-28e65fcf84c9": 215,
+        "94ef1985-cab1-4b39-a2f3-230120f03c16": 192
+      },
+      "productFacets": {
+        "Non-GMO": 878,
+        "Gluten Free": 219,
+        "Vegetarian": 162,
+        "Low Fat": 108,
+        "Dairy Free": 107,
+        "Vegan": 70,
+        "Halal": 61,
+        "Free Range": 47,
+        "Cage Free": 39,
+        "Organic": 34,
+        "Low Sugar": 22,
+        "Keto": 4,
+        "Low Salt": 2
+      }
+    }
+  },
+  "totalHits": 1000,
+  "page": 9,
+  "totalPages": 20,
+  "hitsPerPage": 50
+}

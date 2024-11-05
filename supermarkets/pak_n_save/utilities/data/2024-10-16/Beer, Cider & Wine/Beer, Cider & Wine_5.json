@@ -1,0 +1,1904 @@
+{
+  "tobaccoProducts": false,
+  "products": [
+    {
+      "productId": "5033725-EA-000",
+      "brand": "Orchard Thieves",
+      "name": "Peach & Passionfruit Cider",
+      "displayName": "500ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": true,
+      "liquorFlag": true,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 699
+      },
+      "facets": [
+        {
+          "itemCode": "00020004",
+          "itemDescription": "Gluten Free"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Beer, Cider & Wine",
+          "level1": "Beer & Cider",
+          "level2": "Fruit & Flavoured Cider"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5027228-EA-000",
+      "brand": "Toi Toi",
+      "name": "Merlot",
+      "displayName": "750ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": true,
+      "liquorFlag": true,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 1799
+      },
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Beer, Cider & Wine",
+          "level1": "Wine",
+          "level2": "Merlot"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5000869-EA-000",
+      "brand": "Sol",
+      "name": "NRB",
+      "displayName": "12 x 330ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": true,
+      "liquorFlag": true,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 2449
+      },
+      "categoryTrees": [
+        {
+          "level0": "Beer, Cider & Wine",
+          "level1": "Beer & Cider",
+          "level2": "Lager"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5004822-EA-000",
+      "brand": "Tohu",
+      "name": "Awatere Valley Pinot Gris",
+      "displayName": "750ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": true,
+      "liquorFlag": true,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 1449,
+        "promoId": "128959844"
+      },
+      "promotions": [
+        {
+          "promoId": "128959844",
+          "rewardValue": 1449,
+          "decal": "6000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Beer, Cider & Wine",
+          "level1": "Wine",
+          "level2": "Pinot Gris"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5080884-EA-000",
+      "brand": "Squealing Pig",
+      "name": "Rose",
+      "displayName": "750ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": true,
+      "liquorFlag": true,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 2099
+      },
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Beer, Cider & Wine",
+          "level1": "Wine",
+          "level2": "Rose"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5000650-EA-000",
+      "brand": "Veuve Du Vernay",
+      "name": "Brut",
+      "displayName": "750ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": true,
+      "liquorFlag": true,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 1899
+      },
+      "categoryTrees": [
+        {
+          "level0": "Beer, Cider & Wine",
+          "level1": "Wine",
+          "level2": "Champagne & Sparkling Wine"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5000945-EA-000",
+      "brand": "Seifried",
+      "name": "Sauvignon Blanc",
+      "displayName": "750ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": true,
+      "liquorFlag": true,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 1899
+      },
+      "categoryTrees": [
+        {
+          "level0": "Beer, Cider & Wine",
+          "level1": "Wine",
+          "level2": "Sauvignon Blanc"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5007923-EA-000",
+      "brand": "Rabbit Island",
+      "name": "Sauvignon Blanc",
+      "displayName": "750ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": true,
+      "liquorFlag": true,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 1299
+      },
+      "categoryTrees": [
+        {
+          "level0": "Beer, Cider & Wine",
+          "level1": "Wine",
+          "level2": "Sauvignon Blanc"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5000448-EA-000",
+      "brand": "Wolf Blass",
+      "name": "Yellow Label Merlot",
+      "displayName": "750ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": true,
+      "liquorFlag": true,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 1249,
+        "promoId": "128934898"
+      },
+      "promotions": [
+        {
+          "promoId": "128934898",
+          "rewardValue": 1249,
+          "decal": "6000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true
+        }
+      ],
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Beer, Cider & Wine",
+          "level1": "Wine",
+          "level2": "Merlot"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5000074-EA-000",
+      "brand": "Penfolds",
+      "name": "Rawsons Retreat Cabernet Sauvignon",
+      "displayName": "750ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": true,
+      "liquorFlag": true,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 1049,
+        "promoId": "128934895"
+      },
+      "promotions": [
+        {
+          "promoId": "128934895",
+          "rewardValue": 1049,
+          "decal": "6000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true
+        }
+      ],
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Beer, Cider & Wine",
+          "level1": "Wine",
+          "level2": "Cabernet"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5000569-EA-000",
+      "brand": "Tui",
+      "name": "East India Pale Ale Bottles",
+      "displayName": "12 x 330ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": true,
+      "liquorFlag": true,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 2199,
+        "promoId": "129026414"
+      },
+      "promotions": [
+        {
+          "promoId": "129026414",
+          "rewardValue": 2199,
+          "decal": "7000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true
+        }
+      ],
+      "facets": [
+        {
+          "itemCode": "00020011",
+          "itemDescription": "Low Sugar"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Beer, Cider & Wine",
+          "level1": "Beer & Cider",
+          "level2": "IPA"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5033679-EA-000",
+      "brand": "Speight's",
+      "name": "Mid Strength Ale Beer Bottles",
+      "displayName": "12 x 330ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": true,
+      "liquorFlag": true,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 2199
+      },
+      "facets": [
+        {
+          "itemCode": "00020011",
+          "itemDescription": "Low Sugar"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Beer, Cider & Wine",
+          "level1": "Beer & Cider",
+          "level2": "Pale Ale"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5000218-EA-000",
+      "brand": "Pepperjack",
+      "name": "Barossa Shiraz",
+      "displayName": "750ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": true,
+      "liquorFlag": true,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 2149,
+        "promoId": "128934839"
+      },
+      "promotions": [
+        {
+          "promoId": "128934839",
+          "rewardValue": 2149,
+          "decal": "6000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true
+        }
+      ],
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Beer, Cider & Wine",
+          "level1": "Wine",
+          "level2": "Shiraz"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5259218-EA-000",
+      "brand": "Bavaria",
+      "name": "0.0% IPA Bottles",
+      "displayName": "6 x 330ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": true,
+      "liquorFlag": true,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 1079,
+        "promoId": "128922994",
+        "comparativePrice": {
+          "pricePerUnit": 545,
+          "unitQuantity": 1,
+          "unitQuantityUom": "L",
+          "measureDescription": "1L"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "128922994",
+          "rewardValue": 1079,
+          "decal": "6000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 545,
+            "unitQuantity": 1,
+            "unitQuantityUom": "L",
+            "measureDescription": "1L"
+          }
+        }
+      ],
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Beer, Cider & Wine",
+          "level1": "Beer & Cider",
+          "level2": "Low & No Alcohol Beers"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5140582-EA-000",
+      "brand": "Oyster Bay",
+      "name": "Rose",
+      "displayName": "750ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": true,
+      "liquorFlag": true,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 1849
+      },
+      "categoryTrees": [
+        {
+          "level0": "Beer, Cider & Wine",
+          "level1": "Wine",
+          "level2": "Rose"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5027230-EA-000",
+      "brand": "Toi Toi",
+      "name": "Chardonnay",
+      "displayName": "750ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": true,
+      "liquorFlag": true,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 1799
+      },
+      "categoryTrees": [
+        {
+          "level0": "Beer, Cider & Wine",
+          "level1": "Wine",
+          "level2": "Chardonnay"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5266380-EA-000",
+      "brand": "Chateulsoorok",
+      "name": "Peach Apple Wine",
+      "displayName": "360ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": true,
+      "liquorFlag": true,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 849
+      },
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Beer, Cider & Wine",
+          "level1": "Wine",
+          "level2": "Other White Wine"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5000730-EA-000",
+      "brand": "Saint Clair",
+      "name": "Vicar's Choice Sauvignon Blanc",
+      "displayName": "750ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": true,
+      "liquorFlag": true,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 1349,
+        "promoId": "128934639"
+      },
+      "promotions": [
+        {
+          "promoId": "128934639",
+          "rewardValue": 1349,
+          "decal": "6000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true
+        }
+      ],
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Beer, Cider & Wine",
+          "level1": "Wine",
+          "level2": "Sauvignon Blanc"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5000375-EA-000",
+      "brand": "Villa Maria",
+      "name": "Villa Maria Private Bin Hawkes Bay Merlot Cabernet Sauvignon",
+      "displayName": "750ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": true,
+      "liquorFlag": true,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 1679
+      },
+      "categoryTrees": [
+        {
+          "level0": "Beer, Cider & Wine",
+          "level1": "Wine",
+          "level2": "Cabernet"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5000496-EA-000",
+      "brand": "Sileni Estates",
+      "name": "Cellar Selection Merlot",
+      "displayName": "750ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": true,
+      "liquorFlag": true,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 1199,
+        "promoId": "128959826"
+      },
+      "promotions": [
+        {
+          "promoId": "128959826",
+          "rewardValue": 1199,
+          "decal": "6000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Beer, Cider & Wine",
+          "level1": "Wine",
+          "level2": "Merlot"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5000221-EA-000",
+      "brand": "Mission Estate Winery",
+      "name": "Pinot Gris",
+      "displayName": "750ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": true,
+      "liquorFlag": true,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 1699
+      },
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Beer, Cider & Wine",
+          "level1": "Wine",
+          "level2": "Pinot Gris"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5000566-EA-000",
+      "brand": "Villa Maria",
+      "name": "Villa Maria Private Bin Chardonnay",
+      "displayName": "750ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": true,
+      "liquorFlag": true,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 1679
+      },
+      "categoryTrees": [
+        {
+          "level0": "Beer, Cider & Wine",
+          "level1": "Wine",
+          "level2": "Chardonnay"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5266381-EA-000",
+      "brand": "Chateulsoorok",
+      "name": "Lychee Apple Wine",
+      "displayName": "360ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": true,
+      "liquorFlag": true,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 849
+      },
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Beer, Cider & Wine",
+          "level1": "Wine",
+          "level2": "Other White Wine"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5007253-EA-000",
+      "brand": "Monteith's",
+      "name": "Crushed Apple Cider",
+      "displayName": "12 x 330ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": true,
+      "liquorFlag": true,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 2579,
+        "promoId": "128943378"
+      },
+      "promotions": [
+        {
+          "promoId": "128943378",
+          "rewardValue": 2579,
+          "decal": "6000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Beer, Cider & Wine",
+          "level1": "Beer & Cider",
+          "level2": "Apple & Pear Cider"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5000539-EA-000",
+      "brand": "Lindauer",
+      "name": "Special Reserve Brut Cuvee",
+      "displayName": "750ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": true,
+      "liquorFlag": true,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 1699,
+        "promoId": "128934854"
+      },
+      "promotions": [
+        {
+          "promoId": "128934854",
+          "rewardValue": 1699,
+          "decal": "6000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Beer, Cider & Wine",
+          "level1": "Wine",
+          "level2": "Champagne & Sparkling Wine"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5000278-EA-000",
+      "brand": "Speight's",
+      "name": "Gold Medal Ale Beer Bottles",
+      "displayName": "12 x 330ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": true,
+      "liquorFlag": true,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 2099,
+        "promoId": "128943434"
+      },
+      "promotions": [
+        {
+          "promoId": "128943434",
+          "rewardValue": 2099,
+          "decal": "6000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true
+        }
+      ],
+      "facets": [
+        {
+          "itemCode": "00020011",
+          "itemDescription": "Low Sugar"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Beer, Cider & Wine",
+          "level1": "Beer & Cider",
+          "level2": "Lager"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5005110-EA-000",
+      "brand": "Trapiche",
+      "name": "Malbec",
+      "displayName": "750ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": true,
+      "liquorFlag": true,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 1449
+      },
+      "categoryTrees": [
+        {
+          "level0": "Beer, Cider & Wine",
+          "level1": "Wine",
+          "level2": "Other Red Wine"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5103450-EA-000",
+      "brand": "Villa Maria",
+      "name": "Villa Maria Cellar Selection Chardonnay",
+      "displayName": "750ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": true,
+      "liquorFlag": true,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 1849
+      },
+      "categoryTrees": [
+        {
+          "level0": "Beer, Cider & Wine",
+          "level1": "Wine",
+          "level2": "Chardonnay"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5000834-EA-000",
+      "brand": "Tohu",
+      "name": "Chardonnay",
+      "displayName": "750ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": true,
+      "liquorFlag": true,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 1449,
+        "promoId": "128959844"
+      },
+      "promotions": [
+        {
+          "promoId": "128959844",
+          "rewardValue": 1449,
+          "decal": "6000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true
+        }
+      ],
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Beer, Cider & Wine",
+          "level1": "Wine",
+          "level2": "Chardonnay"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5000369-EA-000",
+      "brand": "Speight's",
+      "name": "Old Dark Ale Beer Bottles",
+      "displayName": "12 x 330ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": true,
+      "liquorFlag": true,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 2479
+      },
+      "categoryTrees": [
+        {
+          "level0": "Beer, Cider & Wine",
+          "level1": "Beer & Cider",
+          "level2": "Stout, Porter & Black Beer"
+        },
+        {
+          "level0": "Beer, Cider & Wine",
+          "level1": "Beer & Cider",
+          "level2": "Craft Beer"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5033726-EA-000",
+      "brand": "Orchard Thieves",
+      "name": "Red Berries Cider",
+      "displayName": "500ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": true,
+      "liquorFlag": true,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 699
+      },
+      "categoryTrees": [
+        {
+          "level0": "Beer, Cider & Wine",
+          "level1": "Beer & Cider",
+          "level2": "Fruit & Flavoured Cider"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5096950-EA-000",
+      "brand": "Hardys",
+      "name": "Regional Range Merlot",
+      "displayName": "1l",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": true,
+      "liquorFlag": true,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 1449
+      },
+      "categoryTrees": [
+        {
+          "level0": "Beer, Cider & Wine",
+          "level1": "Wine",
+          "level2": "Merlot"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5034322-EA-000",
+      "brand": "Wither Hills",
+      "name": "Rose",
+      "displayName": "750ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": true,
+      "liquorFlag": true,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 1599
+      },
+      "categoryTrees": [
+        {
+          "level0": "Beer, Cider & Wine",
+          "level1": "Wine",
+          "level2": "Rose"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5000497-EA-000",
+      "brand": "Sileni Estates",
+      "name": "Cellar Selection Chardonnay",
+      "displayName": "750ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": true,
+      "liquorFlag": true,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 1199,
+        "promoId": "128959826"
+      },
+      "promotions": [
+        {
+          "promoId": "128959826",
+          "rewardValue": 1199,
+          "decal": "6000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Beer, Cider & Wine",
+          "level1": "Wine",
+          "level2": "Chardonnay"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5032107-EA-000",
+      "brand": "Somersby",
+      "name": "Apple Sparkling Cider",
+      "displayName": "12 x 330ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": true,
+      "liquorFlag": true,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 2899
+      },
+      "categoryTrees": [
+        {
+          "level0": "Beer, Cider & Wine",
+          "level1": "Beer & Cider",
+          "level2": "Apple & Pear Cider"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5004404-EA-000",
+      "brand": "Mission Estate Winery",
+      "name": "Syrah",
+      "displayName": "750ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": true,
+      "liquorFlag": true,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 1699
+      },
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Beer, Cider & Wine",
+          "level1": "Wine",
+          "level2": "Shiraz"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5000725-EA-000",
+      "brand": "Mission Estate Winery",
+      "name": "Chardonnay",
+      "displayName": "750ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": true,
+      "liquorFlag": true,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 1699
+      },
+      "categoryTrees": [
+        {
+          "level0": "Beer, Cider & Wine",
+          "level1": "Wine",
+          "level2": "Chardonnay"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5004664-EA-000",
+      "brand": "Yealands",
+      "name": "Pinot Gris",
+      "displayName": "750ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": true,
+      "liquorFlag": true,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 1399,
+        "promoId": "128934835"
+      },
+      "promotions": [
+        {
+          "promoId": "128934835",
+          "rewardValue": 1399,
+          "decal": "6000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true
+        }
+      ],
+      "facets": [
+        {
+          "itemCode": "00020013",
+          "itemDescription": "Vegan"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Beer, Cider & Wine",
+          "level1": "Wine",
+          "level2": "Pinot Gris"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5008950-EA-000",
+      "brand": "Ngatarawa",
+      "name": "Stables Rose",
+      "displayName": "750ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": true,
+      "liquorFlag": true,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 1199,
+        "promoId": "128934954"
+      },
+      "promotions": [
+        {
+          "promoId": "128934954",
+          "rewardValue": 1199,
+          "decal": "6000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true
+        }
+      ],
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Beer, Cider & Wine",
+          "level1": "Wine",
+          "level2": "Rose"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5085280-EA-000",
+      "brand": "Mac's",
+      "name": "Green Beret IPA Bottles",
+      "displayName": "12 x 330ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": true,
+      "liquorFlag": true,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 3099
+      },
+      "facets": [
+        {
+          "itemCode": "00020011",
+          "itemDescription": "Low Sugar"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Beer, Cider & Wine",
+          "level1": "Beer & Cider",
+          "level2": "IPA"
+        },
+        {
+          "level0": "Beer, Cider & Wine",
+          "level1": "Beer & Cider",
+          "level2": "Craft Beer"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5005746-EA-000",
+      "brand": "Devil's Staircase",
+      "name": "Pinot Noir",
+      "displayName": "750ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": true,
+      "liquorFlag": true,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 2499
+      },
+      "categoryTrees": [
+        {
+          "level0": "Beer, Cider & Wine",
+          "level1": "Wine",
+          "level2": "Pinot Noir"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5268382-EA-000",
+      "brand": "Boundary Road Brewery",
+      "name": "Hazy Pale Ale Cans",
+      "displayName": "6 x 330ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": true,
+      "liquorFlag": true,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 1349,
+        "promoId": "128943474"
+      },
+      "promotions": [
+        {
+          "promoId": "128943474",
+          "rewardValue": 1349,
+          "decal": "6000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Beer, Cider & Wine",
+          "level1": "Beer & Cider",
+          "level2": "Pale Ale"
+        },
+        {
+          "level0": "Beer, Cider & Wine",
+          "level1": "Beer & Cider",
+          "level2": "Craft Beer"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5000882-EA-000",
+      "brand": "Montana",
+      "name": "Rose",
+      "displayName": "750ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": true,
+      "liquorFlag": true,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 1099
+      },
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Beer, Cider & Wine",
+          "level1": "Wine",
+          "level2": "Rose"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5080718-EA-000",
+      "brand": "Yalumba",
+      "name": "The Y Series Shiraz",
+      "displayName": "750ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": true,
+      "liquorFlag": true,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 1399
+      },
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Beer, Cider & Wine",
+          "level1": "Wine",
+          "level2": "Shiraz"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5039589-EA-000",
+      "brand": "Panhead",
+      "name": "Supercharger APA Bottles",
+      "displayName": "6 x 330ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": true,
+      "liquorFlag": true,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 2599
+      },
+      "categoryTrees": [
+        {
+          "level0": "Beer, Cider & Wine",
+          "level1": "Beer & Cider",
+          "level2": "American-style Ale"
+        },
+        {
+          "level0": "Beer, Cider & Wine",
+          "level1": "Beer & Cider",
+          "level2": "Craft Beer"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5000752-EA-000",
+      "brand": "Villa Maria",
+      "name": "Villa Maria Cellar Selection Pinot Gris",
+      "displayName": "750ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": true,
+      "liquorFlag": true,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 1849
+      },
+      "categoryTrees": [
+        {
+          "level0": "Beer, Cider & Wine",
+          "level1": "Wine",
+          "level2": "Pinot Gris"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5039939-EA-000",
+      "brand": "Deutz",
+      "name": "Brut Cuvee",
+      "displayName": "200ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": true,
+      "liquorFlag": true,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 999
+      },
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Beer, Cider & Wine",
+          "level1": "Wine",
+          "level2": "Champagne & Sparkling Wine"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5037772-EA-000",
+      "brand": "Jacob's Creek",
+      "name": "Reserve Rose",
+      "displayName": "750ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": true,
+      "liquorFlag": true,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 1599
+      },
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Beer, Cider & Wine",
+          "level1": "Wine",
+          "level2": "Champagne & Sparkling Wine"
+        },
+        {
+          "level0": "Beer, Cider & Wine",
+          "level1": "Wine",
+          "level2": "Rose"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5228546-EA-000",
+      "brand": "Giesen",
+      "name": "Sauvignon Blanc",
+      "displayName": "750ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": true,
+      "liquorFlag": true,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 1549
+      },
+      "categoryTrees": [
+        {
+          "level0": "Beer, Cider & Wine",
+          "level1": "Wine",
+          "level2": "Sauvignon Blanc"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5000803-EA-000",
+      "brand": "Montana",
+      "name": "Riesling",
+      "displayName": "750ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": true,
+      "liquorFlag": true,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 1099
+      },
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Beer, Cider & Wine",
+          "level1": "Wine",
+          "level2": "Other White Wine"
+        }
+      ],
+      "cateredFlag": false
+    }
+  ],
+  "algoliaSearchResult": {
+    "facets": {
+      "brand": {
+        "Garage Project": 29,
+        "Selaks": 24,
+        "Jacob's Creek": 21,
+        "Saint Clair": 17,
+        "Mac's": 16,
+        "Mission Estate Winery": 16,
+        "Lindauer": 15,
+        "Parrotdog": 15,
+        "McGuigan": 14,
+        "Moa": 13,
+        "Villa Maria": 13,
+        "Brown Brothers": 11,
+        "Church Road": 11,
+        "Coopers": 11,
+        "Montana": 11,
+        "Monteith's": 11,
+        "Sprig + Fern Brewing Co.": 11,
+        "Yalumba": 11,
+        "8 Wired": 10,
+        "Boundary Road Brewery": 10,
+        "Ngatarawa": 10,
+        "Panhead": 10,
+        "Bavaria": 9,
+        "DB Export": 9,
+        "Squawking Magpie": 9,
+        "Stoneleigh": 9,
+        "Wolf Blass": 9,
+        "Yealands": 9,
+        "19 Crimes": 8,
+        "Cleanskin": 8,
+        "Heineken": 8,
+        "Mount Brewing Co": 8,
+        "Mud House": 8,
+        "Peckham's": 8,
+        "Speight's": 8,
+        "Steinlager": 8,
+        "Taylors": 8,
+        "Te Mata Estate": 8,
+        "Chateulsoorok": 7,
+        "Double Vision Brewing Company": 7,
+        "Giesen": 7,
+        "Hallertau": 7,
+        "McLeod's": 7,
+        "Sileni Estates": 7,
+        "The People's": 7,
+        "Toi Toi": 7,
+        "Whitecliff": 7,
+        "Little Harvest": 6,
+        "North End Brewery": 6,
+        "Old Coach Road": 6,
+        "Oyster Bay": 6,
+        "Squealing Pig": 6,
+        "Sunshine": 6,
+        "Te Aro Brewing Company": 6,
+        "Ara": 5,
+        "Arrogant Frog": 5,
+        "Babydoll": 5,
+        "Baylands Brewery": 5,
+        "Dashwood": 5,
+        "Emerson's": 5,
+        "Grant Burge": 5,
+        "Main Divide Wine": 5,
+        "O:TU": 5,
+        "Old Mout Cider": 5,
+        "Orchard Thieves": 5,
+        "Pa Road": 5,
+        "Sawmill": 5,
+        "Tuatara": 5,
+        "Waitoa Beer": 5,
+        "Wanaka Beer Works": 5,
+        "Winesmiths": 5,
+        "Wither Hills": 5,
+        "Zeffer": 5,
+        "Altitude Brewing": 4,
+        "Babich": 4,
+        "Banrock Station": 4,
+        "Brancott Estate": 4,
+        "Clearview Estate": 4,
+        "Good George Brewing": 4,
+        "La Belle Angele": 4,
+        "Lakeman Brewing Co": 4,
+        "Old Mill": 4,
+        "Penfolds": 4,
+        "RUAPEHU BREWING CO": 4,
+        "Robert Mondavi": 4,
+        "Sacred Hill": 4,
+        "Scrumpy": 4,
+        "Seifried": 4,
+        "Shingle Peak": 4,
+        "State of Play": 4,
+        "The Ned": 4,
+        "Thornbury": 4,
+        "Three Boys": 4,
+        "Tohu": 4,
+        "Tui": 4,
+        "Urbanaut": 4,
+        "Veuve Du Vernay": 4,
+        "Wairau River": 4,
+        "Abbey Cellars": 3,
+        "Alpha Domus": 3
+      },
+      "category1NI": {
+        "Wine": 631,
+        "Beer & Cider": 460
+      },
+      "onPromotion": {
+        "21ecaaed-0749-4492-985e-4bb7ba43d59c": 414,
+        "c3f9e1a3-fc34-452d-af2e-95349e666ba4": 384,
+        "5cf0392f-c187-4fc4-a463-eb269d2e8f45": 353,
+        "8cd700ae-d96f-4761-bd7a-805d6b93536d": 330,
+        "90082979-fb9f-4305-9c72-83274fc438cc": 328,
+        "be4c4780-218e-425a-a90f-63e21773572b": 328,
+        "2ed73be8-936d-4f35-9398-75a707f40a7b": 327,
+        "61dd754e-8525-4b9e-9e08-173389eea8a8": 324,
+        "b29a98bd-749c-489c-9eef-6aa38e66a29b": 303,
+        "715f0e22-95e0-45ce-af3a-07057209976e": 299,
+        "dbca5e00-f7f9-43ae-91de-031ad16f8a92": 282,
+        "4a279605-eaa8-470d-bcd4-0a9e3c9ab43b": 270,
+        "e1925ea7-01bc-4358-ae7c-c6502da5ab12": 268,
+        "65defcf2-bc15-490e-a84f-1f13b769cd22": 263,
+        "c180a72d-5dbe-4403-b7c7-91655e505492": 261,
+        "98ec3885-ac93-4fcb-807b-59c9055c52c4": 259,
+        "8f0d70be-5cb7-464b-99cb-8b0130671895": 246,
+        "714431ab-6e39-4df6-ac77-cfc5c1e25bc8": 245,
+        "48dd98cc-a757-4102-b15d-ea82b4b10571": 244,
+        "7d48a781-4f68-4c91-a908-8659e1b22f95": 240,
+        "c2204dae-579e-4b6b-9d42-2e13ceaa6031": 240,
+        "49037947-e450-49bf-ba1f-a94551c79a72": 238,
+        "64eab5b1-8d79-45f4-94f1-02b8cf8b6202": 238,
+        "1c388d5e-29ac-4956-b476-cb3431353d2e": 237,
+        "3bfe040b-f0c9-45e0-949b-b9ad5a591d55": 233,
+        "b83029b6-5dd5-449e-8056-26f3943a4e18": 233,
+        "3404c253-577f-45ca-b301-c98312e46efb": 231,
+        "53989945-1a28-481d-a61c-d6f75f760ada": 230,
+        "076e8177-943b-41fc-a885-ba3d28297acf": 229,
+        "c0f80e87-16be-4488-9553-da437e8c6c2a": 228,
+        "60561e46-ece7-43a7-b142-9b14812586e4": 226,
+        "4fcc1c8e-cc5e-4675-ba25-5e56b579cf69": 225,
+        "b39562a4-2b72-43fe-b9ba-eda1d651ad0b": 225,
+        "3bb30799-82ce-4648-8c02-5113228963ed": 221,
+        "d1cd1fdd-8767-46a6-a8d3-c3e0632c2dc8": 221,
+        "01a114de-149c-4f5f-80a1-90cc63f69c6e": 214,
+        "b92cc33f-b5a8-4b57-9b82-412946800020": 213,
+        "af385423-d0f1-41f0-9482-ffd10b745143": 211,
+        "6e6809dd-01bc-45c9-aab1-f01ccd8338b0": 210,
+        "6cda96e1-7d29-44a6-956b-3fcfdecc8184": 203,
+        "3c5e3145-0767-4066-9349-6c0a1313acc5": 197,
+        "a7d09522-bee2-41e4-8fe0-0b82b7f342f5": 189,
+        "529d66cc-60e3-432e-b8d1-efc9f2ec4919": 188,
+        "15e6f441-5c1c-4d25-b4ec-1adf918c49c7": 187,
+        "5f167936-79ae-4f6a-b9d2-74afe1bb096b": 184,
+        "50b1216b-d066-4457-b88b-9bccf97bf6d3": 172,
+        "9cd8eb60-3222-4efc-bd7c-50e03e6a81a4": 161,
+        "94ef1985-cab1-4b39-a2f3-230120f03c16": 144,
+        "3e82142c-78dc-46f3-82ec-28e65fcf84c9": 108,
+        "33d8d6fc-861a-45ff-9937-5ccdb55eaede": 8,
+        "92086ded-a55d-4241-a364-7d7ea91531b4": 5,
+        "6c73764e-b8e6-4e55-ad37-f6a9d207da1f": 4
+      },
+      "productFacets": {
+        "Non-GMO": 334,
+        "Vegan": 43,
+        "Low Sugar": 39,
+        "Gluten Free": 38,
+        "Organic": 9,
+        "Vegetarian": 6,
+        "Free Range": 5,
+        "Dairy Free": 1
+      }
+    }
+  },
+  "totalHits": 1000,
+  "page": 5,
+  "totalPages": 20,
+  "hitsPerPage": 50
+}

@@ -1,0 +1,2478 @@
+{
+  "tobaccoProducts": false,
+  "products": [
+    {
+      "productId": "5266971-EA-000",
+      "brand": "Eta",
+      "name": "Honey Roasted Peanuts",
+      "displayName": "175g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 349,
+        "comparativePrice": {
+          "pricePerUnit": 199,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Pantry",
+          "level1": "Snack Foods",
+          "level2": "Nut Bars & Snacks"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5019386-EA-000",
+      "brand": "Mexicano",
+      "name": "Tasty Cheese Corn Chips",
+      "displayName": "170g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 279,
+        "comparativePrice": {
+          "pricePerUnit": 164,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        },
+        {
+          "itemCode": "00020004",
+          "itemDescription": "Gluten Free"
+        },
+        {
+          "itemCode": "00020014",
+          "itemDescription": "Vegetarian"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Pantry",
+          "level1": "Snack Foods",
+          "level2": "Corn Chips"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5255398-EA-000",
+      "brand": "Wrigley's Eclipse",
+      "name": "Strawberry Sugarfree Mints",
+      "displayName": "40g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 369,
+        "promoId": "128756759",
+        "comparativePrice": {
+          "pricePerUnit": 923,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "128756759",
+          "rewardValue": 369,
+          "decal": "7000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 923,
+            "unitQuantity": 100,
+            "unitQuantityUom": "g",
+            "measureDescription": "100g"
+          }
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Pantry",
+          "level1": "Confectionery",
+          "level2": "Chewing Gum & Mints"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5006919-EA-000",
+      "brand": "Pams",
+      "name": "Iodised Table Salt",
+      "displayName": "300g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 159,
+        "comparativePrice": {
+          "pricePerUnit": 5,
+          "unitQuantity": 10,
+          "unitQuantityUom": "g",
+          "measureDescription": "10g"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        },
+        {
+          "itemCode": "00020007",
+          "itemDescription": "Dairy Free"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Pantry",
+          "level1": "Spices & Seasonings",
+          "level2": "Salt & Pepper"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5203733-EA-000",
+      "brand": "Value",
+      "name": "Sultanas",
+      "displayName": "400g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 259,
+        "promoId": "128941552",
+        "comparativePrice": {
+          "pricePerUnit": 648,
+          "unitQuantity": 1,
+          "unitQuantityUom": "kg",
+          "measureDescription": "1kg"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "128941552",
+          "rewardValue": 259,
+          "decal": "6000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 648,
+            "unitQuantity": 1,
+            "unitQuantityUom": "kg",
+            "measureDescription": "1kg"
+          }
+        }
+      ],
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        },
+        {
+          "itemCode": "00020007",
+          "itemDescription": "Dairy Free"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Pantry",
+          "level1": "Baking Supplies & Sugar",
+          "level2": "Dried Fruit"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5019518-EA-000",
+      "brand": "Sanitarium Up & Go",
+      "name": "Protein Energize Choc Hit Flavour Liquid Breakfast",
+      "displayName": "6 x 250ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 1049,
+        "comparativePrice": {
+          "pricePerUnit": 699,
+          "unitQuantity": 1,
+          "unitQuantityUom": "L",
+          "measureDescription": "1L"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Pantry",
+          "level1": "Breakfast Cereals",
+          "level2": "Breakfast On The Go"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5281638-EA-000",
+      "brand": "NinetyNine Street",
+      "name": "Casstavas Sour Cream & Chives Flavoured Cassava Vege Chips",
+      "displayName": "90g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 199,
+        "comparativePrice": {
+          "pricePerUnit": 221,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020014",
+          "itemDescription": "Vegetarian"
+        },
+        {
+          "itemCode": "00020013",
+          "itemDescription": "Vegan"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Pantry",
+          "level1": "Snack Foods",
+          "level2": "Chips"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5004943-EA-000",
+      "brand": "Pams",
+      "name": "Lite Tomato Sauce",
+      "displayName": "560g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 189,
+        "comparativePrice": {
+          "pricePerUnit": 34,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Pantry",
+          "level1": "Sauces, Stock & Marinades",
+          "level2": "Tomato Sauces"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5208840-EA-000",
+      "brand": "Value",
+      "name": "Vanilla Rounds Flavoured Biscuits",
+      "displayName": "250g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 159,
+        "comparativePrice": {
+          "pricePerUnit": 64,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Pantry",
+          "level1": "Biscuits & Crackers",
+          "level2": "Plain Sweet Biscuits"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5010876-EA-000",
+      "brand": "Whittaker's",
+      "name": "Almond Gold Milk Chocolate Bar",
+      "displayName": "3pk",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 459,
+        "comparativePrice": {
+          "pricePerUnit": 340,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "categoryTrees": [
+        {
+          "level0": "Pantry",
+          "level1": "Confectionery",
+          "level2": "Novelty Bars & Singles"
+        },
+        {
+          "level0": "Featured",
+          "level1": "Halloween",
+          "level2": "Confectionery"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5025226-EA-000",
+      "brand": "Pams",
+      "name": "Rice Bran Oil",
+      "displayName": "1l",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 499,
+        "comparativePrice": {
+          "pricePerUnit": 50,
+          "unitQuantity": 100,
+          "unitQuantityUom": "ml",
+          "measureDescription": "100ml"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        },
+        {
+          "itemCode": "00020007",
+          "itemDescription": "Dairy Free"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Pantry",
+          "level1": "Salad & Cooking Oils",
+          "level2": "Rice Bran Oils"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5003718-EA-000",
+      "brand": "Pams",
+      "name": "Desiccated Coconut",
+      "displayName": "500g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 369,
+        "comparativePrice": {
+          "pricePerUnit": 74,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Pantry",
+          "level1": "Baking Supplies & Sugar",
+          "level2": "Baking Additives"
+        },
+        {
+          "level0": "Featured",
+          "level1": "Pams",
+          "level2": "Baking Supplies & Sugar"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5011659-EA-000",
+      "brand": "Sanitarium Up & Go",
+      "name": "Strawberry Flavour Liquid Breakfast",
+      "displayName": "6 x 250ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 1049,
+        "comparativePrice": {
+          "pricePerUnit": 699,
+          "unitQuantity": 1,
+          "unitQuantityUom": "L",
+          "measureDescription": "1L"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020009",
+          "itemDescription": "Low Fat"
+        },
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Pantry",
+          "level1": "Breakfast Cereals",
+          "level2": "Breakfast On The Go"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5030355-EA-000",
+      "brand": "Pams",
+      "name": "Cannellini Beans In Brine",
+      "displayName": "410g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 99,
+        "comparativePrice": {
+          "pricePerUnit": 241,
+          "unitQuantity": 1,
+          "unitQuantityUom": "kg",
+          "measureDescription": "1kg"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020007",
+          "itemDescription": "Dairy Free"
+        },
+        {
+          "itemCode": "00020011",
+          "itemDescription": "Low Sugar"
+        },
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        },
+        {
+          "itemCode": "00020013",
+          "itemDescription": "Vegan"
+        },
+        {
+          "itemCode": "00020014",
+          "itemDescription": "Vegetarian"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Pantry",
+          "level1": "Canned & Prepared Foods",
+          "level2": "Canned & Dried Vegetables"
+        },
+        {
+          "level0": "Featured",
+          "level1": "Pams",
+          "level2": "Canned & Prepared Foods"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5020337-EA-000",
+      "brand": "Pams",
+      "name": "White Sugar",
+      "displayName": "500g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 219,
+        "comparativePrice": {
+          "pricePerUnit": 44,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        },
+        {
+          "itemCode": "00020007",
+          "itemDescription": "Dairy Free"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Pantry",
+          "level1": "Baking Supplies & Sugar",
+          "level2": "Sugar"
+        },
+        {
+          "level0": "Featured",
+          "level1": "Pams",
+          "level2": "Baking Supplies & Sugar"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5233868-EA-000",
+      "brand": "Nescafe",
+      "name": "Hazelnut Latte Coffee Sachets Value Pack",
+      "displayName": "26 x 18g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 849,
+        "promoId": "128959789",
+        "comparativePrice": {
+          "pricePerUnit": 33,
+          "unitQuantity": 1,
+          "unitQuantityUom": "ea",
+          "measureDescription": "ea"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "128959789",
+          "rewardValue": 849,
+          "decal": "6000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 33,
+            "unitQuantity": 1,
+            "unitQuantityUom": "ea",
+            "measureDescription": "ea"
+          }
+        }
+      ],
+      "facets": [
+        {
+          "itemCode": "00020014",
+          "itemDescription": "Vegetarian"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Pantry",
+          "level1": "Hot Drinks",
+          "level2": "Coffee Flavoured Sachets"
+        },
+        {
+          "level0": "Drinks",
+          "level1": "Hot Drinks",
+          "level2": "Coffee Flavoured Sachets"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5002645-EA-000",
+      "brand": "SunRice",
+      "name": "Long Grain White Rice",
+      "displayName": "1kg",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 299,
+        "comparativePrice": {
+          "pricePerUnit": 30,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020004",
+          "itemDescription": "Gluten Free"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Pantry",
+          "level1": "Pasta, Rice & Noodles",
+          "level2": "Long Grain Rices"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5004907-EA-000",
+      "brand": "Pams",
+      "name": "Lemon Pepper Tuna",
+      "displayName": "185g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 229,
+        "comparativePrice": {
+          "pricePerUnit": 1238,
+          "unitQuantity": 1,
+          "unitQuantityUom": "kg",
+          "measureDescription": "1kg"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020007",
+          "itemDescription": "Dairy Free"
+        },
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Pantry",
+          "level1": "Canned & Prepared Foods",
+          "level2": "Canned Fish"
+        },
+        {
+          "level0": "Featured",
+          "level1": "Pams",
+          "level2": "Canned & Prepared Foods"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5088917-EA-000",
+      "brand": "Arnott's Cruskits",
+      "name": "Low Fat Crispbread",
+      "displayName": "250g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 599,
+        "comparativePrice": {
+          "pricePerUnit": 240,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020009",
+          "itemDescription": "Low Fat"
+        },
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Pantry",
+          "level1": "Biscuits & Crackers",
+          "level2": "Crackers"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5010218-EA-000",
+      "brand": "Continental",
+      "name": "Light Brown Gravy Mix",
+      "displayName": "30g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 100,
+        "comparativePrice": {
+          "pricePerUnit": 33,
+          "unitQuantity": 10,
+          "unitQuantityUom": "g",
+          "measureDescription": "10g"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        },
+        {
+          "itemCode": "00020009",
+          "itemDescription": "Low Fat"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Pantry",
+          "level1": "Sauces, Stock & Marinades",
+          "level2": "Gravies"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5203150-EA-000",
+      "brand": "Pams",
+      "name": "Lemon Baking Juice",
+      "displayName": "250ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 209,
+        "comparativePrice": {
+          "pricePerUnit": 84,
+          "unitQuantity": 100,
+          "unitQuantityUom": "ml",
+          "measureDescription": "100ml"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020007",
+          "itemDescription": "Dairy Free"
+        },
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Pantry",
+          "level1": "Baking Supplies & Sugar",
+          "level2": "Baking Additives"
+        },
+        {
+          "level0": "Featured",
+          "level1": "Pams",
+          "level2": "Baking Supplies & Sugar"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5030954-EA-000",
+      "brand": "John West",
+      "name": "Wild Alaskan Pink Salmon",
+      "displayName": "210g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 549,
+        "comparativePrice": {
+          "pricePerUnit": 2614,
+          "unitQuantity": 1,
+          "unitQuantityUom": "kg",
+          "measureDescription": "1kg"
+        }
+      },
+      "categoryTrees": [
+        {
+          "level0": "Pantry",
+          "level1": "Canned & Prepared Foods",
+          "level2": "Canned Fish"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5012016-EA-000",
+      "brand": "Sanitarium Up & Go",
+      "name": "Vanilla Ice Flavour Liquid Breakfast",
+      "displayName": "6 x 250ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 1049,
+        "comparativePrice": {
+          "pricePerUnit": 699,
+          "unitQuantity": 1,
+          "unitQuantityUom": "L",
+          "measureDescription": "1L"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020009",
+          "itemDescription": "Low Fat"
+        },
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Pantry",
+          "level1": "Breakfast Cereals",
+          "level2": "Breakfast On The Go"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5003762-EA-000",
+      "brand": "Pams",
+      "name": "Iodised Table Salt",
+      "displayName": "2kg",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 299,
+        "comparativePrice": {
+          "pricePerUnit": 1,
+          "unitQuantity": 10,
+          "unitQuantityUom": "g",
+          "measureDescription": "10g"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Pantry",
+          "level1": "Spices & Seasonings",
+          "level2": "Salt & Pepper"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5010646-EA-000",
+      "brand": "Maggi",
+      "name": "Light Brown Flavoured Gravy Mix",
+      "displayName": "28g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 89,
+        "comparativePrice": {
+          "pricePerUnit": 32,
+          "unitQuantity": 10,
+          "unitQuantityUom": "g",
+          "measureDescription": "10g"
+        }
+      },
+      "categoryTrees": [
+        {
+          "level0": "Pantry",
+          "level1": "Sauces, Stock & Marinades",
+          "level2": "Gravies"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5009755-EA-000",
+      "brand": "Campbell's",
+      "name": "Real Stock Chicken Stock Liquid",
+      "displayName": "1l",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 499,
+        "comparativePrice": {
+          "pricePerUnit": 50,
+          "unitQuantity": 100,
+          "unitQuantityUom": "ml",
+          "measureDescription": "100ml"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        },
+        {
+          "itemCode": "00020009",
+          "itemDescription": "Low Fat"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Pantry",
+          "level1": "Sauces, Stock & Marinades",
+          "level2": "Stock"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5002597-EA-000",
+      "brand": "High Mark",
+      "name": "Premium Dark Soy Sauce",
+      "displayName": "550ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 349,
+        "comparativePrice": {
+          "pricePerUnit": 63,
+          "unitQuantity": 100,
+          "unitQuantityUom": "ml",
+          "measureDescription": "100ml"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Pantry",
+          "level1": "Sauces, Stock & Marinades",
+          "level2": "Soy Sauce"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5014748-EA-000",
+      "brand": "Heinz",
+      "name": "Tomato Ketchup",
+      "displayName": "500ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 599,
+        "comparativePrice": {
+          "pricePerUnit": 120,
+          "unitQuantity": 100,
+          "unitQuantityUom": "ml",
+          "measureDescription": "100ml"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020004",
+          "itemDescription": "Gluten Free"
+        },
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Pantry",
+          "level1": "Sauces, Stock & Marinades",
+          "level2": "Tomato Sauces"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5009687-EA-000",
+      "brand": "Arnott's Vita-Weat",
+      "name": "9 Grains Crispbread",
+      "displayName": "250g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 399,
+        "comparativePrice": {
+          "pricePerUnit": 160,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Pantry",
+          "level1": "Biscuits & Crackers",
+          "level2": "Crackers"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5003835-EA-000",
+      "brand": "Pams",
+      "name": "Plum Jam",
+      "displayName": "500g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 349,
+        "comparativePrice": {
+          "pricePerUnit": 70,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020007",
+          "itemDescription": "Dairy Free"
+        },
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Pantry",
+          "level1": "Jams, Honey & Spreads",
+          "level2": "Jam & Marmalade"
+        },
+        {
+          "level0": "Featured",
+          "level1": "Pams",
+          "level2": "Jams, Honey & Spreads"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5037998-EA-000",
+      "brand": "Jed's Coffee Co.",
+      "name": "5 Extra Strong Instant Coffee Refill",
+      "displayName": "90g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 669,
+        "promoId": "128928594",
+        "comparativePrice": {
+          "pricePerUnit": 743,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "128928594",
+          "rewardValue": 669,
+          "decal": "6000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 743,
+            "unitQuantity": 100,
+            "unitQuantityUom": "g",
+            "measureDescription": "100g"
+          }
+        }
+      ],
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Pantry",
+          "level1": "Hot Drinks",
+          "level2": "Instant Coffees"
+        },
+        {
+          "level0": "Drinks",
+          "level1": "Hot Drinks",
+          "level2": "Instant Coffees"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5021611-EA-000",
+      "brand": "Tasti",
+      "name": "Salted Caramel Protein Bars",
+      "displayName": "5 x 40g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 529,
+        "comparativePrice": {
+          "pricePerUnit": 265,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "categoryTrees": [
+        {
+          "level0": "Pantry",
+          "level1": "Snack Foods",
+          "level2": "Nutritional Bars"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5017642-EA-000",
+      "brand": "Kellogg's",
+      "name": "Corn Flakes Breakfast Cereal",
+      "displayName": "380g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 399,
+        "comparativePrice": {
+          "pricePerUnit": 105,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "categoryTrees": [
+        {
+          "level0": "Pantry",
+          "level1": "Breakfast Cereals",
+          "level2": "Cold Cereals"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5264266-EA-000",
+      "brand": "Griffin's",
+      "name": "Cookie Bear Mixed Biscuits Snack Packs",
+      "displayName": "15 x 25g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 699,
+        "comparativePrice": {
+          "pricePerUnit": 186,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Pantry",
+          "level1": "Biscuits & Crackers",
+          "level2": "Biscuits & Cookies"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5023081-EA-000",
+      "brand": "Proper Crisps",
+      "name": "Cider Vinegar & Sea Salt Potato Crisps",
+      "displayName": "140g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 499,
+        "comparativePrice": {
+          "pricePerUnit": 356,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020013",
+          "itemDescription": "Vegan"
+        },
+        {
+          "itemCode": "00020003",
+          "itemDescription": "Free Range"
+        },
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        },
+        {
+          "itemCode": "00020014",
+          "itemDescription": "Vegetarian"
+        },
+        {
+          "itemCode": "00020004",
+          "itemDescription": "Gluten Free"
+        },
+        {
+          "itemCode": "00020007",
+          "itemDescription": "Dairy Free"
+        },
+        {
+          "itemCode": "00020009",
+          "itemDescription": "Low Fat"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Pantry",
+          "level1": "Snack Foods",
+          "level2": "Potato Chips"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5238472-EA-000",
+      "brand": "Diamond",
+      "name": "Seashells Pasta",
+      "displayName": "500g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 239,
+        "promoId": "128959828",
+        "comparativePrice": {
+          "pricePerUnit": 48,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "128959828",
+          "rewardValue": 239,
+          "decal": "6000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 48,
+            "unitQuantity": 100,
+            "unitQuantityUom": "g",
+            "measureDescription": "100g"
+          }
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Pantry",
+          "level1": "Pasta, Rice & Noodles",
+          "level2": "Dried Pastas"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5235056-EA-000",
+      "brand": "Avalanche",
+      "name": "99% Sugar Free Drinking Chocolate Sticks",
+      "displayName": "10 x 20g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 469,
+        "promoId": "128943515",
+        "comparativePrice": {
+          "pricePerUnit": 47,
+          "unitQuantity": 1,
+          "unitQuantityUom": "ea",
+          "measureDescription": "ea"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "128943515",
+          "rewardValue": 469,
+          "decal": "6000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 47,
+            "unitQuantity": 1,
+            "unitQuantityUom": "ea",
+            "measureDescription": "ea"
+          }
+        }
+      ],
+      "facets": [
+        {
+          "itemCode": "00020011",
+          "itemDescription": "Low Sugar"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Pantry",
+          "level1": "Hot Drinks",
+          "level2": "Chocolate Milk Drink Mixes"
+        },
+        {
+          "level0": "Drinks",
+          "level1": "Hot Drinks",
+          "level2": "Chocolate Milk Drink Mixes"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5004792-EA-000",
+      "brand": "Pams",
+      "name": "Butter Chicken Simmer Sauce",
+      "displayName": "510g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 349,
+        "comparativePrice": {
+          "pricePerUnit": 68,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020014",
+          "itemDescription": "Vegetarian"
+        },
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Pantry",
+          "level1": "Sauces, Stock & Marinades",
+          "level2": "Simmer & Stir-Through Sauces"
+        },
+        {
+          "level0": "Pantry",
+          "level1": "Sauces, Stock & Marinades",
+          "level2": "Curry Pastes & Sauces"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5002252-EA-000",
+      "brand": "Wattie's",
+      "name": "Fruit Salad In Syrup",
+      "displayName": "410g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 299,
+        "comparativePrice": {
+          "pricePerUnit": 729,
+          "unitQuantity": 1,
+          "unitQuantityUom": "kg",
+          "measureDescription": "1kg"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Pantry",
+          "level1": "Canned & Prepared Foods",
+          "level2": "Canned Fruit"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5004599-EA-000",
+      "brand": "Best Foods",
+      "name": "Real Mayonnaise",
+      "displayName": "1.29kg",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 1899,
+        "comparativePrice": {
+          "pricePerUnit": 147,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Pantry",
+          "level1": "Condiments & Dressings",
+          "level2": "Mayonnaise"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5003886-EA-000",
+      "brand": "Pams",
+      "name": "White Sugar",
+      "displayName": "5kg",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 999,
+        "promoId": "128758446",
+        "comparativePrice": {
+          "pricePerUnit": 20,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "128758446",
+          "rewardValue": 999,
+          "decal": "7000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 20,
+            "unitQuantity": 100,
+            "unitQuantityUom": "g",
+            "measureDescription": "100g"
+          }
+        }
+      ],
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        },
+        {
+          "itemCode": "00020007",
+          "itemDescription": "Dairy Free"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Pantry",
+          "level1": "Baking Supplies & Sugar",
+          "level2": "Sugar"
+        },
+        {
+          "level0": "Featured",
+          "level1": "Pams",
+          "level2": "Baking Supplies & Sugar"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5029549-EA-000",
+      "brand": "Kellogg's",
+      "name": "Coco Pops Breakfast Cereal",
+      "displayName": "650g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 1049,
+        "comparativePrice": {
+          "pricePerUnit": 161,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Pantry",
+          "level1": "Breakfast Cereals",
+          "level2": "Cold Cereals"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5086576-EA-000",
+      "brand": "Maggi",
+      "name": "Chilli Con Carne Recipe Base Sachet",
+      "displayName": "41g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 159,
+        "comparativePrice": {
+          "pricePerUnit": 39,
+          "unitQuantity": 10,
+          "unitQuantityUom": "g",
+          "measureDescription": "10g"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020014",
+          "itemDescription": "Vegetarian"
+        },
+        {
+          "itemCode": "00020013",
+          "itemDescription": "Vegan"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Pantry",
+          "level1": "Sauces, Stock & Marinades",
+          "level2": "Packet Sauces"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5233869-EA-000",
+      "brand": "Nescafe",
+      "name": "Mocha Coffee Sachets Value Pack",
+      "displayName": "26 x 18g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 849,
+        "promoId": "128959789",
+        "comparativePrice": {
+          "pricePerUnit": 33,
+          "unitQuantity": 1,
+          "unitQuantityUom": "ea",
+          "measureDescription": "ea"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "128959789",
+          "rewardValue": 849,
+          "decal": "6000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 33,
+            "unitQuantity": 1,
+            "unitQuantityUom": "ea",
+            "measureDescription": "ea"
+          }
+        }
+      ],
+      "facets": [
+        {
+          "itemCode": "00020014",
+          "itemDescription": "Vegetarian"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Pantry",
+          "level1": "Hot Drinks",
+          "level2": "Coffee Flavoured Sachets"
+        },
+        {
+          "level0": "Drinks",
+          "level1": "Hot Drinks",
+          "level2": "Coffee Flavoured Sachets"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5254274-EA-000",
+      "brand": "Cadbury",
+      "name": "Choc Centre Cookies",
+      "displayName": "156g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 349,
+        "comparativePrice": {
+          "pricePerUnit": 224,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Pantry",
+          "level1": "Biscuits & Crackers",
+          "level2": "Biscuits & Cookies"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5019951-EA-000",
+      "brand": "Continental",
+      "name": "Four Cheeses Sauce",
+      "displayName": "30g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 139,
+        "comparativePrice": {
+          "pricePerUnit": 46,
+          "unitQuantity": 10,
+          "unitQuantityUom": "g",
+          "measureDescription": "10g"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020009",
+          "itemDescription": "Low Fat"
+        },
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Pantry",
+          "level1": "Sauces, Stock & Marinades",
+          "level2": "Packet Sauces"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5002263-EA-000",
+      "brand": "Wattie's",
+      "name": "Peaches Sliced In Syrup",
+      "displayName": "410g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 299,
+        "comparativePrice": {
+          "pricePerUnit": 729,
+          "unitQuantity": 1,
+          "unitQuantityUom": "kg",
+          "measureDescription": "1kg"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Pantry",
+          "level1": "Canned & Prepared Foods",
+          "level2": "Canned Fruit"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5023061-EA-000",
+      "brand": "Jed's Coffee Co.",
+      "name": "3 Strong Instant Coffee Refill",
+      "displayName": "90g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 669,
+        "promoId": "128928594",
+        "comparativePrice": {
+          "pricePerUnit": 743,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "128928594",
+          "rewardValue": 669,
+          "decal": "6000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 743,
+            "unitQuantity": 100,
+            "unitQuantityUom": "g",
+            "measureDescription": "100g"
+          }
+        }
+      ],
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Pantry",
+          "level1": "Hot Drinks",
+          "level2": "Instant Coffees"
+        },
+        {
+          "level0": "Drinks",
+          "level1": "Hot Drinks",
+          "level2": "Instant Coffees"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5004591-EA-000",
+      "brand": "Best Foods",
+      "name": "Lite Mayonnaise",
+      "displayName": "435g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 549,
+        "comparativePrice": {
+          "pricePerUnit": 126,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        },
+        {
+          "itemCode": "00020006",
+          "itemDescription": "Cage Free"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Pantry",
+          "level1": "Condiments & Dressings",
+          "level2": "Mayonnaise"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5001242-EA-000",
+      "brand": "Sanitarium",
+      "name": "Marmite",
+      "displayName": "500g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 679,
+        "promoId": "128826123",
+        "comparativePrice": {
+          "pricePerUnit": 136,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "128826123",
+          "rewardValue": 679,
+          "decal": "6000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 136,
+            "unitQuantity": 100,
+            "unitQuantityUom": "g",
+            "measureDescription": "100g"
+          }
+        }
+      ],
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        },
+        {
+          "itemCode": "00020014",
+          "itemDescription": "Vegetarian"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Pantry",
+          "level1": "Jams, Honey & Spreads",
+          "level2": "Marmite & Vegemite"
+        }
+      ],
+      "cateredFlag": false
+    }
+  ],
+  "algoliaSearchResult": {
+    "facets": {
+      "brand": {
+        "Pams": 315,
+        "Wattie's": 91,
+        "Tasti": 86,
+        "Gregg's": 58,
+        "Masterfoods": 57,
+        "Continental": 53,
+        "Maggi": 52,
+        "Mother Earth": 48,
+        "Mrs Rogers": 46,
+        "Ceres Organics": 42,
+        "Griffin's": 38,
+        "Healtheries": 37,
+        "Whittaker's": 37,
+        "Nestle": 36,
+        "Graze": 34,
+        "Nescafe": 34,
+        "Cadbury": 33,
+        "Kellogg's": 30,
+        "Lee Kum Kee": 30,
+        "Sealord": 29,
+        "Barker's": 28,
+        "Avalanche": 26,
+        "Edmonds": 26,
+        "Delmaine": 25,
+        "Diamond": 25,
+        "Hubbards": 25,
+        "Value": 25,
+        "Moccona": 24,
+        "Heinz": 22,
+        "John West": 22,
+        "Bluebird": 21,
+        "Eta": 21,
+        "Trident": 21,
+        "Cinderella": 20,
+        "Heartland": 20,
+        "Red Seal": 20,
+        "Chelsea": 19,
+        "Jed's Coffee Co.": 19,
+        "Patak's": 19,
+        "SunRice": 19,
+        "L'affare": 18,
+        "One Square Meal": 18,
+        "Anathoth Farm": 16,
+        "Campbell's": 16,
+        "Cookie Time": 16,
+        "Fix & Fogg": 16,
+        "Old El Paso": 16,
+        "RJ's": 16,
+        "Robert Harris": 16,
+        "San Remo": 16,
+        "Arnott's": 15,
+        "Bell": 15,
+        "Dilmah": 15,
+        "Nice & Natural": 15,
+        "Cadbury Dairy Milk": 14,
+        "Lindt": 14,
+        "Rum and Que": 14,
+        "Sanitarium Up & Go": 14,
+        "Exotic Food": 13,
+        "Havana": 13,
+        "Tom & Luke": 13,
+        "Vogel's": 13,
+        "Ben's": 12,
+        "Dolmio": 12,
+        "Golden Sun": 12,
+        "L'OR": 12,
+        "OB Finest": 12,
+        "Pic's": 12,
+        "Queen": 12,
+        "The Olive Lady": 12,
+        "Arataki": 11,
+        "Frooze Balls": 11,
+        "Gourmet Garden": 11,
+        "Huntley & Palmers": 11,
+        "Indomie": 11,
+        "Kashish": 11,
+        "Leggo's": 11,
+        "Mama San": 11,
+        "Spice Tree": 11,
+        "Wrigley's Extra": 11,
+        "Arnott's Shapes": 10,
+        "Culley's Kitchen": 10,
+        "Doritos": 10,
+        "High Mark": 10,
+        "Hummingbird": 10,
+        "M&M's": 10,
+        "Massel": 10,
+        "Nongshim": 10,
+        "Oreo": 10,
+        "Pams Value": 10,
+        "Pascall": 10,
+        "Betty Crocker": 9,
+        "Harraways": 9,
+        "Mexicano": 9,
+        "Tonzu": 9,
+        "Urja": 9,
+        "Fantastic": 8,
+        "Naked Kitchen": 8,
+        "Pams Finest": 8,
+        "Rana": 8
+      },
+      "category1NI": {
+        "Snack Foods": 496,
+        "Canned & Prepared Foods": 396,
+        "Hot Drinks": 342,
+        "Sauces, Stock & Marinades": 298,
+        "Confectionery": 286,
+        "Baking Supplies & Sugar": 285,
+        "Biscuits & Crackers": 250,
+        "Pasta, Rice & Noodles": 230,
+        "Condiments & Dressings": 227,
+        "Spices & Seasonings": 198,
+        "Pams": 191,
+        "Breakfast Cereals": 146,
+        "World Foods": 133,
+        "Halloween": 113,
+        "Jams, Honey & Spreads": 111,
+        "Ready to Cook": 70,
+        "Ready to Heat": 68,
+        "Salad & Cooking Oils": 47,
+        "Deli, Salads & Cooked Meats": 14,
+        "Butchery": 5,
+        "Health & Wellness": 3,
+        "Cold Drinks": 1,
+        "Dairy & Eggs": 1
+      },
+      "onPromotion": {
+        "61dd754e-8525-4b9e-9e08-173389eea8a8": 996,
+        "4a279605-eaa8-470d-bcd4-0a9e3c9ab43b": 982,
+        "5cf0392f-c187-4fc4-a463-eb269d2e8f45": 972,
+        "b29a98bd-749c-489c-9eef-6aa38e66a29b": 960,
+        "c3f9e1a3-fc34-452d-af2e-95349e666ba4": 951,
+        "90082979-fb9f-4305-9c72-83274fc438cc": 946,
+        "d8032da3-c1b9-456e-b626-41ce21f8c67b": 940,
+        "be4c4780-218e-425a-a90f-63e21773572b": 936,
+        "dbca5e00-f7f9-43ae-91de-031ad16f8a92": 928,
+        "715f0e22-95e0-45ce-af3a-07057209976e": 913,
+        "2ed73be8-936d-4f35-9398-75a707f40a7b": 883,
+        "3c5e3145-0767-4066-9349-6c0a1313acc5": 869,
+        "8cd700ae-d96f-4761-bd7a-805d6b93536d": 853,
+        "21ecaaed-0749-4492-985e-4bb7ba43d59c": 778,
+        "64eab5b1-8d79-45f4-94f1-02b8cf8b6202": 751,
+        "01a114de-149c-4f5f-80a1-90cc63f69c6e": 732,
+        "b92cc33f-b5a8-4b57-9b82-412946800020": 727,
+        "33d8d6fc-861a-45ff-9937-5ccdb55eaede": 695,
+        "7d48a781-4f68-4c91-a908-8659e1b22f95": 674,
+        "92086ded-a55d-4241-a364-7d7ea91531b4": 671,
+        "e1925ea7-01bc-4358-ae7c-c6502da5ab12": 662,
+        "d6d39eea-889d-4e20-923c-55cab225cf7f": 660,
+        "3bfe040b-f0c9-45e0-949b-b9ad5a591d55": 651,
+        "c180a72d-5dbe-4403-b7c7-91655e505492": 632,
+        "49037947-e450-49bf-ba1f-a94551c79a72": 615,
+        "5f167936-79ae-4f6a-b9d2-74afe1bb096b": 613,
+        "714431ab-6e39-4df6-ac77-cfc5c1e25bc8": 609,
+        "c2204dae-579e-4b6b-9d42-2e13ceaa6031": 589,
+        "1c388d5e-29ac-4956-b476-cb3431353d2e": 588,
+        "15e6f441-5c1c-4d25-b4ec-1adf918c49c7": 585,
+        "3bb30799-82ce-4648-8c02-5113228963ed": 577,
+        "8f0d70be-5cb7-464b-99cb-8b0130671895": 577,
+        "48dd98cc-a757-4102-b15d-ea82b4b10571": 575,
+        "a7d09522-bee2-41e4-8fe0-0b82b7f342f5": 573,
+        "b2e98a14-c8ca-401e-99ed-edf74570c6f6": 572,
+        "c0f80e87-16be-4488-9553-da437e8c6c2a": 569,
+        "4fcc1c8e-cc5e-4675-ba25-5e56b579cf69": 561,
+        "65defcf2-bc15-490e-a84f-1f13b769cd22": 559,
+        "6c73764e-b8e6-4e55-ad37-f6a9d207da1f": 558,
+        "d1cd1fdd-8767-46a6-a8d3-c3e0632c2dc8": 558,
+        "6cda96e1-7d29-44a6-956b-3fcfdecc8184": 553,
+        "6e6809dd-01bc-45c9-aab1-f01ccd8338b0": 553,
+        "529d66cc-60e3-432e-b8d1-efc9f2ec4919": 551,
+        "60561e46-ece7-43a7-b142-9b14812586e4": 551,
+        "3404c253-577f-45ca-b301-c98312e46efb": 546,
+        "98ec3885-ac93-4fcb-807b-59c9055c52c4": 537,
+        "af385423-d0f1-41f0-9482-ffd10b745143": 534,
+        "53989945-1a28-481d-a61c-d6f75f760ada": 530,
+        "3e82142c-78dc-46f3-82ec-28e65fcf84c9": 512,
+        "076e8177-943b-41fc-a885-ba3d28297acf": 508,
+        "b83029b6-5dd5-449e-8056-26f3943a4e18": 505,
+        "50b1216b-d066-4457-b88b-9bccf97bf6d3": 501,
+        "9cd8eb60-3222-4efc-bd7c-50e03e6a81a4": 500,
+        "b39562a4-2b72-43fe-b9ba-eda1d651ad0b": 489,
+        "94ef1985-cab1-4b39-a2f3-230120f03c16": 447
+      },
+      "productFacets": {
+        "Non-GMO": 1840,
+        "Gluten Free": 555,
+        "Vegetarian": 252,
+        "Dairy Free": 242,
+        "Low Fat": 222,
+        "Vegan": 209,
+        "Low Sugar": 147,
+        "Organic": 144,
+        "Halal": 91,
+        "Free Range": 40,
+        "Keto": 21,
+        "Low Salt": 20,
+        "Cage Free": 4
+      }
+    }
+  },
+  "totalHits": 1000,
+  "page": 11,
+  "totalPages": 20,
+  "hitsPerPage": 50
+}

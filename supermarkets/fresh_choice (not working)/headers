@@ -1,0 +1,14 @@
+http --follow GET cubastreet.store.freshchoice.co.nz/category/deli-kitchen \
+    User-Agent:'Mozilla/5.0 (X11; Linux x86_64; rv:130.0) Gecko/20100101 Firefox/130.0' \
+    Accept:'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/png,image/svg+xml,*/*;q=0.8' \
+    Accept-Language:'en-US,en;q=0.5' \
+    Accept-Encoding:'gzip, deflate, br, zstd' \
+    Referer:'https://cubastreet.store.freshchoice.co.nz/category/bakery?promo_id=general_tile_bakery' \
+    Connection:'keep-alive' \
+    Cookie:'session_id=MTNIanFMZ3czWDJidGF0cDNPN2VVZWY4cXRLQ2xLbkFnclZGci8zOVVrV1lxYk1lNWc0cXltRnNQR1IzemlvOUFFWmNQVjFSYVl5eDFQQjdXQTBSUHhsaW1aZ0laUlphV0wxVEMwUlRyeHFZNWdPK1krNW55MTRiNXBqamVhK29vOFZ6YmZ4VFNXWUtySFFCWG0rUGZhTlBrd2RQSGVXM0JaWTVmeFhqVGhSRHg0Zkd2WDlkcDZoY1IvdDd2K1JlRXdHc2ZNNVIwRTZSWDNka3BFaDVBTjZ3d1NCaE16K09qOHEwMHcyR0VTRFVZZEF0ck0yeEVQekRrMHF0MFFhWmQxeFNORWVrT0hOM2dCTEM3ZVU5c3ExeHZMMklXN0V3YUE5V2FFYTdJNE5OOHk0dDkydXdkZDNHSURYWXZaRko2WUZkbndNN01DOTl0MC9PSnJCalh4YldqS1JhY3BzeWtXU1NpdkFhS3RKemw5NGZoS1R1NUwwa3NITWZBTmtOSUZJUEhIcGNXM3ZjN2drYUV5RnNqbWo5bzE2MWVLeXM0N2trMEZlZG9acC9XWklWaHFsbDNydzBQZDczTFBUemZSWDBkZlg4U0prazdiL05wYVFBUmc9PS0tektqM0RyQWQxNDBxUlhHL28rbkZIQT09--d51e993e054ed6060308dfea73f0e4ec203ad480; mfl_data={%22mfl_shop_update%22:{%22customer%22:{%22signed_in%22:false}%2C%22shop%22:{%22type%22:%22product_core_plus%22%2C%22name%22:%22FreshChoice%20Cuba%20Street%22%2C%22url%22:%22https://cubastreet.store.freshchoice.co.nz/%22%2C%22store_number%22:%22%22}%2C%22basket%22:{%22total%22:0%2C%22item_count%22:0%2C%22line_count%22:0%2C%22url%22:%22/trolley%22%2C%22updated_at%22:null}}}' \
+    Upgrade-Insecure-Requests:'1' \
+    Sec-Fetch-Dest:'document' \
+    Sec-Fetch-Mode:'navigate' \
+    Sec-Fetch-Site:'same-origin' \
+    Sec-Fetch-User:'?1' \
+    Priority:'u=0, i'

@@ -1,0 +1,2195 @@
+{
+  "tobaccoProducts": false,
+  "products": [
+    {
+      "productId": "5012057-EA-000",
+      "brand": "VitaPet",
+      "name": "Home Sweet Home Indoor/Outdoor Odour Neutraliser",
+      "displayName": "500ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 1209,
+        "comparativePrice": {
+          "pricePerUnit": 2418,
+          "unitQuantity": 1,
+          "unitQuantityUom": "L",
+          "measureDescription": "1L"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Pets",
+          "level1": "Pet Supplies",
+          "level2": "Pet Treatments"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5326561-EA-000",
+      "brand": "Schmackos",
+      "name": "Strapz BBQ Lamb Dog Treats",
+      "displayName": "200g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 759,
+        "promoId": "128950976",
+        "comparativePrice": {
+          "pricePerUnit": 380,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "128950976",
+          "rewardValue": 759,
+          "decal": "6000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 380,
+            "unitQuantity": 100,
+            "unitQuantityUom": "g",
+            "measureDescription": "100g"
+          }
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Pets",
+          "level1": "Pet Supplies",
+          "level2": "Dog Treats"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5326560-EA-000",
+      "brand": "Schmackos",
+      "name": "Chewy Cubes With Beef Training Bites",
+      "displayName": "130g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 449,
+        "promoId": "128891425",
+        "comparativePrice": {
+          "pricePerUnit": 345,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "128891425",
+          "rewardValue": 449,
+          "decal": "7000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 345,
+            "unitQuantity": 100,
+            "unitQuantityUom": "g",
+            "measureDescription": "100g"
+          }
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Pets",
+          "level1": "Pet Supplies",
+          "level2": "Dog Treats"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5326558-EA-000",
+      "brand": "Schmackos",
+      "name": "Chomp'n Chew Peanut Butter & Chicken Dog Treat",
+      "displayName": "60g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 529,
+        "promoId": "128950988",
+        "comparativePrice": {
+          "pricePerUnit": 882,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "128950988",
+          "rewardValue": 529,
+          "decal": "6000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 882,
+            "unitQuantity": 100,
+            "unitQuantityUom": "g",
+            "measureDescription": "100g"
+          }
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Pets",
+          "level1": "Pet Supplies",
+          "level2": "Dog Treats"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5326557-EA-000",
+      "brand": "Schmackos",
+      "name": "Cheesy Nibbles Cheese 'N' Beef Flavours Training Bites",
+      "displayName": "140g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 449,
+        "promoId": "128950992",
+        "comparativePrice": {
+          "pricePerUnit": 321,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "128950992",
+          "rewardValue": 449,
+          "decal": "6000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 321,
+            "unitQuantity": 100,
+            "unitQuantityUom": "g",
+            "measureDescription": "100g"
+          }
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Pets",
+          "level1": "Pet Supplies",
+          "level2": "Dog Treats"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5325899-EA-000",
+      "brand": "Whiskas",
+      "name": "Chicken & Tuna Flavours Kitten Dry Cat Food",
+      "displayName": "800g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 799,
+        "promoId": "128891417",
+        "comparativePrice": {
+          "pricePerUnit": 100,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "128891417",
+          "rewardValue": 799,
+          "decal": "7000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 100,
+            "unitQuantity": 100,
+            "unitQuantityUom": "g",
+            "measureDescription": "100g"
+          }
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Pets",
+          "level1": "Pet Supplies",
+          "level2": "Cat Food"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5325898-EA-000",
+      "brand": "Whiskas",
+      "name": "Chicken & Rabbit Flavours Adult Dry Cat Food",
+      "displayName": "800g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 799,
+        "promoId": "128891417",
+        "comparativePrice": {
+          "pricePerUnit": 100,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "128891417",
+          "rewardValue": 799,
+          "decal": "7000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 100,
+            "unitQuantity": 100,
+            "unitQuantityUom": "g",
+            "measureDescription": "100g"
+          }
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Pets",
+          "level1": "Pet Supplies",
+          "level2": "Cat Food"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5325821-EA-000",
+      "brand": "Whiskas",
+      "name": "Sardine & Prawn Flavours Adult Dry Cat Food",
+      "displayName": "800g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 799,
+        "promoId": "128891417",
+        "comparativePrice": {
+          "pricePerUnit": 100,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "128891417",
+          "rewardValue": 799,
+          "decal": "7000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 100,
+            "unitQuantity": 100,
+            "unitQuantityUom": "g",
+            "measureDescription": "100g"
+          }
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Pets",
+          "level1": "Pet Supplies",
+          "level2": "Cat Food"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5325761-EA-000",
+      "brand": "Whiskas",
+      "name": "Chicken & Rabbit Flavours Adult Dry Cat Food",
+      "displayName": "1.8kg",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 1899,
+        "comparativePrice": {
+          "pricePerUnit": 106,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "categoryTrees": [
+        {
+          "level0": "Pets",
+          "level1": "Pet Supplies",
+          "level2": "Cat Food"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5325760-EA-000",
+      "brand": "Whiskas",
+      "name": "Chicken & Rabbit Flavours Adult Dry Cat Food",
+      "displayName": "3kg",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 2699,
+        "promoId": "128891412",
+        "comparativePrice": {
+          "pricePerUnit": 90,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "128891412",
+          "rewardValue": 2699,
+          "decal": "7000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 90,
+            "unitQuantity": 100,
+            "unitQuantityUom": "g",
+            "measureDescription": "100g"
+          }
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Pets",
+          "level1": "Pet Supplies",
+          "level2": "Cat Food"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5325759-EA-000",
+      "brand": "Whiskas",
+      "name": "Sardine & Prawn Flavours Dry Cat Food",
+      "displayName": "1.8kg",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 1899,
+        "comparativePrice": {
+          "pricePerUnit": 106,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "categoryTrees": [
+        {
+          "level0": "Pets",
+          "level1": "Pet Supplies",
+          "level2": "Cat Food"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5325758-EA-000",
+      "brand": "Whiskas",
+      "name": "Beef & Lamb Flavours Adult Dry Cat Food",
+      "displayName": "1.8kg",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 1899,
+        "comparativePrice": {
+          "pricePerUnit": 106,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "categoryTrees": [
+        {
+          "level0": "Pets",
+          "level1": "Pet Supplies",
+          "level2": "Cat Food"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5325756-EA-000",
+      "brand": "Whiskas",
+      "name": "Sardine & Prawn Flavour Adult Dry Cat Food",
+      "displayName": "3kg",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 2699,
+        "promoId": "128891412",
+        "comparativePrice": {
+          "pricePerUnit": 90,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "128891412",
+          "rewardValue": 2699,
+          "decal": "7000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 90,
+            "unitQuantity": 100,
+            "unitQuantityUom": "g",
+            "measureDescription": "100g"
+          }
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Pets",
+          "level1": "Pet Supplies",
+          "level2": "Cat Food"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5325755-EA-000",
+      "brand": "Whiskas",
+      "name": "Tuna & Sardine Flavours Adult Dry Cat Food",
+      "displayName": "800g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 799,
+        "promoId": "128891417",
+        "comparativePrice": {
+          "pricePerUnit": 100,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "128891417",
+          "rewardValue": 799,
+          "decal": "7000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 100,
+            "unitQuantity": 100,
+            "unitQuantityUom": "g",
+            "measureDescription": "100g"
+          }
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Pets",
+          "level1": "Pet Supplies",
+          "level2": "Cat Food"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5325754-EA-000",
+      "brand": "Whiskas",
+      "name": "Furball Sardine & Prawn Flavours Adult Dry Cat Food",
+      "displayName": "800g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 799,
+        "promoId": "128891417",
+        "comparativePrice": {
+          "pricePerUnit": 100,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "128891417",
+          "rewardValue": 799,
+          "decal": "7000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 100,
+            "unitQuantity": 100,
+            "unitQuantityUom": "g",
+            "measureDescription": "100g"
+          }
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Pets",
+          "level1": "Pet Supplies",
+          "level2": "Cat Food"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5324890-EA-000",
+      "brand": "Purina ONE",
+      "name": "Healthy Kitten With Chicken In Gravy Wet Cat Food",
+      "displayName": "70g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 139,
+        "promoId": "128954457",
+        "comparativePrice": {
+          "pricePerUnit": 199,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "128954457",
+          "rewardValue": 139,
+          "decal": "6000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 199,
+            "unitQuantity": 100,
+            "unitQuantityUom": "g",
+            "measureDescription": "100g"
+          }
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Pets",
+          "level1": "Pet Supplies",
+          "level2": "Cat Food"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5324567-EA-000",
+      "brand": "Purina ONE",
+      "name": "Urinary Care Chicken Cat Food 1+ Year",
+      "displayName": "70g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 139,
+        "promoId": "128954457",
+        "comparativePrice": {
+          "pricePerUnit": 199,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "128954457",
+          "rewardValue": 139,
+          "decal": "6000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 199,
+            "unitQuantity": 100,
+            "unitQuantityUom": "g",
+            "measureDescription": "100g"
+          }
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Pets",
+          "level1": "Pet Supplies",
+          "level2": "Bird Supplies"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5324565-EA-000",
+      "brand": "Purina ONE",
+      "name": "Healthy Kitten With Chicken In Gravy Wet Cat Food",
+      "displayName": "12 x 70g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 1899,
+        "comparativePrice": {
+          "pricePerUnit": 226,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "categoryTrees": [
+        {
+          "level0": "Pets",
+          "level1": "Pet Supplies",
+          "level2": "Cat Food"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5324564-EA-000",
+      "brand": "Purina ONE",
+      "name": "Mature Adult With Chicken In Gravy 7+ Years Wet Cat Food",
+      "displayName": "70g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 139,
+        "promoId": "128954457",
+        "comparativePrice": {
+          "pricePerUnit": 199,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "128954457",
+          "rewardValue": 139,
+          "decal": "6000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 199,
+            "unitQuantity": 100,
+            "unitQuantityUom": "g",
+            "measureDescription": "100g"
+          }
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Pets",
+          "level1": "Pet Supplies",
+          "level2": "Cat Food"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5324563-EA-000",
+      "brand": "Purina ONE",
+      "name": "Coat & Hairball With Chicken With Chicken Wet Cat Food",
+      "displayName": "70g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 139,
+        "promoId": "128954457",
+        "comparativePrice": {
+          "pricePerUnit": 199,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "128954457",
+          "rewardValue": 139,
+          "decal": "6000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 199,
+            "unitQuantity": 100,
+            "unitQuantityUom": "g",
+            "measureDescription": "100g"
+          }
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Pets",
+          "level1": "Pet Supplies",
+          "level2": "Cat Food"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5324562-EA-000",
+      "brand": "Purina ONE",
+      "name": "Healthy Adult Ocean Fish Cat Food",
+      "displayName": "70g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 139,
+        "promoId": "128954457",
+        "comparativePrice": {
+          "pricePerUnit": 199,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "128954457",
+          "rewardValue": 139,
+          "decal": "6000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 199,
+            "unitQuantity": 100,
+            "unitQuantityUom": "g",
+            "measureDescription": "100g"
+          }
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Pets",
+          "level1": "Pet Supplies",
+          "level2": "Cat Food"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5324561-EA-000",
+      "brand": "Purina ONE",
+      "name": "Healthy Adult With OceanFish In Gravy Wet Cat Food",
+      "displayName": "12 x 70g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 1899,
+        "comparativePrice": {
+          "pricePerUnit": 226,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "categoryTrees": [
+        {
+          "level0": "Pets",
+          "level1": "Pet Supplies",
+          "level2": "Cat Food"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5324560-EA-000",
+      "brand": "Purina ONE",
+      "name": "Urinary Care With Chicken In Gravy Wet Cat Food",
+      "displayName": "12 x 70g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 1899,
+        "comparativePrice": {
+          "pricePerUnit": 226,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "categoryTrees": [
+        {
+          "level0": "Pets",
+          "level1": "Pet Supplies",
+          "level2": "Cat Food"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5323884-EA-000",
+      "brand": "Purina Fancy Feast",
+      "name": "Grilled Salmon Feast In Gravy Adult Wet Cat Food",
+      "displayName": "85g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 169,
+        "comparativePrice": {
+          "pricePerUnit": 199,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "categoryTrees": [
+        {
+          "level0": "Pets",
+          "level1": "Pet Supplies",
+          "level2": "Cat Food"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5323883-EA-000",
+      "brand": "Purina Fancy Feast",
+      "name": "Grilled Chicken & Beef Feast In Gravy Adult Wet Cat Food",
+      "displayName": "85g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 169,
+        "comparativePrice": {
+          "pricePerUnit": 199,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "categoryTrees": [
+        {
+          "level0": "Pets",
+          "level1": "Pet Supplies",
+          "level2": "Cat Food"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5323882-EA-000",
+      "brand": "Purina Fancy Feast",
+      "name": "Grilled Ocean Whitefish & Tuna Feast In Gravy Adult Wet Cat Food",
+      "displayName": "85g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 169,
+        "comparativePrice": {
+          "pricePerUnit": 199,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "categoryTrees": [
+        {
+          "level0": "Pets",
+          "level1": "Pet Supplies",
+          "level2": "Cat Food"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5323881-EA-000",
+      "brand": "Purina Fancy Feast",
+      "name": "Grilled Liver & Chicken Feast In Gravy Adult Wet Cat Food",
+      "displayName": "85g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 169,
+        "comparativePrice": {
+          "pricePerUnit": 199,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "categoryTrees": [
+        {
+          "level0": "Pets",
+          "level1": "Pet Supplies",
+          "level2": "Cat Food"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5323880-EA-000",
+      "brand": "Purina Fancy Feast",
+      "name": "Grilled Chicken Feast In Gravy Adult Wet Cat Food",
+      "displayName": "85g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 169,
+        "comparativePrice": {
+          "pricePerUnit": 199,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "categoryTrees": [
+        {
+          "level0": "Pets",
+          "level1": "Pet Supplies",
+          "level2": "Cat Food"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5323879-EA-000",
+      "brand": "Purina Fancy Feast",
+      "name": "Grilled Tuna Feast In Gravy Adult Wet Cat Food",
+      "displayName": "85g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 169,
+        "comparativePrice": {
+          "pricePerUnit": 199,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "categoryTrees": [
+        {
+          "level0": "Pets",
+          "level1": "Pet Supplies",
+          "level2": "Cat Food"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5323878-EA-000",
+      "brand": "Purina Fancy Feast",
+      "name": "Gravy Lovers Ocean Whitefish & Tuna Feast In Sauteed Seafood Flavoured Gravy Adult Wet Cat Food",
+      "displayName": "85g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 169,
+        "comparativePrice": {
+          "pricePerUnit": 199,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "categoryTrees": [
+        {
+          "level0": "Pets",
+          "level1": "Pet Supplies",
+          "level2": "Cat Food"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5323877-EA-000",
+      "brand": "Purina Fancy Feast",
+      "name": "Gravy Lovers Salmon Feast In Seared Salmon Flavoured Gravy Adult Wet Cat Food",
+      "displayName": "85g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 169,
+        "comparativePrice": {
+          "pricePerUnit": 199,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "categoryTrees": [
+        {
+          "level0": "Pets",
+          "level1": "Pet Supplies",
+          "level2": "Cat Food"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5323876-EA-000",
+      "brand": "Purina Fancy Feast",
+      "name": "Gravy Lovers Beef Feast In Beef Flavoured Gravy Adult Wet Cat Food",
+      "displayName": "85g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 169,
+        "comparativePrice": {
+          "pricePerUnit": 199,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "categoryTrees": [
+        {
+          "level0": "Pets",
+          "level1": "Pet Supplies",
+          "level2": "Cat Food"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5323875-EA-000",
+      "brand": "Purina Fancy Feast",
+      "name": "Gravy Lovers Chicken Feast In Chicken Flavoured Gravy Adult Wet Cat Food",
+      "displayName": "85g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 169,
+        "comparativePrice": {
+          "pricePerUnit": 199,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "categoryTrees": [
+        {
+          "level0": "Pets",
+          "level1": "Pet Supplies",
+          "level2": "Cat Food"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5323874-EA-000",
+      "brand": "Purina Fancy Feast",
+      "name": "Beef & Chicken Feast Classic Pate Adult Wet Cat Food",
+      "displayName": "85g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 169,
+        "comparativePrice": {
+          "pricePerUnit": 199,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "categoryTrees": [
+        {
+          "level0": "Pets",
+          "level1": "Pet Supplies",
+          "level2": "Cat Food"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5323873-EA-000",
+      "brand": "Purina Fancy Feast",
+      "name": "Seniors 7+ Chicken Feast Classic Pate Adult Wet Cat Food",
+      "displayName": "85g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 169,
+        "comparativePrice": {
+          "pricePerUnit": 199,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "categoryTrees": [
+        {
+          "level0": "Pets",
+          "level1": "Pet Supplies",
+          "level2": "Cat Food"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5323872-EA-000",
+      "brand": "Purina Fancy Feast",
+      "name": "Tender Chicken Feast Classic Pate Kitten Wet Cat Food",
+      "displayName": "85g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 169,
+        "comparativePrice": {
+          "pricePerUnit": 199,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "categoryTrees": [
+        {
+          "level0": "Pets",
+          "level1": "Pet Supplies",
+          "level2": "Cat Food"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5323871-EA-000",
+      "brand": "Purina Fancy Feast",
+      "name": "Chicken Feast Classic Pate Adult Wet Cat Food",
+      "displayName": "85g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 169,
+        "comparativePrice": {
+          "pricePerUnit": 199,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "categoryTrees": [
+        {
+          "level0": "Pets",
+          "level1": "Pet Supplies",
+          "level2": "Cat Food"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5323870-EA-000",
+      "brand": "Purina Fancy Feast",
+      "name": "Chicken & Liver Feast Classic Pate Adult Wet Cat Food",
+      "displayName": "85g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 169,
+        "comparativePrice": {
+          "pricePerUnit": 199,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "categoryTrees": [
+        {
+          "level0": "Pets",
+          "level1": "Pet Supplies",
+          "level2": "Cat Food"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5323869-EA-000",
+      "brand": "Purina Fancy Feast",
+      "name": "Savoury Salmon Feast Classic Pate Adult Wet Cat Food",
+      "displayName": "85g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 169,
+        "comparativePrice": {
+          "pricePerUnit": 199,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "categoryTrees": [
+        {
+          "level0": "Pets",
+          "level1": "Pet Supplies",
+          "level2": "Cat Food"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5323868-EA-000",
+      "brand": "Purina Fancy Feast",
+      "name": "Ocean Whitefish & Tuna Feast Classic Pate Adult Wet Cat Food",
+      "displayName": "85g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 169,
+        "comparativePrice": {
+          "pricePerUnit": 199,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "categoryTrees": [
+        {
+          "level0": "Pets",
+          "level1": "Pet Supplies",
+          "level2": "Cat Food"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5323558-EA-000",
+      "brand": "VitaPet",
+      "name": "Adult Thrive Lamb Dry Dog Food",
+      "displayName": "3kg",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 2399,
+        "promoId": "128943810",
+        "comparativePrice": {
+          "pricePerUnit": 80,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "128943810",
+          "rewardValue": 2399,
+          "decal": "6000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 80,
+            "unitQuantity": 100,
+            "unitQuantityUom": "g",
+            "measureDescription": "100g"
+          }
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Pets",
+          "level1": "Pet Supplies",
+          "level2": "Dog Food"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5323557-EA-000",
+      "brand": "VitaPet",
+      "name": "Adult Thrive Chicken Dry Dog Food",
+      "displayName": "3kg",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 2399,
+        "promoId": "128943810",
+        "comparativePrice": {
+          "pricePerUnit": 80,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "128943810",
+          "rewardValue": 2399,
+          "decal": "6000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 80,
+            "unitQuantity": 100,
+            "unitQuantityUom": "g",
+            "measureDescription": "100g"
+          }
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Pets",
+          "level1": "Pet Supplies",
+          "level2": "Dog Food"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5323555-EA-000",
+      "brand": "VitaPet",
+      "name": "Large Breed Puppy & Junior Growth Chicken Dry Dog Food",
+      "displayName": "3kg",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 2399,
+        "promoId": "128943810",
+        "comparativePrice": {
+          "pricePerUnit": 80,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "128943810",
+          "rewardValue": 2399,
+          "decal": "6000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 80,
+            "unitQuantity": 100,
+            "unitQuantityUom": "g",
+            "measureDescription": "100g"
+          }
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Pets",
+          "level1": "Pet Supplies",
+          "level2": "Dog Food"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5323435-EA-000",
+      "brand": "Purina Oscar",
+      "name": "Oscar Sensations Jellies Fish Selection Wet Cat Food",
+      "displayName": "12 x 85g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 1449,
+        "comparativePrice": {
+          "pricePerUnit": 142,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "categoryTrees": [
+        {
+          "level0": "Pets",
+          "level1": "Pet Supplies",
+          "level2": "Cat Food"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5323434-EA-000",
+      "brand": "Purina Oscar",
+      "name": "Oscar Sensations Jellies Mixed Menu Wet Cat Food",
+      "displayName": "12 x 85g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 1449,
+        "comparativePrice": {
+          "pricePerUnit": 142,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "categoryTrees": [
+        {
+          "level0": "Pets",
+          "level1": "Pet Supplies",
+          "level2": "Cat Food"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5323432-EA-000",
+      "brand": "Purina Oscar",
+      "name": "Oscar Sensations Jellies Meat Selection Wet Cat Food",
+      "displayName": "12 x 85g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 1449,
+        "comparativePrice": {
+          "pricePerUnit": 142,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "categoryTrees": [
+        {
+          "level0": "Pets",
+          "level1": "Pet Supplies",
+          "level2": "Cat Food"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5321513-EA-000",
+      "brand": "Vamoose",
+      "name": "Colours & Whites Stain Remover",
+      "displayName": "500ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 649,
+        "promoId": "128929554",
+        "comparativePrice": {
+          "pricePerUnit": 130,
+          "unitQuantity": 100,
+          "unitQuantityUom": "ml",
+          "measureDescription": "100ml"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "128929554",
+          "rewardValue": 649,
+          "decal": "6000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 130,
+            "unitQuantity": 100,
+            "unitQuantityUom": "ml",
+            "measureDescription": "100ml"
+          }
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Pets",
+          "level1": "Pet Supplies",
+          "level2": "Pet Treatments"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5321510-EA-000",
+      "brand": "Vamoose",
+      "name": "Oil & Grease Stain Remover",
+      "displayName": "500ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 649,
+        "promoId": "128929554",
+        "comparativePrice": {
+          "pricePerUnit": 130,
+          "unitQuantity": 100,
+          "unitQuantityUom": "ml",
+          "measureDescription": "100ml"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "128929554",
+          "rewardValue": 649,
+          "decal": "6000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 130,
+            "unitQuantity": 100,
+            "unitQuantityUom": "ml",
+            "measureDescription": "100ml"
+          }
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Pets",
+          "level1": "Pet Supplies",
+          "level2": "Pet Treatments"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5321509-EA-000",
+      "brand": "Vamoose",
+      "name": "Brighter Whites Stain Remover",
+      "displayName": "1kg",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 699,
+        "promoId": "128929551",
+        "comparativePrice": {
+          "pricePerUnit": 70,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "128929551",
+          "rewardValue": 699,
+          "decal": "6000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 70,
+            "unitQuantity": 100,
+            "unitQuantityUom": "g",
+            "measureDescription": "100g"
+          }
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Pets",
+          "level1": "Pet Supplies",
+          "level2": "Pet Treatments"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5316457-EA-000",
+      "brand": "Jimbo's",
+      "name": "Beef Cat Food",
+      "displayName": "800g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 1139,
+        "comparativePrice": {
+          "pricePerUnit": 142,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "categoryTrees": [
+        {
+          "level0": "Pets",
+          "level1": "Pet Supplies",
+          "level2": "Cat Food"
+        }
+      ],
+      "cateredFlag": false
+    }
+  ],
+  "algoliaSearchResult": {
+    "facets": {
+      "brand": {
+        "VitaPet": 48,
+        "Whiskas": 37,
+        "Dine": 30,
+        "Purina Fancy Feast": 26,
+        "Chef": 23,
+        "Fussy Cat": 19,
+        "Temptations": 16,
+        "Pedigree": 15,
+        "Purina ONE": 15,
+        "Jimbo's": 14,
+        "Pams": 13,
+        "My Dog": 12,
+        "Purina Oscar": 12,
+        "Value": 11,
+        "Purina TUX": 10,
+        "Schmackos": 10,
+        "Purina Friskies": 9,
+        "Farmers Market": 7,
+        "IAMS": 6,
+        "Perfect": 6,
+        "Butch": 5,
+        "Natures Goodness": 5,
+        "Superior": 5,
+        "Love'em": 4,
+        "Nature's Gift": 4,
+        "Animals Like Us": 3,
+        "Optimum": 3,
+        "Purina": 3,
+        "V.I.P Petfoods": 3,
+        "Vamoose": 3,
+        "Love Em": 2,
+        "Possyum": 2,
+        "Purina Cat Chow": 2,
+        "Wag": 2,
+        "Champ": 1,
+        "Ecopack": 1,
+        "Fackelmann": 1,
+        "Hound Log": 1,
+        "Purina Kitten Chow": 1,
+        "Ranchmans": 1,
+        "Tasti": 1
+      },
+      "category1NI": {
+        "Pet Supplies": 392,
+        "Pams": 2
+      },
+      "onPromotion": {
+        "90082979-fb9f-4305-9c72-83274fc438cc": 157,
+        "61dd754e-8525-4b9e-9e08-173389eea8a8": 146,
+        "b29a98bd-749c-489c-9eef-6aa38e66a29b": 145,
+        "be4c4780-218e-425a-a90f-63e21773572b": 144,
+        "c180a72d-5dbe-4403-b7c7-91655e505492": 143,
+        "c3f9e1a3-fc34-452d-af2e-95349e666ba4": 143,
+        "3c5e3145-0767-4066-9349-6c0a1313acc5": 142,
+        "5cf0392f-c187-4fc4-a463-eb269d2e8f45": 142,
+        "2ed73be8-936d-4f35-9398-75a707f40a7b": 139,
+        "21ecaaed-0749-4492-985e-4bb7ba43d59c": 138,
+        "dbca5e00-f7f9-43ae-91de-031ad16f8a92": 135,
+        "4a279605-eaa8-470d-bcd4-0a9e3c9ab43b": 132,
+        "3404c253-577f-45ca-b301-c98312e46efb": 131,
+        "715f0e22-95e0-45ce-af3a-07057209976e": 131,
+        "8cd700ae-d96f-4761-bd7a-805d6b93536d": 130,
+        "d8032da3-c1b9-456e-b626-41ce21f8c67b": 129,
+        "3bb30799-82ce-4648-8c02-5113228963ed": 126,
+        "c2204dae-579e-4b6b-9d42-2e13ceaa6031": 122,
+        "64eab5b1-8d79-45f4-94f1-02b8cf8b6202": 120,
+        "53989945-1a28-481d-a61c-d6f75f760ada": 117,
+        "15e6f441-5c1c-4d25-b4ec-1adf918c49c7": 115,
+        "8f0d70be-5cb7-464b-99cb-8b0130671895": 115,
+        "92086ded-a55d-4241-a364-7d7ea91531b4": 114,
+        "6e6809dd-01bc-45c9-aab1-f01ccd8338b0": 111,
+        "d6d39eea-889d-4e20-923c-55cab225cf7f": 109,
+        "65defcf2-bc15-490e-a84f-1f13b769cd22": 107,
+        "a7d09522-bee2-41e4-8fe0-0b82b7f342f5": 106,
+        "b2e98a14-c8ca-401e-99ed-edf74570c6f6": 106,
+        "1c388d5e-29ac-4956-b476-cb3431353d2e": 104,
+        "e1925ea7-01bc-4358-ae7c-c6502da5ab12": 103,
+        "01a114de-149c-4f5f-80a1-90cc63f69c6e": 99,
+        "5f167936-79ae-4f6a-b9d2-74afe1bb096b": 97,
+        "4fcc1c8e-cc5e-4675-ba25-5e56b579cf69": 95,
+        "49037947-e450-49bf-ba1f-a94551c79a72": 92,
+        "714431ab-6e39-4df6-ac77-cfc5c1e25bc8": 91,
+        "6cda96e1-7d29-44a6-956b-3fcfdecc8184": 90,
+        "48dd98cc-a757-4102-b15d-ea82b4b10571": 89,
+        "b92cc33f-b5a8-4b57-9b82-412946800020": 89,
+        "d1cd1fdd-8767-46a6-a8d3-c3e0632c2dc8": 87,
+        "7d48a781-4f68-4c91-a908-8659e1b22f95": 84,
+        "33d8d6fc-861a-45ff-9937-5ccdb55eaede": 82,
+        "529d66cc-60e3-432e-b8d1-efc9f2ec4919": 81,
+        "6c73764e-b8e6-4e55-ad37-f6a9d207da1f": 81,
+        "60561e46-ece7-43a7-b142-9b14812586e4": 79,
+        "3bfe040b-f0c9-45e0-949b-b9ad5a591d55": 71,
+        "b83029b6-5dd5-449e-8056-26f3943a4e18": 66,
+        "b39562a4-2b72-43fe-b9ba-eda1d651ad0b": 62,
+        "076e8177-943b-41fc-a885-ba3d28297acf": 55,
+        "3e82142c-78dc-46f3-82ec-28e65fcf84c9": 51,
+        "98ec3885-ac93-4fcb-807b-59c9055c52c4": 51,
+        "af385423-d0f1-41f0-9482-ffd10b745143": 45,
+        "c0f80e87-16be-4488-9553-da437e8c6c2a": 45,
+        "50b1216b-d066-4457-b88b-9bccf97bf6d3": 44,
+        "94ef1985-cab1-4b39-a2f3-230120f03c16": 44,
+        "9cd8eb60-3222-4efc-bd7c-50e03e6a81a4": 36
+      },
+      "productFacets": {
+        "Non-GMO": 66,
+        "Low Sugar": 13,
+        "Gluten Free": 10,
+        "Dairy Free": 9,
+        "Low Salt": 4,
+        "Cage Free": 3,
+        "Low Fat": 3,
+        "Free Range": 2
+      }
+    }
+  },
+  "totalHits": 392,
+  "page": 5,
+  "totalPages": 8,
+  "hitsPerPage": 50
+}

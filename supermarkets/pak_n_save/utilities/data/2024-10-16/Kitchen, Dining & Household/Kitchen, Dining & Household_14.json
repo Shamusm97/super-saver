@@ -1,0 +1,1750 @@
+{
+  "tobaccoProducts": false,
+  "products": [
+    {
+      "productId": "5005707-EA-000",
+      "brand": "Energizer",
+      "name": "Max D Battery",
+      "displayName": "2pk",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 1189,
+        "comparativePrice": {
+          "pricePerUnit": 595,
+          "unitQuantity": 1,
+          "unitQuantityUom": "ea",
+          "measureDescription": "ea"
+        }
+      },
+      "categoryTrees": [
+        {
+          "level0": "Kitchen, Dining & Household",
+          "level1": "Household",
+          "level2": "Batteries"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5022745-EA-000",
+      "brand": "Korbond",
+      "name": "Number 2 Candle",
+      "displayName": "1ea",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 149
+      },
+      "categoryTrees": [
+        {
+          "level0": "Kitchen, Dining & Household",
+          "level1": "Household",
+          "level2": "Party Supplies"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5017745-EA-000",
+      "brand": "Sistema",
+      "name": "Klip It Large Microwave Soup Mug",
+      "displayName": "ea",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 839
+      },
+      "categoryTrees": [
+        {
+          "level0": "Kitchen, Dining & Household",
+          "level1": "Household",
+          "level2": "Food Storage"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5200393-EA-000",
+      "brand": "Raid",
+      "name": "One Shot Target Kill Crawling Insects Surface Spray",
+      "displayName": "300g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 999,
+        "comparativePrice": {
+          "pricePerUnit": 333,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "categoryTrees": [
+        {
+          "level0": "Kitchen, Dining & Household",
+          "level1": "Household",
+          "level2": "Pest & Insect Control"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5267723-EA-000",
+      "brand": "Easiyo",
+      "name": "Black Yoghurt Maker & Jar",
+      "displayName": "ea",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 2299
+      },
+      "categoryTrees": [
+        {
+          "level0": "Fresh Foods & Bakery",
+          "level1": "Dairy & Eggs",
+          "level2": "Yoghurt Bases"
+        },
+        {
+          "level0": "Chilled, Frozen & Desserts",
+          "level1": "Dairy & Eggs",
+          "level2": "Yoghurt Bases"
+        },
+        {
+          "level0": "Kitchen, Dining & Household",
+          "level1": "Household",
+          "level2": "Kitchenware"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5097074-EA-000",
+      "brand": "The Gardener",
+      "name": "Coloured Latex Palm Gloves Medium Pink, Yellow or Mauve",
+      "displayName": "1ea",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 399,
+        "promoId": "128887226"
+      },
+      "promotions": [
+        {
+          "promoId": "128887226",
+          "rewardValue": 399,
+          "decal": "7000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Kitchen, Dining & Household",
+          "level1": "Cleaning Products",
+          "level2": "Cleaning Accessories"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5002335-EA-000",
+      "brand": "Olympic",
+      "name": "Memo Cube Half Height Refill",
+      "displayName": "1pk",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 499
+      },
+      "categoryTrees": [
+        {
+          "level0": "Kitchen, Dining & Household",
+          "level1": "Stationery & Entertainment",
+          "level2": "Stationery & Craft"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5256863-EA-000",
+      "brand": "Pams",
+      "name": "Stainless Steel Slotted Turner",
+      "displayName": "1ea",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 779
+      },
+      "categoryTrees": [
+        {
+          "level0": "Kitchen, Dining & Household",
+          "level1": "Household",
+          "level2": "Kitchenware"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5029940-EA-000",
+      "brand": "Woman's Weekly",
+      "name": "English Magazine",
+      "displayName": "1pk",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 450
+      },
+      "categoryTrees": [
+        {
+          "level0": "Kitchen, Dining & Household",
+          "level1": "Stationery & Entertainment",
+          "level2": "Magazines"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5243768-EA-000",
+      "brand": "Effects",
+      "name": "Double Layer Microfibre Dishcloths",
+      "displayName": "2pk",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 599
+      },
+      "categoryTrees": [
+        {
+          "level0": "Kitchen, Dining & Household",
+          "level1": "Cleaning Products",
+          "level2": "Cleaning Accessories"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5005708-EA-000",
+      "brand": "Energizer",
+      "name": "Max C Battery",
+      "displayName": "2pk",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 1099,
+        "comparativePrice": {
+          "pricePerUnit": 550,
+          "unitQuantity": 1,
+          "unitQuantityUom": "ea",
+          "measureDescription": "ea"
+        }
+      },
+      "categoryTrees": [
+        {
+          "level0": "Kitchen, Dining & Household",
+          "level1": "Household",
+          "level2": "Batteries"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5215209-EA-000",
+      "brand": "Filta",
+      "name": "Hoover Vacuum Bags",
+      "displayName": "5pk",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 1099
+      },
+      "categoryTrees": [
+        {
+          "level0": "Kitchen, Dining & Household",
+          "level1": "Household",
+          "level2": "Rubbish & Vacuum Bags"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5011904-EA-000",
+      "brand": "3M",
+      "name": "Command Large Utility Hook",
+      "displayName": "1pk",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 889
+      },
+      "categoryTrees": [
+        {
+          "level0": "Kitchen, Dining & Household",
+          "level1": "Garage & Outdoor",
+          "level2": "Hooks"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5256892-EA-000",
+      "brand": "Pams",
+      "name": "Knife Sharpener",
+      "displayName": "1ea",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 599
+      },
+      "categoryTrees": [
+        {
+          "level0": "Kitchen, Dining & Household",
+          "level1": "Household",
+          "level2": "Kitchenware"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5288399-EA-000",
+      "brand": "Sistema",
+      "name": "Square Large Storage Container 2.75L",
+      "displayName": "1pk",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 1939
+      },
+      "categoryTrees": [
+        {
+          "level0": "Kitchen, Dining & Household",
+          "level1": "Household",
+          "level2": "Food Storage"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5025942-EA-000",
+      "brand": "Rug Doctor",
+      "name": "Stain Remover",
+      "displayName": "500ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 1009,
+        "promoId": "128879808",
+        "comparativePrice": {
+          "pricePerUnit": 202,
+          "unitQuantity": 100,
+          "unitQuantityUom": "ml",
+          "measureDescription": "100ml"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "128879808",
+          "rewardValue": 1009,
+          "decal": "6000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 202,
+            "unitQuantity": 100,
+            "unitQuantityUom": "ml",
+            "measureDescription": "100ml"
+          }
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Kitchen, Dining & Household",
+          "level1": "Cleaning Products",
+          "level2": "Carpet & Floor Cleaners"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5013039-EA-000",
+      "brand": "Ecostore",
+      "name": "Powerful Clean Fresh Lemon Liquid Scourer",
+      "displayName": "375ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 449,
+        "promoId": "128977770",
+        "comparativePrice": {
+          "pricePerUnit": 120,
+          "unitQuantity": 100,
+          "unitQuantityUom": "ml",
+          "measureDescription": "100ml"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "128977770",
+          "rewardValue": 449,
+          "decal": "6000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 120,
+            "unitQuantity": 100,
+            "unitQuantityUom": "ml",
+            "measureDescription": "100ml"
+          }
+        }
+      ],
+      "facets": [
+        {
+          "itemCode": "00020013",
+          "itemDescription": "Vegan"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Kitchen, Dining & Household",
+          "level1": "Cleaning Products",
+          "level2": "Cleaning Accessories"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5045319-EA-000",
+      "brand": "Sabco",
+      "name": "Lightning Squeeze Mop Refill",
+      "displayName": "1pk",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 999
+      },
+      "categoryTrees": [
+        {
+          "level0": "Kitchen, Dining & Household",
+          "level1": "Cleaning Products",
+          "level2": "Cleaning Accessories"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5023469-EA-000",
+      "brand": "Homeliving",
+      "name": "Muffin Cases",
+      "displayName": "50ea",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 369,
+        "comparativePrice": {
+          "pricePerUnit": 738,
+          "unitQuantity": 100,
+          "unitQuantityUom": " ",
+          "measureDescription": "100"
+        }
+      },
+      "categoryTrees": [
+        {
+          "level0": "Kitchen, Dining & Household",
+          "level1": "Household",
+          "level2": "Cooking & Bakeware"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5264772-EA-000",
+      "brand": "Effects",
+      "name": "Nonscratch Cellulose Sponges",
+      "displayName": "4pk",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 299,
+        "promoId": "128993949"
+      },
+      "promotions": [
+        {
+          "promoId": "128993949",
+          "rewardValue": 299,
+          "decal": "7000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Kitchen, Dining & Household",
+          "level1": "Cleaning Products",
+          "level2": "Cleaning Accessories"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5028578-EA-000",
+      "brand": "Bic",
+      "name": "White-Out Quick Dry Correction Fluid",
+      "displayName": "1pk",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 349
+      },
+      "categoryTrees": [
+        {
+          "level0": "Kitchen, Dining & Household",
+          "level1": "Stationery & Entertainment",
+          "level2": "Stationery & Craft"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5288398-EA-000",
+      "brand": "Sistema",
+      "name": "Square Large Storage Container 1.4L",
+      "displayName": "1pk",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 1639
+      },
+      "categoryTrees": [
+        {
+          "level0": "Kitchen, Dining & Household",
+          "level1": "Household",
+          "level2": "Food Storage"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5016328-EA-000",
+      "brand": "Energizer",
+      "name": "Max D Battery",
+      "displayName": "4pk",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 1979,
+        "comparativePrice": {
+          "pricePerUnit": 495,
+          "unitQuantity": 1,
+          "unitQuantityUom": "ea",
+          "measureDescription": "ea"
+        }
+      },
+      "categoryTrees": [
+        {
+          "level0": "Kitchen, Dining & Household",
+          "level1": "Household",
+          "level2": "Batteries"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5211523-EA-000",
+      "brand": "Surv",
+      "name": "Designer Flora Napkins",
+      "displayName": "20pk",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 399,
+        "comparativePrice": {
+          "pricePerUnit": 20,
+          "unitQuantity": 1,
+          "unitQuantityUom": "ea",
+          "measureDescription": "ea"
+        }
+      },
+      "categoryTrees": [
+        {
+          "level0": "Kitchen, Dining & Household",
+          "level1": "Household",
+          "level2": "Disposable Tableware"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5022771-EA-000",
+      "brand": "Korbond",
+      "name": "Party Star Large Spiral Candles With Holders",
+      "displayName": "12pk",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 249
+      },
+      "categoryTrees": [
+        {
+          "level0": "Kitchen, Dining & Household",
+          "level1": "Household",
+          "level2": "Party Supplies"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5287098-EA-000",
+      "brand": "Ecostore",
+      "name": "Citrus Antibacterial Bathroom & Shower Cleaner Refill Concentrate",
+      "displayName": "50ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 529,
+        "comparativePrice": {
+          "pricePerUnit": 1058,
+          "unitQuantity": 100,
+          "unitQuantityUom": "ml",
+          "measureDescription": "100ml"
+        }
+      },
+      "categoryTrees": [
+        {
+          "level0": "Kitchen, Dining & Household",
+          "level1": "Cleaning Products",
+          "level2": "Bathroom & Shower Cleaners"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5220995-EA-000",
+      "brand": "Homeliving",
+      "name": "Cleaning Elegance Dish Brushes 2pc",
+      "displayName": "2ea",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 599,
+        "comparativePrice": {
+          "pricePerUnit": 300,
+          "unitQuantity": 1,
+          "unitQuantityUom": "ea",
+          "measureDescription": "ea"
+        }
+      },
+      "categoryTrees": [
+        {
+          "level0": "Kitchen, Dining & Household",
+          "level1": "Cleaning Products",
+          "level2": "Cleaning Accessories"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5285088-EA-000",
+      "brand": "Odor-Eaters",
+      "name": "Cool Confidence Foot & Shoe Spray",
+      "displayName": "150ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 1029,
+        "comparativePrice": {
+          "pricePerUnit": 686,
+          "unitQuantity": 100,
+          "unitQuantityUom": "ml",
+          "measureDescription": "100ml"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Kitchen, Dining & Household",
+          "level1": "Household",
+          "level2": "Shoe Care"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5022748-EA-000",
+      "brand": "Korbond",
+      "name": "Number 3 Candle",
+      "displayName": "1ea",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 149
+      },
+      "categoryTrees": [
+        {
+          "level0": "Kitchen, Dining & Household",
+          "level1": "Household",
+          "level2": "Party Supplies"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5022751-EA-000",
+      "brand": "Korbond",
+      "name": "Number 5 Candle",
+      "displayName": "1ea",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 149
+      },
+      "categoryTrees": [
+        {
+          "level0": "Kitchen, Dining & Household",
+          "level1": "Household",
+          "level2": "Party Supplies"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5256848-EA-000",
+      "brand": "Pams",
+      "name": "Non Stick 12 Cup Muffin Tin",
+      "displayName": "1ea",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 1649
+      },
+      "categoryTrees": [
+        {
+          "level0": "Kitchen, Dining & Household",
+          "level1": "Household",
+          "level2": "Cooking & Bakeware"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5018567-EA-000",
+      "brand": "Sistema",
+      "name": "Cake & Cupcake Holder",
+      "displayName": "ea",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 2449
+      },
+      "categoryTrees": [
+        {
+          "level0": "Kitchen, Dining & Household",
+          "level1": "Household",
+          "level2": "Cooking & Bakeware"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5212714-EA-000",
+      "brand": "Bic",
+      "name": "Evolution Graphite Pencil Plus Eraser",
+      "displayName": "4pk",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 399
+      },
+      "categoryTrees": [
+        {
+          "level0": "Kitchen, Dining & Household",
+          "level1": "Stationery & Entertainment",
+          "level2": "Stationery & Craft"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5011386-EA-000",
+      "brand": "Philips",
+      "name": "Essential Halogen 240v 50w Bulb",
+      "displayName": "2pk",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 1049,
+        "comparativePrice": {
+          "pricePerUnit": 525,
+          "unitQuantity": 1,
+          "unitQuantityUom": "ea",
+          "measureDescription": "ea"
+        }
+      },
+      "categoryTrees": [
+        {
+          "level0": "Kitchen, Dining & Household",
+          "level1": "Household",
+          "level2": "Light Bulbs"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5268708-EA-000",
+      "brand": "Spring Fresh",
+      "name": "100% Biodegradable Multi Purpose Cloths",
+      "displayName": "10pk",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 389,
+        "promoId": "128865406",
+        "comparativePrice": {
+          "pricePerUnit": 39,
+          "unitQuantity": 1,
+          "unitQuantityUom": "ea",
+          "measureDescription": "ea"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "128865406",
+          "rewardValue": 389,
+          "decal": "6000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 39,
+            "unitQuantity": 1,
+            "unitQuantityUom": "ea",
+            "measureDescription": "ea"
+          }
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Kitchen, Dining & Household",
+          "level1": "Cleaning Products",
+          "level2": "Cleaning Accessories"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5256149-EA-000",
+      "brand": "Pams",
+      "name": "Carbon Steel Wok 30cm",
+      "displayName": "1ea",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 2139
+      },
+      "categoryTrees": [
+        {
+          "level0": "Kitchen, Dining & Household",
+          "level1": "Household",
+          "level2": "Cooking & Bakeware"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5122018-EA-000",
+      "brand": "Effects",
+      "name": "Kitchen Toothpicks",
+      "displayName": "2pk",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 399,
+        "promoId": "128938119",
+        "comparativePrice": {
+          "pricePerUnit": 200,
+          "unitQuantity": 1,
+          "unitQuantityUom": "ea",
+          "measureDescription": "ea"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "128938119",
+          "rewardValue": 399,
+          "decal": "7000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 200,
+            "unitQuantity": 1,
+            "unitQuantityUom": "ea",
+            "measureDescription": "ea"
+          }
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Kitchen, Dining & Household",
+          "level1": "Household",
+          "level2": "Kitchenware"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5022570-EA-000",
+      "brand": "Korbond",
+      "name": "Party Star Sparkling Candles",
+      "displayName": "24pk",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 299
+      },
+      "categoryTrees": [
+        {
+          "level0": "Kitchen, Dining & Household",
+          "level1": "Household",
+          "level2": "Party Supplies"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5280531-EA-000",
+      "brand": "Hot Devil",
+      "name": "Micro Gas Torch",
+      "displayName": "1ea",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 699
+      },
+      "categoryTrees": [
+        {
+          "level0": "Kitchen, Dining & Household",
+          "level1": "Household",
+          "level2": "Fire Needs"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5006953-EA-000",
+      "brand": "Sistema",
+      "name": "Bake It 3.25l Container",
+      "displayName": "3.25l",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 1439
+      },
+      "categoryTrees": [
+        {
+          "level0": "Kitchen, Dining & Household",
+          "level1": "Household",
+          "level2": "Food Storage"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5102996-EA-000",
+      "brand": "Surv",
+      "name": "Biodegradable Side Plates 17.5cm",
+      "displayName": "25pk",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 449,
+        "comparativePrice": {
+          "pricePerUnit": 18,
+          "unitQuantity": 1,
+          "unitQuantityUom": "ea",
+          "measureDescription": "ea"
+        }
+      },
+      "categoryTrees": [
+        {
+          "level0": "Kitchen, Dining & Household",
+          "level1": "Household",
+          "level2": "Disposable Tableware"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5008500-EA-000",
+      "brand": "Filta",
+      "name": "Panasonic Vacuum Bags",
+      "displayName": "5pk",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 1099
+      },
+      "categoryTrees": [
+        {
+          "level0": "Kitchen, Dining & Household",
+          "level1": "Household",
+          "level2": "Rubbish & Vacuum Bags"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5011909-EA-000",
+      "brand": "3M",
+      "name": "Command Micro Hooks White",
+      "displayName": "3pk",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 819
+      },
+      "categoryTrees": [
+        {
+          "level0": "Kitchen, Dining & Household",
+          "level1": "Garage & Outdoor",
+          "level2": "Hooks"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5001805-EA-000",
+      "brand": "Gorilla",
+      "name": "Ultra Bonder Fix-It Super Glue",
+      "displayName": "ea",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 529
+      },
+      "categoryTrees": [
+        {
+          "level0": "Kitchen, Dining & Household",
+          "level1": "Garage & Outdoor",
+          "level2": "Glue & Adhesives"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5285464-EA-000",
+      "brand": "Korbond",
+      "name": "Cake Topper Acrylic Happy Birthday",
+      "displayName": "1ea",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 399
+      },
+      "categoryTrees": [
+        {
+          "level0": "Kitchen, Dining & Household",
+          "level1": "Household",
+          "level2": "Party Supplies"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5280511-EA-000",
+      "brand": "Hot Devil",
+      "name": "Flexi Lighter with Gas Refill",
+      "displayName": "1pk",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 699
+      },
+      "categoryTrees": [
+        {
+          "level0": "Kitchen, Dining & Household",
+          "level1": "Household",
+          "level2": "Fire Needs"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5082753-EA-000",
+      "brand": "Korbond",
+      "name": "Chilled Out Hot Water Bottle Cover Assorted",
+      "displayName": "ea",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 399,
+        "promoId": "128802494"
+      },
+      "promotions": [
+        {
+          "promoId": "128802494",
+          "rewardValue": 399,
+          "decal": "7000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Kitchen, Dining & Household",
+          "level1": "Household",
+          "level2": "Manchester"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5256868-EA-000",
+      "brand": "Pams",
+      "name": "Stainless Steel Solid Serving Spoon",
+      "displayName": "1ea",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 779
+      },
+      "categoryTrees": [
+        {
+          "level0": "Kitchen, Dining & Household",
+          "level1": "Household",
+          "level2": "Kitchenware"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5264427-EA-000",
+      "brand": "Effects",
+      "name": "Small Square Plastic Woven Basket",
+      "displayName": "ea",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 399,
+        "promoId": "128868692"
+      },
+      "promotions": [
+        {
+          "promoId": "128868692",
+          "rewardValue": 399,
+          "decal": "7000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Kitchen, Dining & Household",
+          "level1": "Household",
+          "level2": "Homeware"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5268140-EA-000",
+      "brand": "Pams",
+      "name": "Y Shaped Peeler Stainless Steel",
+      "displayName": "1ea",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 589
+      },
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Kitchen, Dining & Household",
+          "level1": "Household",
+          "level2": "Kitchenware"
+        }
+      ],
+      "cateredFlag": false
+    }
+  ],
+  "algoliaSearchResult": {
+    "facets": {
+      "brand": {
+        "Pams": 95,
+        "Value": 63,
+        "Korbond": 59,
+        "Effects": 57,
+        "Energizer": 48,
+        "Sistema": 36,
+        "Air Wick": 34,
+        "Philips": 33,
+        "Bic": 28,
+        "Glade": 27,
+        "Harpic": 25,
+        "Dettol": 24,
+        "Persil": 24,
+        "Finish": 23,
+        "Mortein": 23,
+        "Surv": 23,
+        "Duck": 21,
+        "Eveready": 20,
+        "Chux": 18,
+        "Homeliving": 18,
+        "Kate's Kitchen": 17,
+        "Vanish": 17,
+        "Zuru": 17,
+        "Surf": 15,
+        "Botanica": 13,
+        "Raid": 13,
+        "Real Value": 13,
+        "Best": 12,
+        "The Gardener": 12,
+        "Big Black Sacks": 11,
+        "Earthwise": 11,
+        "Ja-Ru": 11,
+        "Mr Muscle": 11,
+        "Warwick": 11,
+        "Ajax": 10,
+        "Ecostore": 10,
+        "Sellotape": 10,
+        "Snazzee": 10,
+        "Wonderdryer": 10,
+        "Easy-Off": 9,
+        "Fix It Today": 9,
+        "Fluffy": 9,
+        "Jackson": 9,
+        "Antares": 7,
+        "Cussons Morning Fresh": 7,
+        "Decor": 7,
+        "Holdfast": 7,
+        "Sorbent": 7,
+        "Ansell": 6,
+        "Cuddly": 6,
+        "Filta": 6,
+        "Jif": 6,
+        "Paseo": 6,
+        "Sabco": 6,
+        "Samba": 6,
+        "Spring Fresh": 6,
+        "3M": 5,
+        "Active": 5,
+        "Gorilla": 5,
+        "Janola": 5,
+        "Ziploc": 5,
+        "Fab": 4,
+        "Footcare": 4,
+        "Justsoundz": 4,
+        "Pams Value": 4,
+        "Rug Doctor": 4,
+        "Sistema TO GO": 4,
+        "TV Guide": 4,
+        "Tuffy": 4,
+        "Wiltshire": 4,
+        "Atomic": 3,
+        "Boomerang": 3,
+        "Cleanery": 3,
+        "Collins": 3,
+        "Croxley": 3,
+        "DampRid": 3,
+        "Dixon": 3,
+        "Fresha": 3,
+        "Glad": 3,
+        "Good Change": 3,
+        "Happy Birthday": 3,
+        "Hot Devil": 3,
+        "Kleenex": 3,
+        "Mattel": 3,
+        "Mono": 3,
+        "National Candle": 3,
+        "New Idea": 3,
+        "No Vac": 3,
+        "Ozkleen": 3,
+        "Palmolive": 3,
+        "Pledge": 3,
+        "Purex": 3,
+        "Seymours": 3,
+        "Smash": 3,
+        "Squishmallows": 3,
+        "30 Seconds": 2,
+        "Armor All": 2,
+        "Beehive": 2,
+        "Black Flag": 2,
+        "Brand Developers": 2
+      },
+      "category1NI": {
+        "Household": 660,
+        "Cleaning Products": 338,
+        "Stationery & Entertainment": 196,
+        "Laundry": 115,
+        "Garage & Outdoor": 60,
+        "Pams": 45,
+        "Baby Care": 1,
+        "Dairy & Eggs": 1
+      },
+      "onPromotion": {
+        "21ecaaed-0749-4492-985e-4bb7ba43d59c": 233,
+        "48dd98cc-a757-4102-b15d-ea82b4b10571": 194,
+        "7d48a781-4f68-4c91-a908-8659e1b22f95": 190,
+        "3c5e3145-0767-4066-9349-6c0a1313acc5": 185,
+        "dbca5e00-f7f9-43ae-91de-031ad16f8a92": 182,
+        "61dd754e-8525-4b9e-9e08-173389eea8a8": 175,
+        "49037947-e450-49bf-ba1f-a94551c79a72": 172,
+        "c3f9e1a3-fc34-452d-af2e-95349e666ba4": 171,
+        "15e6f441-5c1c-4d25-b4ec-1adf918c49c7": 169,
+        "b29a98bd-749c-489c-9eef-6aa38e66a29b": 168,
+        "b92cc33f-b5a8-4b57-9b82-412946800020": 165,
+        "e1925ea7-01bc-4358-ae7c-c6502da5ab12": 165,
+        "90082979-fb9f-4305-9c72-83274fc438cc": 164,
+        "2ed73be8-936d-4f35-9398-75a707f40a7b": 163,
+        "5f167936-79ae-4f6a-b9d2-74afe1bb096b": 163,
+        "b2e98a14-c8ca-401e-99ed-edf74570c6f6": 163,
+        "d8032da3-c1b9-456e-b626-41ce21f8c67b": 161,
+        "5cf0392f-c187-4fc4-a463-eb269d2e8f45": 160,
+        "c180a72d-5dbe-4403-b7c7-91655e505492": 160,
+        "3bb30799-82ce-4648-8c02-5113228963ed": 157,
+        "4a279605-eaa8-470d-bcd4-0a9e3c9ab43b": 155,
+        "d6d39eea-889d-4e20-923c-55cab225cf7f": 155,
+        "1c388d5e-29ac-4956-b476-cb3431353d2e": 154,
+        "715f0e22-95e0-45ce-af3a-07057209976e": 154,
+        "01a114de-149c-4f5f-80a1-90cc63f69c6e": 152,
+        "be4c4780-218e-425a-a90f-63e21773572b": 150,
+        "8cd700ae-d96f-4761-bd7a-805d6b93536d": 149,
+        "3404c253-577f-45ca-b301-c98312e46efb": 148,
+        "64eab5b1-8d79-45f4-94f1-02b8cf8b6202": 147,
+        "8f0d70be-5cb7-464b-99cb-8b0130671895": 146,
+        "b39562a4-2b72-43fe-b9ba-eda1d651ad0b": 145,
+        "65defcf2-bc15-490e-a84f-1f13b769cd22": 144,
+        "6c73764e-b8e6-4e55-ad37-f6a9d207da1f": 144,
+        "a7d09522-bee2-41e4-8fe0-0b82b7f342f5": 144,
+        "6e6809dd-01bc-45c9-aab1-f01ccd8338b0": 142,
+        "714431ab-6e39-4df6-ac77-cfc5c1e25bc8": 139,
+        "c2204dae-579e-4b6b-9d42-2e13ceaa6031": 137,
+        "33d8d6fc-861a-45ff-9937-5ccdb55eaede": 136,
+        "3bfe040b-f0c9-45e0-949b-b9ad5a591d55": 136,
+        "60561e46-ece7-43a7-b142-9b14812586e4": 135,
+        "d1cd1fdd-8767-46a6-a8d3-c3e0632c2dc8": 135,
+        "af385423-d0f1-41f0-9482-ffd10b745143": 134,
+        "529d66cc-60e3-432e-b8d1-efc9f2ec4919": 131,
+        "98ec3885-ac93-4fcb-807b-59c9055c52c4": 130,
+        "92086ded-a55d-4241-a364-7d7ea91531b4": 128,
+        "3e82142c-78dc-46f3-82ec-28e65fcf84c9": 127,
+        "4fcc1c8e-cc5e-4675-ba25-5e56b579cf69": 127,
+        "94ef1985-cab1-4b39-a2f3-230120f03c16": 127,
+        "50b1216b-d066-4457-b88b-9bccf97bf6d3": 126,
+        "6cda96e1-7d29-44a6-956b-3fcfdecc8184": 120,
+        "53989945-1a28-481d-a61c-d6f75f760ada": 114,
+        "c0f80e87-16be-4488-9553-da437e8c6c2a": 104,
+        "9cd8eb60-3222-4efc-bd7c-50e03e6a81a4": 100,
+        "b83029b6-5dd5-449e-8056-26f3943a4e18": 82,
+        "076e8177-943b-41fc-a885-ba3d28297acf": 66
+      },
+      "productFacets": {
+        "Non-GMO": 183,
+        "Dairy Free": 20,
+        "Vegan": 7,
+        "Organic": 1
+      }
+    }
+  },
+  "totalHits": 1000,
+  "page": 14,
+  "totalPages": 20,
+  "hitsPerPage": 50
+}

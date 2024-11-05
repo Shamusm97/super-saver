@@ -1,0 +1,2249 @@
+{
+  "tobaccoProducts": false,
+  "products": [
+    {
+      "productId": "5092321-EA-000",
+      "brand": "Poise",
+      "name": "Overnight Pads",
+      "displayName": "8pk",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 939,
+        "comparativePrice": {
+          "pricePerUnit": 117,
+          "unitQuantity": 1,
+          "unitQuantityUom": "ea",
+          "measureDescription": "ea"
+        }
+      },
+      "categoryTrees": [
+        {
+          "level0": "Personal Care",
+          "level1": "Health & Wellness",
+          "level2": "Adult Care"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5013773-EA-000",
+      "brand": "Gillette",
+      "name": "Satin Care Sensitive Skin Shaving Gel",
+      "displayName": "195g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 889,
+        "comparativePrice": {
+          "pricePerUnit": 456,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Personal Care",
+          "level1": "Beauty & Grooming",
+          "level2": "Shaving & Hair Removal"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5012672-EA-000",
+      "brand": "Durex",
+      "name": "Classic Condoms",
+      "displayName": "20pk",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 2089,
+        "comparativePrice": {
+          "pricePerUnit": 104,
+          "unitQuantity": 1,
+          "unitQuantityUom": "ea",
+          "measureDescription": "ea"
+        }
+      },
+      "categoryTrees": [
+        {
+          "level0": "Personal Care",
+          "level1": "Health & Wellness",
+          "level2": "Family Planning"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5287631-EA-000",
+      "brand": "Head & Shoulders",
+      "name": "Anti Dandruff Apple Fresh Conditioner",
+      "displayName": "400ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 899,
+        "promoId": "128901315",
+        "comparativePrice": {
+          "pricePerUnit": 225,
+          "unitQuantity": 100,
+          "unitQuantityUom": "ml",
+          "measureDescription": "100ml"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "128901315",
+          "rewardValue": 899,
+          "decal": "6000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 225,
+            "unitQuantity": 100,
+            "unitQuantityUom": "ml",
+            "measureDescription": "100ml"
+          }
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Personal Care",
+          "level1": "Beauty & Grooming",
+          "level2": "Hair Care & Treatments"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5018122-EA-000",
+      "brand": "Schwarzkopf Extra Care",
+      "name": "Ultimate Keratin Mousse",
+      "displayName": "150g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 839,
+        "comparativePrice": {
+          "pricePerUnit": 559,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "categoryTrees": [
+        {
+          "level0": "Personal Care",
+          "level1": "Beauty & Grooming",
+          "level2": "Hair Styling & Accessories"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5285875-EA-000",
+      "brand": "L'Oreal Paris",
+      "name": "Elvive Extraordinary Oil Nourishing Shampoo",
+      "displayName": "300ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 479,
+        "promoId": "128941497",
+        "comparativePrice": {
+          "pricePerUnit": 160,
+          "unitQuantity": 100,
+          "unitQuantityUom": "ml",
+          "measureDescription": "100ml"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "128941497",
+          "rewardValue": 479,
+          "decal": "6000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 160,
+            "unitQuantity": 100,
+            "unitQuantityUom": "ml",
+            "measureDescription": "100ml"
+          }
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Personal Care",
+          "level1": "Beauty & Grooming",
+          "level2": "Hair Care & Treatments"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5021620-EA-000",
+      "brand": "Vaseline",
+      "name": "Deep Restore Body Lotion",
+      "displayName": "400ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 699,
+        "promoId": "128943394",
+        "comparativePrice": {
+          "pricePerUnit": 175,
+          "unitQuantity": 100,
+          "unitQuantityUom": "ml",
+          "measureDescription": "100ml"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "128943394",
+          "rewardValue": 699,
+          "decal": "6000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 175,
+            "unitQuantity": 100,
+            "unitQuantityUom": "ml",
+            "measureDescription": "100ml"
+          }
+        }
+      ],
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Personal Care",
+          "level1": "Beauty & Grooming",
+          "level2": "Hand & Body Care"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5019732-EA-000",
+      "brand": "Napro",
+      "name": "Palette Intensive Blue Black 1-1 Hair Colour",
+      "displayName": "ea",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 889,
+        "comparativePrice": {
+          "pricePerUnit": 773,
+          "unitQuantity": 100,
+          "unitQuantityUom": "ml",
+          "measureDescription": "100ml"
+        }
+      },
+      "categoryTrees": [
+        {
+          "level0": "Personal Care",
+          "level1": "Beauty & Grooming",
+          "level2": "Hair Colouring"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5009071-EA-000",
+      "brand": "Tampax",
+      "name": "Regular Applicator Tampons",
+      "displayName": "12pk",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 500,
+        "promoId": "128928692",
+        "comparativePrice": {
+          "pricePerUnit": 42,
+          "unitQuantity": 1,
+          "unitQuantityUom": "ea",
+          "measureDescription": "ea"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "128928692",
+          "rewardValue": 500,
+          "decal": "6000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 42,
+            "unitQuantity": 1,
+            "unitQuantityUom": "ea",
+            "measureDescription": "ea"
+          }
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Personal Care",
+          "level1": "Health & Wellness",
+          "level2": "Period & Continence Care"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5237084-EA-000",
+      "brand": "Glow Lab",
+      "name": "Coconut & Spiced Fig Hand Wash",
+      "displayName": "300ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 749,
+        "comparativePrice": {
+          "pricePerUnit": 250,
+          "unitQuantity": 100,
+          "unitQuantityUom": "ml",
+          "measureDescription": "100ml"
+        }
+      },
+      "categoryTrees": [
+        {
+          "level0": "Personal Care",
+          "level1": "Beauty & Grooming",
+          "level2": "Hand & Body Care"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5009072-EA-000",
+      "brand": "Tampax",
+      "name": "Super Applicator Tampons",
+      "displayName": "12pk",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 500,
+        "promoId": "128928689",
+        "comparativePrice": {
+          "pricePerUnit": 42,
+          "unitQuantity": 1,
+          "unitQuantityUom": "ea",
+          "measureDescription": "ea"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "128928689",
+          "rewardValue": 500,
+          "decal": "6000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 42,
+            "unitQuantity": 1,
+            "unitQuantityUom": "ea",
+            "measureDescription": "ea"
+          }
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Personal Care",
+          "level1": "Health & Wellness",
+          "level2": "Period & Continence Care"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5285873-EA-000",
+      "brand": "L'Oreal Paris",
+      "name": "Elvive Extraordinary Oil Nourishing Conditioner",
+      "displayName": "300ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 479,
+        "promoId": "128941497",
+        "comparativePrice": {
+          "pricePerUnit": 160,
+          "unitQuantity": 100,
+          "unitQuantityUom": "ml",
+          "measureDescription": "100ml"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "128941497",
+          "rewardValue": 479,
+          "decal": "6000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 160,
+            "unitQuantity": 100,
+            "unitQuantityUom": "ml",
+            "measureDescription": "100ml"
+          }
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Personal Care",
+          "level1": "Beauty & Grooming",
+          "level2": "Hair Care & Treatments"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5240606-EA-000",
+      "brand": "Garnier",
+      "name": "Fructis Normal Strength & Shine Fortifying Conditioner",
+      "displayName": "315ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 699,
+        "comparativePrice": {
+          "pricePerUnit": 222,
+          "unitQuantity": 100,
+          "unitQuantityUom": "ml",
+          "measureDescription": "100ml"
+        }
+      },
+      "categoryTrees": [
+        {
+          "level0": "Personal Care",
+          "level1": "Beauty & Grooming",
+          "level2": "Hair Care & Treatments"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5027027-EA-000",
+      "brand": "Strepsils",
+      "name": "Plus Anaesthetic Sore Throat Lozenges",
+      "displayName": "16pk",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 999,
+        "comparativePrice": {
+          "pricePerUnit": 62,
+          "unitQuantity": 1,
+          "unitQuantityUom": "ea",
+          "measureDescription": "ea"
+        }
+      },
+      "categoryTrees": [
+        {
+          "level0": "Personal Care",
+          "level1": "Health & Wellness",
+          "level2": "Cough, Cold & Flu"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5008726-EA-000",
+      "brand": "Nivea Men",
+      "name": "Moisturising Shaving Foam",
+      "displayName": "200ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 869,
+        "comparativePrice": {
+          "pricePerUnit": 435,
+          "unitQuantity": 100,
+          "unitQuantityUom": "ml",
+          "measureDescription": "100ml"
+        }
+      },
+      "categoryTrees": [
+        {
+          "level0": "Personal Care",
+          "level1": "Beauty & Grooming",
+          "level2": "Shaving & Hair Removal"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5032161-EA-000",
+      "brand": "Dove",
+      "name": "Nourishing Moisture Conditioner",
+      "displayName": "320ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 929,
+        "comparativePrice": {
+          "pricePerUnit": 290,
+          "unitQuantity": 100,
+          "unitQuantityUom": "ml",
+          "measureDescription": "100ml"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Personal Care",
+          "level1": "Beauty & Grooming",
+          "level2": "Hair Care & Treatments"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5024112-EA-000",
+      "brand": "Cetaphil",
+      "name": "Cleanser Skin Cleanser",
+      "displayName": "500ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 2029,
+        "promoId": "128943972",
+        "comparativePrice": {
+          "pricePerUnit": 406,
+          "unitQuantity": 100,
+          "unitQuantityUom": "ml",
+          "measureDescription": "100ml"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "128943972",
+          "rewardValue": 2029,
+          "decal": "6000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 406,
+            "unitQuantity": 100,
+            "unitQuantityUom": "ml",
+            "measureDescription": "100ml"
+          }
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Personal Care",
+          "level1": "Beauty & Grooming",
+          "level2": "Face & Lip Skin Care"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5087453-EA-000",
+      "brand": "Simply Silk",
+      "name": "Golden Honey Handwash Refill",
+      "displayName": "1l",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 479,
+        "promoId": "128865398",
+        "comparativePrice": {
+          "pricePerUnit": 48,
+          "unitQuantity": 100,
+          "unitQuantityUom": "ml",
+          "measureDescription": "100ml"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "128865398",
+          "rewardValue": 479,
+          "decal": "6000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 48,
+            "unitQuantity": 100,
+            "unitQuantityUom": "ml",
+            "measureDescription": "100ml"
+          }
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Personal Care",
+          "level1": "Beauty & Grooming",
+          "level2": "Hand & Body Care"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5258715-EA-000",
+      "brand": "Tena",
+      "name": "Ultra Long Liners",
+      "displayName": "22pk",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 499,
+        "promoId": "128901896",
+        "comparativePrice": {
+          "pricePerUnit": 23,
+          "unitQuantity": 1,
+          "unitQuantityUom": "ea",
+          "measureDescription": "ea"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "128901896",
+          "rewardValue": 499,
+          "decal": "6000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 23,
+            "unitQuantity": 1,
+            "unitQuantityUom": "ea",
+            "measureDescription": "ea"
+          }
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Personal Care",
+          "level1": "Health & Wellness",
+          "level2": "Adult Care"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5038719-EA-000",
+      "brand": "Bic",
+      "name": "Simply Smooth Disposable Shaver",
+      "displayName": "3pk",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 399,
+        "promoId": "128942975",
+        "comparativePrice": {
+          "pricePerUnit": 133,
+          "unitQuantity": 1,
+          "unitQuantityUom": "ea",
+          "measureDescription": "ea"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "128942975",
+          "rewardValue": 399,
+          "decal": "6000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 133,
+            "unitQuantity": 1,
+            "unitQuantityUom": "ea",
+            "measureDescription": "ea"
+          }
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Personal Care",
+          "level1": "Beauty & Grooming",
+          "level2": "Shaving & Hair Removal"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5034508-EA-000",
+      "brand": "Robitussin",
+      "name": "Cold & Chesty Cough Syrup",
+      "displayName": "200ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 1429,
+        "comparativePrice": {
+          "pricePerUnit": 715,
+          "unitQuantity": 100,
+          "unitQuantityUom": "ml",
+          "measureDescription": "100ml"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020011",
+          "itemDescription": "Low Sugar"
+        },
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Personal Care",
+          "level1": "Health & Wellness",
+          "level2": "Cough, Cold & Flu"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5032043-EA-000",
+      "brand": "Dove",
+      "name": "Nourishing Moisture Shampoo",
+      "displayName": "320ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 929,
+        "comparativePrice": {
+          "pricePerUnit": 290,
+          "unitQuantity": 100,
+          "unitQuantityUom": "ml",
+          "measureDescription": "100ml"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Personal Care",
+          "level1": "Beauty & Grooming",
+          "level2": "Hair Care & Treatments"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5006617-EA-000",
+      "brand": "Schick",
+      "name": "Silk 4 Razor",
+      "displayName": "1pk",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 599,
+        "promoId": "128928846"
+      },
+      "promotions": [
+        {
+          "promoId": "128928846",
+          "rewardValue": 599,
+          "decal": "6000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Personal Care",
+          "level1": "Beauty & Grooming",
+          "level2": "Shaving & Hair Removal"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5247940-EA-000",
+      "brand": "Polident",
+      "name": "3 Min Fresh Active Cleanser",
+      "displayName": "60pk",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 1299,
+        "comparativePrice": {
+          "pricePerUnit": 1968,
+          "unitQuantity": 100,
+          "unitQuantityUom": " ",
+          "measureDescription": "100"
+        }
+      },
+      "categoryTrees": [
+        {
+          "level0": "Personal Care",
+          "level1": "Beauty & Grooming",
+          "level2": "Oral Health"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5026499-EA-000",
+      "brand": "Healtheries",
+      "name": "Fish Oil 1000mg Capsules",
+      "displayName": "200pk",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 2699,
+        "comparativePrice": {
+          "pricePerUnit": 1350,
+          "unitQuantity": 100,
+          "unitQuantityUom": " ",
+          "measureDescription": "100"
+        }
+      },
+      "categoryTrees": [
+        {
+          "level0": "Personal Care",
+          "level1": "Health & Wellness",
+          "level2": "Vitamins & Supplements"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5204579-EA-000",
+      "brand": "Colgate",
+      "name": "360 Advanced Medium Toothbrush",
+      "displayName": "1pk",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 693
+      },
+      "categoryTrees": [
+        {
+          "level0": "Personal Care",
+          "level1": "Beauty & Grooming",
+          "level2": "Oral Health"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5275219-EA-000",
+      "brand": "Gillette",
+      "name": "Mach 3+ Cartridges",
+      "displayName": "5pk",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 2799,
+        "comparativePrice": {
+          "pricePerUnit": 560,
+          "unitQuantity": 1,
+          "unitQuantityUom": "ea",
+          "measureDescription": "ea"
+        }
+      },
+      "categoryTrees": [
+        {
+          "level0": "Personal Care",
+          "level1": "Beauty & Grooming",
+          "level2": "Shaving & Hair Removal"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5240605-EA-000",
+      "brand": "Garnier",
+      "name": "Fructis Coconut Water Balancing Shampoo",
+      "displayName": "315ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 699,
+        "comparativePrice": {
+          "pricePerUnit": 222,
+          "unitQuantity": 100,
+          "unitQuantityUom": "ml",
+          "measureDescription": "100ml"
+        }
+      },
+      "categoryTrees": [
+        {
+          "level0": "Personal Care",
+          "level1": "Beauty & Grooming",
+          "level2": "Hair Care & Treatments"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5287634-EA-000",
+      "brand": "Head & Shoulders",
+      "name": "Anti Dandruff Dry Scalp Care Conditioner",
+      "displayName": "400ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 899,
+        "promoId": "128901315",
+        "comparativePrice": {
+          "pricePerUnit": 225,
+          "unitQuantity": 100,
+          "unitQuantityUom": "ml",
+          "measureDescription": "100ml"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "128901315",
+          "rewardValue": 899,
+          "decal": "6000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 225,
+            "unitQuantity": 100,
+            "unitQuantityUom": "ml",
+            "measureDescription": "100ml"
+          }
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Personal Care",
+          "level1": "Beauty & Grooming",
+          "level2": "Hair Care & Treatments"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5017456-EA-000",
+      "brand": "Johnson's",
+      "name": "Facial Cleansing Wipes For Normal Skin",
+      "displayName": "25pk",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 669,
+        "promoId": "128943374",
+        "comparativePrice": {
+          "pricePerUnit": 27,
+          "unitQuantity": 1,
+          "unitQuantityUom": "ea",
+          "measureDescription": "ea"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "128943374",
+          "rewardValue": 669,
+          "decal": "6000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 27,
+            "unitQuantity": 1,
+            "unitQuantityUom": "ea",
+            "measureDescription": "ea"
+          }
+        }
+      ],
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Personal Care",
+          "level1": "Beauty & Grooming",
+          "level2": "Face & Lip Skin Care"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5014804-EA-000",
+      "brand": "Colgate",
+      "name": "Max White Soft Polishing Star Toothbrush",
+      "displayName": "1pk",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 449,
+        "promoId": "128943675"
+      },
+      "promotions": [
+        {
+          "promoId": "128943675",
+          "rewardValue": 449,
+          "decal": "6000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Personal Care",
+          "level1": "Beauty & Grooming",
+          "level2": "Oral Health"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5014817-EA-000",
+      "brand": "Blistex",
+      "name": "SPF15 Intensive Repair Lip Care",
+      "displayName": "7g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 679,
+        "promoId": "128879100",
+        "comparativePrice": {
+          "pricePerUnit": 9700,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "128879100",
+          "rewardValue": 679,
+          "decal": "6000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 9700,
+            "unitQuantity": 100,
+            "unitQuantityUom": "g",
+            "measureDescription": "100g"
+          }
+        }
+      ],
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Personal Care",
+          "level1": "Beauty & Grooming",
+          "level2": "Face & Lip Skin Care"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5238235-EA-000",
+      "brand": "Nivea Men",
+      "name": "Everyday Active Fresh 48Hr Anti-Perspirant Deodorant",
+      "displayName": "250ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 799,
+        "comparativePrice": {
+          "pricePerUnit": 320,
+          "unitQuantity": 100,
+          "unitQuantityUom": "ml",
+          "measureDescription": "100ml"
+        }
+      },
+      "categoryTrees": [
+        {
+          "level0": "Personal Care",
+          "level1": "Beauty & Grooming",
+          "level2": "Deodorants"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5288474-EA-000",
+      "brand": "Sunsilk",
+      "name": "Clean & Fresh Shampoo",
+      "displayName": "700ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 1389,
+        "comparativePrice": {
+          "pricePerUnit": 198,
+          "unitQuantity": 100,
+          "unitQuantityUom": "ml",
+          "measureDescription": "100ml"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Personal Care",
+          "level1": "Beauty & Grooming",
+          "level2": "Hair Care & Treatments"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5011852-EA-000",
+      "brand": "Tena",
+      "name": "InstaDry Standard Length Pads",
+      "displayName": "10pk",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 899,
+        "comparativePrice": {
+          "pricePerUnit": 90,
+          "unitQuantity": 1,
+          "unitQuantityUom": "ea",
+          "measureDescription": "ea"
+        }
+      },
+      "categoryTrees": [
+        {
+          "level0": "Personal Care",
+          "level1": "Health & Wellness",
+          "level2": "Adult Care"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5038377-EA-000",
+      "brand": "Lifestyles",
+      "name": "Silky Smooth Water-Based Lubricant",
+      "displayName": "100g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 799,
+        "promoId": "128942806",
+        "comparativePrice": {
+          "pricePerUnit": 799,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "128942806",
+          "rewardValue": 799,
+          "decal": "6000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 799,
+            "unitQuantity": 100,
+            "unitQuantityUom": "g",
+            "measureDescription": "100g"
+          }
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Personal Care",
+          "level1": "Health & Wellness",
+          "level2": "Family Planning"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5283160-EA-000",
+      "brand": "Nivea",
+      "name": "Anti Blemish Daily Wash Scrub",
+      "displayName": "150ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 1399,
+        "comparativePrice": {
+          "pricePerUnit": 933,
+          "unitQuantity": 100,
+          "unitQuantityUom": "ml",
+          "measureDescription": "100ml"
+        }
+      },
+      "categoryTrees": [
+        {
+          "level0": "Personal Care",
+          "level1": "Beauty & Grooming",
+          "level2": "Face & Lip Skin Care"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5240611-EA-000",
+      "brand": "Garnier",
+      "name": "Fructis Coconut Water For Oily Roots & Dry Ends Conditioner",
+      "displayName": "315ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 699,
+        "comparativePrice": {
+          "pricePerUnit": 222,
+          "unitQuantity": 100,
+          "unitQuantityUom": "ml",
+          "measureDescription": "100ml"
+        }
+      },
+      "categoryTrees": [
+        {
+          "level0": "Personal Care",
+          "level1": "Beauty & Grooming",
+          "level2": "Hair Care & Treatments"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5032265-EA-000",
+      "brand": "Nivea",
+      "name": "Sun Kids Protect & Play Caring Roll On Sunscreen SPF50+",
+      "displayName": "65ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 999,
+        "promoId": "128858715",
+        "comparativePrice": {
+          "pricePerUnit": 1537,
+          "unitQuantity": 100,
+          "unitQuantityUom": "ml",
+          "measureDescription": "100ml"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "128858715",
+          "rewardValue": 999,
+          "decal": "7000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 1537,
+            "unitQuantity": 100,
+            "unitQuantityUom": "ml",
+            "measureDescription": "100ml"
+          }
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Personal Care",
+          "level1": "Beauty & Grooming",
+          "level2": "Suncare & Self Tan"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5240771-EA-000",
+      "brand": "Nivea",
+      "name": "Soft & Almond Oil Rich Lather Body Wash",
+      "displayName": "1l",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 1639,
+        "comparativePrice": {
+          "pricePerUnit": 164,
+          "unitQuantity": 100,
+          "unitQuantityUom": "ml",
+          "measureDescription": "100ml"
+        }
+      },
+      "categoryTrees": [
+        {
+          "level0": "Personal Care",
+          "level1": "Beauty & Grooming",
+          "level2": "Hand & Body Care"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5103717-EA-000",
+      "brand": "Oral-B",
+      "name": "All Rounder Fresh Clean Soft Toothbrush",
+      "displayName": "1pk",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 200,
+        "promoId": "128901331"
+      },
+      "promotions": [
+        {
+          "promoId": "128901331",
+          "rewardValue": 200,
+          "decal": "6000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Personal Care",
+          "level1": "Beauty & Grooming",
+          "level2": "Oral Health"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5012951-EA-000",
+      "brand": "Olay",
+      "name": "Complete Normal/Dry SPF 15 Moisture Lotion",
+      "displayName": "150ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 899,
+        "promoId": "128928648",
+        "comparativePrice": {
+          "pricePerUnit": 599,
+          "unitQuantity": 100,
+          "unitQuantityUom": "ml",
+          "measureDescription": "100ml"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "128928648",
+          "rewardValue": 899,
+          "decal": "6000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 599,
+            "unitQuantity": 100,
+            "unitQuantityUom": "ml",
+            "measureDescription": "100ml"
+          }
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Personal Care",
+          "level1": "Beauty & Grooming",
+          "level2": "Face & Lip Skin Care"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5258549-EA-000",
+      "brand": "Dettol",
+      "name": "Foaming Lime & Orange Hand Wash Refill",
+      "displayName": "500ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 529,
+        "promoId": "128929214",
+        "comparativePrice": {
+          "pricePerUnit": 106,
+          "unitQuantity": 100,
+          "unitQuantityUom": "ml",
+          "measureDescription": "100ml"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "128929214",
+          "rewardValue": 529,
+          "decal": "6000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 106,
+            "unitQuantity": 100,
+            "unitQuantityUom": "ml",
+            "measureDescription": "100ml"
+          }
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Personal Care",
+          "level1": "Beauty & Grooming",
+          "level2": "Hand & Body Care"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5022720-EA-000",
+      "brand": "Lucas' Papaw",
+      "name": "Ointment",
+      "displayName": "15g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 889,
+        "comparativePrice": {
+          "pricePerUnit": 5927,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "categoryTrees": [
+        {
+          "level0": "Personal Care",
+          "level1": "Beauty & Grooming",
+          "level2": "Face & Lip Skin Care"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5011603-EA-000",
+      "brand": "First Response",
+      "name": "Instream Pregnancy Test",
+      "displayName": "1pk",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 979
+      },
+      "categoryTrees": [
+        {
+          "level0": "Personal Care",
+          "level1": "Health & Wellness",
+          "level2": "Family Planning"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5010684-EA-000",
+      "brand": "Berocca",
+      "name": "Energy Orange Flavour Effervescent Tablets",
+      "displayName": "15pk",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 1199,
+        "comparativePrice": {
+          "pricePerUnit": 80,
+          "unitQuantity": 1,
+          "unitQuantityUom": "ea",
+          "measureDescription": "ea"
+        }
+      },
+      "categoryTrees": [
+        {
+          "level0": "Personal Care",
+          "level1": "Health & Wellness",
+          "level2": "Vitamins & Supplements"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5248306-EA-000",
+      "brand": "Healtheries",
+      "name": "Vit C 1000mg + Probiotics Tropical Flavour Chewable Tablets",
+      "displayName": "80pk",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 1749,
+        "promoId": "128943070",
+        "comparativePrice": {
+          "pricePerUnit": 2186,
+          "unitQuantity": 100,
+          "unitQuantityUom": " ",
+          "measureDescription": "100"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "128943070",
+          "rewardValue": 1749,
+          "decal": "6000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 2186,
+            "unitQuantity": 100,
+            "unitQuantityUom": " ",
+            "measureDescription": "100"
+          }
+        }
+      ],
+      "facets": [
+        {
+          "itemCode": "00020004",
+          "itemDescription": "Gluten Free"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Personal Care",
+          "level1": "Health & Wellness",
+          "level2": "Vitamins & Supplements"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5211609-EA-000",
+      "brand": "Dove",
+      "name": "Daily Care Shampoo",
+      "displayName": "320ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 929,
+        "comparativePrice": {
+          "pricePerUnit": 290,
+          "unitQuantity": 100,
+          "unitQuantityUom": "ml",
+          "measureDescription": "100ml"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Personal Care",
+          "level1": "Beauty & Grooming",
+          "level2": "Hair Care & Treatments"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5240772-EA-000",
+      "brand": "Nivea",
+      "name": "Coconut & Jojoba Oil Rich Lather Body Wash",
+      "displayName": "1l",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 1639,
+        "comparativePrice": {
+          "pricePerUnit": 164,
+          "unitQuantity": 100,
+          "unitQuantityUom": "ml",
+          "measureDescription": "100ml"
+        }
+      },
+      "categoryTrees": [
+        {
+          "level0": "Personal Care",
+          "level1": "Beauty & Grooming",
+          "level2": "Hand & Body Care"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5030543-EA-000",
+      "brand": "Dettol",
+      "name": "Healthy Touch Antibacterial Refresh Aloe Vera Instant Hand Sanitiser",
+      "displayName": "200ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 1029,
+        "comparativePrice": {
+          "pricePerUnit": 515,
+          "unitQuantity": 100,
+          "unitQuantityUom": "ml",
+          "measureDescription": "100ml"
+        }
+      },
+      "categoryTrees": [
+        {
+          "level0": "Personal Care",
+          "level1": "Beauty & Grooming",
+          "level2": "Hand & Body Care"
+        }
+      ],
+      "cateredFlag": false
+    }
+  ],
+  "algoliaSearchResult": {
+    "facets": {
+      "brand": {
+        "Healtheries": 70,
+        "L'Oreal Paris": 65,
+        "Nivea": 64,
+        "Colgate": 62,
+        "Garnier": 46,
+        "Red Seal": 46,
+        "Glow Lab": 39,
+        "Musashi": 39,
+        "Dove": 35,
+        "Neutrogena": 34,
+        "Korbond": 33,
+        "North Head": 33,
+        "Ecostore": 32,
+        "Nivea Men": 31,
+        "Dettol": 29,
+        "Schick": 29,
+        "Head & Shoulders": 28,
+        "Gillette": 26,
+        "Oral-B": 25,
+        "Essano": 22,
+        "Pams": 22,
+        "Sunsilk": 20,
+        "Olay": 19,
+        "Carefree": 18,
+        "OGX": 18,
+        "Schwarzkopf Extra Care": 18,
+        "Sensodyne": 18,
+        "U By Kotex": 18,
+        "Palmolive": 17,
+        "Pantene Pro-V": 17,
+        "Listerine": 15,
+        "Tresemme": 15,
+        "Elastoplast": 14,
+        "Tena": 14,
+        "Libra": 13,
+        "Palmolive Naturals": 13,
+        "Poise": 13,
+        "Anihana": 12,
+        "Berocca": 12,
+        "Herbal Essences": 12,
+        "Lynx": 12,
+        "Nature's Way": 12,
+        "Rexona": 12,
+        "Pantene": 11,
+        "Veet": 11,
+        "Aveeno": 10,
+        "Durex": 10,
+        "Grin": 10,
+        "Rexona Men": 10,
+        "Value": 10,
+        "Vicks": 10,
+        "Atkins": 9,
+        "Gaviscon": 9,
+        "Nurofen": 9,
+        "Quest": 9,
+        "Centrum": 8,
+        "Gillette Venus": 8,
+        "Organic Care": 8,
+        "Strepsils": 8,
+        "Mouthfresh": 7,
+        "Napro": 7,
+        "Reach": 7,
+        "Schwarzkopf Live": 7,
+        "Vaseline": 7,
+        "Horleys": 6,
+        "Just For Men": 6,
+        "Lemsip": 6,
+        "Nourish": 6,
+        "Panadol": 6,
+        "Polident": 6,
+        "Protex": 6,
+        "Schwarzkopf Brilliance": 6,
+        "Simply Silk": 6,
+        "Stayfree": 6,
+        "Tom Organic": 6,
+        "Blistex": 5,
+        "Codral": 5,
+        "Dominate": 5,
+        "Essano Rosehip": 5,
+        "Marzena": 5,
+        "Mitchum": 5,
+        "Natures Way": 5,
+        "Radox": 5,
+        "Silk": 5,
+        "Skyn": 5,
+        "Tampax": 5,
+        "Zealea": 5,
+        "d3": 5,
+        "Banana Boat": 4,
+        "Barebells": 4,
+        "Batiste": 4,
+        "Bic": 4,
+        "Brut": 4,
+        "Cetaphil": 4,
+        "Cool Charm": 4,
+        "Depend": 4,
+        "Em's Power Cookies": 4,
+        "Ethics": 4,
+        "Femfresh": 4,
+        "Helena": 4
+      },
+      "category1NI": {
+        "Beauty & Grooming": 1180,
+        "Health & Wellness": 537,
+        "Pams": 11,
+        "Baby Care": 2,
+        "Biscuits & Crackers": 2,
+        "Snack Foods": 1
+      },
+      "onPromotion": {
+        "21ecaaed-0749-4492-985e-4bb7ba43d59c": 717,
+        "b92cc33f-b5a8-4b57-9b82-412946800020": 578,
+        "e1925ea7-01bc-4358-ae7c-c6502da5ab12": 572,
+        "3c5e3145-0767-4066-9349-6c0a1313acc5": 530,
+        "92086ded-a55d-4241-a364-7d7ea91531b4": 530,
+        "65defcf2-bc15-490e-a84f-1f13b769cd22": 526,
+        "c0f80e87-16be-4488-9553-da437e8c6c2a": 525,
+        "64eab5b1-8d79-45f4-94f1-02b8cf8b6202": 516,
+        "c180a72d-5dbe-4403-b7c7-91655e505492": 512,
+        "3404c253-577f-45ca-b301-c98312e46efb": 509,
+        "48dd98cc-a757-4102-b15d-ea82b4b10571": 508,
+        "8f0d70be-5cb7-464b-99cb-8b0130671895": 507,
+        "714431ab-6e39-4df6-ac77-cfc5c1e25bc8": 506,
+        "3bb30799-82ce-4648-8c02-5113228963ed": 500,
+        "33d8d6fc-861a-45ff-9937-5ccdb55eaede": 493,
+        "a7d09522-bee2-41e4-8fe0-0b82b7f342f5": 493,
+        "c3f9e1a3-fc34-452d-af2e-95349e666ba4": 489,
+        "b2e98a14-c8ca-401e-99ed-edf74570c6f6": 487,
+        "15e6f441-5c1c-4d25-b4ec-1adf918c49c7": 480,
+        "5f167936-79ae-4f6a-b9d2-74afe1bb096b": 478,
+        "49037947-e450-49bf-ba1f-a94551c79a72": 475,
+        "61dd754e-8525-4b9e-9e08-173389eea8a8": 473,
+        "53989945-1a28-481d-a61c-d6f75f760ada": 469,
+        "7d48a781-4f68-4c91-a908-8659e1b22f95": 468,
+        "01a114de-149c-4f5f-80a1-90cc63f69c6e": 463,
+        "5cf0392f-c187-4fc4-a463-eb269d2e8f45": 461,
+        "6cda96e1-7d29-44a6-956b-3fcfdecc8184": 460,
+        "90082979-fb9f-4305-9c72-83274fc438cc": 453,
+        "715f0e22-95e0-45ce-af3a-07057209976e": 452,
+        "c2204dae-579e-4b6b-9d42-2e13ceaa6031": 452,
+        "1c388d5e-29ac-4956-b476-cb3431353d2e": 450,
+        "b83029b6-5dd5-449e-8056-26f3943a4e18": 449,
+        "b39562a4-2b72-43fe-b9ba-eda1d651ad0b": 447,
+        "98ec3885-ac93-4fcb-807b-59c9055c52c4": 444,
+        "529d66cc-60e3-432e-b8d1-efc9f2ec4919": 442,
+        "6e6809dd-01bc-45c9-aab1-f01ccd8338b0": 442,
+        "2ed73be8-936d-4f35-9398-75a707f40a7b": 438,
+        "b29a98bd-749c-489c-9eef-6aa38e66a29b": 437,
+        "be4c4780-218e-425a-a90f-63e21773572b": 433,
+        "d6d39eea-889d-4e20-923c-55cab225cf7f": 433,
+        "9cd8eb60-3222-4efc-bd7c-50e03e6a81a4": 430,
+        "dbca5e00-f7f9-43ae-91de-031ad16f8a92": 428,
+        "d8032da3-c1b9-456e-b626-41ce21f8c67b": 424,
+        "3bfe040b-f0c9-45e0-949b-b9ad5a591d55": 423,
+        "4fcc1c8e-cc5e-4675-ba25-5e56b579cf69": 414,
+        "4a279605-eaa8-470d-bcd4-0a9e3c9ab43b": 411,
+        "af385423-d0f1-41f0-9482-ffd10b745143": 404,
+        "50b1216b-d066-4457-b88b-9bccf97bf6d3": 403,
+        "d1cd1fdd-8767-46a6-a8d3-c3e0632c2dc8": 401,
+        "8cd700ae-d96f-4761-bd7a-805d6b93536d": 398,
+        "94ef1985-cab1-4b39-a2f3-230120f03c16": 364,
+        "076e8177-943b-41fc-a885-ba3d28297acf": 360,
+        "6c73764e-b8e6-4e55-ad37-f6a9d207da1f": 351,
+        "60561e46-ece7-43a7-b142-9b14812586e4": 349,
+        "3e82142c-78dc-46f3-82ec-28e65fcf84c9": 295
+      },
+      "productFacets": {
+        "Non-GMO": 360,
+        "Gluten Free": 114,
+        "Vegan": 72,
+        "Low Sugar": 53,
+        "Organic": 30,
+        "Dairy Free": 17,
+        "Low Fat": 13,
+        "Keto": 7,
+        "Vegetarian": 7,
+        "Halal": 5
+      }
+    }
+  },
+  "totalHits": 1000,
+  "page": 10,
+  "totalPages": 20,
+  "hitsPerPage": 50
+}

@@ -1,0 +1,2419 @@
+{
+  "tobaccoProducts": false,
+  "products": [
+    {
+      "productId": "5278369-EA-000",
+      "brand": "Alchemy & Tonic",
+      "name": "Grapefruit & Thyme Tonic Water",
+      "displayName": "4 x 250ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 749,
+        "comparativePrice": {
+          "pricePerUnit": 749,
+          "unitQuantity": 1,
+          "unitQuantityUom": "L",
+          "measureDescription": "1L"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Drinks",
+          "level1": "Cold Drinks",
+          "level2": "Soft Drinks"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5255355-EA-000",
+      "brand": "L'OR",
+      "name": "Ristretto Intensity 11 Coffee Capsules",
+      "displayName": "40pk",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 2999,
+        "promoId": "128922898",
+        "comparativePrice": {
+          "pricePerUnit": 75,
+          "unitQuantity": 1,
+          "unitQuantityUom": "ea",
+          "measureDescription": "ea"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "128922898",
+          "rewardValue": 2999,
+          "decal": "6000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 75,
+            "unitQuantity": 1,
+            "unitQuantityUom": "ea",
+            "measureDescription": "ea"
+          }
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Pantry",
+          "level1": "Hot Drinks",
+          "level2": "Coffee Capsules"
+        },
+        {
+          "level0": "Drinks",
+          "level1": "Hot Drinks",
+          "level2": "Coffee Capsules"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5007237-EA-000",
+      "brand": "Schweppes",
+      "name": "Lime Juice Cordial",
+      "displayName": "720ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 599,
+        "comparativePrice": {
+          "pricePerUnit": 832,
+          "unitQuantity": 1,
+          "unitQuantityUom": "L",
+          "measureDescription": "1L"
+        }
+      },
+      "categoryTrees": [
+        {
+          "level0": "Drinks",
+          "level1": "Cold Drinks",
+          "level2": "Squash, Syrups & Cordials"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5262223-EA-000",
+      "brand": "Charlie's",
+      "name": "Honest Fizz Lemon Lime Fizzy Fruit Drink",
+      "displayName": "4 x 320ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 499,
+        "comparativePrice": {
+          "pricePerUnit": 390,
+          "unitQuantity": 1,
+          "unitQuantityUom": "L",
+          "measureDescription": "1L"
+        }
+      },
+      "categoryTrees": [
+        {
+          "level0": "Drinks",
+          "level1": "Cold Drinks",
+          "level2": "Soft Drinks"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5012598-EA-000",
+      "brand": "Fagg's",
+      "name": "Coffee Filters Size 4",
+      "displayName": "40pk",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 299,
+        "comparativePrice": {
+          "pricePerUnit": 7,
+          "unitQuantity": 1,
+          "unitQuantityUom": "ea",
+          "measureDescription": "ea"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Pantry",
+          "level1": "Hot Drinks",
+          "level2": "Coffee Additives & Filters"
+        },
+        {
+          "level0": "Drinks",
+          "level1": "Hot Drinks",
+          "level2": "Coffee Additives & Filters"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5036901-EA-000",
+      "brand": "Bundaberg",
+      "name": "Lemon Lime & Bitters",
+      "displayName": "375ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 219,
+        "comparativePrice": {
+          "pricePerUnit": 584,
+          "unitQuantity": 1,
+          "unitQuantityUom": "L",
+          "measureDescription": "1L"
+        }
+      },
+      "categoryTrees": [
+        {
+          "level0": "Drinks",
+          "level1": "Cold Drinks",
+          "level2": "Soft Drinks"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5262224-EA-000",
+      "brand": "Charlie's",
+      "name": "Honest Fizz Orange Mango Fizzy Fruit Drink",
+      "displayName": "4 x 320ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 499,
+        "comparativePrice": {
+          "pricePerUnit": 390,
+          "unitQuantity": 1,
+          "unitQuantityUom": "L",
+          "measureDescription": "1L"
+        }
+      },
+      "categoryTrees": [
+        {
+          "level0": "Drinks",
+          "level1": "Cold Drinks",
+          "level2": "Soft Drinks"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5273188-EA-000",
+      "brand": "Charlie's",
+      "name": "Honest Squeezed Mandarin Mango & Pineapple Juice",
+      "displayName": "1l",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 559,
+        "comparativePrice": {
+          "pricePerUnit": 559,
+          "unitQuantity": 1,
+          "unitQuantityUom": "L",
+          "measureDescription": "1L"
+        }
+      },
+      "categoryTrees": [
+        {
+          "level0": "Drinks",
+          "level1": "Cold Drinks",
+          "level2": "Chilled Fruit Juices"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5007776-EA-000",
+      "brand": "Powerade",
+      "name": "Isotonic Mountain Blast Powder",
+      "displayName": "500g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 1899,
+        "comparativePrice": {
+          "pricePerUnit": 380,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Drinks",
+          "level1": "Cold Drinks",
+          "level2": "Sports & Energy Drinks"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5265893-EA-000",
+      "brand": "L'affare",
+      "name": "Mighty Plunger & Filter Coffee",
+      "displayName": "200g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 899,
+        "comparativePrice": {
+          "pricePerUnit": 450,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Pantry",
+          "level1": "Hot Drinks",
+          "level2": "Fresh Coffees"
+        },
+        {
+          "level0": "Drinks",
+          "level1": "Hot Drinks",
+          "level2": "Fresh Coffees"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5011376-EA-000",
+      "brand": "Healtheries",
+      "name": "Cranberry With Apple Tea Bags",
+      "displayName": "20pk",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 329,
+        "comparativePrice": {
+          "pricePerUnit": 16,
+          "unitQuantity": 1,
+          "unitQuantityUom": "ea",
+          "measureDescription": "ea"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020011",
+          "itemDescription": "Low Sugar"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Pantry",
+          "level1": "Hot Drinks",
+          "level2": "Fruit & Herbal Teas"
+        },
+        {
+          "level0": "Drinks",
+          "level1": "Hot Drinks",
+          "level2": "Fruit & Herbal Teas"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5218897-EA-000",
+      "brand": "Vital Zing",
+      "name": "Water Drops Pineapple Flavour Enhancer",
+      "displayName": "45ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 469,
+        "comparativePrice": {
+          "pricePerUnit": 10422,
+          "unitQuantity": 1,
+          "unitQuantityUom": "L",
+          "measureDescription": "1L"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020011",
+          "itemDescription": "Low Sugar"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Drinks",
+          "level1": "Cold Drinks",
+          "level2": "Squash, Syrups & Cordials"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5228580-EA-000",
+      "brand": "Barker's",
+      "name": "Citrus Lemonade Soda Syrup",
+      "displayName": "710ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 669,
+        "promoId": "128980936",
+        "comparativePrice": {
+          "pricePerUnit": 942,
+          "unitQuantity": 1,
+          "unitQuantityUom": "L",
+          "measureDescription": "1L"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "128980936",
+          "rewardValue": 669,
+          "decal": "6000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 942,
+            "unitQuantity": 1,
+            "unitQuantityUom": "L",
+            "measureDescription": "1L"
+          }
+        }
+      ],
+      "facets": [
+        {
+          "itemCode": "00020004",
+          "itemDescription": "Gluten Free"
+        },
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Drinks",
+          "level1": "Cold Drinks",
+          "level2": "Squash, Syrups & Cordials"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5015139-EA-000",
+      "brand": "Red Seal",
+      "name": "Lemon & Ginger Green Tea Bags",
+      "displayName": "50pk",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 559,
+        "comparativePrice": {
+          "pricePerUnit": 1118,
+          "unitQuantity": 100,
+          "unitQuantityUom": " ",
+          "measureDescription": "100"
+        }
+      },
+      "categoryTrees": [
+        {
+          "level0": "Pantry",
+          "level1": "Hot Drinks",
+          "level2": "Green Teas"
+        },
+        {
+          "level0": "Drinks",
+          "level1": "Hot Drinks",
+          "level2": "Green Teas"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5273406-EA-000",
+      "brand": "Pumped",
+      "name": "Lime Flavoured Sparkling Water",
+      "displayName": "650ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 279,
+        "comparativePrice": {
+          "pricePerUnit": 429,
+          "unitQuantity": 1,
+          "unitQuantityUom": "L",
+          "measureDescription": "1L"
+        }
+      },
+      "categoryTrees": [
+        {
+          "level0": "Drinks",
+          "level1": "Cold Drinks",
+          "level2": "Flavoured Water"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5257499-EA-000",
+      "brand": "Nescafe",
+      "name": "Gold Intense Instant Coffee",
+      "displayName": "200g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 1749,
+        "promoId": "128923473",
+        "comparativePrice": {
+          "pricePerUnit": 875,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "128923473",
+          "rewardValue": 1749,
+          "decal": "6000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 875,
+            "unitQuantity": 100,
+            "unitQuantityUom": "g",
+            "measureDescription": "100g"
+          }
+        }
+      ],
+      "facets": [
+        {
+          "itemCode": "00020014",
+          "itemDescription": "Vegetarian"
+        },
+        {
+          "itemCode": "00020013",
+          "itemDescription": "Vegan"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Pantry",
+          "level1": "Hot Drinks",
+          "level2": "Instant Coffees"
+        },
+        {
+          "level0": "Drinks",
+          "level1": "Hot Drinks",
+          "level2": "Instant Coffees"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5107580-EA-000",
+      "brand": "T'Best",
+      "name": "Original Aloe Vera Drink",
+      "displayName": "1.5l",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 449,
+        "promoId": "128757141",
+        "comparativePrice": {
+          "pricePerUnit": 299,
+          "unitQuantity": 1,
+          "unitQuantityUom": "L",
+          "measureDescription": "1L"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "128757141",
+          "rewardValue": 449,
+          "decal": "7000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 299,
+            "unitQuantity": 1,
+            "unitQuantityUom": "L",
+            "measureDescription": "1L"
+          }
+        }
+      ],
+      "facets": [
+        {
+          "itemCode": "00020009",
+          "itemDescription": "Low Fat"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Drinks",
+          "level1": "Cold Drinks",
+          "level2": "Vegetable Juices"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5092776-EA-000",
+      "brand": "Ti Ora",
+      "name": "Peppermint With Spearmint Herbal Tea Bags",
+      "displayName": "15pk",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 679,
+        "comparativePrice": {
+          "pricePerUnit": 45,
+          "unitQuantity": 1,
+          "unitQuantityUom": "ea",
+          "measureDescription": "ea"
+        }
+      },
+      "categoryTrees": [
+        {
+          "level0": "Pantry",
+          "level1": "Hot Drinks",
+          "level2": "Fruit & Herbal Teas"
+        },
+        {
+          "level0": "Drinks",
+          "level1": "Hot Drinks",
+          "level2": "Fruit & Herbal Teas"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5235736-EA-000",
+      "brand": "Red Bull",
+      "name": "Energy Drink",
+      "displayName": "4 x 473ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 1549,
+        "comparativePrice": {
+          "pricePerUnit": 819,
+          "unitQuantity": 1,
+          "unitQuantityUom": "L",
+          "measureDescription": "1L"
+        }
+      },
+      "categoryTrees": [
+        {
+          "level0": "Drinks",
+          "level1": "Cold Drinks",
+          "level2": "Sports & Energy Drinks"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5087774-EA-000",
+      "brand": "Hummingbird",
+      "name": "Decaf Organic Fair Trade Coffee Beans",
+      "displayName": "200g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 679,
+        "promoId": "128928587",
+        "comparativePrice": {
+          "pricePerUnit": 340,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "128928587",
+          "rewardValue": 679,
+          "decal": "6000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 340,
+            "unitQuantity": 100,
+            "unitQuantityUom": "g",
+            "measureDescription": "100g"
+          }
+        }
+      ],
+      "facets": [
+        {
+          "itemCode": "00020001",
+          "itemDescription": "Organic"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Pantry",
+          "level1": "Hot Drinks",
+          "level2": "Fresh Coffees"
+        },
+        {
+          "level0": "Drinks",
+          "level1": "Hot Drinks",
+          "level2": "Fresh Coffees"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5024297-EA-000",
+      "brand": "Havana",
+      "name": "X Blend Espresso Coffee",
+      "displayName": "200g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 949,
+        "comparativePrice": {
+          "pricePerUnit": 475,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "categoryTrees": [
+        {
+          "level0": "Pantry",
+          "level1": "Hot Drinks",
+          "level2": "Fresh Coffees"
+        },
+        {
+          "level0": "Drinks",
+          "level1": "Hot Drinks",
+          "level2": "Fresh Coffees"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5022694-EA-000",
+      "brand": "Diet Coca-Cola",
+      "name": "Soft Drink Cans",
+      "displayName": "6 x 250ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 599,
+        "promoId": "129015845",
+        "comparativePrice": {
+          "pricePerUnit": 399,
+          "unitQuantity": 1,
+          "unitQuantityUom": "L",
+          "measureDescription": "1L"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "129015850",
+          "rewardValue": 399,
+          "decal": "6000",
+          "sapType": "LAYERED",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 2,
+          "multiProducts": true,
+          "description": "Limit 2 assorted",
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 266,
+            "unitQuantity": 1,
+            "unitQuantityUom": "L",
+            "measureDescription": "1L"
+          }
+        }
+      ],
+      "facets": [
+        {
+          "itemCode": "00020011",
+          "itemDescription": "Low Sugar"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Drinks",
+          "level1": "Cold Drinks",
+          "level2": "Soft Drinks"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5024307-EA-000",
+      "brand": "Havana",
+      "name": "Five Star Espresso Coffee",
+      "displayName": "200g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 949,
+        "comparativePrice": {
+          "pricePerUnit": 475,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "categoryTrees": [
+        {
+          "level0": "Pantry",
+          "level1": "Hot Drinks",
+          "level2": "Fresh Coffees"
+        },
+        {
+          "level0": "Drinks",
+          "level1": "Hot Drinks",
+          "level2": "Fresh Coffees"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5273405-EA-000",
+      "brand": "Pumped",
+      "name": "Berry Flavoured Sparkling Water",
+      "displayName": "650ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 279,
+        "comparativePrice": {
+          "pricePerUnit": 429,
+          "unitQuantity": 1,
+          "unitQuantityUom": "L",
+          "measureDescription": "1L"
+        }
+      },
+      "categoryTrees": [
+        {
+          "level0": "Drinks",
+          "level1": "Cold Drinks",
+          "level2": "Sparkling Water"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5030989-EA-000",
+      "brand": "Schweppes",
+      "name": "Indian Tonic Water Bottles",
+      "displayName": "4 x 330ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 799,
+        "comparativePrice": {
+          "pricePerUnit": 605,
+          "unitQuantity": 1,
+          "unitQuantityUom": "L",
+          "measureDescription": "1L"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Drinks",
+          "level1": "Cold Drinks",
+          "level2": "Soft Drinks"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5032927-EA-000",
+      "brand": "Red Seal",
+      "name": "Peach & Pineapple Tea Bags",
+      "displayName": "20pk",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 349,
+        "comparativePrice": {
+          "pricePerUnit": 17,
+          "unitQuantity": 1,
+          "unitQuantityUom": "ea",
+          "measureDescription": "ea"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        },
+        {
+          "itemCode": "00020004",
+          "itemDescription": "Gluten Free"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Pantry",
+          "level1": "Hot Drinks",
+          "level2": "Fruit & Herbal Teas"
+        },
+        {
+          "level0": "Drinks",
+          "level1": "Hot Drinks",
+          "level2": "Fruit & Herbal Teas"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5023109-EA-000",
+      "brand": "Barker's",
+      "name": "Reduced Sugar New Zealand Blackcurrant Pressed Fruit Syrup",
+      "displayName": "710ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 889,
+        "promoId": "128938499",
+        "comparativePrice": {
+          "pricePerUnit": 1252,
+          "unitQuantity": 1,
+          "unitQuantityUom": "L",
+          "measureDescription": "1L"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "128938499",
+          "rewardValue": 889,
+          "decal": "6000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 1252,
+            "unitQuantity": 1,
+            "unitQuantityUom": "L",
+            "measureDescription": "1L"
+          }
+        }
+      ],
+      "facets": [
+        {
+          "itemCode": "00020011",
+          "itemDescription": "Low Sugar"
+        },
+        {
+          "itemCode": "00020004",
+          "itemDescription": "Gluten Free"
+        },
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Drinks",
+          "level1": "Cold Drinks",
+          "level2": "Squash, Syrups & Cordials"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5030990-EA-000",
+      "brand": "Schweppes",
+      "name": "Dry Ginger Ale Bottles",
+      "displayName": "4 x 330ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 799,
+        "comparativePrice": {
+          "pricePerUnit": 605,
+          "unitQuantity": 1,
+          "unitQuantityUom": "L",
+          "measureDescription": "1L"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Drinks",
+          "level1": "Cold Drinks",
+          "level2": "Soft Drinks"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5035997-EA-000",
+      "brand": "Mogu Mogu",
+      "name": "Coconut Flavoured Drink With Nate De Coco",
+      "displayName": "320ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 189,
+        "comparativePrice": {
+          "pricePerUnit": 591,
+          "unitQuantity": 1,
+          "unitQuantityUom": "L",
+          "measureDescription": "1L"
+        }
+      },
+      "categoryTrees": [
+        {
+          "level0": "Drinks",
+          "level1": "Cold Drinks",
+          "level2": "Coconut Water"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5044712-EA-000",
+      "brand": "Fever-Tree",
+      "name": "Premium Indian Tonic Bottles",
+      "displayName": "4 x 200ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 1089,
+        "comparativePrice": {
+          "pricePerUnit": 1361,
+          "unitQuantity": 1,
+          "unitQuantityUom": "L",
+          "measureDescription": "1L"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Drinks",
+          "level1": "Cold Drinks",
+          "level2": "Soft Drinks"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5253606-EA-000",
+      "brand": "Down to Earth Organic Food",
+      "name": "Natural Coconut Water",
+      "displayName": "500ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 199,
+        "promoId": "129018689",
+        "comparativePrice": {
+          "pricePerUnit": 398,
+          "unitQuantity": 1,
+          "unitQuantityUom": "L",
+          "measureDescription": "1L"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "129018689",
+          "rewardValue": 199,
+          "decal": "6000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 398,
+            "unitQuantity": 1,
+            "unitQuantityUom": "L",
+            "measureDescription": "1L"
+          }
+        }
+      ],
+      "facets": [
+        {
+          "itemCode": "00020011",
+          "itemDescription": "Low Sugar"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Drinks",
+          "level1": "Cold Drinks",
+          "level2": "Coconut Water"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5266285-EA-000",
+      "brand": "Robert Harris",
+      "name": "Hazelnut Strength 3 Medium Infused Fresh Coffee",
+      "displayName": "200g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 769,
+        "comparativePrice": {
+          "pricePerUnit": 385,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "categoryTrees": [
+        {
+          "level0": "Pantry",
+          "level1": "Hot Drinks",
+          "level2": "Fresh Coffees"
+        },
+        {
+          "level0": "Drinks",
+          "level1": "Hot Drinks",
+          "level2": "Fresh Coffees"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5008641-EA-000",
+      "brand": "V8",
+      "name": "Breakfast Fruit & Vege Juice",
+      "displayName": "1.25l",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 539,
+        "comparativePrice": {
+          "pricePerUnit": 431,
+          "unitQuantity": 1,
+          "unitQuantityUom": "L",
+          "measureDescription": "1L"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Drinks",
+          "level1": "Cold Drinks",
+          "level2": "Vegetable Juices"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5251478-EA-000",
+      "brand": "Healtheries",
+      "name": "Immunity With Vitamin C Tea Bags",
+      "displayName": "20pk",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 329,
+        "comparativePrice": {
+          "pricePerUnit": 16,
+          "unitQuantity": 1,
+          "unitQuantityUom": "ea",
+          "measureDescription": "ea"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020004",
+          "itemDescription": "Gluten Free"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Pantry",
+          "level1": "Hot Drinks",
+          "level2": "Fruit & Herbal Teas"
+        },
+        {
+          "level0": "Drinks",
+          "level1": "Hot Drinks",
+          "level2": "Fruit & Herbal Teas"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5015383-EA-000",
+      "brand": "Nescafe",
+      "name": "Classic Instant Coffee Tin",
+      "displayName": "360g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 2549,
+        "comparativePrice": {
+          "pricePerUnit": 708,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "categoryTrees": [
+        {
+          "level0": "Pantry",
+          "level1": "Hot Drinks",
+          "level2": "Instant Coffees"
+        },
+        {
+          "level0": "Drinks",
+          "level1": "Hot Drinks",
+          "level2": "Instant Coffees"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5231975-EA-000",
+      "brand": "Quarterpast",
+      "name": "Turmeric Lemon Ginger & Honey Real Fruit Infusion",
+      "displayName": "250ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 529,
+        "comparativePrice": {
+          "pricePerUnit": 2116,
+          "unitQuantity": 1,
+          "unitQuantityUom": "L",
+          "measureDescription": "1L"
+        }
+      },
+      "categoryTrees": [
+        {
+          "level0": "Pantry",
+          "level1": "Hot Drinks",
+          "level2": "Coffee Additives & Filters"
+        },
+        {
+          "level0": "Drinks",
+          "level1": "Hot Drinks",
+          "level2": "Coffee Additives & Filters"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5227049-EA-000",
+      "brand": "Lo Bros",
+      "name": "Cola Kombucha",
+      "displayName": "330ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 249,
+        "comparativePrice": {
+          "pricePerUnit": 755,
+          "unitQuantity": 1,
+          "unitQuantityUom": "L",
+          "measureDescription": "1L"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020001",
+          "itemDescription": "Organic"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Drinks",
+          "level1": "Cold Drinks",
+          "level2": "Soft Drinks"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5262059-EA-000",
+      "brand": "Charlie's",
+      "name": "Honest Cola Soft Drink",
+      "displayName": "4 x 320ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 499,
+        "comparativePrice": {
+          "pricePerUnit": 390,
+          "unitQuantity": 1,
+          "unitQuantityUom": "L",
+          "measureDescription": "1L"
+        }
+      },
+      "categoryTrees": [
+        {
+          "level0": "Drinks",
+          "level1": "Cold Drinks",
+          "level2": "Soft Drinks"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5229809-EA-000",
+      "brand": "L'OR",
+      "name": "Onyx Intensity 12 Coffee Capsules",
+      "displayName": "10 x 5.2g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 679,
+        "promoId": "129010725",
+        "comparativePrice": {
+          "pricePerUnit": 68,
+          "unitQuantity": 1,
+          "unitQuantityUom": "ea",
+          "measureDescription": "ea"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "129010725",
+          "rewardValue": 679,
+          "decal": "6000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 68,
+            "unitQuantity": 1,
+            "unitQuantityUom": "ea",
+            "measureDescription": "ea"
+          }
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Pantry",
+          "level1": "Hot Drinks",
+          "level2": "Coffee Capsules"
+        },
+        {
+          "level0": "Drinks",
+          "level1": "Hot Drinks",
+          "level2": "Coffee Capsules"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5237479-EA-000",
+      "brand": "Good Buzz",
+      "name": "Feijoa Organic Kombucha",
+      "displayName": "888ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 699,
+        "comparativePrice": {
+          "pricePerUnit": 787,
+          "unitQuantity": 1,
+          "unitQuantityUom": "L",
+          "measureDescription": "1L"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020001",
+          "itemDescription": "Organic"
+        },
+        {
+          "itemCode": "00020004",
+          "itemDescription": "Gluten Free"
+        },
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Drinks",
+          "level1": "Cold Drinks",
+          "level2": "Iced Teas"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5019410-EA-000",
+      "brand": "Moccona",
+      "name": "Indulgence Specialty Blend Instant Coffee Jar",
+      "displayName": "200g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 2479,
+        "promoId": "128879008",
+        "comparativePrice": {
+          "pricePerUnit": 1240,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "128879008",
+          "rewardValue": 2479,
+          "decal": "6000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 1240,
+            "unitQuantity": 100,
+            "unitQuantityUom": "g",
+            "measureDescription": "100g"
+          }
+        }
+      ],
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Pantry",
+          "level1": "Hot Drinks",
+          "level2": "Instant Coffees"
+        },
+        {
+          "level0": "Drinks",
+          "level1": "Hot Drinks",
+          "level2": "Instant Coffees"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5269473-EA-000",
+      "brand": "Havana",
+      "name": "Super Deluxe Coffee Beans",
+      "displayName": "500g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 1799,
+        "promoId": "128996470",
+        "comparativePrice": {
+          "pricePerUnit": 360,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "128996470",
+          "rewardValue": 1799,
+          "decal": "6000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 360,
+            "unitQuantity": 100,
+            "unitQuantityUom": "g",
+            "measureDescription": "100g"
+          }
+        }
+      ],
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Pantry",
+          "level1": "Hot Drinks",
+          "level2": "Fresh Coffees"
+        },
+        {
+          "level0": "Drinks",
+          "level1": "Hot Drinks",
+          "level2": "Fresh Coffees"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5005769-EA-000",
+      "brand": "Keri",
+      "name": "Juice Kitchen Premium Grapefruit Juice",
+      "displayName": "1l",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 299,
+        "comparativePrice": {
+          "pricePerUnit": 299,
+          "unitQuantity": 1,
+          "unitQuantityUom": "L",
+          "measureDescription": "1L"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Drinks",
+          "level1": "Cold Drinks",
+          "level2": "Fruit Drinks & Juices"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5001112-EA-000",
+      "brand": "Bushells",
+      "name": "Smooth Blend Instant Coffee",
+      "displayName": "500g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 2179,
+        "comparativePrice": {
+          "pricePerUnit": 436,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Pantry",
+          "level1": "Hot Drinks",
+          "level2": "Instant Coffees"
+        },
+        {
+          "level0": "Drinks",
+          "level1": "Hot Drinks",
+          "level2": "Instant Coffees"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5209329-EA-000",
+      "brand": "The Homegrown Juice Company",
+      "name": "Coco-Chia Fruit Smoothie",
+      "displayName": "400ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 379,
+        "comparativePrice": {
+          "pricePerUnit": 948,
+          "unitQuantity": 1,
+          "unitQuantityUom": "L",
+          "measureDescription": "1L"
+        }
+      },
+      "categoryTrees": [
+        {
+          "level0": "Drinks",
+          "level1": "Cold Drinks",
+          "level2": "Drinking Yoghurt & Smoothies"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5275751-EA-000",
+      "brand": "Nescafe",
+      "name": "98% Sugar Free Latte Coffee Sachets",
+      "displayName": "10 x 14g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 629,
+        "comparativePrice": {
+          "pricePerUnit": 63,
+          "unitQuantity": 1,
+          "unitQuantityUom": "ea",
+          "measureDescription": "ea"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020014",
+          "itemDescription": "Vegetarian"
+        },
+        {
+          "itemCode": "00020011",
+          "itemDescription": "Low Sugar"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Pantry",
+          "level1": "Hot Drinks",
+          "level2": "Instant Coffees"
+        },
+        {
+          "level0": "Drinks",
+          "level1": "Hot Drinks",
+          "level2": "Instant Coffees"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5011759-EA-000",
+      "brand": "Healtheries",
+      "name": "Liquorice Tea Bags",
+      "displayName": "20pk",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 329,
+        "comparativePrice": {
+          "pricePerUnit": 16,
+          "unitQuantity": 1,
+          "unitQuantityUom": "ea",
+          "measureDescription": "ea"
+        }
+      },
+      "categoryTrees": [
+        {
+          "level0": "Pantry",
+          "level1": "Hot Drinks",
+          "level2": "Fruit & Herbal Teas"
+        },
+        {
+          "level0": "Drinks",
+          "level1": "Hot Drinks",
+          "level2": "Fruit & Herbal Teas"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5024086-EA-000",
+      "brand": "Jed's Coffee Co.",
+      "name": "3 Strong Coffee Bags",
+      "displayName": "10 x 8g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 669,
+        "promoId": "128928596",
+        "comparativePrice": {
+          "pricePerUnit": 67,
+          "unitQuantity": 1,
+          "unitQuantityUom": "ea",
+          "measureDescription": "ea"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "128928596",
+          "rewardValue": 669,
+          "decal": "6000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 67,
+            "unitQuantity": 1,
+            "unitQuantityUom": "ea",
+            "measureDescription": "ea"
+          }
+        }
+      ],
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Pantry",
+          "level1": "Hot Drinks",
+          "level2": "Instant Coffees"
+        },
+        {
+          "level0": "Drinks",
+          "level1": "Hot Drinks",
+          "level2": "Instant Coffees"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5114211-EA-000",
+      "brand": "Karajoz",
+      "name": "Organic Espresso Coffee",
+      "displayName": "200g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 749,
+        "promoId": "128879073",
+        "comparativePrice": {
+          "pricePerUnit": 375,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "128879073",
+          "rewardValue": 749,
+          "decal": "6000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 375,
+            "unitQuantity": 100,
+            "unitQuantityUom": "g",
+            "measureDescription": "100g"
+          }
+        }
+      ],
+      "facets": [
+        {
+          "itemCode": "00020001",
+          "itemDescription": "Organic"
+        },
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Pantry",
+          "level1": "Hot Drinks",
+          "level2": "Fresh Coffees"
+        },
+        {
+          "level0": "Drinks",
+          "level1": "Hot Drinks",
+          "level2": "Fresh Coffees"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5044786-EA-000",
+      "brand": "Karajoz",
+      "name": "Organic Plunger Coffee",
+      "displayName": "200g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 749,
+        "promoId": "128879073",
+        "comparativePrice": {
+          "pricePerUnit": 375,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "128879073",
+          "rewardValue": 749,
+          "decal": "6000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 375,
+            "unitQuantity": 100,
+            "unitQuantityUom": "g",
+            "measureDescription": "100g"
+          }
+        }
+      ],
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        },
+        {
+          "itemCode": "00020001",
+          "itemDescription": "Organic"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Pantry",
+          "level1": "Hot Drinks",
+          "level2": "Fresh Coffees"
+        },
+        {
+          "level0": "Drinks",
+          "level1": "Hot Drinks",
+          "level2": "Fresh Coffees"
+        }
+      ],
+      "cateredFlag": false
+    }
+  ],
+  "algoliaSearchResult": {
+    "facets": {
+      "brand": {
+        "Nescafe": 36,
+        "Healtheries": 29,
+        "The Homegrown Juice Company": 29,
+        "Avalanche": 27,
+        "V": 27,
+        "Lo Bros": 26,
+        "Schweppes": 26,
+        "Bundaberg": 24,
+        "Moccona": 24,
+        "Coca-Cola": 21,
+        "Keri": 20,
+        "Red Seal": 20,
+        "Charlie's": 19,
+        "Dilmah": 19,
+        "Jed's Coffee Co.": 19,
+        "L'affare": 18,
+        "Red Bull": 18,
+        "Remedy": 17,
+        "Barker's": 16,
+        "Pams": 16,
+        "Robert Harris": 16,
+        "Bell": 15,
+        "Sprite": 14,
+        "Havana": 13,
+        "L'OR": 12,
+        "Musashi": 12,
+        "Just Juice": 11,
+        "Monster": 11,
+        "Vitasoy": 11,
+        "Hummingbird": 10,
+        "Good Buzz": 9,
+        "Gregg's": 9,
+        "Vitasport": 9,
+        "Nestle": 8,
+        "Six Barrel Soda Co": 8,
+        "Coca-Cola Zero": 7,
+        "L&P": 7,
+        "Powerade": 7,
+        "Raro": 7,
+        "Twinings": 7,
+        "Value": 7,
+        "Almighty": 6,
+        "Arepa": 6,
+        "Coffee Supreme": 6,
+        "Diet Coca-Cola": 6,
+        "Fanta": 6,
+        "Gatorade": 6,
+        "Karajoz": 6,
+        "McCoy": 6,
+        "Mogu Mogu": 6,
+        "Mother": 6,
+        "Pepsi Max": 6,
+        "Pumped": 6,
+        "Sodastream": 6,
+        "Starbucks": 6,
+        "The Apple Press": 6,
+        "Vital Zing": 6,
+        "Alchemy & Tonic": 5,
+        "Celsius": 5,
+        "Choysa": 5,
+        "Fever-Tree": 5,
+        "Live Plus": 5,
+        "Mountain Dew": 5,
+        "Ocean Spray": 5,
+        "Sanitarium So Good": 5,
+        "Ti Ora": 5,
+        "Aurora": 4,
+        "Bickford's": 4,
+        "Good Fortune Coffee Co.": 4,
+        "Karma Drinks": 4,
+        "Kiwi Blue": 4,
+        "La Croix": 4,
+        "Lipton": 4,
+        "Pams Plant Based": 4,
+        "Peoples Coffee": 4,
+        "StrangeLove": 4,
+        "Tongariro": 4,
+        "Allpress Espresso": 3,
+        "Fresh Up": 3,
+        "Jarrah": 3,
+        "Lift": 3,
+        "Liquid Death": 3,
+        "Meadow Fresh": 3,
+        "Nescafe Dolce Gusto": 3,
+        "Pepsi": 3,
+        "Phoenix": 3,
+        "Pump": 3,
+        "Ribena": 3,
+        "V8": 3,
+        "Vitafresh": 3,
+        "Yakult": 3,
+        "e2": 3,
+        "7UP": 2,
+        "All Good": 2,
+        "Beet It": 2,
+        "Boring": 2,
+        "Chi'": 2,
+        "Deep Spring": 2,
+        "Fagg's": 2,
+        "Fuze": 2
+      },
+      "category1NI": {
+        "Cold Drinks": 625,
+        "Hot Drinks": 342,
+        "Dairy & Eggs": 27,
+        "Pams": 8,
+        "Canned & Prepared Foods": 1
+      },
+      "onPromotion": {
+        "4a279605-eaa8-470d-bcd4-0a9e3c9ab43b": 305,
+        "3c5e3145-0767-4066-9349-6c0a1313acc5": 296,
+        "01a114de-149c-4f5f-80a1-90cc63f69c6e": 286,
+        "61dd754e-8525-4b9e-9e08-173389eea8a8": 285,
+        "d8032da3-c1b9-456e-b626-41ce21f8c67b": 283,
+        "21ecaaed-0749-4492-985e-4bb7ba43d59c": 282,
+        "90082979-fb9f-4305-9c72-83274fc438cc": 278,
+        "b29a98bd-749c-489c-9eef-6aa38e66a29b": 277,
+        "b92cc33f-b5a8-4b57-9b82-412946800020": 276,
+        "2ed73be8-936d-4f35-9398-75a707f40a7b": 274,
+        "dbca5e00-f7f9-43ae-91de-031ad16f8a92": 273,
+        "c3f9e1a3-fc34-452d-af2e-95349e666ba4": 272,
+        "5cf0392f-c187-4fc4-a463-eb269d2e8f45": 271,
+        "be4c4780-218e-425a-a90f-63e21773572b": 271,
+        "64eab5b1-8d79-45f4-94f1-02b8cf8b6202": 265,
+        "8cd700ae-d96f-4761-bd7a-805d6b93536d": 263,
+        "715f0e22-95e0-45ce-af3a-07057209976e": 255,
+        "7d48a781-4f68-4c91-a908-8659e1b22f95": 255,
+        "92086ded-a55d-4241-a364-7d7ea91531b4": 237,
+        "33d8d6fc-861a-45ff-9937-5ccdb55eaede": 232,
+        "714431ab-6e39-4df6-ac77-cfc5c1e25bc8": 231,
+        "b2e98a14-c8ca-401e-99ed-edf74570c6f6": 222,
+        "c180a72d-5dbe-4403-b7c7-91655e505492": 209,
+        "4fcc1c8e-cc5e-4675-ba25-5e56b579cf69": 200,
+        "c2204dae-579e-4b6b-9d42-2e13ceaa6031": 199,
+        "65defcf2-bc15-490e-a84f-1f13b769cd22": 198,
+        "6e6809dd-01bc-45c9-aab1-f01ccd8338b0": 198,
+        "e1925ea7-01bc-4358-ae7c-c6502da5ab12": 195,
+        "3bfe040b-f0c9-45e0-949b-b9ad5a591d55": 194,
+        "d6d39eea-889d-4e20-923c-55cab225cf7f": 193,
+        "3404c253-577f-45ca-b301-c98312e46efb": 190,
+        "3bb30799-82ce-4648-8c02-5113228963ed": 190,
+        "60561e46-ece7-43a7-b142-9b14812586e4": 186,
+        "a7d09522-bee2-41e4-8fe0-0b82b7f342f5": 181,
+        "53989945-1a28-481d-a61c-d6f75f760ada": 180,
+        "6cda96e1-7d29-44a6-956b-3fcfdecc8184": 180,
+        "8f0d70be-5cb7-464b-99cb-8b0130671895": 178,
+        "6c73764e-b8e6-4e55-ad37-f6a9d207da1f": 175,
+        "c0f80e87-16be-4488-9553-da437e8c6c2a": 175,
+        "1c388d5e-29ac-4956-b476-cb3431353d2e": 170,
+        "5f167936-79ae-4f6a-b9d2-74afe1bb096b": 170,
+        "d1cd1fdd-8767-46a6-a8d3-c3e0632c2dc8": 163,
+        "48dd98cc-a757-4102-b15d-ea82b4b10571": 160,
+        "3e82142c-78dc-46f3-82ec-28e65fcf84c9": 159,
+        "9cd8eb60-3222-4efc-bd7c-50e03e6a81a4": 158,
+        "49037947-e450-49bf-ba1f-a94551c79a72": 148,
+        "529d66cc-60e3-432e-b8d1-efc9f2ec4919": 148,
+        "b39562a4-2b72-43fe-b9ba-eda1d651ad0b": 146,
+        "15e6f441-5c1c-4d25-b4ec-1adf918c49c7": 145,
+        "b83029b6-5dd5-449e-8056-26f3943a4e18": 133,
+        "98ec3885-ac93-4fcb-807b-59c9055c52c4": 132,
+        "50b1216b-d066-4457-b88b-9bccf97bf6d3": 131,
+        "076e8177-943b-41fc-a885-ba3d28297acf": 128,
+        "94ef1985-cab1-4b39-a2f3-230120f03c16": 123,
+        "af385423-d0f1-41f0-9482-ffd10b745143": 103
+      },
+      "productFacets": {
+        "Non-GMO": 381,
+        "Low Sugar": 140,
+        "Organic": 95,
+        "Gluten Free": 90,
+        "Vegan": 45,
+        "Vegetarian": 45,
+        "Dairy Free": 34,
+        "Low Fat": 31,
+        "Halal": 29
+      }
+    }
+  },
+  "totalHits": 967,
+  "page": 12,
+  "totalPages": 20,
+  "hitsPerPage": 50
+}

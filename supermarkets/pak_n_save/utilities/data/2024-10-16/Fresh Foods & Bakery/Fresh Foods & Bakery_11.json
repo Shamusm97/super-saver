@@ -1,0 +1,2451 @@
+{
+  "tobaccoProducts": false,
+  "products": [
+    {
+      "productId": "5091786-EA-000",
+      "brand": "Raglan Coconut Yoghurt",
+      "name": "Natural Greek Style Dairy-Free Coconut Yoghurt",
+      "displayName": "700g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 1099,
+        "comparativePrice": {
+          "pricePerUnit": 157,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "categoryTrees": [
+        {
+          "level0": "Fresh Foods & Bakery",
+          "level1": "Dairy & Eggs",
+          "level2": "Yoghurt & Dairy Food"
+        },
+        {
+          "level0": "Chilled, Frozen & Desserts",
+          "level1": "Dairy & Eggs",
+          "level2": "Yoghurt & Dairy Food"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5019851-EA-000",
+      "brand": "Beehive",
+      "name": "Sweet & Smokey Streaky Bacon",
+      "displayName": "250g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": true,
+      "originStatement": "Made in New Zealand using pork from pigs raised in one or more of the countries: Australia, Belgium, Denmark, Finland, France, Germany, Ireland, Netherlands, Poland, UK, Spain, Sweden, Canada, USA.",
+      "singlePrice": {
+        "price": 599,
+        "comparativePrice": {
+          "pricePerUnit": 2396,
+          "unitQuantity": 1,
+          "unitQuantityUom": "kg",
+          "measureDescription": "1kg"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020004",
+          "itemDescription": "Gluten Free"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Fresh Foods & Bakery",
+          "level1": "Deli, Salads & Cooked Meats",
+          "level2": "Bacon"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5041957-EA-000",
+      "brand": "Waitoa",
+      "name": "Free Range Whole Chicken",
+      "displayName": "1.6kg",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": true,
+      "originStatement": "Product of New Zealand",
+      "singlePrice": {
+        "price": 1599,
+        "promoId": "129017425",
+        "comparativePrice": {
+          "pricePerUnit": 1066,
+          "unitQuantity": 1,
+          "unitQuantityUom": "kg",
+          "measureDescription": "1kg"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "129017425",
+          "rewardValue": 1599,
+          "decal": "6000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 1066,
+            "unitQuantity": 1,
+            "unitQuantityUom": "kg",
+            "measureDescription": "1kg"
+          }
+        }
+      ],
+      "facets": [
+        {
+          "itemCode": "00020003",
+          "itemDescription": "Free Range"
+        },
+        {
+          "itemCode": "00020007",
+          "itemDescription": "Dairy Free"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Fresh Foods & Bakery",
+          "level1": "Butchery",
+          "level2": "PrePacked Chicken & Poultry"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5241046-EA-000",
+      "brand": "Farrah's",
+      "name": "Wraps Italian Herb",
+      "displayName": "6pk",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 499,
+        "promoId": "129033487",
+        "comparativePrice": {
+          "pricePerUnit": 83,
+          "unitQuantity": 1,
+          "unitQuantityUom": "ea",
+          "measureDescription": "ea"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "129033487",
+          "rewardValue": 499,
+          "decal": "6000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 83,
+            "unitQuantity": 1,
+            "unitQuantityUom": "ea",
+            "measureDescription": "ea"
+          }
+        }
+      ],
+      "facets": [
+        {
+          "itemCode": "00020007",
+          "itemDescription": "Dairy Free"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Fresh Foods & Bakery",
+          "level1": "Bakery",
+          "level2": "Wraps & Pita Breads"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5011629-EA-000",
+      "brand": "Country Goodness",
+      "name": "Kiwi Onion Dip",
+      "displayName": "250g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 399,
+        "comparativePrice": {
+          "pricePerUnit": 160,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Fresh Foods & Bakery",
+          "level1": "Deli, Salads & Cooked Meats",
+          "level2": "Dips, Pesto & Pate"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5229519-EA-000",
+      "brand": "The Collective",
+      "name": "Mango Turmeric Kefir Pourable Probiotic Yoghurt",
+      "displayName": "700ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 619,
+        "comparativePrice": {
+          "pricePerUnit": 88,
+          "unitQuantity": 100,
+          "unitQuantityUom": "ml",
+          "measureDescription": "100ml"
+        }
+      },
+      "categoryTrees": [
+        {
+          "level0": "Fresh Foods & Bakery",
+          "level1": "Dairy & Eggs",
+          "level2": "Yoghurt & Dairy Food"
+        },
+        {
+          "level0": "Chilled, Frozen & Desserts",
+          "level1": "Dairy & Eggs",
+          "level2": "Yoghurt & Dairy Food"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5032630-EA-000",
+      "brand": "Puhoi Valley",
+      "name": "Black Doris Plum Yoghurt",
+      "displayName": "450g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 579,
+        "comparativePrice": {
+          "pricePerUnit": 129,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Fresh Foods & Bakery",
+          "level1": "Dairy & Eggs",
+          "level2": "Yoghurt & Dairy Food"
+        },
+        {
+          "level0": "Chilled, Frozen & Desserts",
+          "level1": "Dairy & Eggs",
+          "level2": "Yoghurt & Dairy Food"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5114193-EA-000",
+      "brand": "Farmland",
+      "name": "Leg Ham Banquet Boneless",
+      "displayName": "890g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": true,
+      "originStatement": "Made in New Zealand from imported and local ingredients. Pork butchered in the following countries may have been used in the production of this product: Australia, Canada, Denmark, Germany, Ireland, New Zealand, Poland, Spain, Sweden, United States of America. These countries may not always reflect the country the animal has been raised in.",
+      "singlePrice": {
+        "price": 1349,
+        "promoId": "128944221",
+        "comparativePrice": {
+          "pricePerUnit": 1516,
+          "unitQuantity": 1,
+          "unitQuantityUom": "kg",
+          "measureDescription": "1kg"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "128944221",
+          "rewardValue": 1349,
+          "decal": "6000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 1516,
+            "unitQuantity": 1,
+            "unitQuantityUom": "kg",
+            "measureDescription": "1kg"
+          }
+        }
+      ],
+      "facets": [
+        {
+          "itemCode": "00020004",
+          "itemDescription": "Gluten Free"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Fresh Foods & Bakery",
+          "level1": "Deli, Salads & Cooked Meats",
+          "level2": "Ham & Pork"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5262834-EA-000",
+      "brand": "Hellers",
+      "name": "Classic PreCooked Chicken Sausages",
+      "displayName": "1kg",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 1169,
+        "comparativePrice": {
+          "pricePerUnit": 1169,
+          "unitQuantity": 1,
+          "unitQuantityUom": "kg",
+          "measureDescription": "1kg"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Fresh Foods & Bakery",
+          "level1": "Butchery",
+          "level2": "PreCooked Sausages"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5224482-EA-000",
+      "brand": "Pieter's",
+      "name": "Spanish Chorizo Salami",
+      "displayName": "250g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 549,
+        "comparativePrice": {
+          "pricePerUnit": 2196,
+          "unitQuantity": 1,
+          "unitQuantityUom": "kg",
+          "measureDescription": "1kg"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020004",
+          "itemDescription": "Gluten Free"
+        },
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Fresh Foods & Bakery",
+          "level1": "Deli, Salads & Cooked Meats",
+          "level2": "Continental Sausage & Salami"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5003460-EA-000",
+      "brand": "Sizzlers",
+      "name": "Original",
+      "displayName": "450g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 500,
+        "promoId": "129001248",
+        "comparativePrice": {
+          "pricePerUnit": 1111,
+          "unitQuantity": 1,
+          "unitQuantityUom": "kg",
+          "measureDescription": "1kg"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "129001248",
+          "rewardValue": 500,
+          "decal": "6000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 1111,
+            "unitQuantity": 1,
+            "unitQuantityUom": "kg",
+            "measureDescription": "1kg"
+          }
+        }
+      ],
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Fresh Foods & Bakery",
+          "level1": "Butchery",
+          "level2": "PrePacked Sausages"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5108716-EA-000",
+      "brand": "Turk's",
+      "name": "Fresh Free Range Whole Chicken",
+      "displayName": "1.5kg",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": true,
+      "originStatement": "Product of New Zealand",
+      "singlePrice": {
+        "price": 1549,
+        "comparativePrice": {
+          "pricePerUnit": 1033,
+          "unitQuantity": 1,
+          "unitQuantityUom": "kg",
+          "measureDescription": "1kg"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020003",
+          "itemDescription": "Free Range"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Fresh Foods & Bakery",
+          "level1": "Butchery",
+          "level2": "PrePacked Chicken & Poultry"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5253380-EA-000",
+      "brand": "Tatua",
+      "name": "Sour Cream",
+      "displayName": "500g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 639,
+        "comparativePrice": {
+          "pricePerUnit": 128,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020004",
+          "itemDescription": "Gluten Free"
+        },
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Fresh Foods & Bakery",
+          "level1": "Dairy & Eggs",
+          "level2": "Sour Cream & Crème Fraiche"
+        },
+        {
+          "level0": "Chilled, Frozen & Desserts",
+          "level1": "Dairy & Eggs",
+          "level2": "Sour Cream & Crème Fraiche"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5025532-EA-000",
+      "brand": "Lisa's",
+      "name": "Pumpkin & Kumara With Roast Cashew & Cumin",
+      "displayName": "200g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 399,
+        "promoId": "128944029",
+        "comparativePrice": {
+          "pricePerUnit": 200,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "128944029",
+          "rewardValue": 399,
+          "decal": "6000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 200,
+            "unitQuantity": 100,
+            "unitQuantityUom": "g",
+            "measureDescription": "100g"
+          }
+        }
+      ],
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        },
+        {
+          "itemCode": "00020004",
+          "itemDescription": "Gluten Free"
+        },
+        {
+          "itemCode": "00020014",
+          "itemDescription": "Vegetarian"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Fresh Foods & Bakery",
+          "level1": "Deli, Salads & Cooked Meats",
+          "level2": "Hummus"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5013484-EA-000",
+      "brand": "Puhoi Valley",
+      "name": "Divine Berries Yoghurt",
+      "displayName": "450g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 579,
+        "comparativePrice": {
+          "pricePerUnit": 129,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Fresh Foods & Bakery",
+          "level1": "Dairy & Eggs",
+          "level2": "Yoghurt & Dairy Food"
+        },
+        {
+          "level0": "Chilled, Frozen & Desserts",
+          "level1": "Dairy & Eggs",
+          "level2": "Yoghurt & Dairy Food"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5031973-EA-000",
+      "brand": "Just Hummus",
+      "name": "Beetroot & Roasted Garlic Hummus",
+      "displayName": "175g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 269,
+        "promoId": "128922886",
+        "comparativePrice": {
+          "pricePerUnit": 154,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "128922886",
+          "rewardValue": 269,
+          "decal": "6000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 154,
+            "unitQuantity": 100,
+            "unitQuantityUom": "g",
+            "measureDescription": "100g"
+          }
+        }
+      ],
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Fresh Foods & Bakery",
+          "level1": "Deli, Salads & Cooked Meats",
+          "level2": "Hummus"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5252611-EA-000",
+      "brand": "Harmony",
+      "name": "Beef, Manuka Honey & Hickory Sausages",
+      "displayName": "480g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 999,
+        "comparativePrice": {
+          "pricePerUnit": 2081,
+          "unitQuantity": 1,
+          "unitQuantityUom": "kg",
+          "measureDescription": "1kg"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020004",
+          "itemDescription": "Gluten Free"
+        },
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        },
+        {
+          "itemCode": "00020003",
+          "itemDescription": "Free Range"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Fresh Foods & Bakery",
+          "level1": "Butchery",
+          "level2": "PrePacked Sausages"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5001061-EA-000",
+      "brand": "Tararua",
+      "name": "Roast Garlic & Onion Creamy Dip",
+      "displayName": "250g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 389,
+        "comparativePrice": {
+          "pricePerUnit": 156,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020002",
+          "itemDescription": "Halal"
+        },
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Fresh Foods & Bakery",
+          "level1": "Deli, Salads & Cooked Meats",
+          "level2": "Dips, Pesto & Pate"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5208622-EA-000",
+      "brand": "Verkerks",
+      "name": "Mild Dutch Lunchbox Salami",
+      "displayName": "100g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 339,
+        "comparativePrice": {
+          "pricePerUnit": 3390,
+          "unitQuantity": 1,
+          "unitQuantityUom": "kg",
+          "measureDescription": "1kg"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020004",
+          "itemDescription": "Gluten Free"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Fresh Foods & Bakery",
+          "level1": "Deli, Salads & Cooked Meats",
+          "level2": "Continental Sausage & Salami"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5003286-EA-000",
+      "brand": "Fresh 'n Fruity",
+      "name": "Naturally Simple Sweetened Yoghurt",
+      "displayName": "1kg",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 599,
+        "comparativePrice": {
+          "pricePerUnit": 60,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Fresh Foods & Bakery",
+          "level1": "Dairy & Eggs",
+          "level2": "Yoghurt & Dairy Food"
+        },
+        {
+          "level0": "Chilled, Frozen & Desserts",
+          "level1": "Dairy & Eggs",
+          "level2": "Yoghurt & Dairy Food"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5027135-EA-000",
+      "brand": "Meadow Fresh",
+      "name": "Lite Sour Cream",
+      "displayName": "125g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 225,
+        "comparativePrice": {
+          "pricePerUnit": 180,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        },
+        {
+          "itemCode": "00020014",
+          "itemDescription": "Vegetarian"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Fresh Foods & Bakery",
+          "level1": "Dairy & Eggs",
+          "level2": "Sour Cream & Crème Fraiche"
+        },
+        {
+          "level0": "Chilled, Frozen & Desserts",
+          "level1": "Dairy & Eggs",
+          "level2": "Sour Cream & Crème Fraiche"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5266859-EA-000",
+      "brand": "The Collective",
+      "name": "Vanilla Bean Kefir Pourable Probiotic Yoghurt",
+      "displayName": "700ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 619,
+        "comparativePrice": {
+          "pricePerUnit": 88,
+          "unitQuantity": 100,
+          "unitQuantityUom": "ml",
+          "measureDescription": "100ml"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020014",
+          "itemDescription": "Vegetarian"
+        },
+        {
+          "itemCode": "00020004",
+          "itemDescription": "Gluten Free"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Fresh Foods & Bakery",
+          "level1": "Dairy & Eggs",
+          "level2": "Yoghurt & Dairy Food"
+        },
+        {
+          "level0": "Chilled, Frozen & Desserts",
+          "level1": "Dairy & Eggs",
+          "level2": "Yoghurt & Dairy Food"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5087037-EA-000",
+      "brand": "Taylor Farms",
+      "name": "Southwest Chopped Salad Kit",
+      "displayName": "350g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": true,
+      "originStatement": "Product of New Zealand",
+      "singlePrice": {
+        "price": 649,
+        "comparativePrice": {
+          "pricePerUnit": 1854,
+          "unitQuantity": 1,
+          "unitQuantityUom": "kg",
+          "measureDescription": "1kg"
+        }
+      },
+      "categoryTrees": [
+        {
+          "level0": "Fresh Foods & Bakery",
+          "level1": "Fruit & Vegetables",
+          "level2": "Salad Bags"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5106367-EA-000",
+      "name": "Mock Cream Buns",
+      "displayName": "6pk",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 499,
+        "comparativePrice": {
+          "pricePerUnit": 83,
+          "unitQuantity": 1,
+          "unitQuantityUom": "ea",
+          "measureDescription": "ea"
+        }
+      },
+      "categoryTrees": [
+        {
+          "level0": "Fresh Foods & Bakery",
+          "level1": "Bakery",
+          "level2": "Fresh Breads & Rolls"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5103750-KGM-000",
+      "name": "Walnuts",
+      "displayName": "kg",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "WEIGHT",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "variableWeight": {
+        "minOrderQuantity": 100,
+        "stepSize": 50,
+        "stepUnitOfMeasure": "g"
+      },
+      "singlePrice": {
+        "price": 2150,
+        "promoId": "128943194",
+        "comparativePrice": {
+          "pricePerUnit": 215,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "128943194",
+          "rewardValue": 2150,
+          "decal": "6000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 215,
+            "unitQuantity": 100,
+            "unitQuantityUom": "g",
+            "measureDescription": "100g"
+          }
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Fresh Foods & Bakery",
+          "level1": "Bulk & Loose Foods",
+          "level2": "Bulk Nuts"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5242833-EA-000",
+      "brand": "Harmony",
+      "name": "Lamb & Rosemary Sausages",
+      "displayName": "480g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 999,
+        "comparativePrice": {
+          "pricePerUnit": 2081,
+          "unitQuantity": 1,
+          "unitQuantityUom": "kg",
+          "measureDescription": "1kg"
+        }
+      },
+      "categoryTrees": [
+        {
+          "level0": "Fresh Foods & Bakery",
+          "level1": "Butchery",
+          "level2": "PrePacked Sausages"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5087036-EA-000",
+      "brand": "Taylor Farms",
+      "name": "Kale Chopped Salad Kit",
+      "displayName": "250g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": true,
+      "originStatement": "Product of New Zealand",
+      "singlePrice": {
+        "price": 649,
+        "comparativePrice": {
+          "pricePerUnit": 2596,
+          "unitQuantity": 1,
+          "unitQuantityUom": "kg",
+          "measureDescription": "1kg"
+        }
+      },
+      "categoryTrees": [
+        {
+          "level0": "Fresh Foods & Bakery",
+          "level1": "Fruit & Vegetables",
+          "level2": "Salad Bags"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5045861-KGM-000",
+      "name": "Swedes",
+      "displayName": "kg",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "BOTH",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": true,
+      "originStatement": "Product of New Zealand",
+      "variableWeight": {
+        "unitOfMeasure": "g",
+        "averageWeight": 450,
+        "minOrderQuantity": 500,
+        "stepSize": 250,
+        "stepUnitOfMeasure": "g"
+      },
+      "singlePrice": {
+        "price": 729,
+        "comparativePrice": {
+          "pricePerUnit": 729,
+          "unitQuantity": 1,
+          "unitQuantityUom": "kg",
+          "measureDescription": "1kg"
+        }
+      },
+      "categoryTrees": [
+        {
+          "level0": "Fresh Foods & Bakery",
+          "level1": "Fruit & Vegetables",
+          "level2": "Fresh Vegetables"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5027009-EA-000",
+      "brand": "Hellers",
+      "name": "Classic Family Cheerios",
+      "displayName": "1kg",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 1199,
+        "promoId": "128985686",
+        "comparativePrice": {
+          "pricePerUnit": 1199,
+          "unitQuantity": 1,
+          "unitQuantityUom": "kg",
+          "measureDescription": "1kg"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "128985686",
+          "rewardValue": 1199,
+          "decal": "6000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 1199,
+            "unitQuantity": 1,
+            "unitQuantityUom": "kg",
+            "measureDescription": "1kg"
+          }
+        }
+      ],
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        },
+        {
+          "itemCode": "00020004",
+          "itemDescription": "Gluten Free"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Fresh Foods & Bakery",
+          "level1": "Butchery",
+          "level2": "PrePacked Sausages"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5253275-EA-000",
+      "brand": "Mainland",
+      "name": "Buttersoft Salted Spreadable Butter",
+      "displayName": "225g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 719,
+        "comparativePrice": {
+          "pricePerUnit": 320,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Fresh Foods & Bakery",
+          "level1": "Dairy & Eggs",
+          "level2": "Butter & Spreads"
+        },
+        {
+          "level0": "Chilled, Frozen & Desserts",
+          "level1": "Dairy & Eggs",
+          "level2": "Butter & Spreads"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5006554-EA-000",
+      "brand": "The Collective",
+      "name": "Passionfruit Gourmet Probiotic Yoghurt",
+      "displayName": "500g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 519,
+        "promoId": "128943787",
+        "comparativePrice": {
+          "pricePerUnit": 104,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "128943787",
+          "rewardValue": 519,
+          "decal": "6000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 104,
+            "unitQuantity": 100,
+            "unitQuantityUom": "g",
+            "measureDescription": "100g"
+          }
+        }
+      ],
+      "facets": [
+        {
+          "itemCode": "00020014",
+          "itemDescription": "Vegetarian"
+        },
+        {
+          "itemCode": "00020004",
+          "itemDescription": "Gluten Free"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Fresh Foods & Bakery",
+          "level1": "Dairy & Eggs",
+          "level2": "Yoghurt & Dairy Food"
+        },
+        {
+          "level0": "Chilled, Frozen & Desserts",
+          "level1": "Dairy & Eggs",
+          "level2": "Yoghurt & Dairy Food"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5238434-EA-000",
+      "brand": "Anchor",
+      "name": "A2 Lite Milk",
+      "displayName": "2l",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 690,
+        "comparativePrice": {
+          "pricePerUnit": 345,
+          "unitQuantity": 1,
+          "unitQuantityUom": "L",
+          "measureDescription": "1L"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Fresh Foods & Bakery",
+          "level1": "Dairy & Eggs",
+          "level2": "Fresh Milk"
+        },
+        {
+          "level0": "Chilled, Frozen & Desserts",
+          "level1": "Dairy & Eggs",
+          "level2": "Fresh Milk"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5027922-EA-000",
+      "brand": "Hellers",
+      "name": "Gluten Free Original Sausages",
+      "displayName": "1kg",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 1169,
+        "comparativePrice": {
+          "pricePerUnit": 1169,
+          "unitQuantity": 1,
+          "unitQuantityUom": "kg",
+          "measureDescription": "1kg"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020004",
+          "itemDescription": "Gluten Free"
+        },
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Fresh Foods & Bakery",
+          "level1": "Butchery",
+          "level2": "PrePacked Sausages"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5001058-EA-000",
+      "brand": "Tararua",
+      "name": "Sour Cream & Chives Creamy Dip",
+      "displayName": "250g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 389,
+        "comparativePrice": {
+          "pricePerUnit": 156,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        },
+        {
+          "itemCode": "00020002",
+          "itemDescription": "Halal"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Fresh Foods & Bakery",
+          "level1": "Deli, Salads & Cooked Meats",
+          "level2": "Dips, Pesto & Pate"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5017673-EA-000",
+      "brand": "Vogel's",
+      "name": "Gluten Free & Dairy Free White Bread",
+      "displayName": "520g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 789,
+        "comparativePrice": {
+          "pricePerUnit": 152,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        },
+        {
+          "itemCode": "00020004",
+          "itemDescription": "Gluten Free"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Fresh Foods & Bakery",
+          "level1": "Bakery",
+          "level2": "Organic & Gluten Free"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5108204-KGM-000",
+      "name": "NZ Pork Foreloin Roast",
+      "displayName": "kg",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "WEIGHT",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": true,
+      "originStatement": "Product of New Zealand",
+      "variableWeight": {
+        "minOrderQuantity": 100,
+        "stepSize": 100,
+        "stepUnitOfMeasure": "g"
+      },
+      "singlePrice": {
+        "price": 1099,
+        "promoId": "129016051",
+        "comparativePrice": {
+          "pricePerUnit": 1099,
+          "unitQuantity": 1,
+          "unitQuantityUom": "kg",
+          "measureDescription": "1kg"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "129016051",
+          "rewardValue": 1099,
+          "decal": "6000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 1099,
+            "unitQuantity": 1,
+            "unitQuantityUom": "kg",
+            "measureDescription": "1kg"
+          }
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Fresh Foods & Bakery",
+          "level1": "Butchery",
+          "level2": "Fresh Pork"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5212775-EA-000",
+      "brand": "Anchor",
+      "name": "Protein+ Passionfruit Greek Style Yoghurt",
+      "displayName": "180g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 279,
+        "promoId": "128970912",
+        "comparativePrice": {
+          "pricePerUnit": 155,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "128970912",
+          "rewardValue": 279,
+          "decal": "7000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 155,
+            "unitQuantity": 100,
+            "unitQuantityUom": "g",
+            "measureDescription": "100g"
+          }
+        }
+      ],
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Fresh Foods & Bakery",
+          "level1": "Dairy & Eggs",
+          "level2": "Yoghurt & Dairy Food"
+        },
+        {
+          "level0": "Chilled, Frozen & Desserts",
+          "level1": "Dairy & Eggs",
+          "level2": "Yoghurt & Dairy Food"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5010252-EA-000",
+      "brand": "Flora",
+      "name": "Original Spread",
+      "displayName": "500g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 439,
+        "comparativePrice": {
+          "pricePerUnit": 88,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Fresh Foods & Bakery",
+          "level1": "Dairy & Eggs",
+          "level2": "Butter & Spreads"
+        },
+        {
+          "level0": "Chilled, Frozen & Desserts",
+          "level1": "Dairy & Eggs",
+          "level2": "Butter & Spreads"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5223555-EA-000",
+      "brand": "Meadow Fresh",
+      "name": "Kalo Manuka Honey Authentic Greek Yoghurt",
+      "displayName": "800g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 749,
+        "comparativePrice": {
+          "pricePerUnit": 94,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Fresh Foods & Bakery",
+          "level1": "Dairy & Eggs",
+          "level2": "Yoghurt & Dairy Food"
+        },
+        {
+          "level0": "Chilled, Frozen & Desserts",
+          "level1": "Dairy & Eggs",
+          "level2": "Yoghurt & Dairy Food"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5241267-EA-000",
+      "brand": "Pams",
+      "name": "Shredded Carrots",
+      "displayName": "300g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": true,
+      "originStatement": "Product of New Zealand",
+      "singlePrice": {
+        "price": 289,
+        "comparativePrice": {
+          "pricePerUnit": 963,
+          "unitQuantity": 1,
+          "unitQuantityUom": "kg",
+          "measureDescription": "1kg"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020007",
+          "itemDescription": "Dairy Free"
+        },
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Fresh Foods & Bakery",
+          "level1": "Fruit & Vegetables",
+          "level2": "PrePacked Fresh Vegetables"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5086559-EA-000",
+      "brand": "Puhoi Valley",
+      "name": "Caramel & White Chocolate Flavoured Milk",
+      "displayName": "750ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 689,
+        "comparativePrice": {
+          "pricePerUnit": 919,
+          "unitQuantity": 1,
+          "unitQuantityUom": "L",
+          "measureDescription": "1L"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Fresh Foods & Bakery",
+          "level1": "Dairy & Eggs",
+          "level2": "Flavoured Milk"
+        },
+        {
+          "level0": "Chilled, Frozen & Desserts",
+          "level1": "Dairy & Eggs",
+          "level2": "Flavoured Milk"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5087177-EA-000",
+      "brand": "Puhoi Valley",
+      "name": "Nelson Boysenberries Yoghurt",
+      "displayName": "450g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 579,
+        "comparativePrice": {
+          "pricePerUnit": 129,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Fresh Foods & Bakery",
+          "level1": "Dairy & Eggs",
+          "level2": "Yoghurt & Dairy Food"
+        },
+        {
+          "level0": "Chilled, Frozen & Desserts",
+          "level1": "Dairy & Eggs",
+          "level2": "Yoghurt & Dairy Food"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5046934-EA-000",
+      "name": "Curly Parsley",
+      "displayName": "ea",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": true,
+      "originStatement": "Product of New Zealand",
+      "singlePrice": {
+        "price": 369
+      },
+      "categoryTrees": [
+        {
+          "level0": "Fresh Foods & Bakery",
+          "level1": "Fruit & Vegetables",
+          "level2": "Fresh Vegetables"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5223557-EA-000",
+      "brand": "Meadow Fresh",
+      "name": "Kalo Berries Authentic Greek Yoghurt",
+      "displayName": "800g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 749,
+        "comparativePrice": {
+          "pricePerUnit": 94,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Fresh Foods & Bakery",
+          "level1": "Dairy & Eggs",
+          "level2": "Yoghurt & Dairy Food"
+        },
+        {
+          "level0": "Chilled, Frozen & Desserts",
+          "level1": "Dairy & Eggs",
+          "level2": "Yoghurt & Dairy Food"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5036888-EA-000",
+      "brand": "Vogel's",
+      "name": "Gluten Free & Dairy Free Wholemeal Bread",
+      "displayName": "580g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 789,
+        "comparativePrice": {
+          "pricePerUnit": 136,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        },
+        {
+          "itemCode": "00020004",
+          "itemDescription": "Gluten Free"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Fresh Foods & Bakery",
+          "level1": "Bakery",
+          "level2": "Organic & Gluten Free"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5227983-EA-000",
+      "brand": "Primo",
+      "name": "Banana Blast Flavoured Milk",
+      "displayName": "1.5l",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 549,
+        "comparativePrice": {
+          "pricePerUnit": 366,
+          "unitQuantity": 1,
+          "unitQuantityUom": "L",
+          "measureDescription": "1L"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Fresh Foods & Bakery",
+          "level1": "Dairy & Eggs",
+          "level2": "Flavoured Milk"
+        },
+        {
+          "level0": "Chilled, Frozen & Desserts",
+          "level1": "Dairy & Eggs",
+          "level2": "Flavoured Milk"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5046461-KGM-000",
+      "name": "Black Seedless Grapes",
+      "displayName": "kg",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "WEIGHT",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": true,
+      "originStatement": "Product of Mexico",
+      "variableWeight": {
+        "minOrderQuantity": 100,
+        "stepSize": 100,
+        "stepUnitOfMeasure": "g"
+      },
+      "singlePrice": {
+        "price": 899,
+        "comparativePrice": {
+          "pricePerUnit": 899,
+          "unitQuantity": 1,
+          "unitQuantityUom": "kg",
+          "measureDescription": "1kg"
+        }
+      },
+      "categoryTrees": [
+        {
+          "level0": "Fresh Foods & Bakery",
+          "level1": "Fruit & Vegetables",
+          "level2": "Fresh Fruit"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5001059-EA-000",
+      "brand": "Tararua",
+      "name": "Gherkin Relish Creamy Dip",
+      "displayName": "250g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 389,
+        "comparativePrice": {
+          "pricePerUnit": 156,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020002",
+          "itemDescription": "Halal"
+        },
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Fresh Foods & Bakery",
+          "level1": "Deli, Salads & Cooked Meats",
+          "level2": "Dips, Pesto & Pate"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5100747-KGM-000",
+      "name": "Beef Shin On Bone",
+      "displayName": "kg",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "WEIGHT",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": true,
+      "originStatement": "Product of New Zealand",
+      "variableWeight": {
+        "minOrderQuantity": 400,
+        "stepSize": 100,
+        "stepUnitOfMeasure": "g"
+      },
+      "singlePrice": {
+        "price": 1599,
+        "comparativePrice": {
+          "pricePerUnit": 1599,
+          "unitQuantity": 1,
+          "unitQuantityUom": "kg",
+          "measureDescription": "1kg"
+        }
+      },
+      "categoryTrees": [
+        {
+          "level0": "Fresh Foods & Bakery",
+          "level1": "Butchery",
+          "level2": "Fresh Beef & Lamb"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5248441-EA-000",
+      "brand": "Taylor Farms",
+      "name": "Avocado Ranch Chopped Kit",
+      "displayName": "350g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 649,
+        "comparativePrice": {
+          "pricePerUnit": 1854,
+          "unitQuantity": 1,
+          "unitQuantityUom": "kg",
+          "measureDescription": "1kg"
+        }
+      },
+      "categoryTrees": [
+        {
+          "level0": "Fresh Foods & Bakery",
+          "level1": "Fruit & Vegetables",
+          "level2": "Salad Bags"
+        }
+      ],
+      "cateredFlag": false
+    }
+  ],
+  "algoliaSearchResult": {
+    "facets": {
+      "brand": {
+        "Pams": 108,
+        "Hellers": 61,
+        "Anchor": 60,
+        "Meadow Fresh": 37,
+        "The Collective": 35,
+        "Fresh 'n Fruity": 29,
+        "Puhoi Valley": 26,
+        "Verkerks": 25,
+        "Beehive": 24,
+        "Lewis Road Creamery": 22,
+        "Farrah's": 20,
+        "Tegel": 20,
+        "Tip Top": 19,
+        "Farmer Brown": 18,
+        "Yoplait": 16,
+        "Nature's Fresh": 14,
+        "Regal": 14,
+        "Tasman Bay Herbs": 14,
+        "Baker Boys": 13,
+        "Giannis": 13,
+        "Pams Fresh": 13,
+        "Pams Value": 13,
+        "Value": 13,
+        "Vogel's": 13,
+        "Freya's": 12,
+        "Lisa's": 11,
+        "Obela": 11,
+        "Rutherford & Meyer": 11,
+        "Venerdi": 11,
+        "Hansells": 10,
+        "Harmony": 10,
+        "Vitasoy": 10,
+        "Easiyo": 9,
+        "Gopala": 9,
+        "Moogurt": 9,
+        "Pams Finest": 9,
+        "Raglan Coconut Yoghurt": 9,
+        "Taylor Farms": 9,
+        "Big Ben": 8,
+        "First Light": 8,
+        "Flora": 8,
+        "Pieter's": 8,
+        "Primo Smallgoods": 8,
+        "Tararua": 8,
+        "Waikato Cakes": 8,
+        "Alamir Bakery": 7,
+        "Beard Brothers": 7,
+        "Bostock Brothers": 7,
+        "DECOR CAKES": 7,
+        "Danny's": 7,
+        "De Gustibus": 7,
+        "LeaderBrand": 7,
+        "Ploughmans Bakery": 7,
+        "Primo": 7,
+        "Superb Herb": 7,
+        "Turkish Kitchen": 7,
+        "Woodland": 7,
+        "Abe's": 6,
+        "Burgen": 6,
+        "Farmland": 6,
+        "L'Authentique": 6,
+        "Mainland": 6,
+        "Mediterranean": 6,
+        "Molenberg": 6,
+        "Olivani": 6,
+        "Rebel Bakehouse": 6,
+        "Santa Bremor": 6,
+        "Tatua": 6,
+        "Turk's": 6,
+        "Waitoa": 6,
+        "Aoraki Smokehouse": 5,
+        "Boss": 5,
+        "Cottage Lane": 5,
+        "Food Snob": 5,
+        "Freedom Farms": 5,
+        "Healthy n Fresh": 5,
+        "Henergy": 5,
+        "Little Island Coconut Creamery": 5,
+        "Meadow Mushrooms": 5,
+        "Sanitarium So Good": 5,
+        "Speirs": 5,
+        "Yummy Fruit": 5,
+        "Bean Supreme": 4,
+        "Better Eggs": 4,
+        "Cathedral Cove Naturals": 4,
+        "Fisherking": 4,
+        "Just Hummus": 4,
+        "Kapiti": 4,
+        "Kapiti Artisan Bakehouse": 4,
+        "Lincoln Bakery": 4,
+        "Living Foods": 4,
+        "Mammoth Supply Co.": 4,
+        "Meadowlea": 4,
+        "Nippy's": 4,
+        "Original Foods Baking Co": 4,
+        "Pams Free Range": 4,
+        "Pams Plant Based": 4,
+        "Premier": 4,
+        "Scalini's": 4,
+        "Shore Mariner": 4
+      },
+      "category1NI": {
+        "Dairy & Eggs": 462,
+        "Deli, Salads & Cooked Meats": 313,
+        "Bakery": 304,
+        "Fruit & Vegetables": 270,
+        "Butchery": 217,
+        "Bulk & Loose Foods": 131,
+        "Seafood": 96,
+        "Pams": 34,
+        "Cold Drinks": 27,
+        "Ready to Eat": 23,
+        "Snack Foods": 7,
+        "Canned & Prepared Foods": 6,
+        "Condiments & Dressings": 6,
+        "Ready to Heat": 6,
+        "Cheese": 2,
+        "Desserts": 2,
+        "Ready to Cook": 2,
+        "Biscuits & Crackers": 1,
+        "Frozen Foods": 1,
+        "Halloween": 1,
+        "Household": 1
+      },
+      "onPromotion": {
+        "8cd700ae-d96f-4761-bd7a-805d6b93536d": 354,
+        "4a279605-eaa8-470d-bcd4-0a9e3c9ab43b": 345,
+        "dbca5e00-f7f9-43ae-91de-031ad16f8a92": 342,
+        "d8032da3-c1b9-456e-b626-41ce21f8c67b": 339,
+        "715f0e22-95e0-45ce-af3a-07057209976e": 337,
+        "90082979-fb9f-4305-9c72-83274fc438cc": 333,
+        "b29a98bd-749c-489c-9eef-6aa38e66a29b": 327,
+        "5cf0392f-c187-4fc4-a463-eb269d2e8f45": 307,
+        "c3f9e1a3-fc34-452d-af2e-95349e666ba4": 307,
+        "be4c4780-218e-425a-a90f-63e21773572b": 303,
+        "2ed73be8-936d-4f35-9398-75a707f40a7b": 301,
+        "61dd754e-8525-4b9e-9e08-173389eea8a8": 300,
+        "21ecaaed-0749-4492-985e-4bb7ba43d59c": 289,
+        "33d8d6fc-861a-45ff-9937-5ccdb55eaede": 289,
+        "64eab5b1-8d79-45f4-94f1-02b8cf8b6202": 275,
+        "01a114de-149c-4f5f-80a1-90cc63f69c6e": 255,
+        "92086ded-a55d-4241-a364-7d7ea91531b4": 251,
+        "3c5e3145-0767-4066-9349-6c0a1313acc5": 249,
+        "65defcf2-bc15-490e-a84f-1f13b769cd22": 249,
+        "6e6809dd-01bc-45c9-aab1-f01ccd8338b0": 249,
+        "b92cc33f-b5a8-4b57-9b82-412946800020": 240,
+        "6cda96e1-7d29-44a6-956b-3fcfdecc8184": 239,
+        "d1cd1fdd-8767-46a6-a8d3-c3e0632c2dc8": 238,
+        "3bb30799-82ce-4648-8c02-5113228963ed": 235,
+        "3404c253-577f-45ca-b301-c98312e46efb": 231,
+        "b39562a4-2b72-43fe-b9ba-eda1d651ad0b": 230,
+        "5f167936-79ae-4f6a-b9d2-74afe1bb096b": 229,
+        "15e6f441-5c1c-4d25-b4ec-1adf918c49c7": 228,
+        "a7d09522-bee2-41e4-8fe0-0b82b7f342f5": 225,
+        "49037947-e450-49bf-ba1f-a94551c79a72": 224,
+        "48dd98cc-a757-4102-b15d-ea82b4b10571": 223,
+        "c0f80e87-16be-4488-9553-da437e8c6c2a": 223,
+        "60561e46-ece7-43a7-b142-9b14812586e4": 222,
+        "c180a72d-5dbe-4403-b7c7-91655e505492": 222,
+        "e1925ea7-01bc-4358-ae7c-c6502da5ab12": 221,
+        "3bfe040b-f0c9-45e0-949b-b9ad5a591d55": 220,
+        "53989945-1a28-481d-a61c-d6f75f760ada": 218,
+        "1c388d5e-29ac-4956-b476-cb3431353d2e": 213,
+        "b2e98a14-c8ca-401e-99ed-edf74570c6f6": 212,
+        "c2204dae-579e-4b6b-9d42-2e13ceaa6031": 212,
+        "98ec3885-ac93-4fcb-807b-59c9055c52c4": 211,
+        "4fcc1c8e-cc5e-4675-ba25-5e56b579cf69": 209,
+        "8f0d70be-5cb7-464b-99cb-8b0130671895": 208,
+        "7d48a781-4f68-4c91-a908-8659e1b22f95": 207,
+        "9cd8eb60-3222-4efc-bd7c-50e03e6a81a4": 207,
+        "d6d39eea-889d-4e20-923c-55cab225cf7f": 207,
+        "6c73764e-b8e6-4e55-ad37-f6a9d207da1f": 204,
+        "714431ab-6e39-4df6-ac77-cfc5c1e25bc8": 202,
+        "529d66cc-60e3-432e-b8d1-efc9f2ec4919": 200,
+        "b83029b6-5dd5-449e-8056-26f3943a4e18": 190,
+        "50b1216b-d066-4457-b88b-9bccf97bf6d3": 188,
+        "076e8177-943b-41fc-a885-ba3d28297acf": 187,
+        "3e82142c-78dc-46f3-82ec-28e65fcf84c9": 178,
+        "af385423-d0f1-41f0-9482-ffd10b745143": 162,
+        "94ef1985-cab1-4b39-a2f3-230120f03c16": 160
+      },
+      "productFacets": {
+        "Non-GMO": 852,
+        "Gluten Free": 328,
+        "Dairy Free": 190,
+        "Low Fat": 115,
+        "Vegetarian": 97,
+        "Free Range": 81,
+        "Vegan": 60,
+        "Organic": 54,
+        "Halal": 37,
+        "Low Sugar": 25,
+        "Cage Free": 20,
+        "Keto": 8,
+        "Low Salt": 1
+      }
+    }
+  },
+  "totalHits": 1000,
+  "page": 11,
+  "totalPages": 20,
+  "hitsPerPage": 50
+}

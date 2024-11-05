@@ -1,0 +1,2248 @@
+{
+  "tobaccoProducts": false,
+  "products": [
+    {
+      "productId": "5002606-EA-000",
+      "brand": "Hound Log",
+      "name": "Economy Dog Roll",
+      "displayName": "3kg",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 949,
+        "comparativePrice": {
+          "pricePerUnit": 32,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "categoryTrees": [
+        {
+          "level0": "Pets",
+          "level1": "Pet Supplies",
+          "level2": "Dog Food"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5010313-EA-000",
+      "brand": "Wag",
+      "name": "Original Dog Food",
+      "displayName": "3kg",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 919,
+        "promoId": "128901917",
+        "comparativePrice": {
+          "pricePerUnit": 31,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "128901917",
+          "rewardValue": 919,
+          "decal": "6000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 31,
+            "unitQuantity": 100,
+            "unitQuantityUom": "g",
+            "measureDescription": "100g"
+          }
+        }
+      ],
+      "facets": [
+        {
+          "itemCode": "00020004",
+          "itemDescription": "Gluten Free"
+        },
+        {
+          "itemCode": "00020011",
+          "itemDescription": "Low Sugar"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Pets",
+          "level1": "Pet Supplies",
+          "level2": "Dog Food"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5010314-EA-000",
+      "brand": "Wag",
+      "name": "Garlic & Rice Dog Food",
+      "displayName": "3kg",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 919,
+        "promoId": "128901917",
+        "comparativePrice": {
+          "pricePerUnit": 31,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "128901917",
+          "rewardValue": 919,
+          "decal": "6000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 31,
+            "unitQuantity": 100,
+            "unitQuantityUom": "g",
+            "measureDescription": "100g"
+          }
+        }
+      ],
+      "facets": [
+        {
+          "itemCode": "00020004",
+          "itemDescription": "Gluten Free"
+        },
+        {
+          "itemCode": "00020011",
+          "itemDescription": "Low Sugar"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Pets",
+          "level1": "Pet Supplies",
+          "level2": "Dog Food"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5011939-EA-000",
+      "brand": "Possyum",
+      "name": "Supreme Premium Dog Roll",
+      "displayName": "2kg",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 1499,
+        "comparativePrice": {
+          "pricePerUnit": 75,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "categoryTrees": [
+        {
+          "level0": "Pets",
+          "level1": "Pet Supplies",
+          "level2": "Dog Food"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5002401-EA-000",
+      "brand": "Butch",
+      "name": "Economy Dog Food",
+      "displayName": "2kg",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 699,
+        "comparativePrice": {
+          "pricePerUnit": 35,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "categoryTrees": [
+        {
+          "level0": "Pets",
+          "level1": "Pet Supplies",
+          "level2": "Dog Food"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5230957-EA-000",
+      "brand": "Pams",
+      "name": "Lamb & Chicken Flavour Cat Kibble",
+      "displayName": "1kg",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 429,
+        "comparativePrice": {
+          "pricePerUnit": 43,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Pets",
+          "level1": "Pet Supplies",
+          "level2": "Cat Food"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5019306-EA-000",
+      "brand": "Butch",
+      "name": "Bow Wow Dog Food",
+      "displayName": "2.6kg",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 819,
+        "comparativePrice": {
+          "pricePerUnit": 32,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "categoryTrees": [
+        {
+          "level0": "Pets",
+          "level1": "Pet Supplies",
+          "level2": "Dog Food"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5018867-EA-000",
+      "brand": "Tasti",
+      "name": "Chicken & Rice Pet Roll",
+      "displayName": "1kg",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 459,
+        "comparativePrice": {
+          "pricePerUnit": 46,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020004",
+          "itemDescription": "Gluten Free"
+        },
+        {
+          "itemCode": "00020010",
+          "itemDescription": "Low Salt"
+        },
+        {
+          "itemCode": "00020011",
+          "itemDescription": "Low Sugar"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Pets",
+          "level1": "Pet Supplies",
+          "level2": "Cat Food"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5016216-EA-000",
+      "brand": "Dine",
+      "name": "Classic Collection Saucy Morsels With Tuna Mornay & Cheese Wet Cat Food",
+      "displayName": "85g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 159,
+        "comparativePrice": {
+          "pricePerUnit": 187,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "categoryTrees": [
+        {
+          "level0": "Pets",
+          "level1": "Pet Supplies",
+          "level2": "Cat Food"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5016211-EA-000",
+      "brand": "Dine",
+      "name": "Classic Collection Terrine with Tender Beef Wet Cat Food",
+      "displayName": "85g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 159,
+        "comparativePrice": {
+          "pricePerUnit": 187,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "categoryTrees": [
+        {
+          "level0": "Pets",
+          "level1": "Pet Supplies",
+          "level2": "Cat Food"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5016213-EA-000",
+      "brand": "Dine",
+      "name": "Classic Collection Cuts in Gravy with Lamb Wet Cat Food",
+      "displayName": "85g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 159,
+        "comparativePrice": {
+          "pricePerUnit": 187,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "categoryTrees": [
+        {
+          "level0": "Pets",
+          "level1": "Pet Supplies",
+          "level2": "Cat Food"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5016212-EA-000",
+      "brand": "Dine",
+      "name": "Classic Collection Cuts In Gravy with Beef & Liver Wet Cat Food",
+      "displayName": "85g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 159,
+        "comparativePrice": {
+          "pricePerUnit": 187,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "categoryTrees": [
+        {
+          "level0": "Pets",
+          "level1": "Pet Supplies",
+          "level2": "Cat Food"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5230958-EA-000",
+      "brand": "Pams",
+      "name": "Beef Chicken & Vegetable Flavour Cat Kibble",
+      "displayName": "1kg",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 429,
+        "comparativePrice": {
+          "pricePerUnit": 43,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Pets",
+          "level1": "Pet Supplies",
+          "level2": "Cat Food"
+        },
+        {
+          "level0": "Featured",
+          "level1": "Pams",
+          "level2": "Pet Supplies"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5018223-EA-000",
+      "brand": "Dine",
+      "name": "Classic Collection Slices with Tender Turkey Wet Cat Food",
+      "displayName": "85g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 159,
+        "comparativePrice": {
+          "pricePerUnit": 187,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "categoryTrees": [
+        {
+          "level0": "Pets",
+          "level1": "Pet Supplies",
+          "level2": "Cat Food"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5230959-EA-000",
+      "brand": "Pams",
+      "name": "Seafood Flavour Cat Kibble",
+      "displayName": "1kg",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 429,
+        "comparativePrice": {
+          "pricePerUnit": 43,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Pets",
+          "level1": "Pet Supplies",
+          "level2": "Cat Food"
+        },
+        {
+          "level0": "Featured",
+          "level1": "Pams",
+          "level2": "Pet Supplies"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5010327-EA-000",
+      "brand": "Chef",
+      "name": "Traditional Jellimeat Loaf Cat Food",
+      "displayName": "690g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 449,
+        "comparativePrice": {
+          "pricePerUnit": 65,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Pets",
+          "level1": "Pet Supplies",
+          "level2": "Cat Food"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5002793-EA-000",
+      "brand": "Butch",
+      "name": "Original Dog & Cat Roll",
+      "displayName": "1kg",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 459,
+        "comparativePrice": {
+          "pricePerUnit": 46,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020004",
+          "itemDescription": "Gluten Free"
+        },
+        {
+          "itemCode": "00020010",
+          "itemDescription": "Low Salt"
+        },
+        {
+          "itemCode": "00020011",
+          "itemDescription": "Low Sugar"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Pets",
+          "level1": "Pet Supplies",
+          "level2": "Cat Food"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5016014-EA-000",
+      "brand": "Pedigree",
+      "name": "Dentastix Large Dog Daily Dental Care Dog Treats",
+      "displayName": "270g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 599,
+        "promoId": "128891405",
+        "comparativePrice": {
+          "pricePerUnit": 222,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "128891405",
+          "rewardValue": 599,
+          "decal": "7000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 222,
+            "unitQuantity": 100,
+            "unitQuantityUom": "g",
+            "measureDescription": "100g"
+          }
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Pets",
+          "level1": "Pet Supplies",
+          "level2": "Dog Treats"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5015910-EA-000",
+      "brand": "Chef",
+      "name": "Variety of Classic Loaf Pouches Cat Food",
+      "displayName": "18 x 100g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 1499,
+        "comparativePrice": {
+          "pricePerUnit": 83,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Pets",
+          "level1": "Pet Supplies",
+          "level2": "Cat Food"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5010330-EA-000",
+      "brand": "Chef",
+      "name": "Tasty Lamb Classic Loaf Cat Food",
+      "displayName": "690g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 449,
+        "comparativePrice": {
+          "pricePerUnit": 65,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Pets",
+          "level1": "Pet Supplies",
+          "level2": "Cat Food"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5002795-EA-000",
+      "brand": "Butch",
+      "name": "Black Label Dog Food",
+      "displayName": "2kg",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 769,
+        "promoId": "128943340",
+        "comparativePrice": {
+          "pricePerUnit": 38,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "128943340",
+          "rewardValue": 769,
+          "decal": "6000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 38,
+            "unitQuantity": 100,
+            "unitQuantityUom": "g",
+            "measureDescription": "100g"
+          }
+        }
+      ],
+      "facets": [
+        {
+          "itemCode": "00020004",
+          "itemDescription": "Gluten Free"
+        },
+        {
+          "itemCode": "00020010",
+          "itemDescription": "Low Salt"
+        },
+        {
+          "itemCode": "00020011",
+          "itemDescription": "Low Sugar"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Pets",
+          "level1": "Pet Supplies",
+          "level2": "Dog Food"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5009911-EA-000",
+      "brand": "My Dog",
+      "name": "Classic Loaf With Tender Chicken Wet Dog Food",
+      "displayName": "100g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 209,
+        "promoId": "128891402",
+        "comparativePrice": {
+          "pricePerUnit": 209,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "128891402",
+          "rewardValue": 209,
+          "decal": "7000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 209,
+            "unitQuantity": 100,
+            "unitQuantityUom": "g",
+            "measureDescription": "100g"
+          }
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Pets",
+          "level1": "Pet Supplies",
+          "level2": "Dog Food"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5013830-EA-000",
+      "brand": "Chef",
+      "name": "Traditional Jellimeat Classic Loaf Pouches Cat Food",
+      "displayName": "4 x 100g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 369,
+        "comparativePrice": {
+          "pricePerUnit": 92,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Pets",
+          "level1": "Pet Supplies",
+          "level2": "Cat Food"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5010323-EA-000",
+      "brand": "Chef",
+      "name": "Tender Chicken & Lamb Fine Cuts Cat Food",
+      "displayName": "700g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 449,
+        "comparativePrice": {
+          "pricePerUnit": 64,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Pets",
+          "level1": "Pet Supplies",
+          "level2": "Cat Food"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5281325-EA-000",
+      "brand": "Whiskas",
+      "name": "Chicken Mixed Favourites in Jelly Wet Cat Food Pouches",
+      "displayName": "18 x 85g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 1549,
+        "comparativePrice": {
+          "pricePerUnit": 101,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "categoryTrees": [
+        {
+          "level0": "Pets",
+          "level1": "Pet Supplies",
+          "level2": "Cat Food"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5027411-EA-000",
+      "brand": "VitaPet",
+      "name": "Pet Milk",
+      "displayName": "1l",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 599,
+        "promoId": "128943253",
+        "comparativePrice": {
+          "pricePerUnit": 60,
+          "unitQuantity": 100,
+          "unitQuantityUom": "ml",
+          "measureDescription": "100ml"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "128943253",
+          "rewardValue": 599,
+          "decal": "6000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 60,
+            "unitQuantity": 100,
+            "unitQuantityUom": "ml",
+            "measureDescription": "100ml"
+          }
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Pets",
+          "level1": "Pet Supplies",
+          "level2": "Cat Food"
+        },
+        {
+          "level0": "Pets",
+          "level1": "Pet Supplies",
+          "level2": "Small Animal Supplies"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5036659-EA-000",
+      "brand": "VitaPet",
+      "name": "Morsomes Duck Tenders Dog Treats",
+      "displayName": "300g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 1399,
+        "promoId": "128943293",
+        "comparativePrice": {
+          "pricePerUnit": 466,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "128943293",
+          "rewardValue": 1399,
+          "decal": "6000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 466,
+            "unitQuantity": 100,
+            "unitQuantityUom": "g",
+            "measureDescription": "100g"
+          }
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Pets",
+          "level1": "Pet Supplies",
+          "level2": "Dog Treats"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5254088-EA-000",
+      "brand": "Dine",
+      "name": "Perfect Portions Cuts In Gravy With Gourmet Salmon Wet Cat Food",
+      "displayName": "75g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 209,
+        "comparativePrice": {
+          "pricePerUnit": 279,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "categoryTrees": [
+        {
+          "level0": "Pets",
+          "level1": "Pet Supplies",
+          "level2": "Cat Food"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5010326-EA-000",
+      "brand": "Chef",
+      "name": "Chunky Chicken Classic Loaf Cat Food",
+      "displayName": "690g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 449,
+        "comparativePrice": {
+          "pricePerUnit": 65,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Pets",
+          "level1": "Pet Supplies",
+          "level2": "Cat Food"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5284442-EA-000",
+      "brand": "Whiskas",
+      "name": "Mixed Favourites In Jelly Wet Cat Food Pouches",
+      "displayName": "18 x 85g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 1549,
+        "comparativePrice": {
+          "pricePerUnit": 101,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "categoryTrees": [
+        {
+          "level0": "Pets",
+          "level1": "Pet Supplies",
+          "level2": "Cat Food"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5210874-EA-000",
+      "brand": "Whiskas",
+      "name": "Mixed Favourites In Gravy Wet Cat Food Pouches",
+      "displayName": "18 x 85g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 1549,
+        "comparativePrice": {
+          "pricePerUnit": 101,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "categoryTrees": [
+        {
+          "level0": "Pets",
+          "level1": "Pet Supplies",
+          "level2": "Cat Food"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5023459-EA-000",
+      "brand": "My Dog",
+      "name": "Classic Loaf With Chicken & Turkey Banquet Wet Dog Food",
+      "displayName": "400g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 419,
+        "comparativePrice": {
+          "pricePerUnit": 105,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "categoryTrees": [
+        {
+          "level0": "Pets",
+          "level1": "Pet Supplies",
+          "level2": "Dog Food"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5022413-EA-000",
+      "brand": "Whiskas",
+      "name": "So Meaty Shredded Chicken In Gravy Wet Cat Food Pouches",
+      "displayName": "3 x 85g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 389,
+        "promoId": "128891426",
+        "comparativePrice": {
+          "pricePerUnit": 153,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "128891426",
+          "rewardValue": 389,
+          "decal": "7000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 153,
+            "unitQuantity": 100,
+            "unitQuantityUom": "g",
+            "measureDescription": "100g"
+          }
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Pets",
+          "level1": "Pet Supplies",
+          "level2": "Cat Food"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5011934-EA-000",
+      "brand": "Chef",
+      "name": "Tender Chicken Classic Loaf Pouches Cat Food",
+      "displayName": "4 x 100g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 369,
+        "comparativePrice": {
+          "pricePerUnit": 92,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Pets",
+          "level1": "Pet Supplies",
+          "level2": "Cat Food"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5011949-EA-000",
+      "brand": "Chef",
+      "name": "Ocean Fish and Salmon Casserole Pouches Cat Food",
+      "displayName": "4 x 100g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 369,
+        "comparativePrice": {
+          "pricePerUnit": 92,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Pets",
+          "level1": "Pet Supplies",
+          "level2": "Cat Food"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5013718-EA-000",
+      "brand": "My Dog",
+      "name": "Classic Loaf With Juicy Lamb Wet Dog Food",
+      "displayName": "100g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 209,
+        "promoId": "128891402",
+        "comparativePrice": {
+          "pricePerUnit": 209,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "128891402",
+          "rewardValue": 209,
+          "decal": "7000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 209,
+            "unitQuantity": 100,
+            "unitQuantityUom": "g",
+            "measureDescription": "100g"
+          }
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Pets",
+          "level1": "Pet Supplies",
+          "level2": "Dog Food"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5215351-EA-000",
+      "brand": "Value",
+      "name": "Cat Litter",
+      "displayName": "7l",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 599,
+        "comparativePrice": {
+          "pricePerUnit": 86,
+          "unitQuantity": 1,
+          "unitQuantityUom": "L",
+          "measureDescription": "1L"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Pets",
+          "level1": "Pet Supplies",
+          "level2": "Cat Accessories"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5009910-EA-000",
+      "brand": "My Dog",
+      "name": "Classic Loaf With Gourmet Beef Wet Dog Food",
+      "displayName": "100g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 209,
+        "promoId": "128891402",
+        "comparativePrice": {
+          "pricePerUnit": 209,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "128891402",
+          "rewardValue": 209,
+          "decal": "7000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 209,
+            "unitQuantity": 100,
+            "unitQuantityUom": "g",
+            "measureDescription": "100g"
+          }
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Pets",
+          "level1": "Pet Supplies",
+          "level2": "Dog Food"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5210891-EA-000",
+      "brand": "Whiskas",
+      "name": "Chicken Favourites in Jelly Wet Cat Food Pouches",
+      "displayName": "4 x 85g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 389,
+        "promoId": "128891426",
+        "comparativePrice": {
+          "pricePerUnit": 114,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "128891426",
+          "rewardValue": 389,
+          "decal": "7000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 114,
+            "unitQuantity": 100,
+            "unitQuantityUom": "g",
+            "measureDescription": "100g"
+          }
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Pets",
+          "level1": "Pet Supplies",
+          "level2": "Cat Food"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5010324-EA-000",
+      "brand": "Chef",
+      "name": "Hearty Beef & Venison Fine Cuts Cat Food",
+      "displayName": "700g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 449,
+        "comparativePrice": {
+          "pricePerUnit": 64,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Pets",
+          "level1": "Pet Supplies",
+          "level2": "Cat Food"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5013825-EA-000",
+      "brand": "Chef",
+      "name": "Tasty Lamb Classic Loaf Pouches Cat Food",
+      "displayName": "4 x 100g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 369,
+        "comparativePrice": {
+          "pricePerUnit": 92,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Pets",
+          "level1": "Pet Supplies",
+          "level2": "Cat Food"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5013846-EA-000",
+      "brand": "Pedigree",
+      "name": "Adult With Real Beef Dry Dog Food",
+      "displayName": "3kg",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 1899,
+        "promoId": "128891404",
+        "comparativePrice": {
+          "pricePerUnit": 63,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "128891404",
+          "rewardValue": 1899,
+          "decal": "7000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 63,
+            "unitQuantity": 100,
+            "unitQuantityUom": "g",
+            "measureDescription": "100g"
+          }
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Pets",
+          "level1": "Pet Supplies",
+          "level2": "Dog Food"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5281333-EA-000",
+      "brand": "Whiskas",
+      "name": "Tuna Flavour Mixed Favourites in Jelly Wet Cat Food Pouches",
+      "displayName": "18 x 85g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 1549,
+        "comparativePrice": {
+          "pricePerUnit": 101,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "categoryTrees": [
+        {
+          "level0": "Pets",
+          "level1": "Pet Supplies",
+          "level2": "Cat Food"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5014451-EA-000",
+      "brand": "Pedigree",
+      "name": "Adult With Real Chicken Dry Dog Food",
+      "displayName": "3kg",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 1899,
+        "promoId": "128891404",
+        "comparativePrice": {
+          "pricePerUnit": 63,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "128891404",
+          "rewardValue": 1899,
+          "decal": "7000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 63,
+            "unitQuantity": 100,
+            "unitQuantityUom": "g",
+            "measureDescription": "100g"
+          }
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Pets",
+          "level1": "Pet Supplies",
+          "level2": "Dog Food"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5220021-EA-000",
+      "brand": "Value",
+      "name": "Poultry Laying Pellets",
+      "displayName": "10kg",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 1749,
+        "comparativePrice": {
+          "pricePerUnit": 17,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Pets",
+          "level1": "Pet Supplies",
+          "level2": "Bird Supplies"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5012630-EA-000",
+      "brand": "Chef",
+      "name": "Meat Lovers Variety of Classic Loaf Pouches Cat Food",
+      "displayName": "12 x 100g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 849,
+        "promoId": "128943386",
+        "comparativePrice": {
+          "pricePerUnit": 71,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "128943386",
+          "rewardValue": 849,
+          "decal": "6000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 71,
+            "unitQuantity": 100,
+            "unitQuantityUom": "g",
+            "measureDescription": "100g"
+          }
+        }
+      ],
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Pets",
+          "level1": "Pet Supplies",
+          "level2": "Cat Food"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5013278-EA-000",
+      "brand": "Chef",
+      "name": "Chicken with Rabbit Flavour Classic Loaf Pouches Cat Food",
+      "displayName": "4 x 100g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 369,
+        "comparativePrice": {
+          "pricePerUnit": 92,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Pets",
+          "level1": "Pet Supplies",
+          "level2": "Cat Food"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5022471-EA-000",
+      "brand": "Chef",
+      "name": "Variety of Fine Cuts Pouches Cat Food",
+      "displayName": "18 x 100g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 1499,
+        "comparativePrice": {
+          "pricePerUnit": 83,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Pets",
+          "level1": "Pet Supplies",
+          "level2": "Cat Food"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5034181-EA-000",
+      "brand": "Natures Goodness",
+      "name": "Grain Free Homestyle Beef Stew With Carrots & Potatoes Dog Food",
+      "displayName": "400g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 339,
+        "promoId": "128785536",
+        "comparativePrice": {
+          "pricePerUnit": 85,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "128785536",
+          "rewardValue": 339,
+          "decal": "6000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 85,
+            "unitQuantity": 100,
+            "unitQuantityUom": "g",
+            "measureDescription": "100g"
+          }
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Pets",
+          "level1": "Pet Supplies",
+          "level2": "Dog Food"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5036657-EA-000",
+      "brand": "VitaPet",
+      "name": "Morsomes Chicken Tenders Dog Treats",
+      "displayName": "300g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 1399,
+        "promoId": "128943293",
+        "comparativePrice": {
+          "pricePerUnit": 466,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "128943293",
+          "rewardValue": 1399,
+          "decal": "6000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 466,
+            "unitQuantity": 100,
+            "unitQuantityUom": "g",
+            "measureDescription": "100g"
+          }
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Pets",
+          "level1": "Pet Supplies",
+          "level2": "Dog Treats"
+        }
+      ],
+      "cateredFlag": false
+    }
+  ],
+  "algoliaSearchResult": {
+    "facets": {
+      "brand": {
+        "VitaPet": 48,
+        "Whiskas": 37,
+        "Dine": 30,
+        "Purina Fancy Feast": 26,
+        "Chef": 23,
+        "Fussy Cat": 19,
+        "Temptations": 16,
+        "Pedigree": 15,
+        "Purina ONE": 15,
+        "Jimbo's": 14,
+        "Pams": 13,
+        "My Dog": 12,
+        "Purina Oscar": 12,
+        "Value": 11,
+        "Purina TUX": 10,
+        "Schmackos": 10,
+        "Purina Friskies": 9,
+        "Farmers Market": 7,
+        "IAMS": 6,
+        "Perfect": 6,
+        "Butch": 5,
+        "Natures Goodness": 5,
+        "Superior": 5,
+        "Love'em": 4,
+        "Nature's Gift": 4,
+        "Animals Like Us": 3,
+        "Optimum": 3,
+        "Purina": 3,
+        "V.I.P Petfoods": 3,
+        "Vamoose": 3,
+        "Love Em": 2,
+        "Possyum": 2,
+        "Purina Cat Chow": 2,
+        "Wag": 2,
+        "Champ": 1,
+        "Ecopack": 1,
+        "Fackelmann": 1,
+        "Hound Log": 1,
+        "Purina Kitten Chow": 1,
+        "Ranchmans": 1,
+        "Tasti": 1
+      },
+      "category1NI": {
+        "Pet Supplies": 392,
+        "Pams": 2
+      },
+      "onPromotion": {
+        "90082979-fb9f-4305-9c72-83274fc438cc": 157,
+        "61dd754e-8525-4b9e-9e08-173389eea8a8": 146,
+        "b29a98bd-749c-489c-9eef-6aa38e66a29b": 145,
+        "be4c4780-218e-425a-a90f-63e21773572b": 144,
+        "c180a72d-5dbe-4403-b7c7-91655e505492": 143,
+        "c3f9e1a3-fc34-452d-af2e-95349e666ba4": 143,
+        "3c5e3145-0767-4066-9349-6c0a1313acc5": 142,
+        "5cf0392f-c187-4fc4-a463-eb269d2e8f45": 142,
+        "2ed73be8-936d-4f35-9398-75a707f40a7b": 139,
+        "21ecaaed-0749-4492-985e-4bb7ba43d59c": 138,
+        "dbca5e00-f7f9-43ae-91de-031ad16f8a92": 135,
+        "4a279605-eaa8-470d-bcd4-0a9e3c9ab43b": 132,
+        "3404c253-577f-45ca-b301-c98312e46efb": 131,
+        "715f0e22-95e0-45ce-af3a-07057209976e": 131,
+        "8cd700ae-d96f-4761-bd7a-805d6b93536d": 130,
+        "d8032da3-c1b9-456e-b626-41ce21f8c67b": 129,
+        "3bb30799-82ce-4648-8c02-5113228963ed": 126,
+        "c2204dae-579e-4b6b-9d42-2e13ceaa6031": 122,
+        "64eab5b1-8d79-45f4-94f1-02b8cf8b6202": 120,
+        "53989945-1a28-481d-a61c-d6f75f760ada": 117,
+        "15e6f441-5c1c-4d25-b4ec-1adf918c49c7": 115,
+        "8f0d70be-5cb7-464b-99cb-8b0130671895": 115,
+        "92086ded-a55d-4241-a364-7d7ea91531b4": 114,
+        "6e6809dd-01bc-45c9-aab1-f01ccd8338b0": 111,
+        "d6d39eea-889d-4e20-923c-55cab225cf7f": 109,
+        "65defcf2-bc15-490e-a84f-1f13b769cd22": 107,
+        "a7d09522-bee2-41e4-8fe0-0b82b7f342f5": 106,
+        "b2e98a14-c8ca-401e-99ed-edf74570c6f6": 106,
+        "1c388d5e-29ac-4956-b476-cb3431353d2e": 104,
+        "e1925ea7-01bc-4358-ae7c-c6502da5ab12": 103,
+        "01a114de-149c-4f5f-80a1-90cc63f69c6e": 99,
+        "5f167936-79ae-4f6a-b9d2-74afe1bb096b": 97,
+        "4fcc1c8e-cc5e-4675-ba25-5e56b579cf69": 95,
+        "49037947-e450-49bf-ba1f-a94551c79a72": 92,
+        "714431ab-6e39-4df6-ac77-cfc5c1e25bc8": 91,
+        "6cda96e1-7d29-44a6-956b-3fcfdecc8184": 90,
+        "48dd98cc-a757-4102-b15d-ea82b4b10571": 89,
+        "b92cc33f-b5a8-4b57-9b82-412946800020": 89,
+        "d1cd1fdd-8767-46a6-a8d3-c3e0632c2dc8": 87,
+        "7d48a781-4f68-4c91-a908-8659e1b22f95": 84,
+        "33d8d6fc-861a-45ff-9937-5ccdb55eaede": 82,
+        "529d66cc-60e3-432e-b8d1-efc9f2ec4919": 81,
+        "6c73764e-b8e6-4e55-ad37-f6a9d207da1f": 81,
+        "60561e46-ece7-43a7-b142-9b14812586e4": 79,
+        "3bfe040b-f0c9-45e0-949b-b9ad5a591d55": 71,
+        "b83029b6-5dd5-449e-8056-26f3943a4e18": 66,
+        "b39562a4-2b72-43fe-b9ba-eda1d651ad0b": 62,
+        "076e8177-943b-41fc-a885-ba3d28297acf": 55,
+        "3e82142c-78dc-46f3-82ec-28e65fcf84c9": 51,
+        "98ec3885-ac93-4fcb-807b-59c9055c52c4": 51,
+        "af385423-d0f1-41f0-9482-ffd10b745143": 45,
+        "c0f80e87-16be-4488-9553-da437e8c6c2a": 45,
+        "50b1216b-d066-4457-b88b-9bccf97bf6d3": 44,
+        "94ef1985-cab1-4b39-a2f3-230120f03c16": 44,
+        "9cd8eb60-3222-4efc-bd7c-50e03e6a81a4": 36
+      },
+      "productFacets": {
+        "Non-GMO": 66,
+        "Low Sugar": 13,
+        "Gluten Free": 10,
+        "Dairy Free": 9,
+        "Low Salt": 4,
+        "Cage Free": 3,
+        "Low Fat": 3,
+        "Free Range": 2
+      }
+    }
+  },
+  "totalHits": 392,
+  "page": 0,
+  "totalPages": 8,
+  "hitsPerPage": 50
+}

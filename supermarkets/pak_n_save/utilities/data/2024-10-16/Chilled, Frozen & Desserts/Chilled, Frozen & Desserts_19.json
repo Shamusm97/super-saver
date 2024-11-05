@@ -1,0 +1,2435 @@
+{
+  "tobaccoProducts": false,
+  "products": [
+    {
+      "productId": "5204905-EA-000",
+      "brand": "Ben & Jerry's",
+      "name": "Phish Food With Marshmallow & Caramel Ice Cream",
+      "displayName": "458ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 1149,
+        "promoId": "128943833",
+        "comparativePrice": {
+          "pricePerUnit": 251,
+          "unitQuantity": 100,
+          "unitQuantityUom": "ml",
+          "measureDescription": "100ml"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "128943833",
+          "rewardValue": 1149,
+          "decal": "6000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 251,
+            "unitQuantity": 100,
+            "unitQuantityUom": "ml",
+            "measureDescription": "100ml"
+          }
+        }
+      ],
+      "facets": [
+        {
+          "itemCode": "00020006",
+          "itemDescription": "Cage Free"
+        },
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        },
+        {
+          "itemCode": "00020002",
+          "itemDescription": "Halal"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Chilled, Frozen & Desserts",
+          "level1": "Desserts",
+          "level2": "Ice Cream & Frozen Yoghurt"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5246429-EA-000",
+      "brand": "The Cuisine Canteen",
+      "name": "Chilli Gouda & Maasdam Cheese",
+      "displayName": "200g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 879,
+        "comparativePrice": {
+          "pricePerUnit": 440,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "categoryTrees": [
+        {
+          "level0": "Chilled, Frozen & Desserts",
+          "level1": "Cheese",
+          "level2": "Deli Specialty Cheeses"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5004984-EA-000",
+      "brand": "Pams",
+      "name": "Lite Vanilla Creamed Rice",
+      "displayName": "220g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 149,
+        "comparativePrice": {
+          "pricePerUnit": 68,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        },
+        {
+          "itemCode": "00020009",
+          "itemDescription": "Low Fat"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Chilled, Frozen & Desserts",
+          "level1": "Desserts",
+          "level2": "Canned Desserts"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5007659-EA-000",
+      "brand": "Whitestone Cheese Co",
+      "name": "Totara Tasty Cheese",
+      "displayName": "100g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 679,
+        "comparativePrice": {
+          "pricePerUnit": 679,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "categoryTrees": [
+        {
+          "level0": "Chilled, Frozen & Desserts",
+          "level1": "Cheese",
+          "level2": "Deli Specialty Cheeses"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5262859-EA-000",
+      "brand": "Food Snob",
+      "name": "English Truffle Cheddar Cheese",
+      "displayName": "200g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 1199,
+        "comparativePrice": {
+          "pricePerUnit": 600,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Chilled, Frozen & Desserts",
+          "level1": "Cheese",
+          "level2": "Deli Specialty Cheeses"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5244457-EA-000",
+      "brand": "Whitestone Cheese Co",
+      "name": "Shenley Station Blue Cheese",
+      "displayName": "110g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 899,
+        "comparativePrice": {
+          "pricePerUnit": 817,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "categoryTrees": [
+        {
+          "level0": "Chilled, Frozen & Desserts",
+          "level1": "Cheese",
+          "level2": "Deli Specialty Cheeses"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5268476-EA-000",
+      "brand": "Howler Hotdogs",
+      "name": "Gluten Free Mini Munchers Mini Hot Dogs",
+      "displayName": "385g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 999,
+        "comparativePrice": {
+          "pricePerUnit": 259,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020004",
+          "itemDescription": "Gluten Free"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Chilled, Frozen & Desserts",
+          "level1": "Frozen Foods",
+          "level2": "Frozen Savouries"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5089360-EA-000",
+      "brand": "Sandhu's",
+      "name": "Authentic Chicken Korma",
+      "displayName": "360g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 849,
+        "comparativePrice": {
+          "pricePerUnit": 236,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Chilled, Frozen & Desserts",
+          "level1": "Frozen Foods",
+          "level2": "Frozen Ready Meals"
+        },
+        {
+          "level0": "Meal Spot",
+          "level1": "Ready to Heat",
+          "level2": "Frozen Ready Meals"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5001092-EA-000",
+      "brand": "Shore Mariner",
+      "name": "Surimi Seafood Sticks",
+      "displayName": "1kg",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 1119,
+        "comparativePrice": {
+          "pricePerUnit": 1119,
+          "unitQuantity": 1,
+          "unitQuantityUom": "kg",
+          "measureDescription": "1kg"
+        }
+      },
+      "categoryTrees": [
+        {
+          "level0": "Chilled, Frozen & Desserts",
+          "level1": "Frozen Foods",
+          "level2": "Frozen Seafood"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5202120-EA-000",
+      "brand": "United Fish Co",
+      "name": "Crumbed Calamari Rings",
+      "displayName": "500g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 899,
+        "comparativePrice": {
+          "pricePerUnit": 1798,
+          "unitQuantity": 1,
+          "unitQuantityUom": "kg",
+          "measureDescription": "1kg"
+        }
+      },
+      "categoryTrees": [
+        {
+          "level0": "Chilled, Frozen & Desserts",
+          "level1": "Frozen Foods",
+          "level2": "Frozen Seafood"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5031806-EA-000",
+      "brand": "Whitestone Cheese Co",
+      "name": "3 Cheese Selection",
+      "displayName": "200g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 1289,
+        "promoId": "128991672",
+        "comparativePrice": {
+          "pricePerUnit": 645,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "128991672",
+          "rewardValue": 1289,
+          "decal": "6000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 645,
+            "unitQuantity": 100,
+            "unitQuantityUom": "g",
+            "measureDescription": "100g"
+          }
+        }
+      ],
+      "facets": [
+        {
+          "itemCode": "00020014",
+          "itemDescription": "Vegetarian"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Chilled, Frozen & Desserts",
+          "level1": "Cheese",
+          "level2": "Deli Cheeseboards"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5270105-EA-000",
+      "brand": "Food Snob",
+      "name": "English Aged Cheddar",
+      "displayName": "200g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 1179,
+        "comparativePrice": {
+          "pricePerUnit": 590,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "categoryTrees": [
+        {
+          "level0": "Chilled, Frozen & Desserts",
+          "level1": "Cheese",
+          "level2": "Deli Specialty Cheeses"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5019366-EA-000",
+      "brand": "Tip Top",
+      "name": "Gooey Raspberry Memphis Meltdown",
+      "displayName": "118ml",
+      "availability": [
+        "IN_STORE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 450,
+        "comparativePrice": {
+          "pricePerUnit": 381,
+          "unitQuantity": 100,
+          "unitQuantityUom": "ml",
+          "measureDescription": "100ml"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        },
+        {
+          "itemCode": "00020004",
+          "itemDescription": "Gluten Free"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Chilled, Frozen & Desserts",
+          "level1": "Desserts",
+          "level2": "Ice Cream & Frozen Yoghurt"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5283653-EA-000",
+      "brand": "Duck Island",
+      "name": "White Chocolate Pomegranate Macadamia Ice Cream",
+      "displayName": "472ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 1149,
+        "comparativePrice": {
+          "pricePerUnit": 243,
+          "unitQuantity": 100,
+          "unitQuantityUom": "ml",
+          "measureDescription": "100ml"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        },
+        {
+          "itemCode": "00020004",
+          "itemDescription": "Gluten Free"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Chilled, Frozen & Desserts",
+          "level1": "Desserts",
+          "level2": "Ice Cream & Frozen Yoghurt"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5017318-EA-000",
+      "brand": "Top Notch",
+      "name": "BB Beef Grillers",
+      "displayName": "6 x 50g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 399,
+        "comparativePrice": {
+          "pricePerUnit": 1330,
+          "unitQuantity": 1,
+          "unitQuantityUom": "kg",
+          "measureDescription": "1kg"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020002",
+          "itemDescription": "Halal"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Chilled, Frozen & Desserts",
+          "level1": "Frozen Foods",
+          "level2": "Frozen Beef, Lamb & Pork"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5012249-EA-000",
+      "brand": "Killinchy",
+      "name": "Gold Hokey Pokey New Zealand Ice Cream",
+      "displayName": "1l",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 999,
+        "comparativePrice": {
+          "pricePerUnit": 100,
+          "unitQuantity": 100,
+          "unitQuantityUom": "ml",
+          "measureDescription": "100ml"
+        }
+      },
+      "categoryTrees": [
+        {
+          "level0": "Chilled, Frozen & Desserts",
+          "level1": "Desserts",
+          "level2": "Ice Cream & Frozen Yoghurt"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5102935-EA-000",
+      "brand": "Whitestone Cheese Co",
+      "name": "Vintage Windsor Blue Cheese",
+      "displayName": "110g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 979,
+        "comparativePrice": {
+          "pricePerUnit": 890,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "categoryTrees": [
+        {
+          "level0": "Chilled, Frozen & Desserts",
+          "level1": "Cheese",
+          "level2": "Deli Specialty Cheeses"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5017274-EA-000",
+      "brand": "Barrys Bay",
+      "name": "Canterbury Red Cheese",
+      "displayName": "140g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 969,
+        "comparativePrice": {
+          "pricePerUnit": 692,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "categoryTrees": [
+        {
+          "level0": "Chilled, Frozen & Desserts",
+          "level1": "Cheese",
+          "level2": "Deli Specialty Cheeses"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5240426-EA-000",
+      "brand": "Barrys Bay",
+      "name": "Gruyere Cheese",
+      "displayName": "125g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 949,
+        "comparativePrice": {
+          "pricePerUnit": 759,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "categoryTrees": [
+        {
+          "level0": "Chilled, Frozen & Desserts",
+          "level1": "Cheese",
+          "level2": "Deli Specialty Cheeses"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5207608-EA-000",
+      "brand": "Quorn",
+      "name": "Vegan Nuggets Vegetarian Frozen Meal",
+      "displayName": "280g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 799,
+        "comparativePrice": {
+          "pricePerUnit": 285,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020014",
+          "itemDescription": "Vegetarian"
+        },
+        {
+          "itemCode": "00020013",
+          "itemDescription": "Vegan"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Chilled, Frozen & Desserts",
+          "level1": "Frozen Foods",
+          "level2": "Frozen Vegetarian"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5089349-EA-000",
+      "brand": "Sandhu's",
+      "name": "Authentic Matttar Paneer",
+      "displayName": "360g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 849,
+        "comparativePrice": {
+          "pricePerUnit": 236,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Chilled, Frozen & Desserts",
+          "level1": "Frozen Foods",
+          "level2": "Frozen Ready Meals"
+        },
+        {
+          "level0": "Meal Spot",
+          "level1": "Ready to Heat",
+          "level2": "Frozen Ready Meals"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5031055-EA-000",
+      "brand": "Tegel",
+      "name": "Free Ranged Tenderbased Whole Turkey",
+      "displayName": "5.75kg",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 9499,
+        "comparativePrice": {
+          "pricePerUnit": 1652,
+          "unitQuantity": 1,
+          "unitQuantityUom": "kg",
+          "measureDescription": "1kg"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020003",
+          "itemDescription": "Free Range"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Chilled, Frozen & Desserts",
+          "level1": "Frozen Foods",
+          "level2": "Frozen Chicken & Poultry"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5240428-EA-000",
+      "brand": "Barrys Bay",
+      "name": "Cold Smoked Manuka Havarti Cheese",
+      "displayName": "110g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 869,
+        "comparativePrice": {
+          "pricePerUnit": 790,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "categoryTrees": [
+        {
+          "level0": "Chilled, Frozen & Desserts",
+          "level1": "Cheese",
+          "level2": "Deli Specialty Cheeses"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5240295-EA-000",
+      "brand": "Barrys Bay",
+      "name": "Cold Smoked Appletree Cheddar Cheese",
+      "displayName": "110g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 869,
+        "comparativePrice": {
+          "pricePerUnit": 790,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "categoryTrees": [
+        {
+          "level0": "Chilled, Frozen & Desserts",
+          "level1": "Cheese",
+          "level2": "Deli Specialty Cheeses"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5271253-EA-000",
+      "brand": "Barrys Bay",
+      "name": "Aged Cumin Gouda Cheese",
+      "displayName": "125g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 949,
+        "comparativePrice": {
+          "pricePerUnit": 759,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "categoryTrees": [
+        {
+          "level0": "Chilled, Frozen & Desserts",
+          "level1": "Cheese",
+          "level2": "Deli Specialty Cheeses"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5330085-EA-000",
+      "brand": "Magnum",
+      "name": "Euphoria Raspberry Lemon Ice Cream",
+      "displayName": "440ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 749,
+        "promoId": "128943996",
+        "comparativePrice": {
+          "pricePerUnit": 170,
+          "unitQuantity": 100,
+          "unitQuantityUom": "ml",
+          "measureDescription": "100ml"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "128943996",
+          "rewardValue": 749,
+          "decal": "6000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 170,
+            "unitQuantity": 100,
+            "unitQuantityUom": "ml",
+            "measureDescription": "100ml"
+          }
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Chilled, Frozen & Desserts",
+          "level1": "Desserts",
+          "level2": "Ice Cream & Frozen Yoghurt"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5329523-EA-000",
+      "brand": "Yoplait",
+      "name": "Vigueur Choc Caramel Dairy Food",
+      "displayName": "400g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 449,
+        "promoId": "128977290",
+        "comparativePrice": {
+          "pricePerUnit": 112,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "128977290",
+          "rewardValue": 449,
+          "decal": "6000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 112,
+            "unitQuantity": 100,
+            "unitQuantityUom": "g",
+            "measureDescription": "100g"
+          }
+        }
+      ],
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Fresh Foods & Bakery",
+          "level1": "Dairy & Eggs",
+          "level2": "Yoghurt & Dairy Food"
+        },
+        {
+          "level0": "Chilled, Frozen & Desserts",
+          "level1": "Dairy & Eggs",
+          "level2": "Yoghurt & Dairy Food"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5329519-EA-000",
+      "brand": "Yoplait",
+      "name": "Vigueur Classic Chocolate Dairy Food",
+      "displayName": "400g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 449,
+        "promoId": "128977290",
+        "comparativePrice": {
+          "pricePerUnit": 112,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "128977290",
+          "rewardValue": 449,
+          "decal": "6000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 112,
+            "unitQuantity": 100,
+            "unitQuantityUom": "g",
+            "measureDescription": "100g"
+          }
+        }
+      ],
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Fresh Foods & Bakery",
+          "level1": "Dairy & Eggs",
+          "level2": "Yoghurt & Dairy Food"
+        },
+        {
+          "level0": "Chilled, Frozen & Desserts",
+          "level1": "Dairy & Eggs",
+          "level2": "Yoghurt & Dairy Food"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5329182-EA-000",
+      "brand": "Food Snob",
+      "name": "Danish Jalapeno Havarti Cheese",
+      "displayName": "200g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 949,
+        "comparativePrice": {
+          "pricePerUnit": 475,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Chilled, Frozen & Desserts",
+          "level1": "Cheese",
+          "level2": "Specialty Cheeses"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5328830-EA-000",
+      "brand": "Magnum",
+      "name": "Double Caramel Ego Ice Cream",
+      "displayName": "3 x 85ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 919,
+        "comparativePrice": {
+          "pricePerUnit": 360,
+          "unitQuantity": 100,
+          "unitQuantityUom": "ml",
+          "measureDescription": "100ml"
+        }
+      },
+      "categoryTrees": [
+        {
+          "level0": "Chilled, Frozen & Desserts",
+          "level1": "Desserts",
+          "level2": "Ice Cream & Frozen Yoghurt"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5328768-EA-000",
+      "brand": "Jess's Underground Kitchen",
+      "name": "Gourmet Everyday Balsamic Roast Beef With Potato Bake",
+      "displayName": "400g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 1249,
+        "comparativePrice": {
+          "pricePerUnit": 312,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020003",
+          "itemDescription": "Free Range"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Chilled, Frozen & Desserts",
+          "level1": "Frozen Foods",
+          "level2": "Frozen Ready Meals"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5328761-EA-000",
+      "brand": "Anchor",
+      "name": "Protein+ Caramel Greek Style Yoghurt",
+      "displayName": "950g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 749,
+        "promoId": "128943824",
+        "comparativePrice": {
+          "pricePerUnit": 79,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "128943824",
+          "rewardValue": 749,
+          "decal": "6000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 79,
+            "unitQuantity": 100,
+            "unitQuantityUom": "g",
+            "measureDescription": "100g"
+          }
+        }
+      ],
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        },
+        {
+          "itemCode": "00020009",
+          "itemDescription": "Low Fat"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Fresh Foods & Bakery",
+          "level1": "Dairy & Eggs",
+          "level2": "Yoghurt Bases"
+        },
+        {
+          "level0": "Chilled, Frozen & Desserts",
+          "level1": "Dairy & Eggs",
+          "level2": "Yoghurt Bases"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5328760-EA-000",
+      "brand": "Anchor",
+      "name": "Mango & Apricot Yoghurt",
+      "displayName": "800g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 749,
+        "promoId": "128943824",
+        "comparativePrice": {
+          "pricePerUnit": 94,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "128943824",
+          "rewardValue": 749,
+          "decal": "6000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 94,
+            "unitQuantity": 100,
+            "unitQuantityUom": "g",
+            "measureDescription": "100g"
+          }
+        }
+      ],
+      "facets": [
+        {
+          "itemCode": "00020009",
+          "itemDescription": "Low Fat"
+        },
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Fresh Foods & Bakery",
+          "level1": "Dairy & Eggs",
+          "level2": "Yoghurt Bases"
+        },
+        {
+          "level0": "Chilled, Frozen & Desserts",
+          "level1": "Dairy & Eggs",
+          "level2": "Yoghurt Bases"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5328758-EA-000",
+      "brand": "Cadbury",
+      "name": "Dairy Milk Chocolate Mousse",
+      "displayName": "160g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 799,
+        "comparativePrice": {
+          "pricePerUnit": 499,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Chilled, Frozen & Desserts",
+          "level1": "Desserts",
+          "level2": "Chilled Custards"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5328757-EA-000",
+      "brand": "Cadbury",
+      "name": "Caramilk Mousse",
+      "displayName": "160g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 799,
+        "comparativePrice": {
+          "pricePerUnit": 499,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Chilled, Frozen & Desserts",
+          "level1": "Desserts",
+          "level2": "Chilled Custards"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5328745-EA-000",
+      "brand": "Nishin",
+      "name": "Sea Bass China Sea Whole Fish 600/800",
+      "displayName": "750g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": true,
+      "originStatement": "Product of China",
+      "singlePrice": {
+        "price": 1579,
+        "comparativePrice": {
+          "pricePerUnit": 2105,
+          "unitQuantity": 1,
+          "unitQuantityUom": "kg",
+          "measureDescription": "1kg"
+        }
+      },
+      "categoryTrees": [
+        {
+          "level0": "Chilled, Frozen & Desserts",
+          "level1": "Frozen Foods",
+          "level2": "Frozen Fish"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5328414-EA-000",
+      "brand": "Ben & Jerry's",
+      "name": "Marshmallow & Smores Sundae Ice Cream",
+      "displayName": "427ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 1149,
+        "promoId": "128943833",
+        "comparativePrice": {
+          "pricePerUnit": 269,
+          "unitQuantity": 100,
+          "unitQuantityUom": "ml",
+          "measureDescription": "100ml"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "128943833",
+          "rewardValue": 1149,
+          "decal": "6000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 269,
+            "unitQuantity": 100,
+            "unitQuantityUom": "ml",
+            "measureDescription": "100ml"
+          }
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Chilled, Frozen & Desserts",
+          "level1": "Desserts",
+          "level2": "Ice Cream & Frozen Yoghurt"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5328362-EA-000",
+      "brand": "The Collective",
+      "name": "More Than Protein Vanilla Bean Yoghurt Suckies",
+      "displayName": "140g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": true,
+      "originStatement": "Product of New Zealand",
+      "singlePrice": {
+        "price": 319,
+        "comparativePrice": {
+          "pricePerUnit": 228,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020014",
+          "itemDescription": "Vegetarian"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Fresh Foods & Bakery",
+          "level1": "Dairy & Eggs",
+          "level2": "Yoghurt Bases"
+        },
+        {
+          "level0": "Chilled, Frozen & Desserts",
+          "level1": "Dairy & Eggs",
+          "level2": "Yoghurt Bases"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5328361-EA-000",
+      "brand": "The Collective",
+      "name": "More Than Protein Apricot Peach Yoghurt Suckies",
+      "displayName": "140g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": true,
+      "originStatement": "Product of New Zealand",
+      "singlePrice": {
+        "price": 319,
+        "comparativePrice": {
+          "pricePerUnit": 228,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020014",
+          "itemDescription": "Vegetarian"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Fresh Foods & Bakery",
+          "level1": "Dairy & Eggs",
+          "level2": "Yoghurt Bases"
+        },
+        {
+          "level0": "Chilled, Frozen & Desserts",
+          "level1": "Dairy & Eggs",
+          "level2": "Yoghurt Bases"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5328357-EA-000",
+      "brand": "Magnum",
+      "name": "Mini White Ice Cream",
+      "displayName": "6 x 60ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 749,
+        "promoId": "128944000",
+        "comparativePrice": {
+          "pricePerUnit": 208,
+          "unitQuantity": 100,
+          "unitQuantityUom": "ml",
+          "measureDescription": "100ml"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "128944000",
+          "rewardValue": 749,
+          "decal": "6000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 208,
+            "unitQuantity": 100,
+            "unitQuantityUom": "ml",
+            "measureDescription": "100ml"
+          }
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Chilled, Frozen & Desserts",
+          "level1": "Desserts",
+          "level2": "Ice Cream & Frozen Yoghurt"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5328356-EA-000",
+      "brand": "Streets",
+      "name": "Golden Gaytime Frozen Dessert",
+      "displayName": "1l",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 749,
+        "promoId": "128947731",
+        "comparativePrice": {
+          "pricePerUnit": 75,
+          "unitQuantity": 100,
+          "unitQuantityUom": "ml",
+          "measureDescription": "100ml"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "128947731",
+          "rewardValue": 749,
+          "decal": "6000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 75,
+            "unitQuantity": 100,
+            "unitQuantityUom": "ml",
+            "measureDescription": "100ml"
+          }
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Chilled, Frozen & Desserts",
+          "level1": "Desserts",
+          "level2": "Ice Cream & Frozen Yoghurt"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5328353-EA-000",
+      "brand": "Ben & Jerry's",
+      "name": "Spectacu-love Ice Cream",
+      "displayName": "465ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 1149,
+        "promoId": "128943833",
+        "comparativePrice": {
+          "pricePerUnit": 247,
+          "unitQuantity": 100,
+          "unitQuantityUom": "ml",
+          "measureDescription": "100ml"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "128943833",
+          "rewardValue": 1149,
+          "decal": "6000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 247,
+            "unitQuantity": 100,
+            "unitQuantityUom": "ml",
+            "measureDescription": "100ml"
+          }
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Chilled, Frozen & Desserts",
+          "level1": "Desserts",
+          "level2": "Ice Cream & Frozen Yoghurt"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5328335-EA-000",
+      "brand": "Cathedral Cove Naturals",
+      "name": "Superfood Berry Coconut Yoghurt",
+      "displayName": "500g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 649,
+        "promoId": "128943845",
+        "comparativePrice": {
+          "pricePerUnit": 130,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "128943845",
+          "rewardValue": 649,
+          "decal": "6000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 130,
+            "unitQuantity": 100,
+            "unitQuantityUom": "g",
+            "measureDescription": "100g"
+          }
+        }
+      ],
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        },
+        {
+          "itemCode": "00020007",
+          "itemDescription": "Dairy Free"
+        },
+        {
+          "itemCode": "00020004",
+          "itemDescription": "Gluten Free"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Fresh Foods & Bakery",
+          "level1": "Dairy & Eggs",
+          "level2": "Yoghurt & Dairy Food"
+        },
+        {
+          "level0": "Chilled, Frozen & Desserts",
+          "level1": "Dairy & Eggs",
+          "level2": "Yoghurt & Dairy Food"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5328317-EA-000",
+      "brand": "Favrskov",
+      "name": "Danish Style Feta",
+      "displayName": "450g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 949,
+        "comparativePrice": {
+          "pricePerUnit": 211,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "categoryTrees": [
+        {
+          "level0": "Chilled, Frozen & Desserts",
+          "level1": "Cheese",
+          "level2": "Deli Specialty Cheeses"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5328114-EA-000",
+      "brand": "Raglan Food Co",
+      "name": "Dulce De Leche Caramel Dairy-Free Coconut Yoghurt",
+      "displayName": "400g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": true,
+      "originStatement": "Product of New Zealand",
+      "singlePrice": {
+        "price": 599,
+        "promoId": "128943207",
+        "comparativePrice": {
+          "pricePerUnit": 150,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "128943207",
+          "rewardValue": 599,
+          "decal": "6000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 150,
+            "unitQuantity": 100,
+            "unitQuantityUom": "g",
+            "measureDescription": "100g"
+          }
+        }
+      ],
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        },
+        {
+          "itemCode": "00020007",
+          "itemDescription": "Dairy Free"
+        },
+        {
+          "itemCode": "00020004",
+          "itemDescription": "Gluten Free"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Fresh Foods & Bakery",
+          "level1": "Dairy & Eggs",
+          "level2": "Yoghurt & Dairy Food"
+        },
+        {
+          "level0": "Chilled, Frozen & Desserts",
+          "level1": "Dairy & Eggs",
+          "level2": "Yoghurt & Dairy Food"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5328113-EA-000",
+      "brand": "Raglan Food Co",
+      "name": "New Zealand Manuka Honey Dairy-Free Coconut Yoghurt",
+      "displayName": "700g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 1099,
+        "comparativePrice": {
+          "pricePerUnit": 157,
+          "unitQuantity": 100,
+          "unitQuantityUom": "g",
+          "measureDescription": "100g"
+        }
+      },
+      "facets": [
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        },
+        {
+          "itemCode": "00020011",
+          "itemDescription": "Low Sugar"
+        },
+        {
+          "itemCode": "00020007",
+          "itemDescription": "Dairy Free"
+        },
+        {
+          "itemCode": "00020004",
+          "itemDescription": "Gluten Free"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Fresh Foods & Bakery",
+          "level1": "Dairy & Eggs",
+          "level2": "Yoghurt & Dairy Food"
+        },
+        {
+          "level0": "Chilled, Frozen & Desserts",
+          "level1": "Dairy & Eggs",
+          "level2": "Yoghurt & Dairy Food"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5327404-EA-000",
+      "brand": "Fisherking",
+      "name": "Tilapia 400-600gm Whole Fish",
+      "displayName": "10kg",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": true,
+      "originStatement": "Product of China",
+      "singlePrice": {
+        "price": 9479,
+        "comparativePrice": {
+          "pricePerUnit": 948,
+          "unitQuantity": 1,
+          "unitQuantityUom": "kg",
+          "measureDescription": "1kg"
+        }
+      },
+      "categoryTrees": [
+        {
+          "level0": "Chilled, Frozen & Desserts",
+          "level1": "Frozen Foods",
+          "level2": "Frozen Fish"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5327246-EA-000",
+      "brand": "Meadow Fresh",
+      "name": "Quick Brekkie Vanilla Flavour UHT Milk",
+      "displayName": "6 X 250ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 949,
+        "promoId": "128923089",
+        "comparativePrice": {
+          "pricePerUnit": 633,
+          "unitQuantity": 1,
+          "unitQuantityUom": "L",
+          "measureDescription": "1L"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "128923089",
+          "rewardValue": 949,
+          "decal": "6000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 633,
+            "unitQuantity": 1,
+            "unitQuantityUom": "L",
+            "measureDescription": "1L"
+          }
+        }
+      ],
+      "facets": [
+        {
+          "itemCode": "00020004",
+          "itemDescription": "Gluten Free"
+        },
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Fresh Foods & Bakery",
+          "level1": "Dairy & Eggs",
+          "level2": "Long Life Milk & Milk Powder"
+        },
+        {
+          "level0": "Chilled, Frozen & Desserts",
+          "level1": "Dairy & Eggs",
+          "level2": "Long Life Milk & Milk Powder"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5327245-EA-000",
+      "brand": "Meadow Fresh",
+      "name": "Quick Brekkie Chocolate Flavour UHT Milk",
+      "displayName": "6 x 250ml",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 949,
+        "promoId": "128923089",
+        "comparativePrice": {
+          "pricePerUnit": 633,
+          "unitQuantity": 1,
+          "unitQuantityUom": "L",
+          "measureDescription": "1L"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "128923089",
+          "rewardValue": 949,
+          "decal": "6000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 633,
+            "unitQuantity": 1,
+            "unitQuantityUom": "L",
+            "measureDescription": "1L"
+          }
+        }
+      ],
+      "facets": [
+        {
+          "itemCode": "00020004",
+          "itemDescription": "Gluten Free"
+        },
+        {
+          "itemCode": "00020012",
+          "itemDescription": "Non-GMO"
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Fresh Foods & Bakery",
+          "level1": "Dairy & Eggs",
+          "level2": "Long Life Milk & Milk Powder"
+        },
+        {
+          "level0": "Chilled, Frozen & Desserts",
+          "level1": "Dairy & Eggs",
+          "level2": "Long Life Milk & Milk Powder"
+        }
+      ],
+      "cateredFlag": false
+    },
+    {
+      "productId": "5326977-EA-000",
+      "brand": "Birds Eye SteamFresh",
+      "name": "Carrot Cauliflower & Broccoli",
+      "displayName": "750g",
+      "availability": [
+        "IN_STORE",
+        "ONLINE"
+      ],
+      "saleType": "UNITS",
+      "restrictedFlag": false,
+      "liquorFlag": false,
+      "tobaccoFlag": false,
+      "originRegulated": false,
+      "singlePrice": {
+        "price": 629,
+        "promoId": "128958305",
+        "comparativePrice": {
+          "pricePerUnit": 839,
+          "unitQuantity": 1,
+          "unitQuantityUom": "kg",
+          "measureDescription": "1kg"
+        }
+      },
+      "promotions": [
+        {
+          "promoId": "128958305",
+          "rewardValue": 629,
+          "decal": "6000",
+          "sapType": "BASE",
+          "rewardType": "NEW_PRICE",
+          "threshold": 1,
+          "limit": 0,
+          "multiProducts": false,
+          "cardDependencyFlag": false,
+          "bestPromotion": true,
+          "comparativePrice": {
+            "pricePerUnit": 839,
+            "unitQuantity": 1,
+            "unitQuantityUom": "kg",
+            "measureDescription": "1kg"
+          }
+        }
+      ],
+      "categoryTrees": [
+        {
+          "level0": "Chilled, Frozen & Desserts",
+          "level1": "Frozen Foods",
+          "level2": "Frozen Vegetables"
+        }
+      ],
+      "cateredFlag": false
+    }
+  ],
+  "algoliaSearchResult": {
+    "facets": {
+      "brand": {
+        "Pams": 108,
+        "Anchor": 63,
+        "Tip Top": 49,
+        "Meadow Fresh": 46,
+        "Mainland": 45,
+        "Kapiti": 38,
+        "The Collective": 35,
+        "Fresh 'n Fruity": 29,
+        "Puhoi Valley": 26,
+        "Lewis Road Creamery": 25,
+        "McCain": 25,
+        "Magnum": 22,
+        "Wattie's": 22,
+        "Tegel": 21,
+        "Food Snob": 19,
+        "Whitestone Cheese Co": 19,
+        "Farmer Brown": 18,
+        "Aunt Betty's": 17,
+        "Leader": 17,
+        "Much Moore": 17,
+        "Yoplait": 16,
+        "Castello": 14,
+        "Dairyworks": 14,
+        "Birds Eye": 13,
+        "Emborg": 13,
+        "Streets": 13,
+        "Fruzio": 12,
+        "Shore Mariner": 12,
+        "Ben & Jerry's": 11,
+        "Fisherking": 11,
+        "Hansells": 11,
+        "Rolling Meadow": 11,
+        "Gopala": 10,
+        "Gregg's": 10,
+        "Hutchinsons": 10,
+        "Sealord": 10,
+        "Vitasoy": 10,
+        "Easiyo": 9,
+        "Moogurt": 9,
+        "Pams Value": 9,
+        "Raglan Coconut Yoghurt": 9,
+        "Angel Bay": 8,
+        "De Gustibus": 8,
+        "Flora": 8,
+        "KungFood": 8,
+        "Little Island Coconut Creamery": 8,
+        "Talbot Forest": 8,
+        "Leanne's Kitchen": 7,
+        "Moondarra Cheese": 7,
+        "Nudairy's": 7,
+        "Philadelphia": 7,
+        "Primo": 7,
+        "Quorn": 7,
+        "Woodland": 7,
+        "Barrys Bay": 6,
+        "Cadbury": 6,
+        "Chesdale": 6,
+        "Goodness Kitchen": 6,
+        "Ingham's": 6,
+        "Massimo's": 6,
+        "Meyer": 6,
+        "Mr Chips": 6,
+        "Olivani": 6,
+        "On The Menu": 6,
+        "Ornelle": 6,
+        "Perfect Italiano": 6,
+        "Sara Lee": 6,
+        "Tatua": 6,
+        "Waimata": 6,
+        "Zenzo": 6,
+        "Alpro": 5,
+        "Birds Eye Oven Bake": 5,
+        "Boss": 5,
+        "Bouton d'Or": 5,
+        "Chicago": 5,
+        "Henergy": 5,
+        "Juicy": 5,
+        "Kingfisher Seafood": 5,
+        "Oxford Pies": 5,
+        "Pams Plant Based": 5,
+        "Sanitarium So Good": 5,
+        "Tasman Bay": 5,
+        "The Cuisine Canteen": 5,
+        "Tip Top Crave": 5,
+        "Waitoa": 5,
+        "Yolo": 5,
+        "Angel Food": 4,
+        "Better Eggs": 4,
+        "Cartel Food Co": 4,
+        "Cathedral Cove Naturals": 4,
+        "Coombe Castle": 4,
+        "Duck Island": 4,
+        "Frozen Harvest": 4,
+        "Galaxy": 4,
+        "Lets Eat": 4,
+        "Mammoth Supply Co.": 4,
+        "Meadowlea": 4,
+        "Nanna's": 4,
+        "Nippy's": 4,
+        "Nishin": 4
+      },
+      "category1NI": {
+        "Dairy & Eggs": 462,
+        "Frozen Foods": 378,
+        "Cheese": 328,
+        "Desserts": 273,
+        "Pams": 80,
+        "Ready to Heat": 43,
+        "Cold Drinks": 27,
+        "Bakery": 1,
+        "Butchery": 1,
+        "Canned & Prepared Foods": 1,
+        "Household": 1
+      },
+      "onPromotion": {
+        "c3f9e1a3-fc34-452d-af2e-95349e666ba4": 412,
+        "5cf0392f-c187-4fc4-a463-eb269d2e8f45": 392,
+        "be4c4780-218e-425a-a90f-63e21773572b": 382,
+        "90082979-fb9f-4305-9c72-83274fc438cc": 380,
+        "8cd700ae-d96f-4761-bd7a-805d6b93536d": 378,
+        "61dd754e-8525-4b9e-9e08-173389eea8a8": 376,
+        "2ed73be8-936d-4f35-9398-75a707f40a7b": 373,
+        "dbca5e00-f7f9-43ae-91de-031ad16f8a92": 373,
+        "d8032da3-c1b9-456e-b626-41ce21f8c67b": 371,
+        "4a279605-eaa8-470d-bcd4-0a9e3c9ab43b": 362,
+        "b29a98bd-749c-489c-9eef-6aa38e66a29b": 361,
+        "715f0e22-95e0-45ce-af3a-07057209976e": 350,
+        "92086ded-a55d-4241-a364-7d7ea91531b4": 341,
+        "21ecaaed-0749-4492-985e-4bb7ba43d59c": 328,
+        "33d8d6fc-861a-45ff-9937-5ccdb55eaede": 324,
+        "64eab5b1-8d79-45f4-94f1-02b8cf8b6202": 302,
+        "3c5e3145-0767-4066-9349-6c0a1313acc5": 297,
+        "65defcf2-bc15-490e-a84f-1f13b769cd22": 295,
+        "3bb30799-82ce-4648-8c02-5113228963ed": 284,
+        "53989945-1a28-481d-a61c-d6f75f760ada": 284,
+        "e1925ea7-01bc-4358-ae7c-c6502da5ab12": 280,
+        "6e6809dd-01bc-45c9-aab1-f01ccd8338b0": 278,
+        "15e6f441-5c1c-4d25-b4ec-1adf918c49c7": 277,
+        "49037947-e450-49bf-ba1f-a94551c79a72": 276,
+        "c0f80e87-16be-4488-9553-da437e8c6c2a": 275,
+        "c180a72d-5dbe-4403-b7c7-91655e505492": 275,
+        "98ec3885-ac93-4fcb-807b-59c9055c52c4": 273,
+        "b92cc33f-b5a8-4b57-9b82-412946800020": 270,
+        "3404c253-577f-45ca-b301-c98312e46efb": 269,
+        "3bfe040b-f0c9-45e0-949b-b9ad5a591d55": 269,
+        "4fcc1c8e-cc5e-4675-ba25-5e56b579cf69": 269,
+        "01a114de-149c-4f5f-80a1-90cc63f69c6e": 267,
+        "6cda96e1-7d29-44a6-956b-3fcfdecc8184": 267,
+        "48dd98cc-a757-4102-b15d-ea82b4b10571": 266,
+        "5f167936-79ae-4f6a-b9d2-74afe1bb096b": 261,
+        "1c388d5e-29ac-4956-b476-cb3431353d2e": 259,
+        "8f0d70be-5cb7-464b-99cb-8b0130671895": 259,
+        "a7d09522-bee2-41e4-8fe0-0b82b7f342f5": 259,
+        "d1cd1fdd-8767-46a6-a8d3-c3e0632c2dc8": 258,
+        "9cd8eb60-3222-4efc-bd7c-50e03e6a81a4": 254,
+        "c2204dae-579e-4b6b-9d42-2e13ceaa6031": 254,
+        "b83029b6-5dd5-449e-8056-26f3943a4e18": 253,
+        "60561e46-ece7-43a7-b142-9b14812586e4": 250,
+        "7d48a781-4f68-4c91-a908-8659e1b22f95": 249,
+        "076e8177-943b-41fc-a885-ba3d28297acf": 248,
+        "6c73764e-b8e6-4e55-ad37-f6a9d207da1f": 248,
+        "714431ab-6e39-4df6-ac77-cfc5c1e25bc8": 248,
+        "529d66cc-60e3-432e-b8d1-efc9f2ec4919": 247,
+        "b39562a4-2b72-43fe-b9ba-eda1d651ad0b": 245,
+        "b2e98a14-c8ca-401e-99ed-edf74570c6f6": 242,
+        "d6d39eea-889d-4e20-923c-55cab225cf7f": 238,
+        "50b1216b-d066-4457-b88b-9bccf97bf6d3": 237,
+        "af385423-d0f1-41f0-9482-ffd10b745143": 237,
+        "3e82142c-78dc-46f3-82ec-28e65fcf84c9": 215,
+        "94ef1985-cab1-4b39-a2f3-230120f03c16": 192
+      },
+      "productFacets": {
+        "Non-GMO": 878,
+        "Gluten Free": 219,
+        "Vegetarian": 162,
+        "Low Fat": 108,
+        "Dairy Free": 107,
+        "Vegan": 70,
+        "Halal": 61,
+        "Free Range": 47,
+        "Cage Free": 39,
+        "Organic": 34,
+        "Low Sugar": 22,
+        "Keto": 4,
+        "Low Salt": 2
+      }
+    }
+  },
+  "totalHits": 1000,
+  "page": 19,
+  "totalPages": 20,
+  "hitsPerPage": 50
+}
