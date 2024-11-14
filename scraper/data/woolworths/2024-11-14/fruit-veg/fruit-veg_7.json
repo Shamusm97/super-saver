@@ -1,0 +1,4107 @@
+{
+  "products": {
+    "items": [
+      {
+        "type": "Product",
+        "name": "woolworths fresh salad baby spinach",
+        "barcode": "9400597043656",
+        "variety": "baby spinach",
+        "brand": "woolworths",
+        "slug": "woolworths-fresh-salad-baby-spinach",
+        "sku": "115160",
+        "unit": "Each",
+        "selectedPurchasingUnit": null,
+        "price": {
+          "originalPrice": 3.9,
+          "salePrice": 3.9,
+          "savePrice": 0.0,
+          "savePercentage": 0.0,
+          "canShowSavings": true,
+          "hasBonusPoints": false,
+          "isClubPrice": false,
+          "isSpecial": false,
+          "isNew": true,
+          "canShowOriginalPrice": true,
+          "discount": null,
+          "total": null,
+          "isTargetedOffer": false,
+          "averagePricePerSingleUnit": null,
+          "isBoostOffer": false,
+          "purchasingUnitPrice": null,
+          "orderedPrice": null,
+          "isUsingOrderedPrice": false,
+          "currentPricingMatchesOrderedPricing": null,
+          "extendedListPrice": null,
+          "originalAveragePricePerSingleUnit": null
+        },
+        "images": {
+          "small": "https://assets.woolworths.com.au/images/2010/115160.jpg?impolicy=wowcdxwbjbx&w=65&h=65",
+          "big": "https://assets.woolworths.com.au/images/2010/115160.jpg?impolicy=wowcdxwbjbx&w=200&h=200"
+        },
+        "quantity": {
+          "min": 1.0,
+          "max": 100.0,
+          "increment": 1.0,
+          "value": null,
+          "quantityInOrder": null,
+          "purchasingQuantityString": null
+        },
+        "stockLevel": 3,
+        "eachUnitQuantity": null,
+        "averageWeightPerUnit": null,
+        "size": {
+          "cupListPrice": 32.5,
+          "cupPrice": 32.5,
+          "cupMeasure": "1kg",
+          "packageType": null,
+          "volumeSize": "120g"
+        },
+        "hasShopperNotes": null,
+        "productTag": {
+          "tagType": "IsNew",
+          "multiBuy": null,
+          "bonusPoints": null,
+          "additionalTag": null,
+          "targetedOffer": null,
+          "boostOffer": null
+        },
+        "departments": [
+          {
+            "id": 1,
+            "name": "Fruit & Veg"
+          }
+        ],
+        "subsAllowed": false,
+        "supportsBothEachAndKgPricing": false,
+        "adId": null,
+        "brandSuggestionId": null,
+        "brandSuggestionName": null,
+        "priceUnitLabel": null,
+        "availabilityStatus": "In Stock",
+        "onlineSample": null,
+        "onlineSampleRealProductMapId": 0
+      },
+      {
+        "type": "Product",
+        "name": "fresh vegetable chilli mixed",
+        "barcode": "9421900967230",
+        "variety": "mixed",
+        "brand": "fresh vegetable",
+        "slug": "fresh-vegetable-chilli-mixed",
+        "sku": "958607",
+        "unit": "Each",
+        "selectedPurchasingUnit": null,
+        "price": {
+          "originalPrice": 5.79,
+          "salePrice": 5.79,
+          "savePrice": 0.00,
+          "savePercentage": 0.0,
+          "canShowSavings": true,
+          "hasBonusPoints": false,
+          "isClubPrice": false,
+          "isSpecial": false,
+          "isNew": false,
+          "canShowOriginalPrice": true,
+          "discount": null,
+          "total": null,
+          "isTargetedOffer": false,
+          "averagePricePerSingleUnit": null,
+          "isBoostOffer": false,
+          "purchasingUnitPrice": null,
+          "orderedPrice": null,
+          "isUsingOrderedPrice": false,
+          "currentPricingMatchesOrderedPricing": null,
+          "extendedListPrice": null,
+          "originalAveragePricePerSingleUnit": null
+        },
+        "images": {
+          "small": "https://assets.woolworths.com.au/images/2010/958607.jpg?impolicy=wowcdxwbjbx&w=65&h=65",
+          "big": "https://assets.woolworths.com.au/images/2010/958607.jpg?impolicy=wowcdxwbjbx&w=200&h=200"
+        },
+        "quantity": {
+          "min": 1.0,
+          "max": 100.0,
+          "increment": 1.0,
+          "value": null,
+          "quantityInOrder": null,
+          "purchasingQuantityString": null
+        },
+        "stockLevel": 3,
+        "eachUnitQuantity": null,
+        "averageWeightPerUnit": null,
+        "size": {
+          "cupListPrice": 1.93,
+          "cupPrice": 1.93,
+          "cupMeasure": "1ea",
+          "packageType": "prepacked",
+          "volumeSize": "3pack"
+        },
+        "hasShopperNotes": null,
+        "productTag": {
+          "tagType": "Other",
+          "multiBuy": null,
+          "bonusPoints": null,
+          "additionalTag": {
+            "name": "F2519 Produce In Season November - LMA",
+            "link": "/shop/productgroup/185625",
+            "imagePath": "/Content/PromotionTags/F24_In_season.png",
+            "linkTarget": "_self",
+            "altText": "Produce In Season"
+          },
+          "targetedOffer": null,
+          "boostOffer": null
+        },
+        "departments": [
+          {
+            "id": 1,
+            "name": "Fruit & Veg"
+          }
+        ],
+        "subsAllowed": false,
+        "supportsBothEachAndKgPricing": false,
+        "adId": null,
+        "brandSuggestionId": null,
+        "brandSuggestionName": null,
+        "priceUnitLabel": null,
+        "availabilityStatus": "In Stock",
+        "onlineSample": null,
+        "onlineSampleRealProductMapId": 0
+      },
+      {
+        "type": "Product",
+        "name": "king fresh vegetable capsicum sweet pointed",
+        "barcode": "9419352094093",
+        "variety": "sweet pointed",
+        "brand": "king",
+        "slug": "king-fresh-vegetable-capsicum-sweet-pointed",
+        "sku": "325954",
+        "unit": "Each",
+        "selectedPurchasingUnit": null,
+        "price": {
+          "originalPrice": 6.49,
+          "salePrice": 6.49,
+          "savePrice": 0.00,
+          "savePercentage": 0.0,
+          "canShowSavings": true,
+          "hasBonusPoints": false,
+          "isClubPrice": false,
+          "isSpecial": false,
+          "isNew": false,
+          "canShowOriginalPrice": true,
+          "discount": null,
+          "total": null,
+          "isTargetedOffer": false,
+          "averagePricePerSingleUnit": null,
+          "isBoostOffer": false,
+          "purchasingUnitPrice": null,
+          "orderedPrice": null,
+          "isUsingOrderedPrice": false,
+          "currentPricingMatchesOrderedPricing": null,
+          "extendedListPrice": null,
+          "originalAveragePricePerSingleUnit": null
+        },
+        "images": {
+          "small": "https://assets.woolworths.com.au/images/2010/325954.jpg?impolicy=wowcdxwbjbx&w=65&h=65",
+          "big": "https://assets.woolworths.com.au/images/2010/325954.jpg?impolicy=wowcdxwbjbx&w=200&h=200"
+        },
+        "quantity": {
+          "min": 1.0,
+          "max": 100.0,
+          "increment": 1.0,
+          "value": null,
+          "quantityInOrder": null,
+          "purchasingQuantityString": null
+        },
+        "stockLevel": 3,
+        "eachUnitQuantity": null,
+        "averageWeightPerUnit": null,
+        "size": {
+          "cupListPrice": 6.49,
+          "cupPrice": 6.49,
+          "cupMeasure": "1ea",
+          "packageType": "prepacked",
+          "volumeSize": "2pack"
+        },
+        "hasShopperNotes": null,
+        "productTag": {
+          "tagType": "Other",
+          "multiBuy": null,
+          "bonusPoints": null,
+          "additionalTag": {
+            "name": "F2519 Produce In Season November - LMA",
+            "link": "/shop/productgroup/185625",
+            "imagePath": "/Content/PromotionTags/F24_In_season.png",
+            "linkTarget": "_self",
+            "altText": "Produce In Season"
+          },
+          "targetedOffer": null,
+          "boostOffer": null
+        },
+        "departments": [
+          {
+            "id": 1,
+            "name": "Fruit & Veg"
+          }
+        ],
+        "subsAllowed": false,
+        "supportsBothEachAndKgPricing": false,
+        "adId": null,
+        "brandSuggestionId": null,
+        "brandSuggestionName": null,
+        "priceUnitLabel": null,
+        "availabilityStatus": "In Stock",
+        "onlineSample": null,
+        "onlineSampleRealProductMapId": 0
+      },
+      {
+        "type": "Product",
+        "name": "fresh fruit cut seasonal mix ",
+        "barcode": "9419556019700",
+        "variety": null,
+        "brand": "fresh fruit",
+        "slug": "fresh-fruit-cut-seasonal-mix",
+        "sku": "68504",
+        "unit": "Each",
+        "selectedPurchasingUnit": null,
+        "price": {
+          "originalPrice": 6.9,
+          "salePrice": 6.9,
+          "savePrice": 0.0,
+          "savePercentage": 0.0,
+          "canShowSavings": true,
+          "hasBonusPoints": false,
+          "isClubPrice": false,
+          "isSpecial": false,
+          "isNew": false,
+          "canShowOriginalPrice": true,
+          "discount": null,
+          "total": null,
+          "isTargetedOffer": false,
+          "averagePricePerSingleUnit": null,
+          "isBoostOffer": false,
+          "purchasingUnitPrice": null,
+          "orderedPrice": null,
+          "isUsingOrderedPrice": false,
+          "currentPricingMatchesOrderedPricing": null,
+          "extendedListPrice": null,
+          "originalAveragePricePerSingleUnit": null
+        },
+        "images": {
+          "small": "https://assets.woolworths.com.au/images/2010/68504.jpg?impolicy=wowcdxwbjbx&w=65&h=65",
+          "big": "https://assets.woolworths.com.au/images/2010/68504.jpg?impolicy=wowcdxwbjbx&w=200&h=200"
+        },
+        "quantity": {
+          "min": 1.0,
+          "max": 100.0,
+          "increment": 1.0,
+          "value": null,
+          "quantityInOrder": null,
+          "purchasingQuantityString": null
+        },
+        "stockLevel": 3,
+        "eachUnitQuantity": null,
+        "averageWeightPerUnit": null,
+        "size": {
+          "cupListPrice": 34.5,
+          "cupPrice": 34.5,
+          "cupMeasure": "1kg",
+          "packageType": "prepacked",
+          "volumeSize": "200g"
+        },
+        "hasShopperNotes": null,
+        "productTag": {
+          "tagType": "Other",
+          "multiBuy": null,
+          "bonusPoints": null,
+          "additionalTag": {
+            "name": "Countdown's Own",
+            "link": "/shop/productgroup/80842",
+            "imagePath": "/Content/PromotionTags/F24_Own_brand.png",
+            "linkTarget": "_self",
+            "altText": null
+          },
+          "targetedOffer": null,
+          "boostOffer": null
+        },
+        "departments": [
+          {
+            "id": 1,
+            "name": "Fruit & Veg"
+          }
+        ],
+        "subsAllowed": false,
+        "supportsBothEachAndKgPricing": false,
+        "adId": null,
+        "brandSuggestionId": null,
+        "brandSuggestionName": null,
+        "priceUnitLabel": null,
+        "availabilityStatus": "In Stock",
+        "onlineSample": null,
+        "onlineSampleRealProductMapId": 0
+      },
+      {
+        "type": "Product",
+        "name": "woolworths fresh vegetable daikon ",
+        "barcode": "9421904769397",
+        "variety": "",
+        "brand": "woolworths",
+        "slug": "woolworths-fresh-vegetable-daikon",
+        "sku": "700023",
+        "unit": "Each",
+        "selectedPurchasingUnit": null,
+        "price": {
+          "originalPrice": 3.99,
+          "salePrice": 3.99,
+          "savePrice": 0.00,
+          "savePercentage": 0.0,
+          "canShowSavings": true,
+          "hasBonusPoints": false,
+          "isClubPrice": false,
+          "isSpecial": false,
+          "isNew": false,
+          "canShowOriginalPrice": true,
+          "discount": null,
+          "total": null,
+          "isTargetedOffer": false,
+          "averagePricePerSingleUnit": null,
+          "isBoostOffer": false,
+          "purchasingUnitPrice": null,
+          "orderedPrice": null,
+          "isUsingOrderedPrice": false,
+          "currentPricingMatchesOrderedPricing": null,
+          "extendedListPrice": null,
+          "originalAveragePricePerSingleUnit": null
+        },
+        "images": {
+          "small": "https://assets.woolworths.com.au/images/2010/700023.jpg?impolicy=wowcdxwbjbx&w=65&h=65",
+          "big": "https://assets.woolworths.com.au/images/2010/700023.jpg?impolicy=wowcdxwbjbx&w=200&h=200"
+        },
+        "quantity": {
+          "min": 1.0,
+          "max": 100.0,
+          "increment": 1.0,
+          "value": null,
+          "quantityInOrder": null,
+          "purchasingQuantityString": null
+        },
+        "stockLevel": 3,
+        "eachUnitQuantity": null,
+        "averageWeightPerUnit": null,
+        "size": {
+          "cupListPrice": 3.99,
+          "cupPrice": 3.99,
+          "cupMeasure": "1ea",
+          "packageType": "",
+          "volumeSize": ""
+        },
+        "hasShopperNotes": null,
+        "productTag": {
+          "tagType": "Other",
+          "multiBuy": null,
+          "bonusPoints": null,
+          "additionalTag": {
+            "name": "Countdown's Own",
+            "link": "/shop/productgroup/80842",
+            "imagePath": "/Content/PromotionTags/F24_Own_brand.png",
+            "linkTarget": "_self",
+            "altText": null
+          },
+          "targetedOffer": null,
+          "boostOffer": null
+        },
+        "departments": [
+          {
+            "id": 1,
+            "name": "Fruit & Veg"
+          }
+        ],
+        "subsAllowed": false,
+        "supportsBothEachAndKgPricing": false,
+        "adId": null,
+        "brandSuggestionId": null,
+        "brandSuggestionName": null,
+        "priceUnitLabel": null,
+        "availabilityStatus": "In Stock",
+        "onlineSample": null,
+        "onlineSampleRealProductMapId": 0
+      },
+      {
+        "type": "Product",
+        "name": "superb herb fresh vegetable sage ",
+        "barcode": "9419534000430",
+        "variety": "",
+        "brand": "superb herb",
+        "slug": "superb-herb-fresh-vegetable-sage",
+        "sku": "345150",
+        "unit": "Each",
+        "selectedPurchasingUnit": null,
+        "price": {
+          "originalPrice": 4.65,
+          "salePrice": 4.65,
+          "savePrice": 0.00,
+          "savePercentage": 0.0,
+          "canShowSavings": true,
+          "hasBonusPoints": false,
+          "isClubPrice": false,
+          "isSpecial": false,
+          "isNew": false,
+          "canShowOriginalPrice": true,
+          "discount": null,
+          "total": null,
+          "isTargetedOffer": false,
+          "averagePricePerSingleUnit": null,
+          "isBoostOffer": false,
+          "purchasingUnitPrice": null,
+          "orderedPrice": null,
+          "isUsingOrderedPrice": false,
+          "currentPricingMatchesOrderedPricing": null,
+          "extendedListPrice": null,
+          "originalAveragePricePerSingleUnit": null
+        },
+        "images": {
+          "small": "https://assets.woolworths.com.au/images/2010/345150.jpg?impolicy=wowcdxwbjbx&w=65&h=65",
+          "big": "https://assets.woolworths.com.au/images/2010/345150.jpg?impolicy=wowcdxwbjbx&w=200&h=200"
+        },
+        "quantity": {
+          "min": 1.0,
+          "max": 100.0,
+          "increment": 1.0,
+          "value": null,
+          "quantityInOrder": null,
+          "purchasingQuantityString": null
+        },
+        "stockLevel": 3,
+        "eachUnitQuantity": null,
+        "averageWeightPerUnit": null,
+        "size": {
+          "cupListPrice": 3.1,
+          "cupPrice": 3.1,
+          "cupMeasure": "10g",
+          "packageType": "packet",
+          "volumeSize": "15g"
+        },
+        "hasShopperNotes": null,
+        "productTag": null,
+        "departments": [
+          {
+            "id": 1,
+            "name": "Fruit & Veg"
+          }
+        ],
+        "subsAllowed": false,
+        "supportsBothEachAndKgPricing": false,
+        "adId": null,
+        "brandSuggestionId": null,
+        "brandSuggestionName": null,
+        "priceUnitLabel": null,
+        "availabilityStatus": "In Stock",
+        "onlineSample": null,
+        "onlineSampleRealProductMapId": 0
+      },
+      {
+        "type": "Product",
+        "name": "panda fresh herb coriander ",
+        "barcode": "9421035110020",
+        "variety": null,
+        "brand": "panda fresh herb",
+        "slug": "panda-fresh-herb-coriander",
+        "sku": "207212",
+        "unit": "Each",
+        "selectedPurchasingUnit": null,
+        "price": {
+          "originalPrice": 4.6,
+          "salePrice": 4.6,
+          "savePrice": 0.0,
+          "savePercentage": 0.0,
+          "canShowSavings": true,
+          "hasBonusPoints": false,
+          "isClubPrice": false,
+          "isSpecial": false,
+          "isNew": false,
+          "canShowOriginalPrice": true,
+          "discount": null,
+          "total": null,
+          "isTargetedOffer": false,
+          "averagePricePerSingleUnit": null,
+          "isBoostOffer": false,
+          "purchasingUnitPrice": null,
+          "orderedPrice": null,
+          "isUsingOrderedPrice": false,
+          "currentPricingMatchesOrderedPricing": null,
+          "extendedListPrice": null,
+          "originalAveragePricePerSingleUnit": null
+        },
+        "images": {
+          "small": "https://assets.woolworths.com.au/images/2010/207212.jpg?impolicy=wowcdxwbjbx&w=65&h=65",
+          "big": "https://assets.woolworths.com.au/images/2010/207212.jpg?impolicy=wowcdxwbjbx&w=200&h=200"
+        },
+        "quantity": {
+          "min": 1.0,
+          "max": 100.0,
+          "increment": 1.0,
+          "value": null,
+          "quantityInOrder": null,
+          "purchasingQuantityString": null
+        },
+        "stockLevel": 3,
+        "eachUnitQuantity": null,
+        "averageWeightPerUnit": null,
+        "size": {
+          "cupListPrice": 0.46,
+          "cupPrice": 0.46,
+          "cupMeasure": "10g",
+          "packageType": "prepacked",
+          "volumeSize": "100g"
+        },
+        "hasShopperNotes": null,
+        "productTag": null,
+        "departments": [
+          {
+            "id": 1,
+            "name": "Fruit & Veg"
+          }
+        ],
+        "subsAllowed": false,
+        "supportsBothEachAndKgPricing": false,
+        "adId": null,
+        "brandSuggestionId": null,
+        "brandSuggestionName": null,
+        "priceUnitLabel": null,
+        "availabilityStatus": "In Stock",
+        "onlineSample": null,
+        "onlineSampleRealProductMapId": 0
+      },
+      {
+        "type": "Product",
+        "name": "avofresh avocado spread with lime & black pepper",
+        "barcode": "9343971000077",
+        "variety": "with lime & black pepper",
+        "brand": "avofresh",
+        "slug": "avofresh-avocado-spread-with-lime-black-pepper",
+        "sku": "405658",
+        "unit": "Each",
+        "selectedPurchasingUnit": null,
+        "price": {
+          "originalPrice": 6.5,
+          "salePrice": 6.5,
+          "savePrice": 0.0,
+          "savePercentage": 0.0,
+          "canShowSavings": true,
+          "hasBonusPoints": false,
+          "isClubPrice": false,
+          "isSpecial": false,
+          "isNew": false,
+          "canShowOriginalPrice": true,
+          "discount": null,
+          "total": null,
+          "isTargetedOffer": false,
+          "averagePricePerSingleUnit": null,
+          "isBoostOffer": false,
+          "purchasingUnitPrice": null,
+          "orderedPrice": null,
+          "isUsingOrderedPrice": false,
+          "currentPricingMatchesOrderedPricing": null,
+          "extendedListPrice": null,
+          "originalAveragePricePerSingleUnit": null
+        },
+        "images": {
+          "small": "https://assets.woolworths.com.au/images/2010/405658.jpg?impolicy=wowcdxwbjbx&w=65&h=65",
+          "big": "https://assets.woolworths.com.au/images/2010/405658.jpg?impolicy=wowcdxwbjbx&w=200&h=200"
+        },
+        "quantity": {
+          "min": 1.0,
+          "max": 100.0,
+          "increment": 1.0,
+          "value": null,
+          "quantityInOrder": null,
+          "purchasingQuantityString": null
+        },
+        "stockLevel": 3,
+        "eachUnitQuantity": null,
+        "averageWeightPerUnit": null,
+        "size": {
+          "cupListPrice": 4.06,
+          "cupPrice": 4.06,
+          "cupMeasure": "100g",
+          "packageType": "tube",
+          "volumeSize": "160g"
+        },
+        "hasShopperNotes": null,
+        "productTag": null,
+        "departments": [
+          {
+            "id": 1,
+            "name": "Fruit & Veg"
+          }
+        ],
+        "subsAllowed": false,
+        "supportsBothEachAndKgPricing": false,
+        "adId": null,
+        "brandSuggestionId": null,
+        "brandSuggestionName": null,
+        "priceUnitLabel": null,
+        "availabilityStatus": "In Stock",
+        "onlineSample": null,
+        "onlineSampleRealProductMapId": 0
+      },
+      {
+        "type": "Product",
+        "name": "macro fresh fruit avocado organic",
+        "barcode": "9419556011001",
+        "variety": "organic",
+        "brand": "macro",
+        "slug": "macro-fresh-fruit-avocado-organic",
+        "sku": "282509",
+        "unit": "Each",
+        "selectedPurchasingUnit": null,
+        "price": {
+          "originalPrice": 7.99,
+          "salePrice": 7.99,
+          "savePrice": 0.00,
+          "savePercentage": 0.0,
+          "canShowSavings": true,
+          "hasBonusPoints": false,
+          "isClubPrice": false,
+          "isSpecial": false,
+          "isNew": false,
+          "canShowOriginalPrice": true,
+          "discount": null,
+          "total": null,
+          "isTargetedOffer": false,
+          "averagePricePerSingleUnit": null,
+          "isBoostOffer": false,
+          "purchasingUnitPrice": null,
+          "orderedPrice": null,
+          "isUsingOrderedPrice": false,
+          "currentPricingMatchesOrderedPricing": null,
+          "extendedListPrice": null,
+          "originalAveragePricePerSingleUnit": null
+        },
+        "images": {
+          "small": "https://assets.woolworths.com.au/images/2010/282509.jpg?impolicy=wowcdxwbjbx&w=65&h=65",
+          "big": "https://assets.woolworths.com.au/images/2010/282509.jpg?impolicy=wowcdxwbjbx&w=200&h=200"
+        },
+        "quantity": {
+          "min": 1.0,
+          "max": 100.0,
+          "increment": 1.0,
+          "value": null,
+          "quantityInOrder": null,
+          "purchasingQuantityString": null
+        },
+        "stockLevel": 3,
+        "eachUnitQuantity": null,
+        "averageWeightPerUnit": null,
+        "size": {
+          "cupListPrice": 7.99,
+          "cupPrice": 7.99,
+          "cupMeasure": "1ea",
+          "packageType": "prepacked",
+          "volumeSize": "2pack"
+        },
+        "hasShopperNotes": null,
+        "productTag": {
+          "tagType": "Other",
+          "multiBuy": null,
+          "bonusPoints": null,
+          "additionalTag": {
+            "name": "Organic Produce",
+            "link": "/shop/productgroup/134261",
+            "imagePath": "/Content/PromotionTags/F24_Organic.png",
+            "linkTarget": "_self",
+            "altText": null
+          },
+          "targetedOffer": null,
+          "boostOffer": null
+        },
+        "departments": [
+          {
+            "id": 1,
+            "name": "Fruit & Veg"
+          }
+        ],
+        "subsAllowed": false,
+        "supportsBothEachAndKgPricing": false,
+        "adId": null,
+        "brandSuggestionId": null,
+        "brandSuggestionName": null,
+        "priceUnitLabel": null,
+        "availabilityStatus": "In Stock",
+        "onlineSample": null,
+        "onlineSampleRealProductMapId": 0
+      },
+      {
+        "type": "Product",
+        "name": "fresh vegetable watercress ",
+        "barcode": "9421906371383",
+        "variety": null,
+        "brand": "fresh vegetable",
+        "slug": "fresh-vegetable-watercress",
+        "sku": "170020",
+        "unit": "Each",
+        "selectedPurchasingUnit": null,
+        "price": {
+          "originalPrice": 3.1,
+          "salePrice": 3.1,
+          "savePrice": 0.0,
+          "savePercentage": 0.0,
+          "canShowSavings": true,
+          "hasBonusPoints": false,
+          "isClubPrice": false,
+          "isSpecial": false,
+          "isNew": false,
+          "canShowOriginalPrice": true,
+          "discount": null,
+          "total": null,
+          "isTargetedOffer": false,
+          "averagePricePerSingleUnit": null,
+          "isBoostOffer": false,
+          "purchasingUnitPrice": null,
+          "orderedPrice": null,
+          "isUsingOrderedPrice": false,
+          "currentPricingMatchesOrderedPricing": null,
+          "extendedListPrice": null,
+          "originalAveragePricePerSingleUnit": null
+        },
+        "images": {
+          "small": "https://assets.woolworths.com.au/images/2010/170020.jpg?impolicy=wowcdxwbjbx&w=65&h=65",
+          "big": "https://assets.woolworths.com.au/images/2010/170020.jpg?impolicy=wowcdxwbjbx&w=200&h=200"
+        },
+        "quantity": {
+          "min": 1.0,
+          "max": 100.0,
+          "increment": 1.0,
+          "value": null,
+          "quantityInOrder": null,
+          "purchasingQuantityString": null
+        },
+        "stockLevel": 3,
+        "eachUnitQuantity": null,
+        "averageWeightPerUnit": null,
+        "size": {
+          "cupListPrice": 3.1,
+          "cupPrice": 3.1,
+          "cupMeasure": "1ea",
+          "packageType": "bunch",
+          "volumeSize": null
+        },
+        "hasShopperNotes": null,
+        "productTag": null,
+        "departments": [
+          {
+            "id": 1,
+            "name": "Fruit & Veg"
+          }
+        ],
+        "subsAllowed": false,
+        "supportsBothEachAndKgPricing": false,
+        "adId": null,
+        "brandSuggestionId": null,
+        "brandSuggestionName": null,
+        "priceUnitLabel": null,
+        "availabilityStatus": "In Stock",
+        "onlineSample": null,
+        "onlineSampleRealProductMapId": 0
+      },
+      {
+        "type": "Product",
+        "name": "woolworths stir fry sauce teriyaki",
+        "barcode": "9400597054782",
+        "variety": "teriyaki",
+        "brand": "woolworths",
+        "slug": "woolworths-stir-fry-sauce-teriyaki",
+        "sku": "394647",
+        "unit": "Each",
+        "selectedPurchasingUnit": null,
+        "price": {
+          "originalPrice": 3.0,
+          "salePrice": 3.0,
+          "savePrice": 0.0,
+          "savePercentage": 0.0,
+          "canShowSavings": true,
+          "hasBonusPoints": false,
+          "isClubPrice": false,
+          "isSpecial": false,
+          "isNew": false,
+          "canShowOriginalPrice": true,
+          "discount": null,
+          "total": null,
+          "isTargetedOffer": false,
+          "averagePricePerSingleUnit": null,
+          "isBoostOffer": false,
+          "purchasingUnitPrice": null,
+          "orderedPrice": null,
+          "isUsingOrderedPrice": false,
+          "currentPricingMatchesOrderedPricing": null,
+          "extendedListPrice": null,
+          "originalAveragePricePerSingleUnit": null
+        },
+        "images": {
+          "small": "https://assets.woolworths.com.au/images/2010/394647.jpg?impolicy=wowcdxwbjbx&w=65&h=65",
+          "big": "https://assets.woolworths.com.au/images/2010/394647.jpg?impolicy=wowcdxwbjbx&w=200&h=200"
+        },
+        "quantity": {
+          "min": 1.0,
+          "max": 100.0,
+          "increment": 1.0,
+          "value": null,
+          "quantityInOrder": null,
+          "purchasingQuantityString": null
+        },
+        "stockLevel": 3,
+        "eachUnitQuantity": null,
+        "averageWeightPerUnit": null,
+        "size": {
+          "cupListPrice": 21.430000000000000000000000004,
+          "cupPrice": 21.430000000000000000000000004,
+          "cupMeasure": "1kg",
+          "packageType": "chilled in bag",
+          "volumeSize": "140g"
+        },
+        "hasShopperNotes": null,
+        "productTag": {
+          "tagType": "Other",
+          "multiBuy": null,
+          "bonusPoints": null,
+          "additionalTag": {
+            "name": "Countdown's Own",
+            "link": "/shop/productgroup/80842",
+            "imagePath": "/Content/PromotionTags/F24_Own_brand.png",
+            "linkTarget": "_self",
+            "altText": null
+          },
+          "targetedOffer": null,
+          "boostOffer": null
+        },
+        "departments": [
+          {
+            "id": 1,
+            "name": "Fruit & Veg"
+          }
+        ],
+        "subsAllowed": false,
+        "supportsBothEachAndKgPricing": false,
+        "adId": null,
+        "brandSuggestionId": null,
+        "brandSuggestionName": null,
+        "priceUnitLabel": null,
+        "availabilityStatus": "In Stock",
+        "onlineSample": null,
+        "onlineSampleRealProductMapId": 0
+      },
+      {
+        "type": "Product",
+        "name": "genevieves salad dressing raspberry & pomegranate",
+        "barcode": "9421902728587",
+        "variety": "raspberry & pomegranate",
+        "brand": "genevieves",
+        "slug": "genevieves-salad-dressing-raspberry-pomegranate",
+        "sku": "184136",
+        "unit": "Each",
+        "selectedPurchasingUnit": null,
+        "price": {
+          "originalPrice": 3.99,
+          "salePrice": 3.99,
+          "savePrice": 0.00,
+          "savePercentage": 0.0,
+          "canShowSavings": true,
+          "hasBonusPoints": false,
+          "isClubPrice": false,
+          "isSpecial": false,
+          "isNew": false,
+          "canShowOriginalPrice": true,
+          "discount": null,
+          "total": null,
+          "isTargetedOffer": false,
+          "averagePricePerSingleUnit": null,
+          "isBoostOffer": false,
+          "purchasingUnitPrice": null,
+          "orderedPrice": null,
+          "isUsingOrderedPrice": false,
+          "currentPricingMatchesOrderedPricing": null,
+          "extendedListPrice": null,
+          "originalAveragePricePerSingleUnit": null
+        },
+        "images": {
+          "small": "https://assets.woolworths.com.au/images/2010/184136.jpg?impolicy=wowcdxwbjbx&w=65&h=65",
+          "big": "https://assets.woolworths.com.au/images/2010/184136.jpg?impolicy=wowcdxwbjbx&w=200&h=200"
+        },
+        "quantity": {
+          "min": 1.0,
+          "max": 100.0,
+          "increment": 1.0,
+          "value": null,
+          "quantityInOrder": null,
+          "purchasingQuantityString": null
+        },
+        "stockLevel": 3,
+        "eachUnitQuantity": null,
+        "averageWeightPerUnit": null,
+        "size": {
+          "cupListPrice": 3.1900000000000000000000000001,
+          "cupPrice": 3.1900000000000000000000000001,
+          "cupMeasure": "100mL",
+          "packageType": null,
+          "volumeSize": "125mL"
+        },
+        "hasShopperNotes": null,
+        "productTag": {
+          "tagType": "Other",
+          "multiBuy": null,
+          "bonusPoints": null,
+          "additionalTag": {
+            "name": "Fresh Deals",
+            "link": "Self",
+            "imagePath": "/Content/PromotionTags/F24_Fresh_deal.png",
+            "linkTarget": "_self",
+            "altText": "Fresh Deals"
+          },
+          "targetedOffer": null,
+          "boostOffer": null
+        },
+        "departments": [
+          {
+            "id": 7,
+            "name": "Pantry"
+          }
+        ],
+        "subsAllowed": false,
+        "supportsBothEachAndKgPricing": false,
+        "adId": null,
+        "brandSuggestionId": null,
+        "brandSuggestionName": null,
+        "priceUnitLabel": null,
+        "availabilityStatus": "In Stock",
+        "onlineSample": null,
+        "onlineSampleRealProductMapId": 0
+      },
+      {
+        "type": "Product",
+        "name": "something to crow about salad topper roasted seeds mild garlic",
+        "barcode": "9421903327659",
+        "variety": "roasted seeds mild garlic",
+        "brand": "something to crow about",
+        "slug": "something-to-crow-about-salad-topper-roasted-seeds-mild-garlic",
+        "sku": "669131",
+        "unit": "Each",
+        "selectedPurchasingUnit": null,
+        "price": {
+          "originalPrice": 5.99,
+          "salePrice": 5.99,
+          "savePrice": 0.00,
+          "savePercentage": 0.0,
+          "canShowSavings": true,
+          "hasBonusPoints": false,
+          "isClubPrice": false,
+          "isSpecial": false,
+          "isNew": false,
+          "canShowOriginalPrice": true,
+          "discount": null,
+          "total": null,
+          "isTargetedOffer": false,
+          "averagePricePerSingleUnit": null,
+          "isBoostOffer": false,
+          "purchasingUnitPrice": null,
+          "orderedPrice": null,
+          "isUsingOrderedPrice": false,
+          "currentPricingMatchesOrderedPricing": null,
+          "extendedListPrice": null,
+          "originalAveragePricePerSingleUnit": null
+        },
+        "images": {
+          "small": "https://assets.woolworths.com.au/images/2010/669131.jpg?impolicy=wowcdxwbjbx&w=65&h=65",
+          "big": "https://assets.woolworths.com.au/images/2010/669131.jpg?impolicy=wowcdxwbjbx&w=200&h=200"
+        },
+        "quantity": {
+          "min": 1.0,
+          "max": 100.0,
+          "increment": 1.0,
+          "value": null,
+          "quantityInOrder": null,
+          "purchasingQuantityString": null
+        },
+        "stockLevel": 3,
+        "eachUnitQuantity": null,
+        "averageWeightPerUnit": null,
+        "size": {
+          "cupListPrice": 4.99,
+          "cupPrice": 4.99,
+          "cupMeasure": "100g",
+          "packageType": "resealable pouch",
+          "volumeSize": "120g"
+        },
+        "hasShopperNotes": null,
+        "productTag": null,
+        "departments": [
+          {
+            "id": 1,
+            "name": "Fruit & Veg"
+          }
+        ],
+        "subsAllowed": false,
+        "supportsBothEachAndKgPricing": false,
+        "adId": null,
+        "brandSuggestionId": null,
+        "brandSuggestionName": null,
+        "priceUnitLabel": null,
+        "availabilityStatus": "In Stock",
+        "onlineSample": null,
+        "onlineSampleRealProductMapId": 0
+      },
+      {
+        "type": "Product",
+        "name": "woolworths stir fry sauce sweet & sour",
+        "barcode": "9400597054805",
+        "variety": "sweet & sour",
+        "brand": "woolworths",
+        "slug": "woolworths-stir-fry-sauce-sweet-sour",
+        "sku": "394649",
+        "unit": "Each",
+        "selectedPurchasingUnit": null,
+        "price": {
+          "originalPrice": 3.0,
+          "salePrice": 3.0,
+          "savePrice": 0.0,
+          "savePercentage": 0.0,
+          "canShowSavings": true,
+          "hasBonusPoints": false,
+          "isClubPrice": false,
+          "isSpecial": false,
+          "isNew": false,
+          "canShowOriginalPrice": true,
+          "discount": null,
+          "total": null,
+          "isTargetedOffer": false,
+          "averagePricePerSingleUnit": null,
+          "isBoostOffer": false,
+          "purchasingUnitPrice": null,
+          "orderedPrice": null,
+          "isUsingOrderedPrice": false,
+          "currentPricingMatchesOrderedPricing": null,
+          "extendedListPrice": null,
+          "originalAveragePricePerSingleUnit": null
+        },
+        "images": {
+          "small": "https://assets.woolworths.com.au/images/2010/394649.jpg?impolicy=wowcdxwbjbx&w=65&h=65",
+          "big": "https://assets.woolworths.com.au/images/2010/394649.jpg?impolicy=wowcdxwbjbx&w=200&h=200"
+        },
+        "quantity": {
+          "min": 1.0,
+          "max": 100.0,
+          "increment": 1.0,
+          "value": null,
+          "quantityInOrder": null,
+          "purchasingQuantityString": null
+        },
+        "stockLevel": 3,
+        "eachUnitQuantity": null,
+        "averageWeightPerUnit": null,
+        "size": {
+          "cupListPrice": 21.430000000000000000000000004,
+          "cupPrice": 21.430000000000000000000000004,
+          "cupMeasure": "1kg",
+          "packageType": "chilled in bag",
+          "volumeSize": "140g"
+        },
+        "hasShopperNotes": null,
+        "productTag": {
+          "tagType": "Other",
+          "multiBuy": null,
+          "bonusPoints": null,
+          "additionalTag": {
+            "name": "Countdown's Own",
+            "link": "/shop/productgroup/80842",
+            "imagePath": "/Content/PromotionTags/F24_Own_brand.png",
+            "linkTarget": "_self",
+            "altText": null
+          },
+          "targetedOffer": null,
+          "boostOffer": null
+        },
+        "departments": [
+          {
+            "id": 1,
+            "name": "Fruit & Veg"
+          }
+        ],
+        "subsAllowed": false,
+        "supportsBothEachAndKgPricing": false,
+        "adId": null,
+        "brandSuggestionId": null,
+        "brandSuggestionName": null,
+        "priceUnitLabel": null,
+        "availabilityStatus": "In Stock",
+        "onlineSample": null,
+        "onlineSampleRealProductMapId": 0
+      },
+      {
+        "type": "Product",
+        "name": "woolworths fresh fruit mandarins tango",
+        "barcode": "0269929000007",
+        "variety": "tango",
+        "brand": "woolworths",
+        "slug": "woolworths-fresh-fruit-mandarins-tango",
+        "sku": "398171",
+        "unit": "Kg",
+        "selectedPurchasingUnit": null,
+        "price": {
+          "originalPrice": 6.5,
+          "salePrice": 6.5,
+          "savePrice": 0.0,
+          "savePercentage": 0.0,
+          "canShowSavings": true,
+          "hasBonusPoints": false,
+          "isClubPrice": false,
+          "isSpecial": false,
+          "isNew": false,
+          "canShowOriginalPrice": true,
+          "discount": null,
+          "total": null,
+          "isTargetedOffer": false,
+          "averagePricePerSingleUnit": null,
+          "isBoostOffer": false,
+          "purchasingUnitPrice": null,
+          "orderedPrice": null,
+          "isUsingOrderedPrice": false,
+          "currentPricingMatchesOrderedPricing": null,
+          "extendedListPrice": null,
+          "originalAveragePricePerSingleUnit": null
+        },
+        "images": {
+          "small": "https://assets.woolworths.com.au/images/2010/398171.jpg?impolicy=wowcdxwbjbx&w=65&h=65",
+          "big": "https://assets.woolworths.com.au/images/2010/398171.jpg?impolicy=wowcdxwbjbx&w=200&h=200"
+        },
+        "quantity": {
+          "min": 0.1,
+          "max": 100.0,
+          "increment": 0.05,
+          "value": null,
+          "quantityInOrder": null,
+          "purchasingQuantityString": null
+        },
+        "stockLevel": 3,
+        "eachUnitQuantity": null,
+        "averageWeightPerUnit": null,
+        "size": {
+          "cupListPrice": 6.5,
+          "cupPrice": 6.5,
+          "cupMeasure": "1kg",
+          "packageType": "loose",
+          "volumeSize": null
+        },
+        "hasShopperNotes": null,
+        "productTag": null,
+        "departments": [
+          {
+            "id": 1,
+            "name": "Fruit & Veg"
+          }
+        ],
+        "subsAllowed": false,
+        "supportsBothEachAndKgPricing": false,
+        "adId": null,
+        "brandSuggestionId": null,
+        "brandSuggestionName": null,
+        "priceUnitLabel": null,
+        "availabilityStatus": "Out of Stock",
+        "onlineSample": null,
+        "onlineSampleRealProductMapId": 0
+      },
+      {
+        "type": "Product",
+        "name": "somerset farms fresh fries sliced",
+        "barcode": "9421010920224",
+        "variety": "sliced",
+        "brand": "somerset farms",
+        "slug": "somerset-farms-fresh-fries-sliced",
+        "sku": "956195",
+        "unit": "Each",
+        "selectedPurchasingUnit": null,
+        "price": {
+          "originalPrice": 5.5,
+          "salePrice": 5.5,
+          "savePrice": 0.0,
+          "savePercentage": 0.0,
+          "canShowSavings": true,
+          "hasBonusPoints": false,
+          "isClubPrice": false,
+          "isSpecial": false,
+          "isNew": false,
+          "canShowOriginalPrice": true,
+          "discount": null,
+          "total": null,
+          "isTargetedOffer": false,
+          "averagePricePerSingleUnit": null,
+          "isBoostOffer": false,
+          "purchasingUnitPrice": null,
+          "orderedPrice": null,
+          "isUsingOrderedPrice": false,
+          "currentPricingMatchesOrderedPricing": null,
+          "extendedListPrice": null,
+          "originalAveragePricePerSingleUnit": null
+        },
+        "images": {
+          "small": "https://assets.woolworths.com.au/images/2010/956195.jpg?impolicy=wowcdxwbjbx&w=65&h=65",
+          "big": "https://assets.woolworths.com.au/images/2010/956195.jpg?impolicy=wowcdxwbjbx&w=200&h=200"
+        },
+        "quantity": {
+          "min": 1.0,
+          "max": 100.0,
+          "increment": 1.0,
+          "value": null,
+          "quantityInOrder": null,
+          "purchasingQuantityString": null
+        },
+        "stockLevel": 3,
+        "eachUnitQuantity": null,
+        "averageWeightPerUnit": null,
+        "size": {
+          "cupListPrice": 13.75,
+          "cupPrice": 13.75,
+          "cupMeasure": "1kg",
+          "packageType": "bag",
+          "volumeSize": "400g"
+        },
+        "hasShopperNotes": null,
+        "productTag": null,
+        "departments": [
+          {
+            "id": 1,
+            "name": "Fruit & Veg"
+          }
+        ],
+        "subsAllowed": false,
+        "supportsBothEachAndKgPricing": false,
+        "adId": null,
+        "brandSuggestionId": null,
+        "brandSuggestionName": null,
+        "priceUnitLabel": null,
+        "availabilityStatus": "In Stock",
+        "onlineSample": null,
+        "onlineSampleRealProductMapId": 0
+      },
+      {
+        "type": "Product",
+        "name": "salad toppers salad sprinkles caesar bits",
+        "barcode": "799439085800",
+        "variety": "caesar bits",
+        "brand": "salad toppers",
+        "slug": "salad-toppers-salad-sprinkles-caesar-bits",
+        "sku": "501728",
+        "unit": "Each",
+        "selectedPurchasingUnit": null,
+        "price": {
+          "originalPrice": 5.49,
+          "salePrice": 5.49,
+          "savePrice": 0.00,
+          "savePercentage": 0.0,
+          "canShowSavings": true,
+          "hasBonusPoints": false,
+          "isClubPrice": false,
+          "isSpecial": false,
+          "isNew": false,
+          "canShowOriginalPrice": true,
+          "discount": null,
+          "total": null,
+          "isTargetedOffer": false,
+          "averagePricePerSingleUnit": null,
+          "isBoostOffer": false,
+          "purchasingUnitPrice": null,
+          "orderedPrice": null,
+          "isUsingOrderedPrice": false,
+          "currentPricingMatchesOrderedPricing": null,
+          "extendedListPrice": null,
+          "originalAveragePricePerSingleUnit": null
+        },
+        "images": {
+          "small": "https://assets.woolworths.com.au/images/2010/501728.jpg?impolicy=wowcdxwbjbx&w=65&h=65",
+          "big": "https://assets.woolworths.com.au/images/2010/501728.jpg?impolicy=wowcdxwbjbx&w=200&h=200"
+        },
+        "quantity": {
+          "min": 1.0,
+          "max": 100.0,
+          "increment": 1.0,
+          "value": null,
+          "quantityInOrder": null,
+          "purchasingQuantityString": null
+        },
+        "stockLevel": 3,
+        "eachUnitQuantity": null,
+        "averageWeightPerUnit": null,
+        "size": {
+          "cupListPrice": 5.49,
+          "cupPrice": 5.49,
+          "cupMeasure": "100g",
+          "packageType": null,
+          "volumeSize": "100g"
+        },
+        "hasShopperNotes": null,
+        "productTag": null,
+        "departments": [
+          {
+            "id": 1,
+            "name": "Fruit & Veg"
+          }
+        ],
+        "subsAllowed": false,
+        "supportsBothEachAndKgPricing": false,
+        "adId": null,
+        "brandSuggestionId": null,
+        "brandSuggestionName": null,
+        "priceUnitLabel": null,
+        "availabilityStatus": "In Stock",
+        "onlineSample": null,
+        "onlineSampleRealProductMapId": 0
+      },
+      {
+        "type": "Product",
+        "name": "mrs greens salad croutons classic caesar",
+        "barcode": "9415292000002",
+        "variety": "classic caesar",
+        "brand": "mrs greens",
+        "slug": "mrs-greens-salad-croutons-classic-caesar",
+        "sku": "141369",
+        "unit": "Each",
+        "selectedPurchasingUnit": null,
+        "price": {
+          "originalPrice": 3.79,
+          "salePrice": 3.79,
+          "savePrice": 0.00,
+          "savePercentage": 0.0,
+          "canShowSavings": true,
+          "hasBonusPoints": false,
+          "isClubPrice": false,
+          "isSpecial": false,
+          "isNew": false,
+          "canShowOriginalPrice": true,
+          "discount": null,
+          "total": null,
+          "isTargetedOffer": false,
+          "averagePricePerSingleUnit": null,
+          "isBoostOffer": false,
+          "purchasingUnitPrice": null,
+          "orderedPrice": null,
+          "isUsingOrderedPrice": false,
+          "currentPricingMatchesOrderedPricing": null,
+          "extendedListPrice": null,
+          "originalAveragePricePerSingleUnit": null
+        },
+        "images": {
+          "small": "https://assets.woolworths.com.au/images/2010/141369.jpg?impolicy=wowcdxwbjbx&w=65&h=65",
+          "big": "https://assets.woolworths.com.au/images/2010/141369.jpg?impolicy=wowcdxwbjbx&w=200&h=200"
+        },
+        "quantity": {
+          "min": 1.0,
+          "max": 100.0,
+          "increment": 1.0,
+          "value": null,
+          "quantityInOrder": null,
+          "purchasingQuantityString": null
+        },
+        "stockLevel": 3,
+        "eachUnitQuantity": null,
+        "averageWeightPerUnit": null,
+        "size": {
+          "cupListPrice": 3.16,
+          "cupPrice": 3.16,
+          "cupMeasure": "100g",
+          "packageType": "prepacked",
+          "volumeSize": "120g"
+        },
+        "hasShopperNotes": null,
+        "productTag": null,
+        "departments": [
+          {
+            "id": 1,
+            "name": "Fruit & Veg"
+          }
+        ],
+        "subsAllowed": false,
+        "supportsBothEachAndKgPricing": false,
+        "adId": null,
+        "brandSuggestionId": null,
+        "brandSuggestionName": null,
+        "priceUnitLabel": null,
+        "availabilityStatus": "In Stock",
+        "onlineSample": null,
+        "onlineSampleRealProductMapId": 0
+      },
+      {
+        "type": "Product",
+        "name": "panda produce chilli & lime crushed",
+        "barcode": "9421904769823",
+        "variety": "crushed",
+        "brand": "panda produce",
+        "slug": "panda-produce-chilli-lime-crushed",
+        "sku": "107081",
+        "unit": "Each",
+        "selectedPurchasingUnit": null,
+        "price": {
+          "originalPrice": 3.2,
+          "salePrice": 3.2,
+          "savePrice": 0.0,
+          "savePercentage": 0.0,
+          "canShowSavings": true,
+          "hasBonusPoints": false,
+          "isClubPrice": false,
+          "isSpecial": false,
+          "isNew": false,
+          "canShowOriginalPrice": true,
+          "discount": null,
+          "total": null,
+          "isTargetedOffer": false,
+          "averagePricePerSingleUnit": null,
+          "isBoostOffer": false,
+          "purchasingUnitPrice": null,
+          "orderedPrice": null,
+          "isUsingOrderedPrice": false,
+          "currentPricingMatchesOrderedPricing": null,
+          "extendedListPrice": null,
+          "originalAveragePricePerSingleUnit": null
+        },
+        "images": {
+          "small": "https://assets.woolworths.com.au/images/2010/107081.jpg?impolicy=wowcdxwbjbx&w=65&h=65",
+          "big": "https://assets.woolworths.com.au/images/2010/107081.jpg?impolicy=wowcdxwbjbx&w=200&h=200"
+        },
+        "quantity": {
+          "min": 1.0,
+          "max": 100.0,
+          "increment": 1.0,
+          "value": null,
+          "quantityInOrder": null,
+          "purchasingQuantityString": null
+        },
+        "stockLevel": 3,
+        "eachUnitQuantity": null,
+        "averageWeightPerUnit": null,
+        "size": {
+          "cupListPrice": 17.3,
+          "cupPrice": 17.3,
+          "cupMeasure": "1kg",
+          "packageType": null,
+          "volumeSize": "185g"
+        },
+        "hasShopperNotes": null,
+        "productTag": null,
+        "departments": [
+          {
+            "id": 1,
+            "name": "Fruit & Veg"
+          }
+        ],
+        "subsAllowed": false,
+        "supportsBothEachAndKgPricing": false,
+        "adId": null,
+        "brandSuggestionId": null,
+        "brandSuggestionName": null,
+        "priceUnitLabel": null,
+        "availabilityStatus": "In Stock",
+        "onlineSample": null,
+        "onlineSampleRealProductMapId": 0
+      },
+      {
+        "type": "Product",
+        "name": "just chilli fresh vegetable chilli crushed",
+        "barcode": "9421904769151",
+        "variety": "crushed",
+        "brand": "just chilli",
+        "slug": "just-chilli-fresh-vegetable-chilli-crushed",
+        "sku": "296663",
+        "unit": "Each",
+        "selectedPurchasingUnit": null,
+        "price": {
+          "originalPrice": 2.99,
+          "salePrice": 2.99,
+          "savePrice": 0.00,
+          "savePercentage": 0.0,
+          "canShowSavings": true,
+          "hasBonusPoints": false,
+          "isClubPrice": false,
+          "isSpecial": false,
+          "isNew": false,
+          "canShowOriginalPrice": true,
+          "discount": null,
+          "total": null,
+          "isTargetedOffer": false,
+          "averagePricePerSingleUnit": null,
+          "isBoostOffer": false,
+          "purchasingUnitPrice": null,
+          "orderedPrice": null,
+          "isUsingOrderedPrice": false,
+          "currentPricingMatchesOrderedPricing": null,
+          "extendedListPrice": null,
+          "originalAveragePricePerSingleUnit": null
+        },
+        "images": {
+          "small": "https://assets.woolworths.com.au/images/2010/296663.jpg?impolicy=wowcdxwbjbx&w=65&h=65",
+          "big": "https://assets.woolworths.com.au/images/2010/296663.jpg?impolicy=wowcdxwbjbx&w=200&h=200"
+        },
+        "quantity": {
+          "min": 1.0,
+          "max": 100.0,
+          "increment": 1.0,
+          "value": null,
+          "quantityInOrder": null,
+          "purchasingQuantityString": null
+        },
+        "stockLevel": 3,
+        "eachUnitQuantity": null,
+        "averageWeightPerUnit": null,
+        "size": {
+          "cupListPrice": 1.62,
+          "cupPrice": 1.62,
+          "cupMeasure": "100g",
+          "packageType": null,
+          "volumeSize": "185g"
+        },
+        "hasShopperNotes": null,
+        "productTag": null,
+        "departments": [
+          {
+            "id": 1,
+            "name": "Fruit & Veg"
+          }
+        ],
+        "subsAllowed": false,
+        "supportsBothEachAndKgPricing": false,
+        "adId": null,
+        "brandSuggestionId": null,
+        "brandSuggestionName": null,
+        "priceUnitLabel": null,
+        "availabilityStatus": "In Stock",
+        "onlineSample": null,
+        "onlineSampleRealProductMapId": 0
+      },
+      {
+        "type": "Product",
+        "name": "macro organic potatoes brushed",
+        "barcode": "9400597039505",
+        "variety": "brushed",
+        "brand": "macro organic",
+        "slug": "macro-organic-potatoes-brushed",
+        "sku": "198363",
+        "unit": "Each",
+        "selectedPurchasingUnit": null,
+        "price": {
+          "originalPrice": 15.0,
+          "salePrice": 15.0,
+          "savePrice": 0.0,
+          "savePercentage": 0.0,
+          "canShowSavings": true,
+          "hasBonusPoints": false,
+          "isClubPrice": false,
+          "isSpecial": false,
+          "isNew": false,
+          "canShowOriginalPrice": true,
+          "discount": null,
+          "total": null,
+          "isTargetedOffer": false,
+          "averagePricePerSingleUnit": null,
+          "isBoostOffer": false,
+          "purchasingUnitPrice": null,
+          "orderedPrice": null,
+          "isUsingOrderedPrice": false,
+          "currentPricingMatchesOrderedPricing": null,
+          "extendedListPrice": null,
+          "originalAveragePricePerSingleUnit": null
+        },
+        "images": {
+          "small": "https://assets.woolworths.com.au/images/2010/198363.jpg?impolicy=wowcdxwbjbx&w=65&h=65",
+          "big": "https://assets.woolworths.com.au/images/2010/198363.jpg?impolicy=wowcdxwbjbx&w=200&h=200"
+        },
+        "quantity": {
+          "min": 1.0,
+          "max": 100.0,
+          "increment": 1.0,
+          "value": null,
+          "quantityInOrder": null,
+          "purchasingQuantityString": null
+        },
+        "stockLevel": 3,
+        "eachUnitQuantity": null,
+        "averageWeightPerUnit": null,
+        "size": {
+          "cupListPrice": 5.0,
+          "cupPrice": 5.0,
+          "cupMeasure": "1kg",
+          "packageType": "loose",
+          "volumeSize": "3kg"
+        },
+        "hasShopperNotes": null,
+        "productTag": {
+          "tagType": "Other",
+          "multiBuy": null,
+          "bonusPoints": null,
+          "additionalTag": {
+            "name": "Organic Produce",
+            "link": "/shop/productgroup/134261",
+            "imagePath": "/Content/PromotionTags/F24_Organic.png",
+            "linkTarget": "_self",
+            "altText": null
+          },
+          "targetedOffer": null,
+          "boostOffer": null
+        },
+        "departments": [
+          {
+            "id": 1,
+            "name": "Fruit & Veg"
+          }
+        ],
+        "subsAllowed": false,
+        "supportsBothEachAndKgPricing": false,
+        "adId": null,
+        "brandSuggestionId": null,
+        "brandSuggestionName": null,
+        "priceUnitLabel": null,
+        "availabilityStatus": "In Stock",
+        "onlineSample": null,
+        "onlineSampleRealProductMapId": 0
+      },
+      {
+        "type": "Product",
+        "name": "macro organic baby roasting potatoes washed",
+        "barcode": "9400597045674",
+        "variety": "washed",
+        "brand": "macro organic",
+        "slug": "macro-organic-baby-roasting-potatoes-washed",
+        "sku": "333951",
+        "unit": "Each",
+        "selectedPurchasingUnit": null,
+        "price": {
+          "originalPrice": 5.99,
+          "salePrice": 5.99,
+          "savePrice": 0.00,
+          "savePercentage": 0.0,
+          "canShowSavings": true,
+          "hasBonusPoints": false,
+          "isClubPrice": false,
+          "isSpecial": false,
+          "isNew": false,
+          "canShowOriginalPrice": true,
+          "discount": null,
+          "total": null,
+          "isTargetedOffer": false,
+          "averagePricePerSingleUnit": null,
+          "isBoostOffer": false,
+          "purchasingUnitPrice": null,
+          "orderedPrice": null,
+          "isUsingOrderedPrice": false,
+          "currentPricingMatchesOrderedPricing": null,
+          "extendedListPrice": null,
+          "originalAveragePricePerSingleUnit": null
+        },
+        "images": {
+          "small": "https://assets.woolworths.com.au/images/2010/333951.jpg?impolicy=wowcdxwbjbx&w=65&h=65",
+          "big": "https://assets.woolworths.com.au/images/2010/333951.jpg?impolicy=wowcdxwbjbx&w=200&h=200"
+        },
+        "quantity": {
+          "min": 1.0,
+          "max": 100.0,
+          "increment": 1.0,
+          "value": null,
+          "quantityInOrder": null,
+          "purchasingQuantityString": null
+        },
+        "stockLevel": 3,
+        "eachUnitQuantity": null,
+        "averageWeightPerUnit": null,
+        "size": {
+          "cupListPrice": 5.99,
+          "cupPrice": 5.99,
+          "cupMeasure": "1kg",
+          "packageType": null,
+          "volumeSize": "1kg"
+        },
+        "hasShopperNotes": null,
+        "productTag": null,
+        "departments": [
+          {
+            "id": 1,
+            "name": "Fruit & Veg"
+          }
+        ],
+        "subsAllowed": false,
+        "supportsBothEachAndKgPricing": false,
+        "adId": null,
+        "brandSuggestionId": null,
+        "brandSuggestionName": null,
+        "priceUnitLabel": null,
+        "availabilityStatus": "In Stock",
+        "onlineSample": null,
+        "onlineSampleRealProductMapId": 0
+      },
+      {
+        "type": "Product",
+        "name": "woolworths stir fry sauce honey & soy",
+        "barcode": "9400597054799",
+        "variety": "honey & soy",
+        "brand": "woolworths",
+        "slug": "woolworths-stir-fry-sauce-honey-soy",
+        "sku": "394648",
+        "unit": "Each",
+        "selectedPurchasingUnit": null,
+        "price": {
+          "originalPrice": 3.0,
+          "salePrice": 3.0,
+          "savePrice": 0.0,
+          "savePercentage": 0.0,
+          "canShowSavings": true,
+          "hasBonusPoints": false,
+          "isClubPrice": false,
+          "isSpecial": false,
+          "isNew": false,
+          "canShowOriginalPrice": true,
+          "discount": null,
+          "total": null,
+          "isTargetedOffer": false,
+          "averagePricePerSingleUnit": null,
+          "isBoostOffer": false,
+          "purchasingUnitPrice": null,
+          "orderedPrice": null,
+          "isUsingOrderedPrice": false,
+          "currentPricingMatchesOrderedPricing": null,
+          "extendedListPrice": null,
+          "originalAveragePricePerSingleUnit": null
+        },
+        "images": {
+          "small": "https://assets.woolworths.com.au/images/2010/394648.jpg?impolicy=wowcdxwbjbx&w=65&h=65",
+          "big": "https://assets.woolworths.com.au/images/2010/394648.jpg?impolicy=wowcdxwbjbx&w=200&h=200"
+        },
+        "quantity": {
+          "min": 1.0,
+          "max": 100.0,
+          "increment": 1.0,
+          "value": null,
+          "quantityInOrder": null,
+          "purchasingQuantityString": null
+        },
+        "stockLevel": 3,
+        "eachUnitQuantity": null,
+        "averageWeightPerUnit": null,
+        "size": {
+          "cupListPrice": 21.430000000000000000000000004,
+          "cupPrice": 21.430000000000000000000000004,
+          "cupMeasure": "1kg",
+          "packageType": "chilled in bag",
+          "volumeSize": "140g"
+        },
+        "hasShopperNotes": null,
+        "productTag": {
+          "tagType": "Other",
+          "multiBuy": null,
+          "bonusPoints": null,
+          "additionalTag": {
+            "name": "Countdown's Own",
+            "link": "/shop/productgroup/80842",
+            "imagePath": "/Content/PromotionTags/F24_Own_brand.png",
+            "linkTarget": "_self",
+            "altText": null
+          },
+          "targetedOffer": null,
+          "boostOffer": null
+        },
+        "departments": [
+          {
+            "id": 1,
+            "name": "Fruit & Veg"
+          }
+        ],
+        "subsAllowed": false,
+        "supportsBothEachAndKgPricing": false,
+        "adId": null,
+        "brandSuggestionId": null,
+        "brandSuggestionName": null,
+        "priceUnitLabel": null,
+        "availabilityStatus": "In Stock",
+        "onlineSample": null,
+        "onlineSampleRealProductMapId": 0
+      },
+      {
+        "type": "Product",
+        "name": "fresh vegetable garlic chives",
+        "barcode": "9421904769731",
+        "variety": "chives",
+        "brand": "fresh vegetable",
+        "slug": "fresh-vegetable-garlic-chives",
+        "sku": "78039",
+        "unit": "Each",
+        "selectedPurchasingUnit": null,
+        "price": {
+          "originalPrice": 4.7,
+          "salePrice": 4.7,
+          "savePrice": 0.0,
+          "savePercentage": 0.0,
+          "canShowSavings": true,
+          "hasBonusPoints": false,
+          "isClubPrice": false,
+          "isSpecial": false,
+          "isNew": false,
+          "canShowOriginalPrice": true,
+          "discount": null,
+          "total": null,
+          "isTargetedOffer": false,
+          "averagePricePerSingleUnit": null,
+          "isBoostOffer": false,
+          "purchasingUnitPrice": null,
+          "orderedPrice": null,
+          "isUsingOrderedPrice": false,
+          "currentPricingMatchesOrderedPricing": null,
+          "extendedListPrice": null,
+          "originalAveragePricePerSingleUnit": null
+        },
+        "images": {
+          "small": "https://assets.woolworths.com.au/images/2010/78039.jpg?impolicy=wowcdxwbjbx&w=65&h=65",
+          "big": "https://assets.woolworths.com.au/images/2010/78039.jpg?impolicy=wowcdxwbjbx&w=200&h=200"
+        },
+        "quantity": {
+          "min": 1.0,
+          "max": 100.0,
+          "increment": 1.0,
+          "value": null,
+          "quantityInOrder": null,
+          "purchasingQuantityString": null
+        },
+        "stockLevel": 3,
+        "eachUnitQuantity": null,
+        "averageWeightPerUnit": null,
+        "size": {
+          "cupListPrice": 0.39,
+          "cupPrice": 0.39,
+          "cupMeasure": "10g",
+          "packageType": null,
+          "volumeSize": "1ea"
+        },
+        "hasShopperNotes": null,
+        "productTag": null,
+        "departments": [
+          {
+            "id": 1,
+            "name": "Fruit & Veg"
+          }
+        ],
+        "subsAllowed": false,
+        "supportsBothEachAndKgPricing": false,
+        "adId": null,
+        "brandSuggestionId": null,
+        "brandSuggestionName": null,
+        "priceUnitLabel": null,
+        "availabilityStatus": "In Stock",
+        "onlineSample": null,
+        "onlineSampleRealProductMapId": 0
+      },
+      {
+        "type": "Product",
+        "name": "fresh fruit mangos r2e2",
+        "barcode": "9355749000011",
+        "variety": "r2e2",
+        "brand": "fresh fruit",
+        "slug": "fresh-fruit-mangos-r2e2",
+        "sku": "143168",
+        "unit": "Each",
+        "selectedPurchasingUnit": null,
+        "price": {
+          "originalPrice": 6.0,
+          "salePrice": 6.0,
+          "savePrice": 0.0,
+          "savePercentage": 0.0,
+          "canShowSavings": true,
+          "hasBonusPoints": false,
+          "isClubPrice": false,
+          "isSpecial": false,
+          "isNew": false,
+          "canShowOriginalPrice": true,
+          "discount": null,
+          "total": null,
+          "isTargetedOffer": false,
+          "averagePricePerSingleUnit": null,
+          "isBoostOffer": false,
+          "purchasingUnitPrice": null,
+          "orderedPrice": null,
+          "isUsingOrderedPrice": false,
+          "currentPricingMatchesOrderedPricing": null,
+          "extendedListPrice": null,
+          "originalAveragePricePerSingleUnit": null
+        },
+        "images": {
+          "small": "https://assets.woolworths.com.au/images/2010/143168.jpg?impolicy=wowcdxwbjbx&w=65&h=65",
+          "big": "https://assets.woolworths.com.au/images/2010/143168.jpg?impolicy=wowcdxwbjbx&w=200&h=200"
+        },
+        "quantity": {
+          "min": 1.0,
+          "max": 100.0,
+          "increment": 1.0,
+          "value": null,
+          "quantityInOrder": null,
+          "purchasingQuantityString": null
+        },
+        "stockLevel": 3,
+        "eachUnitQuantity": null,
+        "averageWeightPerUnit": null,
+        "size": {
+          "cupListPrice": 6.99,
+          "cupPrice": 6.0,
+          "cupMeasure": "1ea",
+          "packageType": "",
+          "volumeSize": ""
+        },
+        "hasShopperNotes": null,
+        "productTag": {
+          "tagType": "Other",
+          "multiBuy": null,
+          "bonusPoints": null,
+          "additionalTag": {
+            "name": "Fresh Deals",
+            "link": "Self",
+            "imagePath": "/Content/PromotionTags/F24_Fresh_deal.png",
+            "linkTarget": "_self",
+            "altText": "Fresh Deals"
+          },
+          "targetedOffer": null,
+          "boostOffer": null
+        },
+        "departments": [
+          {
+            "id": 1,
+            "name": "Fruit & Veg"
+          }
+        ],
+        "subsAllowed": false,
+        "supportsBothEachAndKgPricing": false,
+        "adId": null,
+        "brandSuggestionId": null,
+        "brandSuggestionName": null,
+        "priceUnitLabel": null,
+        "availabilityStatus": "In Stock",
+        "onlineSample": null,
+        "onlineSampleRealProductMapId": 0
+      },
+      {
+        "type": "Product",
+        "name": "superb herb fresh vegetable mint ",
+        "barcode": "9419534000744",
+        "variety": "",
+        "brand": "superb herb",
+        "slug": "superb-herb-fresh-vegetable-mint",
+        "sku": "787253",
+        "unit": "Each",
+        "selectedPurchasingUnit": null,
+        "price": {
+          "originalPrice": 5.35,
+          "salePrice": 5.35,
+          "savePrice": 0.00,
+          "savePercentage": 0.0,
+          "canShowSavings": true,
+          "hasBonusPoints": false,
+          "isClubPrice": false,
+          "isSpecial": false,
+          "isNew": false,
+          "canShowOriginalPrice": true,
+          "discount": null,
+          "total": null,
+          "isTargetedOffer": false,
+          "averagePricePerSingleUnit": null,
+          "isBoostOffer": false,
+          "purchasingUnitPrice": null,
+          "orderedPrice": null,
+          "isUsingOrderedPrice": false,
+          "currentPricingMatchesOrderedPricing": null,
+          "extendedListPrice": null,
+          "originalAveragePricePerSingleUnit": null
+        },
+        "images": {
+          "small": "https://assets.woolworths.com.au/images/2010/787253.jpg?impolicy=wowcdxwbjbx&w=65&h=65",
+          "big": "https://assets.woolworths.com.au/images/2010/787253.jpg?impolicy=wowcdxwbjbx&w=200&h=200"
+        },
+        "quantity": {
+          "min": 1.0,
+          "max": 100.0,
+          "increment": 1.0,
+          "value": null,
+          "quantityInOrder": null,
+          "purchasingQuantityString": null
+        },
+        "stockLevel": 3,
+        "eachUnitQuantity": null,
+        "averageWeightPerUnit": null,
+        "size": {
+          "cupListPrice": 1.34,
+          "cupPrice": 1.34,
+          "cupMeasure": "10g",
+          "packageType": "packet",
+          "volumeSize": "40g"
+        },
+        "hasShopperNotes": null,
+        "productTag": null,
+        "departments": [
+          {
+            "id": 1,
+            "name": "Fruit & Veg"
+          }
+        ],
+        "subsAllowed": false,
+        "supportsBothEachAndKgPricing": false,
+        "adId": null,
+        "brandSuggestionId": null,
+        "brandSuggestionName": null,
+        "priceUnitLabel": null,
+        "availabilityStatus": "In Stock",
+        "onlineSample": null,
+        "onlineSampleRealProductMapId": 0
+      },
+      {
+        "type": "Product",
+        "name": "fresh vegetable peas sugar snap",
+        "barcode": "9421904769717",
+        "variety": "sugar snap",
+        "brand": "fresh vegetable",
+        "slug": "fresh-vegetable-peas-sugar-snap",
+        "sku": "163783",
+        "unit": "Each",
+        "selectedPurchasingUnit": null,
+        "price": {
+          "originalPrice": 6.5,
+          "salePrice": 6.5,
+          "savePrice": 0.0,
+          "savePercentage": 0.0,
+          "canShowSavings": true,
+          "hasBonusPoints": false,
+          "isClubPrice": false,
+          "isSpecial": false,
+          "isNew": false,
+          "canShowOriginalPrice": true,
+          "discount": null,
+          "total": null,
+          "isTargetedOffer": false,
+          "averagePricePerSingleUnit": null,
+          "isBoostOffer": false,
+          "purchasingUnitPrice": null,
+          "orderedPrice": null,
+          "isUsingOrderedPrice": false,
+          "currentPricingMatchesOrderedPricing": null,
+          "extendedListPrice": null,
+          "originalAveragePricePerSingleUnit": null
+        },
+        "images": {
+          "small": "https://assets.woolworths.com.au/images/2010/163783.jpg?impolicy=wowcdxwbjbx&w=65&h=65",
+          "big": "https://assets.woolworths.com.au/images/2010/163783.jpg?impolicy=wowcdxwbjbx&w=200&h=200"
+        },
+        "quantity": {
+          "min": 1.0,
+          "max": 100.0,
+          "increment": 1.0,
+          "value": null,
+          "quantityInOrder": null,
+          "purchasingQuantityString": null
+        },
+        "stockLevel": 3,
+        "eachUnitQuantity": null,
+        "averageWeightPerUnit": null,
+        "size": {
+          "cupListPrice": 43.330000000000000000000000006,
+          "cupPrice": 43.330000000000000000000000006,
+          "cupMeasure": "1kg",
+          "packageType": "prepacked",
+          "volumeSize": "150g"
+        },
+        "hasShopperNotes": null,
+        "productTag": null,
+        "departments": [
+          {
+            "id": 1,
+            "name": "Fruit & Veg"
+          }
+        ],
+        "subsAllowed": false,
+        "supportsBothEachAndKgPricing": false,
+        "adId": null,
+        "brandSuggestionId": null,
+        "brandSuggestionName": null,
+        "priceUnitLabel": null,
+        "availabilityStatus": "Out of Stock",
+        "onlineSample": null,
+        "onlineSampleRealProductMapId": 0
+      },
+      {
+        "type": "Product",
+        "name": "the odd bunch fresh fruit strawberries ",
+        "barcode": "9400597025843",
+        "variety": "",
+        "brand": "the odd bunch",
+        "slug": "the-odd-bunch-fresh-fruit-strawberries",
+        "sku": "702150",
+        "unit": "Each",
+        "selectedPurchasingUnit": null,
+        "price": {
+          "originalPrice": 3.2,
+          "salePrice": 3.2,
+          "savePrice": 0.0,
+          "savePercentage": 0.0,
+          "canShowSavings": true,
+          "hasBonusPoints": false,
+          "isClubPrice": false,
+          "isSpecial": false,
+          "isNew": false,
+          "canShowOriginalPrice": true,
+          "discount": null,
+          "total": null,
+          "isTargetedOffer": false,
+          "averagePricePerSingleUnit": null,
+          "isBoostOffer": false,
+          "purchasingUnitPrice": null,
+          "orderedPrice": null,
+          "isUsingOrderedPrice": false,
+          "currentPricingMatchesOrderedPricing": null,
+          "extendedListPrice": null,
+          "originalAveragePricePerSingleUnit": null
+        },
+        "images": {
+          "small": "https://assets.woolworths.com.au/images/2010/702150.jpg?impolicy=wowcdxwbjbx&w=65&h=65",
+          "big": "https://assets.woolworths.com.au/images/2010/702150.jpg?impolicy=wowcdxwbjbx&w=200&h=200"
+        },
+        "quantity": {
+          "min": 1.0,
+          "max": 100.0,
+          "increment": 1.0,
+          "value": null,
+          "quantityInOrder": null,
+          "purchasingQuantityString": null
+        },
+        "stockLevel": 3,
+        "eachUnitQuantity": null,
+        "averageWeightPerUnit": null,
+        "size": {
+          "cupListPrice": 12.8,
+          "cupPrice": 12.8,
+          "cupMeasure": "1kg",
+          "packageType": "punnet",
+          "volumeSize": "250g"
+        },
+        "hasShopperNotes": null,
+        "productTag": {
+          "tagType": "Other",
+          "multiBuy": null,
+          "bonusPoints": null,
+          "additionalTag": {
+            "name": "F24 Odd Bunch",
+            "link": "/shop/productgroup/181022",
+            "imagePath": "/Content/PromotionTags/odd-bunch-tag.png",
+            "linkTarget": "_self",
+            "altText": "Odd bunch"
+          },
+          "targetedOffer": null,
+          "boostOffer": null
+        },
+        "departments": [
+          {
+            "id": 1,
+            "name": "Fruit & Veg"
+          }
+        ],
+        "subsAllowed": false,
+        "supportsBothEachAndKgPricing": false,
+        "adId": null,
+        "brandSuggestionId": null,
+        "brandSuggestionName": null,
+        "priceUnitLabel": null,
+        "availabilityStatus": "Out of Stock",
+        "onlineSample": null,
+        "onlineSampleRealProductMapId": 0
+      },
+      {
+        "type": "Product",
+        "name": "something to crow about salad topper roasted seeds tamari & seaweed",
+        "barcode": "9421903327666",
+        "variety": "roasted seeds tamari & seaweed",
+        "brand": "something to crow about",
+        "slug": "something-to-crow-about-salad-topper-roasted-seeds-tamari-seaweed",
+        "sku": "669130",
+        "unit": "Each",
+        "selectedPurchasingUnit": null,
+        "price": {
+          "originalPrice": 5.99,
+          "salePrice": 5.99,
+          "savePrice": 0.00,
+          "savePercentage": 0.0,
+          "canShowSavings": true,
+          "hasBonusPoints": false,
+          "isClubPrice": false,
+          "isSpecial": false,
+          "isNew": false,
+          "canShowOriginalPrice": true,
+          "discount": null,
+          "total": null,
+          "isTargetedOffer": false,
+          "averagePricePerSingleUnit": null,
+          "isBoostOffer": false,
+          "purchasingUnitPrice": null,
+          "orderedPrice": null,
+          "isUsingOrderedPrice": false,
+          "currentPricingMatchesOrderedPricing": null,
+          "extendedListPrice": null,
+          "originalAveragePricePerSingleUnit": null
+        },
+        "images": {
+          "small": "https://assets.woolworths.com.au/images/2010/669130.jpg?impolicy=wowcdxwbjbx&w=65&h=65",
+          "big": "https://assets.woolworths.com.au/images/2010/669130.jpg?impolicy=wowcdxwbjbx&w=200&h=200"
+        },
+        "quantity": {
+          "min": 1.0,
+          "max": 100.0,
+          "increment": 1.0,
+          "value": null,
+          "quantityInOrder": null,
+          "purchasingQuantityString": null
+        },
+        "stockLevel": 3,
+        "eachUnitQuantity": null,
+        "averageWeightPerUnit": null,
+        "size": {
+          "cupListPrice": 4.99,
+          "cupPrice": 4.99,
+          "cupMeasure": "100g",
+          "packageType": "resealable pouch",
+          "volumeSize": "120g"
+        },
+        "hasShopperNotes": null,
+        "productTag": null,
+        "departments": [
+          {
+            "id": 1,
+            "name": "Fruit & Veg"
+          }
+        ],
+        "subsAllowed": false,
+        "supportsBothEachAndKgPricing": false,
+        "adId": null,
+        "brandSuggestionId": null,
+        "brandSuggestionName": null,
+        "priceUnitLabel": null,
+        "availabilityStatus": "In Stock",
+        "onlineSample": null,
+        "onlineSampleRealProductMapId": 0
+      },
+      {
+        "type": "Product",
+        "name": "fresh vegetable kale tuscan",
+        "barcode": "9300633538910",
+        "variety": "tuscan",
+        "brand": "fresh vegetable",
+        "slug": "fresh-vegetable-kale-tuscan",
+        "sku": "500559",
+        "unit": "Each",
+        "selectedPurchasingUnit": null,
+        "price": {
+          "originalPrice": 5.6,
+          "salePrice": 5.6,
+          "savePrice": 0.0,
+          "savePercentage": 0.0,
+          "canShowSavings": true,
+          "hasBonusPoints": false,
+          "isClubPrice": false,
+          "isSpecial": false,
+          "isNew": false,
+          "canShowOriginalPrice": true,
+          "discount": null,
+          "total": null,
+          "isTargetedOffer": false,
+          "averagePricePerSingleUnit": null,
+          "isBoostOffer": false,
+          "purchasingUnitPrice": null,
+          "orderedPrice": null,
+          "isUsingOrderedPrice": false,
+          "currentPricingMatchesOrderedPricing": null,
+          "extendedListPrice": null,
+          "originalAveragePricePerSingleUnit": null
+        },
+        "images": {
+          "small": "https://assets.woolworths.com.au/images/2010/500559.jpg?impolicy=wowcdxwbjbx&w=65&h=65",
+          "big": "https://assets.woolworths.com.au/images/2010/500559.jpg?impolicy=wowcdxwbjbx&w=200&h=200"
+        },
+        "quantity": {
+          "min": 1.0,
+          "max": 100.0,
+          "increment": 1.0,
+          "value": null,
+          "quantityInOrder": null,
+          "purchasingQuantityString": null
+        },
+        "stockLevel": 3,
+        "eachUnitQuantity": null,
+        "averageWeightPerUnit": null,
+        "size": {
+          "cupListPrice": 5.6,
+          "cupPrice": 5.6,
+          "cupMeasure": "1ea",
+          "packageType": "bunch",
+          "volumeSize": "175g"
+        },
+        "hasShopperNotes": null,
+        "productTag": {
+          "tagType": "Other",
+          "multiBuy": null,
+          "bonusPoints": null,
+          "additionalTag": {
+            "name": "F2519 Produce In Season November - LMA",
+            "link": "/shop/productgroup/185625",
+            "imagePath": "/Content/PromotionTags/F24_In_season.png",
+            "linkTarget": "_self",
+            "altText": "Produce In Season"
+          },
+          "targetedOffer": null,
+          "boostOffer": null
+        },
+        "departments": [
+          {
+            "id": 1,
+            "name": "Fruit & Veg"
+          }
+        ],
+        "subsAllowed": false,
+        "supportsBothEachAndKgPricing": false,
+        "adId": null,
+        "brandSuggestionId": null,
+        "brandSuggestionName": null,
+        "priceUnitLabel": null,
+        "availabilityStatus": "In Stock",
+        "onlineSample": null,
+        "onlineSampleRealProductMapId": 0
+      },
+      {
+        "type": "Product",
+        "name": "sproutman fresh vegetable sprouts sango",
+        "barcode": "9421004861236",
+        "variety": "sango",
+        "brand": "sproutman",
+        "slug": "sproutman-fresh-vegetable-sprouts-sango",
+        "sku": "88784",
+        "unit": "Each",
+        "selectedPurchasingUnit": null,
+        "price": {
+          "originalPrice": 4.8,
+          "salePrice": 4.8,
+          "savePrice": 0.0,
+          "savePercentage": 0.0,
+          "canShowSavings": true,
+          "hasBonusPoints": false,
+          "isClubPrice": false,
+          "isSpecial": false,
+          "isNew": false,
+          "canShowOriginalPrice": true,
+          "discount": null,
+          "total": null,
+          "isTargetedOffer": false,
+          "averagePricePerSingleUnit": null,
+          "isBoostOffer": false,
+          "purchasingUnitPrice": null,
+          "orderedPrice": null,
+          "isUsingOrderedPrice": false,
+          "currentPricingMatchesOrderedPricing": null,
+          "extendedListPrice": null,
+          "originalAveragePricePerSingleUnit": null
+        },
+        "images": {
+          "small": "https://assets.woolworths.com.au/images/2010/88784.jpg?impolicy=wowcdxwbjbx&w=65&h=65",
+          "big": "https://assets.woolworths.com.au/images/2010/88784.jpg?impolicy=wowcdxwbjbx&w=200&h=200"
+        },
+        "quantity": {
+          "min": 1.0,
+          "max": 100.0,
+          "increment": 1.0,
+          "value": null,
+          "quantityInOrder": null,
+          "purchasingQuantityString": null
+        },
+        "stockLevel": 3,
+        "eachUnitQuantity": null,
+        "averageWeightPerUnit": null,
+        "size": {
+          "cupListPrice": 48.0,
+          "cupPrice": 48.0,
+          "cupMeasure": "1kg",
+          "packageType": null,
+          "volumeSize": "100g"
+        },
+        "hasShopperNotes": null,
+        "productTag": null,
+        "departments": [
+          {
+            "id": 1,
+            "name": "Fruit & Veg"
+          }
+        ],
+        "subsAllowed": false,
+        "supportsBothEachAndKgPricing": false,
+        "adId": null,
+        "brandSuggestionId": null,
+        "brandSuggestionName": null,
+        "priceUnitLabel": null,
+        "availabilityStatus": "In Stock",
+        "onlineSample": null,
+        "onlineSampleRealProductMapId": 0
+      },
+      {
+        "type": "Product",
+        "name": "fresh n fruity fresh vegetable choy sum ",
+        "barcode": "9421035110037",
+        "variety": "",
+        "brand": "fresh n fruity",
+        "slug": "fresh-n-fruity-fresh-vegetable-choy-sum",
+        "sku": "195120",
+        "unit": "Each",
+        "selectedPurchasingUnit": null,
+        "price": {
+          "originalPrice": 2.99,
+          "salePrice": 2.99,
+          "savePrice": 0.00,
+          "savePercentage": 0.0,
+          "canShowSavings": true,
+          "hasBonusPoints": false,
+          "isClubPrice": false,
+          "isSpecial": false,
+          "isNew": false,
+          "canShowOriginalPrice": true,
+          "discount": null,
+          "total": null,
+          "isTargetedOffer": false,
+          "averagePricePerSingleUnit": null,
+          "isBoostOffer": false,
+          "purchasingUnitPrice": null,
+          "orderedPrice": null,
+          "isUsingOrderedPrice": false,
+          "currentPricingMatchesOrderedPricing": null,
+          "extendedListPrice": null,
+          "originalAveragePricePerSingleUnit": null
+        },
+        "images": {
+          "small": "https://assets.woolworths.com.au/images/2010/195120.jpg?impolicy=wowcdxwbjbx&w=65&h=65",
+          "big": "https://assets.woolworths.com.au/images/2010/195120.jpg?impolicy=wowcdxwbjbx&w=200&h=200"
+        },
+        "quantity": {
+          "min": 1.0,
+          "max": 100.0,
+          "increment": 1.0,
+          "value": null,
+          "quantityInOrder": null,
+          "purchasingQuantityString": null
+        },
+        "stockLevel": 3,
+        "eachUnitQuantity": null,
+        "averageWeightPerUnit": null,
+        "size": {
+          "cupListPrice": 2.99,
+          "cupPrice": 2.99,
+          "cupMeasure": "1ea",
+          "packageType": "",
+          "volumeSize": ""
+        },
+        "hasShopperNotes": null,
+        "productTag": null,
+        "departments": [
+          {
+            "id": 1,
+            "name": "Fruit & Veg"
+          }
+        ],
+        "subsAllowed": false,
+        "supportsBothEachAndKgPricing": false,
+        "adId": null,
+        "brandSuggestionId": null,
+        "brandSuggestionName": null,
+        "priceUnitLabel": null,
+        "availabilityStatus": "In Stock",
+        "onlineSample": null,
+        "onlineSampleRealProductMapId": 0
+      },
+      {
+        "type": "Product",
+        "name": "fresh vegetable cauliflower coloured",
+        "barcode": "9339687403202",
+        "variety": "coloured",
+        "brand": "fresh vegetable",
+        "slug": "fresh-vegetable-cauliflower-coloured",
+        "sku": "757008",
+        "unit": "Each",
+        "selectedPurchasingUnit": null,
+        "price": {
+          "originalPrice": 3.99,
+          "salePrice": 3.99,
+          "savePrice": 0.00,
+          "savePercentage": 0.0,
+          "canShowSavings": true,
+          "hasBonusPoints": false,
+          "isClubPrice": false,
+          "isSpecial": false,
+          "isNew": false,
+          "canShowOriginalPrice": true,
+          "discount": null,
+          "total": null,
+          "isTargetedOffer": false,
+          "averagePricePerSingleUnit": null,
+          "isBoostOffer": false,
+          "purchasingUnitPrice": null,
+          "orderedPrice": null,
+          "isUsingOrderedPrice": false,
+          "currentPricingMatchesOrderedPricing": null,
+          "extendedListPrice": null,
+          "originalAveragePricePerSingleUnit": null
+        },
+        "images": {
+          "small": "https://assets.woolworths.com.au/images/2010/757008.jpg?impolicy=wowcdxwbjbx&w=65&h=65",
+          "big": "https://assets.woolworths.com.au/images/2010/757008.jpg?impolicy=wowcdxwbjbx&w=200&h=200"
+        },
+        "quantity": {
+          "min": 1.0,
+          "max": 100.0,
+          "increment": 1.0,
+          "value": null,
+          "quantityInOrder": null,
+          "purchasingQuantityString": null
+        },
+        "stockLevel": 3,
+        "eachUnitQuantity": null,
+        "averageWeightPerUnit": null,
+        "size": {
+          "cupListPrice": 3.99,
+          "cupPrice": 3.99,
+          "cupMeasure": "1ea",
+          "packageType": "",
+          "volumeSize": ""
+        },
+        "hasShopperNotes": null,
+        "productTag": null,
+        "departments": [
+          {
+            "id": 1,
+            "name": "Fruit & Veg"
+          }
+        ],
+        "subsAllowed": false,
+        "supportsBothEachAndKgPricing": false,
+        "adId": null,
+        "brandSuggestionId": null,
+        "brandSuggestionName": null,
+        "priceUnitLabel": null,
+        "availabilityStatus": "Out of Stock",
+        "onlineSample": null,
+        "onlineSampleRealProductMapId": 0
+      },
+      {
+        "type": "Product",
+        "name": "fresh fruit raspberries ",
+        "barcode": "9421905152044",
+        "variety": "",
+        "brand": "fresh fruit",
+        "slug": "fresh-fruit-raspberries",
+        "sku": "165262",
+        "unit": "Each",
+        "selectedPurchasingUnit": null,
+        "price": {
+          "originalPrice": 9.49,
+          "salePrice": 9.49,
+          "savePrice": 0.00,
+          "savePercentage": 0.0,
+          "canShowSavings": true,
+          "hasBonusPoints": false,
+          "isClubPrice": false,
+          "isSpecial": false,
+          "isNew": false,
+          "canShowOriginalPrice": true,
+          "discount": null,
+          "total": null,
+          "isTargetedOffer": false,
+          "averagePricePerSingleUnit": null,
+          "isBoostOffer": false,
+          "purchasingUnitPrice": null,
+          "orderedPrice": null,
+          "isUsingOrderedPrice": false,
+          "currentPricingMatchesOrderedPricing": null,
+          "extendedListPrice": null,
+          "originalAveragePricePerSingleUnit": null
+        },
+        "images": {
+          "small": "https://assets.woolworths.com.au/images/2010/165262.jpg?impolicy=wowcdxwbjbx&w=65&h=65",
+          "big": "https://assets.woolworths.com.au/images/2010/165262.jpg?impolicy=wowcdxwbjbx&w=200&h=200"
+        },
+        "quantity": {
+          "min": 1.0,
+          "max": 100.0,
+          "increment": 1.0,
+          "value": null,
+          "quantityInOrder": null,
+          "purchasingQuantityString": null
+        },
+        "stockLevel": 3,
+        "eachUnitQuantity": null,
+        "averageWeightPerUnit": null,
+        "size": {
+          "cupListPrice": 75.92,
+          "cupPrice": 75.92,
+          "cupMeasure": "1kg",
+          "packageType": "punnet",
+          "volumeSize": "125g"
+        },
+        "hasShopperNotes": null,
+        "productTag": {
+          "tagType": "Other",
+          "multiBuy": null,
+          "bonusPoints": null,
+          "additionalTag": {
+            "name": "F2519 Produce In Season November - LMA",
+            "link": "/shop/productgroup/185625",
+            "imagePath": "/Content/PromotionTags/F24_In_season.png",
+            "linkTarget": "_self",
+            "altText": "Produce In Season"
+          },
+          "targetedOffer": null,
+          "boostOffer": null
+        },
+        "departments": [
+          {
+            "id": 1,
+            "name": "Fruit & Veg"
+          }
+        ],
+        "subsAllowed": false,
+        "supportsBothEachAndKgPricing": false,
+        "adId": null,
+        "brandSuggestionId": null,
+        "brandSuggestionName": null,
+        "priceUnitLabel": null,
+        "availabilityStatus": "In Stock",
+        "onlineSample": null,
+        "onlineSampleRealProductMapId": 0
+      },
+      {
+        "type": "Product",
+        "name": "fresh fruit pears corella",
+        "barcode": "9339687020232",
+        "variety": "corella",
+        "brand": "fresh fruit",
+        "slug": "fresh-fruit-pears-corella",
+        "sku": "668580",
+        "unit": "Each",
+        "selectedPurchasingUnit": null,
+        "price": {
+          "originalPrice": 6.49,
+          "salePrice": 6.49,
+          "savePrice": 0.00,
+          "savePercentage": 0.0,
+          "canShowSavings": true,
+          "hasBonusPoints": false,
+          "isClubPrice": false,
+          "isSpecial": false,
+          "isNew": false,
+          "canShowOriginalPrice": true,
+          "discount": null,
+          "total": null,
+          "isTargetedOffer": false,
+          "averagePricePerSingleUnit": null,
+          "isBoostOffer": false,
+          "purchasingUnitPrice": null,
+          "orderedPrice": null,
+          "isUsingOrderedPrice": false,
+          "currentPricingMatchesOrderedPricing": null,
+          "extendedListPrice": null,
+          "originalAveragePricePerSingleUnit": null
+        },
+        "images": {
+          "small": "https://assets.woolworths.com.au/images/2010/668580.jpg?impolicy=wowcdxwbjbx&w=65&h=65",
+          "big": "https://assets.woolworths.com.au/images/2010/668580.jpg?impolicy=wowcdxwbjbx&w=200&h=200"
+        },
+        "quantity": {
+          "min": 1.0,
+          "max": 100.0,
+          "increment": 1.0,
+          "value": null,
+          "quantityInOrder": null,
+          "purchasingQuantityString": null
+        },
+        "stockLevel": 3,
+        "eachUnitQuantity": null,
+        "averageWeightPerUnit": null,
+        "size": {
+          "cupListPrice": 8.65,
+          "cupPrice": 8.65,
+          "cupMeasure": "1kg",
+          "packageType": "prepacked",
+          "volumeSize": "750g"
+        },
+        "hasShopperNotes": null,
+        "productTag": null,
+        "departments": [
+          {
+            "id": 1,
+            "name": "Fruit & Veg"
+          }
+        ],
+        "subsAllowed": false,
+        "supportsBothEachAndKgPricing": false,
+        "adId": null,
+        "brandSuggestionId": null,
+        "brandSuggestionName": null,
+        "priceUnitLabel": null,
+        "availabilityStatus": "Out of Stock",
+        "onlineSample": null,
+        "onlineSampleRealProductMapId": 0
+      },
+      {
+        "type": "Product",
+        "name": "genevieves salad dressing avocado & lime",
+        "barcode": "9421902728600",
+        "variety": "avocado & lime",
+        "brand": "genevieves",
+        "slug": "genevieves-salad-dressing-avocado-lime",
+        "sku": "184138",
+        "unit": "Each",
+        "selectedPurchasingUnit": null,
+        "price": {
+          "originalPrice": 3.99,
+          "salePrice": 3.99,
+          "savePrice": 0.00,
+          "savePercentage": 0.0,
+          "canShowSavings": true,
+          "hasBonusPoints": false,
+          "isClubPrice": false,
+          "isSpecial": false,
+          "isNew": false,
+          "canShowOriginalPrice": true,
+          "discount": null,
+          "total": null,
+          "isTargetedOffer": false,
+          "averagePricePerSingleUnit": null,
+          "isBoostOffer": false,
+          "purchasingUnitPrice": null,
+          "orderedPrice": null,
+          "isUsingOrderedPrice": false,
+          "currentPricingMatchesOrderedPricing": null,
+          "extendedListPrice": null,
+          "originalAveragePricePerSingleUnit": null
+        },
+        "images": {
+          "small": "https://assets.woolworths.com.au/images/2010/184138.jpg?impolicy=wowcdxwbjbx&w=65&h=65",
+          "big": "https://assets.woolworths.com.au/images/2010/184138.jpg?impolicy=wowcdxwbjbx&w=200&h=200"
+        },
+        "quantity": {
+          "min": 1.0,
+          "max": 100.0,
+          "increment": 1.0,
+          "value": null,
+          "quantityInOrder": null,
+          "purchasingQuantityString": null
+        },
+        "stockLevel": 3,
+        "eachUnitQuantity": null,
+        "averageWeightPerUnit": null,
+        "size": {
+          "cupListPrice": 3.7499999999999999999999999999,
+          "cupPrice": 3.1902985074626865671641791044,
+          "cupMeasure": "100mL",
+          "packageType": null,
+          "volumeSize": "125mL"
+        },
+        "hasShopperNotes": null,
+        "productTag": {
+          "tagType": "Other",
+          "multiBuy": null,
+          "bonusPoints": null,
+          "additionalTag": {
+            "name": "Fresh Deals",
+            "link": "Self",
+            "imagePath": "/Content/PromotionTags/F24_Fresh_deal.png",
+            "linkTarget": "_self",
+            "altText": "Fresh Deals"
+          },
+          "targetedOffer": null,
+          "boostOffer": null
+        },
+        "departments": [
+          {
+            "id": 15,
+            "name": "Christmas"
+          }
+        ],
+        "subsAllowed": false,
+        "supportsBothEachAndKgPricing": false,
+        "adId": null,
+        "brandSuggestionId": null,
+        "brandSuggestionName": null,
+        "priceUnitLabel": null,
+        "availabilityStatus": "In Stock",
+        "onlineSample": null,
+        "onlineSampleRealProductMapId": 0
+      },
+      {
+        "type": "Product",
+        "name": "woolworths fresh salad japanese style slaw",
+        "barcode": "9400597043786",
+        "variety": "japanese style slaw",
+        "brand": "woolworths",
+        "slug": "woolworths-fresh-salad-japanese-style-slaw",
+        "sku": "115625",
+        "unit": "Each",
+        "selectedPurchasingUnit": null,
+        "price": {
+          "originalPrice": 6.5,
+          "salePrice": 6.5,
+          "savePrice": 0.0,
+          "savePercentage": 0.0,
+          "canShowSavings": true,
+          "hasBonusPoints": false,
+          "isClubPrice": false,
+          "isSpecial": false,
+          "isNew": true,
+          "canShowOriginalPrice": true,
+          "discount": null,
+          "total": null,
+          "isTargetedOffer": false,
+          "averagePricePerSingleUnit": null,
+          "isBoostOffer": false,
+          "purchasingUnitPrice": null,
+          "orderedPrice": null,
+          "isUsingOrderedPrice": false,
+          "currentPricingMatchesOrderedPricing": null,
+          "extendedListPrice": null,
+          "originalAveragePricePerSingleUnit": null
+        },
+        "images": {
+          "small": "https://assets.woolworths.com.au/images/2010/115625.jpg?impolicy=wowcdxwbjbx&w=65&h=65",
+          "big": "https://assets.woolworths.com.au/images/2010/115625.jpg?impolicy=wowcdxwbjbx&w=200&h=200"
+        },
+        "quantity": {
+          "min": 1.0,
+          "max": 100.0,
+          "increment": 1.0,
+          "value": null,
+          "quantityInOrder": null,
+          "purchasingQuantityString": null
+        },
+        "stockLevel": 3,
+        "eachUnitQuantity": null,
+        "averageWeightPerUnit": null,
+        "size": {
+          "cupListPrice": 14.44,
+          "cupPrice": 14.44,
+          "cupMeasure": "1kg",
+          "packageType": null,
+          "volumeSize": "450g"
+        },
+        "hasShopperNotes": null,
+        "productTag": {
+          "tagType": "IsNew",
+          "multiBuy": null,
+          "bonusPoints": null,
+          "additionalTag": null,
+          "targetedOffer": null,
+          "boostOffer": null
+        },
+        "departments": [
+          {
+            "id": 1,
+            "name": "Fruit & Veg"
+          }
+        ],
+        "subsAllowed": false,
+        "supportsBothEachAndKgPricing": false,
+        "adId": null,
+        "brandSuggestionId": null,
+        "brandSuggestionName": null,
+        "priceUnitLabel": null,
+        "availabilityStatus": "In Stock",
+        "onlineSample": null,
+        "onlineSampleRealProductMapId": 0
+      },
+      {
+        "type": "Product",
+        "name": "superb herb fresh vegetable basil living plant mini",
+        "barcode": "9419534000676",
+        "variety": "living plant mini",
+        "brand": "superb herb",
+        "slug": "superb-herb-fresh-vegetable-basil-living-plant-mini",
+        "sku": "678180",
+        "unit": "Each",
+        "selectedPurchasingUnit": null,
+        "price": {
+          "originalPrice": 4.59,
+          "salePrice": 3.5,
+          "savePrice": 1.09,
+          "savePercentage": 20.0,
+          "canShowSavings": true,
+          "hasBonusPoints": false,
+          "isClubPrice": true,
+          "isSpecial": true,
+          "isNew": false,
+          "canShowOriginalPrice": true,
+          "discount": null,
+          "total": null,
+          "isTargetedOffer": false,
+          "averagePricePerSingleUnit": null,
+          "isBoostOffer": false,
+          "purchasingUnitPrice": null,
+          "orderedPrice": null,
+          "isUsingOrderedPrice": false,
+          "currentPricingMatchesOrderedPricing": null,
+          "extendedListPrice": null,
+          "originalAveragePricePerSingleUnit": null
+        },
+        "images": {
+          "small": "https://assets.woolworths.com.au/images/2010/678180.jpg?impolicy=wowcdxwbjbx&w=65&h=65",
+          "big": "https://assets.woolworths.com.au/images/2010/678180.jpg?impolicy=wowcdxwbjbx&w=200&h=200"
+        },
+        "quantity": {
+          "min": 1.0,
+          "max": 100.0,
+          "increment": 1.0,
+          "value": null,
+          "quantityInOrder": null,
+          "purchasingQuantityString": null
+        },
+        "stockLevel": 3,
+        "eachUnitQuantity": null,
+        "averageWeightPerUnit": null,
+        "size": {
+          "cupListPrice": 4.59,
+          "cupPrice": 3.5,
+          "cupMeasure": "1ea",
+          "packageType": null,
+          "volumeSize": null
+        },
+        "hasShopperNotes": null,
+        "productTag": {
+          "tagType": "IsClubPrice",
+          "multiBuy": null,
+          "bonusPoints": null,
+          "additionalTag": null,
+          "targetedOffer": null,
+          "boostOffer": null
+        },
+        "departments": [
+          {
+            "id": 1,
+            "name": "Fruit & Veg"
+          }
+        ],
+        "subsAllowed": false,
+        "supportsBothEachAndKgPricing": false,
+        "adId": null,
+        "brandSuggestionId": null,
+        "brandSuggestionName": null,
+        "priceUnitLabel": null,
+        "availabilityStatus": "In Stock",
+        "onlineSample": null,
+        "onlineSampleRealProductMapId": 0
+      },
+      {
+        "type": "Product",
+        "name": "fresh fruit coconut imported",
+        "barcode": "9421904769960",
+        "variety": "imported",
+        "brand": "fresh fruit",
+        "slug": "fresh-fruit-coconut-imported",
+        "sku": "136981",
+        "unit": "Each",
+        "selectedPurchasingUnit": null,
+        "price": {
+          "originalPrice": 3.29,
+          "salePrice": 3.29,
+          "savePrice": 0.00,
+          "savePercentage": 0.0,
+          "canShowSavings": true,
+          "hasBonusPoints": false,
+          "isClubPrice": false,
+          "isSpecial": false,
+          "isNew": false,
+          "canShowOriginalPrice": true,
+          "discount": null,
+          "total": null,
+          "isTargetedOffer": false,
+          "averagePricePerSingleUnit": null,
+          "isBoostOffer": false,
+          "purchasingUnitPrice": null,
+          "orderedPrice": null,
+          "isUsingOrderedPrice": false,
+          "currentPricingMatchesOrderedPricing": null,
+          "extendedListPrice": null,
+          "originalAveragePricePerSingleUnit": null
+        },
+        "images": {
+          "small": "https://assets.woolworths.com.au/images/2010/136981.jpg?impolicy=wowcdxwbjbx&w=65&h=65",
+          "big": "https://assets.woolworths.com.au/images/2010/136981.jpg?impolicy=wowcdxwbjbx&w=200&h=200"
+        },
+        "quantity": {
+          "min": 1.0,
+          "max": 100.0,
+          "increment": 1.0,
+          "value": null,
+          "quantityInOrder": null,
+          "purchasingQuantityString": null
+        },
+        "stockLevel": 3,
+        "eachUnitQuantity": null,
+        "averageWeightPerUnit": null,
+        "size": {
+          "cupListPrice": 3.29,
+          "cupPrice": 3.29,
+          "cupMeasure": "1ea",
+          "packageType": "",
+          "volumeSize": ""
+        },
+        "hasShopperNotes": null,
+        "productTag": null,
+        "departments": [
+          {
+            "id": 1,
+            "name": "Fruit & Veg"
+          }
+        ],
+        "subsAllowed": false,
+        "supportsBothEachAndKgPricing": false,
+        "adId": null,
+        "brandSuggestionId": null,
+        "brandSuggestionName": null,
+        "priceUnitLabel": null,
+        "availabilityStatus": "In Stock",
+        "onlineSample": null,
+        "onlineSampleRealProductMapId": 0
+      },
+      {
+        "type": "Product",
+        "name": "purefresh fresh vegetable kumara red organic",
+        "barcode": "9419556000753",
+        "variety": "red organic",
+        "brand": "purefresh",
+        "slug": "purefresh-fresh-vegetable-kumara-red-organic",
+        "sku": "282442",
+        "unit": "Each",
+        "selectedPurchasingUnit": null,
+        "price": {
+          "originalPrice": 8.99,
+          "salePrice": 8.99,
+          "savePrice": 0.00,
+          "savePercentage": 0.0,
+          "canShowSavings": true,
+          "hasBonusPoints": false,
+          "isClubPrice": false,
+          "isSpecial": false,
+          "isNew": false,
+          "canShowOriginalPrice": true,
+          "discount": null,
+          "total": null,
+          "isTargetedOffer": false,
+          "averagePricePerSingleUnit": null,
+          "isBoostOffer": false,
+          "purchasingUnitPrice": null,
+          "orderedPrice": null,
+          "isUsingOrderedPrice": false,
+          "currentPricingMatchesOrderedPricing": null,
+          "extendedListPrice": null,
+          "originalAveragePricePerSingleUnit": null
+        },
+        "images": {
+          "small": "https://assets.woolworths.com.au/images/2010/282442.jpg?impolicy=wowcdxwbjbx&w=65&h=65",
+          "big": "https://assets.woolworths.com.au/images/2010/282442.jpg?impolicy=wowcdxwbjbx&w=200&h=200"
+        },
+        "quantity": {
+          "min": 1.0,
+          "max": 100.0,
+          "increment": 1.0,
+          "value": null,
+          "quantityInOrder": null,
+          "purchasingQuantityString": null
+        },
+        "stockLevel": 3,
+        "eachUnitQuantity": null,
+        "averageWeightPerUnit": null,
+        "size": {
+          "cupListPrice": 11.24,
+          "cupPrice": 11.24,
+          "cupMeasure": "1kg",
+          "packageType": "bag",
+          "volumeSize": "500g"
+        },
+        "hasShopperNotes": null,
+        "productTag": {
+          "tagType": "Other",
+          "multiBuy": null,
+          "bonusPoints": null,
+          "additionalTag": {
+            "name": "Organic Produce",
+            "link": "/shop/productgroup/134261",
+            "imagePath": "/Content/PromotionTags/F24_Organic.png",
+            "linkTarget": "_self",
+            "altText": null
+          },
+          "targetedOffer": null,
+          "boostOffer": null
+        },
+        "departments": [
+          {
+            "id": 1,
+            "name": "Fruit & Veg"
+          }
+        ],
+        "subsAllowed": false,
+        "supportsBothEachAndKgPricing": false,
+        "adId": null,
+        "brandSuggestionId": null,
+        "brandSuggestionName": null,
+        "priceUnitLabel": null,
+        "availabilityStatus": "In Stock",
+        "onlineSample": null,
+        "onlineSampleRealProductMapId": 0
+      },
+      {
+        "type": "Product",
+        "name": "fresh fruit oranges valencia",
+        "barcode": "9421006040721",
+        "variety": "valencia",
+        "brand": "fresh fruit",
+        "slug": "fresh-fruit-oranges-valencia",
+        "sku": "283186",
+        "unit": "Each",
+        "selectedPurchasingUnit": null,
+        "price": {
+          "originalPrice": 7.5,
+          "salePrice": 7.5,
+          "savePrice": 0.0,
+          "savePercentage": 0.0,
+          "canShowSavings": true,
+          "hasBonusPoints": false,
+          "isClubPrice": false,
+          "isSpecial": false,
+          "isNew": false,
+          "canShowOriginalPrice": true,
+          "discount": null,
+          "total": null,
+          "isTargetedOffer": false,
+          "averagePricePerSingleUnit": null,
+          "isBoostOffer": false,
+          "purchasingUnitPrice": null,
+          "orderedPrice": null,
+          "isUsingOrderedPrice": false,
+          "currentPricingMatchesOrderedPricing": null,
+          "extendedListPrice": null,
+          "originalAveragePricePerSingleUnit": null
+        },
+        "images": {
+          "small": "https://assets.woolworths.com.au/images/2010/283186.jpg?impolicy=wowcdxwbjbx&w=65&h=65",
+          "big": "https://assets.woolworths.com.au/images/2010/283186.jpg?impolicy=wowcdxwbjbx&w=200&h=200"
+        },
+        "quantity": {
+          "min": 1.0,
+          "max": 100.0,
+          "increment": 1.0,
+          "value": null,
+          "quantityInOrder": null,
+          "purchasingQuantityString": null
+        },
+        "stockLevel": 3,
+        "eachUnitQuantity": null,
+        "averageWeightPerUnit": null,
+        "size": {
+          "cupListPrice": 5.0,
+          "cupPrice": 5.0,
+          "cupMeasure": "1kg",
+          "packageType": "prepacked",
+          "volumeSize": "1.5kg"
+        },
+        "hasShopperNotes": null,
+        "productTag": null,
+        "departments": [
+          {
+            "id": 1,
+            "name": "Fruit & Veg"
+          }
+        ],
+        "subsAllowed": false,
+        "supportsBothEachAndKgPricing": false,
+        "adId": null,
+        "brandSuggestionId": null,
+        "brandSuggestionName": null,
+        "priceUnitLabel": null,
+        "availabilityStatus": "In Stock",
+        "onlineSample": null,
+        "onlineSampleRealProductMapId": 0
+      },
+      {
+        "type": "Product",
+        "name": "woolworths fresh salad mesclun",
+        "barcode": "9400597043663",
+        "variety": "mesclun",
+        "brand": "woolworths",
+        "slug": "woolworths-fresh-salad-mesclun",
+        "sku": "115161",
+        "unit": "Each",
+        "selectedPurchasingUnit": null,
+        "price": {
+          "originalPrice": 3.9,
+          "salePrice": 3.9,
+          "savePrice": 0.0,
+          "savePercentage": 0.0,
+          "canShowSavings": true,
+          "hasBonusPoints": false,
+          "isClubPrice": false,
+          "isSpecial": false,
+          "isNew": true,
+          "canShowOriginalPrice": true,
+          "discount": null,
+          "total": null,
+          "isTargetedOffer": false,
+          "averagePricePerSingleUnit": null,
+          "isBoostOffer": false,
+          "purchasingUnitPrice": null,
+          "orderedPrice": null,
+          "isUsingOrderedPrice": false,
+          "currentPricingMatchesOrderedPricing": null,
+          "extendedListPrice": null,
+          "originalAveragePricePerSingleUnit": null
+        },
+        "images": {
+          "small": "https://assets.woolworths.com.au/images/2010/115161.jpg?impolicy=wowcdxwbjbx&w=65&h=65",
+          "big": "https://assets.woolworths.com.au/images/2010/115161.jpg?impolicy=wowcdxwbjbx&w=200&h=200"
+        },
+        "quantity": {
+          "min": 1.0,
+          "max": 100.0,
+          "increment": 1.0,
+          "value": null,
+          "quantityInOrder": null,
+          "purchasingQuantityString": null
+        },
+        "stockLevel": 3,
+        "eachUnitQuantity": null,
+        "averageWeightPerUnit": null,
+        "size": {
+          "cupListPrice": 9.75,
+          "cupPrice": 9.75,
+          "cupMeasure": "1kg",
+          "packageType": null,
+          "volumeSize": "120g"
+        },
+        "hasShopperNotes": null,
+        "productTag": {
+          "tagType": "IsNew",
+          "multiBuy": null,
+          "bonusPoints": null,
+          "additionalTag": null,
+          "targetedOffer": null,
+          "boostOffer": null
+        },
+        "departments": [
+          {
+            "id": 1,
+            "name": "Fruit & Veg"
+          }
+        ],
+        "subsAllowed": false,
+        "supportsBothEachAndKgPricing": false,
+        "adId": null,
+        "brandSuggestionId": null,
+        "brandSuggestionName": null,
+        "priceUnitLabel": null,
+        "availabilityStatus": "In Stock",
+        "onlineSample": null,
+        "onlineSampleRealProductMapId": 0
+      },
+      {
+        "type": "Product",
+        "name": "genevieves balsamic dressing sweet onion",
+        "barcode": "9421902728624",
+        "variety": "sweet onion",
+        "brand": "genevieves",
+        "slug": "genevieves-balsamic-dressing-sweet-onion",
+        "sku": "184134",
+        "unit": "Each",
+        "selectedPurchasingUnit": null,
+        "price": {
+          "originalPrice": 3.99,
+          "salePrice": 3.99,
+          "savePrice": 0.00,
+          "savePercentage": 0.0,
+          "canShowSavings": true,
+          "hasBonusPoints": false,
+          "isClubPrice": false,
+          "isSpecial": false,
+          "isNew": false,
+          "canShowOriginalPrice": true,
+          "discount": null,
+          "total": null,
+          "isTargetedOffer": false,
+          "averagePricePerSingleUnit": null,
+          "isBoostOffer": false,
+          "purchasingUnitPrice": null,
+          "orderedPrice": null,
+          "isUsingOrderedPrice": false,
+          "currentPricingMatchesOrderedPricing": null,
+          "extendedListPrice": null,
+          "originalAveragePricePerSingleUnit": null
+        },
+        "images": {
+          "small": "https://assets.woolworths.com.au/images/2010/184134.jpg?impolicy=wowcdxwbjbx&w=65&h=65",
+          "big": "https://assets.woolworths.com.au/images/2010/184134.jpg?impolicy=wowcdxwbjbx&w=200&h=200"
+        },
+        "quantity": {
+          "min": 1.0,
+          "max": 100.0,
+          "increment": 1.0,
+          "value": null,
+          "quantityInOrder": null,
+          "purchasingQuantityString": null
+        },
+        "stockLevel": 3,
+        "eachUnitQuantity": null,
+        "averageWeightPerUnit": null,
+        "size": {
+          "cupListPrice": 3.75,
+          "cupPrice": 3.19,
+          "cupMeasure": "100mL",
+          "packageType": null,
+          "volumeSize": "125mL"
+        },
+        "hasShopperNotes": null,
+        "productTag": {
+          "tagType": "Other",
+          "multiBuy": null,
+          "bonusPoints": null,
+          "additionalTag": {
+            "name": "Fresh Deals",
+            "link": "Self",
+            "imagePath": "/Content/PromotionTags/F24_Fresh_deal.png",
+            "linkTarget": "_self",
+            "altText": "Fresh Deals"
+          },
+          "targetedOffer": null,
+          "boostOffer": null
+        },
+        "departments": [
+          {
+            "id": 7,
+            "name": "Pantry"
+          }
+        ],
+        "subsAllowed": false,
+        "supportsBothEachAndKgPricing": false,
+        "adId": null,
+        "brandSuggestionId": null,
+        "brandSuggestionName": null,
+        "priceUnitLabel": null,
+        "availabilityStatus": "In Stock",
+        "onlineSample": null,
+        "onlineSampleRealProductMapId": 0
+      },
+      {
+        "type": "Product",
+        "name": "exotics fresh vegetable mushrooms oyster",
+        "barcode": "9421905034098",
+        "variety": "oyster",
+        "brand": "exotics",
+        "slug": "exotics-fresh-vegetable-mushrooms-oyster",
+        "sku": "43679",
+        "unit": "Each",
+        "selectedPurchasingUnit": null,
+        "price": {
+          "originalPrice": 6.75,
+          "salePrice": 6.75,
+          "savePrice": 0.00,
+          "savePercentage": 0.0,
+          "canShowSavings": true,
+          "hasBonusPoints": false,
+          "isClubPrice": false,
+          "isSpecial": false,
+          "isNew": false,
+          "canShowOriginalPrice": true,
+          "discount": null,
+          "total": null,
+          "isTargetedOffer": false,
+          "averagePricePerSingleUnit": null,
+          "isBoostOffer": false,
+          "purchasingUnitPrice": null,
+          "orderedPrice": null,
+          "isUsingOrderedPrice": false,
+          "currentPricingMatchesOrderedPricing": null,
+          "extendedListPrice": null,
+          "originalAveragePricePerSingleUnit": null
+        },
+        "images": {
+          "small": "https://assets.woolworths.com.au/images/2010/43679.jpg?impolicy=wowcdxwbjbx&w=65&h=65",
+          "big": "https://assets.woolworths.com.au/images/2010/43679.jpg?impolicy=wowcdxwbjbx&w=200&h=200"
+        },
+        "quantity": {
+          "min": 1.0,
+          "max": 100.0,
+          "increment": 1.0,
+          "value": null,
+          "quantityInOrder": null,
+          "purchasingQuantityString": null
+        },
+        "stockLevel": 3,
+        "eachUnitQuantity": null,
+        "averageWeightPerUnit": null,
+        "size": {
+          "cupListPrice": 67.5,
+          "cupPrice": 67.5,
+          "cupMeasure": "1kg",
+          "packageType": "prepacked",
+          "volumeSize": "100g"
+        },
+        "hasShopperNotes": null,
+        "productTag": null,
+        "departments": [
+          {
+            "id": 1,
+            "name": "Fruit & Veg"
+          }
+        ],
+        "subsAllowed": false,
+        "supportsBothEachAndKgPricing": false,
+        "adId": null,
+        "brandSuggestionId": null,
+        "brandSuggestionName": null,
+        "priceUnitLabel": null,
+        "availabilityStatus": "In Stock",
+        "onlineSample": null,
+        "onlineSampleRealProductMapId": 0
+      },
+      {
+        "type": "Product",
+        "name": "fresh vegetable kale mixed red & green",
+        "barcode": "9300633538897",
+        "variety": "mixed red & green",
+        "brand": "fresh vegetable",
+        "slug": "fresh-vegetable-kale-mixed-red-green",
+        "sku": "500528",
+        "unit": "Each",
+        "selectedPurchasingUnit": null,
+        "price": {
+          "originalPrice": 5.6,
+          "salePrice": 5.6,
+          "savePrice": 0.0,
+          "savePercentage": 0.0,
+          "canShowSavings": true,
+          "hasBonusPoints": false,
+          "isClubPrice": false,
+          "isSpecial": false,
+          "isNew": false,
+          "canShowOriginalPrice": true,
+          "discount": null,
+          "total": null,
+          "isTargetedOffer": false,
+          "averagePricePerSingleUnit": null,
+          "isBoostOffer": false,
+          "purchasingUnitPrice": null,
+          "orderedPrice": null,
+          "isUsingOrderedPrice": false,
+          "currentPricingMatchesOrderedPricing": null,
+          "extendedListPrice": null,
+          "originalAveragePricePerSingleUnit": null
+        },
+        "images": {
+          "small": "https://assets.woolworths.com.au/images/2010/500528.jpg?impolicy=wowcdxwbjbx&w=65&h=65",
+          "big": "https://assets.woolworths.com.au/images/2010/500528.jpg?impolicy=wowcdxwbjbx&w=200&h=200"
+        },
+        "quantity": {
+          "min": 1.0,
+          "max": 100.0,
+          "increment": 1.0,
+          "value": null,
+          "quantityInOrder": null,
+          "purchasingQuantityString": null
+        },
+        "stockLevel": 3,
+        "eachUnitQuantity": null,
+        "averageWeightPerUnit": null,
+        "size": {
+          "cupListPrice": 5.6,
+          "cupPrice": 5.6,
+          "cupMeasure": "1ea",
+          "packageType": "prepacked",
+          "volumeSize": "175g"
+        },
+        "hasShopperNotes": null,
+        "productTag": {
+          "tagType": "Other",
+          "multiBuy": null,
+          "bonusPoints": null,
+          "additionalTag": {
+            "name": "F2519 Produce In Season November - LMA",
+            "link": "/shop/productgroup/185625",
+            "imagePath": "/Content/PromotionTags/F24_In_season.png",
+            "linkTarget": "_self",
+            "altText": "Produce In Season"
+          },
+          "targetedOffer": null,
+          "boostOffer": null
+        },
+        "departments": [
+          {
+            "id": 1,
+            "name": "Fruit & Veg"
+          }
+        ],
+        "subsAllowed": false,
+        "supportsBothEachAndKgPricing": false,
+        "adId": null,
+        "brandSuggestionId": null,
+        "brandSuggestionName": null,
+        "priceUnitLabel": null,
+        "availabilityStatus": "In Stock",
+        "onlineSample": null,
+        "onlineSampleRealProductMapId": 0
+      },
+      {
+        "type": "Product",
+        "name": "somerset farms mixed vegetables chefs mix",
+        "barcode": "9421010920231",
+        "variety": "chefs mix",
+        "brand": "somerset farms",
+        "slug": "somerset-farms-mixed-vegetables-chefs-mix",
+        "sku": "956194",
+        "unit": "Each",
+        "selectedPurchasingUnit": null,
+        "price": {
+          "originalPrice": 5.5,
+          "salePrice": 5.5,
+          "savePrice": 0.0,
+          "savePercentage": 0.0,
+          "canShowSavings": true,
+          "hasBonusPoints": false,
+          "isClubPrice": false,
+          "isSpecial": false,
+          "isNew": false,
+          "canShowOriginalPrice": true,
+          "discount": null,
+          "total": null,
+          "isTargetedOffer": false,
+          "averagePricePerSingleUnit": null,
+          "isBoostOffer": false,
+          "purchasingUnitPrice": null,
+          "orderedPrice": null,
+          "isUsingOrderedPrice": false,
+          "currentPricingMatchesOrderedPricing": null,
+          "extendedListPrice": null,
+          "originalAveragePricePerSingleUnit": null
+        },
+        "images": {
+          "small": "https://assets.woolworths.com.au/images/2010/956194.jpg?impolicy=wowcdxwbjbx&w=65&h=65",
+          "big": "https://assets.woolworths.com.au/images/2010/956194.jpg?impolicy=wowcdxwbjbx&w=200&h=200"
+        },
+        "quantity": {
+          "min": 1.0,
+          "max": 100.0,
+          "increment": 1.0,
+          "value": null,
+          "quantityInOrder": null,
+          "purchasingQuantityString": null
+        },
+        "stockLevel": 3,
+        "eachUnitQuantity": null,
+        "averageWeightPerUnit": null,
+        "size": {
+          "cupListPrice": 13.75,
+          "cupPrice": 13.75,
+          "cupMeasure": "1kg",
+          "packageType": "bag",
+          "volumeSize": "400g"
+        },
+        "hasShopperNotes": null,
+        "productTag": null,
+        "departments": [
+          {
+            "id": 1,
+            "name": "Fruit & Veg"
+          }
+        ],
+        "subsAllowed": false,
+        "supportsBothEachAndKgPricing": false,
+        "adId": null,
+        "brandSuggestionId": null,
+        "brandSuggestionName": null,
+        "priceUnitLabel": null,
+        "availabilityStatus": "Out of Stock",
+        "onlineSample": null,
+        "onlineSampleRealProductMapId": 0
+      },
+      {
+        "type": "Product",
+        "name": "woolworths fresh fruit mandarins tango",
+        "barcode": "9400597055345",
+        "variety": "tango",
+        "brand": "woolworths",
+        "slug": "woolworths-fresh-fruit-mandarins-tango",
+        "sku": "398151",
+        "unit": "Each",
+        "selectedPurchasingUnit": null,
+        "price": {
+          "originalPrice": 6.5,
+          "salePrice": 6.5,
+          "savePrice": 0.0,
+          "savePercentage": 0.0,
+          "canShowSavings": true,
+          "hasBonusPoints": false,
+          "isClubPrice": false,
+          "isSpecial": false,
+          "isNew": false,
+          "canShowOriginalPrice": true,
+          "discount": null,
+          "total": null,
+          "isTargetedOffer": false,
+          "averagePricePerSingleUnit": null,
+          "isBoostOffer": false,
+          "purchasingUnitPrice": null,
+          "orderedPrice": null,
+          "isUsingOrderedPrice": false,
+          "currentPricingMatchesOrderedPricing": null,
+          "extendedListPrice": null,
+          "originalAveragePricePerSingleUnit": null
+        },
+        "images": {
+          "small": "https://assets.woolworths.com.au/images/2010/398151.jpg?impolicy=wowcdxwbjbx&w=65&h=65",
+          "big": "https://assets.woolworths.com.au/images/2010/398151.jpg?impolicy=wowcdxwbjbx&w=200&h=200"
+        },
+        "quantity": {
+          "min": 1.0,
+          "max": 100.0,
+          "increment": 1.0,
+          "value": null,
+          "quantityInOrder": null,
+          "purchasingQuantityString": null
+        },
+        "stockLevel": 3,
+        "eachUnitQuantity": null,
+        "averageWeightPerUnit": null,
+        "size": {
+          "cupListPrice": 6.5,
+          "cupPrice": 6.5,
+          "cupMeasure": "1kg",
+          "packageType": "",
+          "volumeSize": "1kg"
+        },
+        "hasShopperNotes": null,
+        "productTag": null,
+        "departments": [
+          {
+            "id": 1,
+            "name": "Fruit & Veg"
+          }
+        ],
+        "subsAllowed": false,
+        "supportsBothEachAndKgPricing": false,
+        "adId": null,
+        "brandSuggestionId": null,
+        "brandSuggestionName": null,
+        "priceUnitLabel": null,
+        "availabilityStatus": "Out of Stock",
+        "onlineSample": null,
+        "onlineSampleRealProductMapId": 0
+      },
+      {
+        "type": "Product",
+        "name": "something to crow about salad topper roasted seeds spicy mexican",
+        "barcode": "9421903327673",
+        "variety": "roasted seeds spicy mexican",
+        "brand": "something to crow about",
+        "slug": "something-to-crow-about-salad-topper-roasted-seeds-spicy-mexican",
+        "sku": "669132",
+        "unit": "Each",
+        "selectedPurchasingUnit": null,
+        "price": {
+          "originalPrice": 5.99,
+          "salePrice": 5.99,
+          "savePrice": 0.00,
+          "savePercentage": 0.0,
+          "canShowSavings": true,
+          "hasBonusPoints": false,
+          "isClubPrice": false,
+          "isSpecial": false,
+          "isNew": false,
+          "canShowOriginalPrice": true,
+          "discount": null,
+          "total": null,
+          "isTargetedOffer": false,
+          "averagePricePerSingleUnit": null,
+          "isBoostOffer": false,
+          "purchasingUnitPrice": null,
+          "orderedPrice": null,
+          "isUsingOrderedPrice": false,
+          "currentPricingMatchesOrderedPricing": null,
+          "extendedListPrice": null,
+          "originalAveragePricePerSingleUnit": null
+        },
+        "images": {
+          "small": "https://assets.woolworths.com.au/images/2010/669132.jpg?impolicy=wowcdxwbjbx&w=65&h=65",
+          "big": "https://assets.woolworths.com.au/images/2010/669132.jpg?impolicy=wowcdxwbjbx&w=200&h=200"
+        },
+        "quantity": {
+          "min": 1.0,
+          "max": 100.0,
+          "increment": 1.0,
+          "value": null,
+          "quantityInOrder": null,
+          "purchasingQuantityString": null
+        },
+        "stockLevel": 3,
+        "eachUnitQuantity": null,
+        "averageWeightPerUnit": null,
+        "size": {
+          "cupListPrice": 4.99,
+          "cupPrice": 4.99,
+          "cupMeasure": "100g",
+          "packageType": "resealable pouch",
+          "volumeSize": "120g"
+        },
+        "hasShopperNotes": null,
+        "productTag": null,
+        "departments": [
+          {
+            "id": 1,
+            "name": "Fruit & Veg"
+          }
+        ],
+        "subsAllowed": false,
+        "supportsBothEachAndKgPricing": false,
+        "adId": null,
+        "brandSuggestionId": null,
+        "brandSuggestionName": null,
+        "priceUnitLabel": null,
+        "availabilityStatus": "In Stock",
+        "onlineSample": null,
+        "onlineSampleRealProductMapId": 0
+      }
+    ],
+    "totalItems": 361
+  },
+  "dasFacets": [
+    {
+      "key": "Aisle",
+      "value": "117",
+      "isBooleanValue": false,
+      "name": "Fruit",
+      "productCount": 137,
+      "shelfResponses": null,
+      "group": "Aisle"
+    },
+    {
+      "key": "Aisle",
+      "value": "118",
+      "isBooleanValue": false,
+      "name": "Vegetables",
+      "productCount": 312,
+      "shelfResponses": null,
+      "group": "Aisle"
+    },
+    {
+      "key": "Aisle",
+      "value": "119",
+      "isBooleanValue": false,
+      "name": "Prepared Fruit & Veg",
+      "productCount": 51,
+      "shelfResponses": null,
+      "group": "Aisle"
+    },
+    {
+      "key": "Aisle",
+      "value": "120",
+      "isBooleanValue": false,
+      "name": "Fresh Salad & Herbs",
+      "productCount": 176,
+      "shelfResponses": null,
+      "group": "Aisle"
+    },
+    {
+      "key": "Aisle",
+      "value": "121",
+      "isBooleanValue": false,
+      "name": "In Season",
+      "productCount": 26,
+      "shelfResponses": null,
+      "group": "Aisle"
+    },
+    {
+      "key": "Aisle",
+      "value": "122",
+      "isBooleanValue": false,
+      "name": "Organic",
+      "productCount": 20,
+      "shelfResponses": null,
+      "group": "Aisle"
+    },
+    {
+      "key": "Aisle",
+      "value": "123",
+      "isBooleanValue": false,
+      "name": "The Odd Bunch",
+      "productCount": 18,
+      "shelfResponses": null,
+      "group": "Aisle"
+    },
+    {
+      "key": "Aisle",
+      "value": "124",
+      "isBooleanValue": false,
+      "name": "Fresh Deals",
+      "productCount": 35,
+      "shelfResponses": null,
+      "group": "Aisle"
+    }
+  ],
+  "facets": [
+    {
+      "key": "All",
+      "value": "All",
+      "isBooleanValue": true,
+      "name": "All",
+      "productCount": 4,
+      "shelfResponses": null,
+      "group": "Specials & Great Prices"
+    },
+    {
+      "key": "Great Price",
+      "value": "Great Price",
+      "isBooleanValue": true,
+      "name": "Great Price",
+      "productCount": 4,
+      "shelfResponses": null,
+      "group": "Specials & Great Prices"
+    },
+    {
+      "key": "Onecard Club",
+      "value": "Onecard Club",
+      "isBooleanValue": true,
+      "name": "Onecard Club",
+      "productCount": 7,
+      "shelfResponses": null,
+      "group": "Specials & Great Prices"
+    },
+    {
+      "key": "PiesAttributes",
+      "value": "Dairy Free",
+      "isBooleanValue": false,
+      "name": "Dairy Free",
+      "productCount": 75,
+      "shelfResponses": null,
+      "group": "Dietary & Lifestyle"
+    },
+    {
+      "key": "PiesAttributes",
+      "value": "Gluten Free",
+      "isBooleanValue": false,
+      "name": "Gluten Free",
+      "productCount": 72,
+      "shelfResponses": null,
+      "group": "Dietary & Lifestyle"
+    },
+    {
+      "key": "PiesAttributes",
+      "value": "Low Salt",
+      "isBooleanValue": false,
+      "name": "Low Salt",
+      "productCount": 19,
+      "shelfResponses": null,
+      "group": "Dietary & Lifestyle"
+    },
+    {
+      "key": "PiesAttributes",
+      "value": "Low Sugar",
+      "isBooleanValue": false,
+      "name": "Low Sugar",
+      "productCount": 32,
+      "shelfResponses": null,
+      "group": "Dietary & Lifestyle"
+    },
+    {
+      "key": "PiesAttributes",
+      "value": "Organic",
+      "isBooleanValue": false,
+      "name": "Organic",
+      "productCount": 6,
+      "shelfResponses": null,
+      "group": "Dietary & Lifestyle"
+    },
+    {
+      "key": "PiesAttributes",
+      "value": "Vegan",
+      "isBooleanValue": false,
+      "name": "Vegan",
+      "productCount": 63,
+      "shelfResponses": null,
+      "group": "Dietary & Lifestyle"
+    },
+    {
+      "key": "PiesAttributes",
+      "value": "Vegetarian",
+      "isBooleanValue": false,
+      "name": "Vegetarian",
+      "productCount": 65,
+      "shelfResponses": null,
+      "group": "Dietary & Lifestyle"
+    }
+  ],
+  "sortOptions": [
+    {
+      "value": "PriceAsc",
+      "text": "Price Low to High",
+      "selected": false
+    },
+    {
+      "value": "PriceDesc",
+      "text": "Price High to Low",
+      "selected": false
+    },
+    {
+      "value": "CUPAsc",
+      "text": "Unit Price Low to High",
+      "selected": false
+    },
+    {
+      "value": "BrowseRelevance",
+      "text": "Relevance",
+      "selected": true
+    }
+  ],
+  "currentPageSize": 48,
+  "currentSortOption": "BrowseRelevance",
+  "brandSuggestions": null,
+  "breadcrumb": {
+    "department": {
+      "key": "Department",
+      "value": 1,
+      "isBooleanValue": false,
+      "name": "Fruit & Veg",
+      "productCount": 0,
+      "shelfResponses": null,
+      "group": null
+    },
+    "aisle": null,
+    "shelf": null,
+    "productGroup": null,
+    "dynamicGroup": null
+  },
+  "partialFailures": {
+    "shopperNotesFetchFailed": null,
+    "maxSupplyLimitFetchFailed": null,
+    "purchaseUnitFetchFailed": null,
+    "trolleyQuantityUpdateFailed": null,
+    "productTagFetchFailed": null,
+    "breadcrumbGenerationFailed": null,
+    "productGroupFetchFailed": null,
+    "targetOfferFetchFailed": null
+  },
+  "targetedOfferDetails": null,
+  "action": null,
+  "isSuccessful": true,
+  "rootUrl": "http://shop.countdown.co.nz",
+  "context": {
+    "shopper": {
+      "firstName": null,
+      "isShopper": false,
+      "isLoggedIn": false,
+      "hasOnecard": false,
+      "oneCardBalance": null,
+      "shopperIdHash": null,
+      "shopperScvId": "",
+      "sessionGroups": null,
+      "orderCount": null,
+      "isSupplyLimitOverrideShopper": false,
+      "isPriorityShopper": false,
+      "isChangingOrder": false,
+      "changingOrderId": null,
+      "hasActiveDeliverySubscription": false
+    },
+    "fulfilment": {
+      "address": "Glenfield",
+      "selectedDate": null,
+      "selectedDateWithTZInfo": null,
+      "startTime": null,
+      "endTime": null,
+      "method": "Courier",
+      "cutOffTime": null,
+      "isSlotToday": false,
+      "isAddressInDeliveryZone": true,
+      "isDefaultDeliveryAddress": false,
+      "areaId": 77,
+      "suburbId": 0,
+      "pickupAddressId": 0,
+      "fulfilmentStoreId": 9443,
+      "perishableCode": "P",
+      "locker": null,
+      "expressFulfilment": {
+        "isExpressSlot": false,
+        "expressPickUpFee": null,
+        "expressDeliveryFee": null
+      }
+    },
+    "enabledFeatures": [
+      "HaveYouForgotten",
+      "ProjectShore",
+      "ManagedServiceBar",
+      "RecipesAddToTrolley",
+      "SavedRecipes",
+      "ProductStraps",
+      "DeliverySubscriptionSignUp",
+      "FirstTimeShopper",
+      "OrderConfirmation",
+      "NewDeliverySubscriptionPage",
+      "CancelOrder",
+      "CountryOfOriginInAccordion",
+      "PiesEnableEachUnitForKgProducts",
+      "ForgotPassword",
+      "JQueryDeprecationLogging",
+      "EnableDeliverySaverRetryPayment",
+      "RecipesInApp",
+      "DeliverySaverBannerOnTrolleyPage",
+      "RecipeCategorySeo",
+      "EnableBoostsLandingPage",
+      "CustomerSelfService",
+      "MerchantHostedLocalStorefront",
+      "LazyLoadProductStampImages",
+      "OptimizelyWeb",
+      "ChangeOrderPromptHomepage",
+      "ChangeOrder",
+      "ChangeOrderIndicateChangedPriceInProductList",
+      "SwitchToggleToShowInStockItemsOnly",
+      "HideSwitchToggleForOOS",
+      "ExpressDelivery",
+      "Optimizely",
+      "StickyCTAReviewOrder",
+      "ViewOrderConfirmationLinkOnMyOrders",
+      "ChangeOrderChangedPriceTutorial",
+      "OnlineSamplesCheckoutJourney",
+      "OnlineSampleOrderConfirmation",
+      "ShowDiscountPercentage",
+      "GreatToLowPrice",
+      "OnlineSampleRemarketing",
+      "EnableDeviceFingerprinting",
+      "ChangeOrderChangedPriceTutorialMobileWeb",
+      "SameDayDelivery",
+      "LowPriceProductStrap",
+      "CheckSSU",
+      "PaperPackingSlipPreference",
+      "RebrandInHeaderAndFooter",
+      "MobileSSU",
+      "HaystackEDRChanges",
+      "EnableEDR",
+      "NewBrowseMenuLinks",
+      "BoostShopRange",
+      "HomePageHeroCarousel",
+      "ReloadDataInFavouritesAndLists",
+      "EnableCartologyGA4EventTracking",
+      "EnableMultiBuyGreatPriceTagMissingFix",
+      "DisplayNewLozenge",
+      "EnablePDPNewDesign",
+      "EnableHaveYouForgottenGATracking",
+      "EnablePDPTabOrder",
+      "EnableCUPUIAdjustments",
+      "EnablePasCupCalculations",
+      "ProductPricingFromTraderMongoDB",
+      "EnableDiscardPasPriceIfNoPriceInTrader",
+      "EnablePasMissingPrice",
+      "EnableHYFTopPicksTile",
+      "DisplayNewOlsAndYouMightLikeCarousels",
+      "EnablePasOnlineOnlyTag"
+    ],
+    "shoppingListItems": [],
+    "basketTotals": null,
+    "advancedSettingsResponse": null
+  },
+  "messages": null
+}

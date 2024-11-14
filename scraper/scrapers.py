@@ -8,9 +8,10 @@ import agolia
 from multiprocessing import Process, Queue
 
 class BaseScraper:
-    def __init__(self, department, base_url, headers_file):
+    def __init__(self, department, base_url, headers_file, store_name):
         self.department = department
         self.base_url = base_url
+        self.store_name = store_name
         self.headers = self._load_headers(headers_file)
         self.batch_size = 10
         self.data_dir = pathlib.Path('./data/')
@@ -30,8 +31,8 @@ class BaseScraper:
         raise NotImplementedError("This method should be implemented by subclasses")
 
     def _execute_command(self, command, page):
-        os.makedirs(f'{self.tmp_dir}/{self.formatted_date}/{self.department}', exist_ok=True)
-        tmp_file = f'{self.tmp_dir}/{self.formatted_date}/{self.department}/{self.department}_{page}.json'
+        os.makedirs(f'{self.tmp_dir}/{self.store_name}/{self.formatted_date}/{self.department}', exist_ok=True)
+        tmp_file = f'{self.tmp_dir}/{self.store_name}/{self.formatted_date}/{self.department}/{self.department}_{page}.json'
         pipeline_command = f"{command} | jq '.' > '{tmp_file}'"
         print(f"Executing: {pipeline_command}")
 
@@ -64,16 +65,16 @@ class BaseScraper:
                 queue.put(None)
                 break
 
-            os.makedirs(f'{self.data_dir}/{self.formatted_date}/{self.department}', exist_ok=True)
-            final_file = f'{self.data_dir}/{self.formatted_date}/{self.department}/{self.department}_{page}.json'
+            os.makedirs(f'{self.data_dir}/{self.store_name}/{self.formatted_date}/{self.department}', exist_ok=True)
+            final_file = f'{self.data_dir}/{self.store_name}/{self.formatted_date}/{self.department}/{self.department}_{page}.json'
             os.rename(tmp_file, final_file)
             print(f"Successfully scraped page {page}")
             queue.put(page)
             page += self.batch_size
 
 class PaknSaveScraper(BaseScraper):
-    def __init__(self, department, base_url, headers_file):
-        super().__init__(department, base_url, headers_file)
+    def __init__(self, department):
+        super().__init__(department, "https://api-prod.newworld.co.nz/v1/edge/search/paginated/products", pathlib.Path(__file__).parent / 'paknsave_headers', 'pak_n_save')
 
     def _construct_command(self, page):
         agolia_query = agolia.generate_query(self.department, page)
@@ -87,8 +88,8 @@ class PaknSaveScraper(BaseScraper):
         return len(data.get('products', [])) == 0
 
 class NewWorldScraper(BaseScraper):
-    def __init__(self, department, base_url, headers_file):
-        super().__init__(department, base_url, headers_file)
+    def __init__(self, department):
+        super().__init__(department, "https://api-prod.newworld.co.nz/v1/edge/search/paginated/products", pathlib.Path(__file__).parent / 'newworld_headers', 'new_world')
 
     def _construct_command(self, page):
         agolia_query = agolia.generate_query(self.department, page)
@@ -102,8 +103,8 @@ class NewWorldScraper(BaseScraper):
         return len(data.get('products', [])) == 0
 
 class WoolworthsScraper(BaseScraper):
-    def __init__(self, department, base_url, headers_file):
-        super().__init__(department, base_url, headers_file)
+    def __init__(self, department):
+        super().__init__(department, "https://www.woolworths.co.nz/api/v1/products", pathlib.Path(__file__).parent / 'woolworths_headers', 'woolworths')
         self.in_stock = 'false'
         self.size = 48
 

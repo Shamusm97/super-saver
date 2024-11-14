@@ -1,0 +1,4180 @@
+{
+  "products": {
+    "items": [
+      {
+        "type": "Product",
+        "name": "woolworths apricots ",
+        "barcode": "9300633308407",
+        "variety": "",
+        "brand": "woolworths",
+        "slug": "woolworths-apricots",
+        "sku": "726371",
+        "unit": "Each",
+        "selectedPurchasingUnit": null,
+        "price": {
+          "originalPrice": 4.69,
+          "salePrice": 4.69,
+          "savePrice": 0.00,
+          "savePercentage": 0.0,
+          "canShowSavings": true,
+          "hasBonusPoints": false,
+          "isClubPrice": false,
+          "isSpecial": false,
+          "isNew": false,
+          "canShowOriginalPrice": true,
+          "discount": null,
+          "total": null,
+          "isTargetedOffer": false,
+          "averagePricePerSingleUnit": null,
+          "isBoostOffer": false,
+          "purchasingUnitPrice": null,
+          "orderedPrice": null,
+          "isUsingOrderedPrice": false,
+          "currentPricingMatchesOrderedPricing": null,
+          "extendedListPrice": null,
+          "originalAveragePricePerSingleUnit": null
+        },
+        "images": {
+          "small": "https://assets.woolworths.com.au/images/2010/726371.jpg?impolicy=wowcdxwbjbx&w=65&h=65",
+          "big": "https://assets.woolworths.com.au/images/2010/726371.jpg?impolicy=wowcdxwbjbx&w=200&h=200"
+        },
+        "quantity": {
+          "min": 1.0,
+          "max": 100.0,
+          "increment": 1.0,
+          "value": null,
+          "quantityInOrder": null,
+          "purchasingQuantityString": null
+        },
+        "stockLevel": 3,
+        "eachUnitQuantity": null,
+        "averageWeightPerUnit": null,
+        "size": {
+          "cupListPrice": 23.45,
+          "cupPrice": 23.45,
+          "cupMeasure": "1kg",
+          "packageType": "",
+          "volumeSize": "200g"
+        },
+        "hasShopperNotes": null,
+        "productTag": {
+          "tagType": "Other",
+          "multiBuy": null,
+          "bonusPoints": null,
+          "additionalTag": {
+            "name": "Countdown's Own",
+            "link": "/shop/productgroup/80842",
+            "imagePath": "/Content/PromotionTags/F24_Own_brand.png",
+            "linkTarget": "_self",
+            "altText": null
+          },
+          "targetedOffer": null,
+          "boostOffer": null
+        },
+        "departments": [
+          {
+            "id": 7,
+            "name": "Pantry"
+          }
+        ],
+        "subsAllowed": false,
+        "supportsBothEachAndKgPricing": false,
+        "adId": null,
+        "brandSuggestionId": null,
+        "brandSuggestionName": null,
+        "priceUnitLabel": null,
+        "availabilityStatus": "In Stock",
+        "onlineSample": null,
+        "onlineSampleRealProductMapId": 0
+      },
+      {
+        "type": "Product",
+        "name": "golden sun peppers sliced jalapeno gluten free",
+        "barcode": "9415472141730",
+        "variety": "sliced jalapeno gluten free",
+        "brand": "golden sun",
+        "slug": "golden-sun-peppers-sliced-jalapeno-gluten-free",
+        "sku": "264733",
+        "unit": "Each",
+        "selectedPurchasingUnit": null,
+        "price": {
+          "originalPrice": 3.29,
+          "salePrice": 3.0,
+          "savePrice": 0.29,
+          "savePercentage": 0.0,
+          "canShowSavings": true,
+          "hasBonusPoints": false,
+          "isClubPrice": true,
+          "isSpecial": true,
+          "isNew": false,
+          "canShowOriginalPrice": true,
+          "discount": null,
+          "total": null,
+          "isTargetedOffer": false,
+          "averagePricePerSingleUnit": null,
+          "isBoostOffer": false,
+          "purchasingUnitPrice": null,
+          "orderedPrice": null,
+          "isUsingOrderedPrice": false,
+          "currentPricingMatchesOrderedPricing": null,
+          "extendedListPrice": null,
+          "originalAveragePricePerSingleUnit": null
+        },
+        "images": {
+          "small": "https://assets.woolworths.com.au/images/2010/264733.jpg?impolicy=wowcdxwbjbx&w=65&h=65",
+          "big": "https://assets.woolworths.com.au/images/2010/264733.jpg?impolicy=wowcdxwbjbx&w=200&h=200"
+        },
+        "quantity": {
+          "min": 1.0,
+          "max": 100.0,
+          "increment": 1.0,
+          "value": null,
+          "quantityInOrder": null,
+          "purchasingQuantityString": null
+        },
+        "stockLevel": 3,
+        "eachUnitQuantity": null,
+        "averageWeightPerUnit": null,
+        "size": {
+          "cupListPrice": 9.14,
+          "cupPrice": 8.33,
+          "cupMeasure": "1kg",
+          "packageType": null,
+          "volumeSize": "360g"
+        },
+        "hasShopperNotes": null,
+        "productTag": {
+          "tagType": "IsClubPrice",
+          "multiBuy": null,
+          "bonusPoints": null,
+          "additionalTag": null,
+          "targetedOffer": null,
+          "boostOffer": null
+        },
+        "departments": [
+          {
+            "id": 7,
+            "name": "Pantry"
+          }
+        ],
+        "subsAllowed": false,
+        "supportsBothEachAndKgPricing": false,
+        "adId": null,
+        "brandSuggestionId": null,
+        "brandSuggestionName": null,
+        "priceUnitLabel": null,
+        "availabilityStatus": "In Stock",
+        "onlineSample": null,
+        "onlineSampleRealProductMapId": 0
+      },
+      {
+        "type": "Product",
+        "name": "woolworths rice crackers thin sour cream & chives",
+        "barcode": "9300633560867",
+        "variety": "thin sour cream & chives",
+        "brand": "woolworths",
+        "slug": "woolworths-rice-crackers-thin-sour-cream-chives",
+        "sku": "490981",
+        "unit": "Each",
+        "selectedPurchasingUnit": null,
+        "price": {
+          "originalPrice": 1.19,
+          "salePrice": 1.19,
+          "savePrice": 0.00,
+          "savePercentage": 0.0,
+          "canShowSavings": true,
+          "hasBonusPoints": false,
+          "isClubPrice": false,
+          "isSpecial": false,
+          "isNew": false,
+          "canShowOriginalPrice": true,
+          "discount": null,
+          "total": null,
+          "isTargetedOffer": false,
+          "averagePricePerSingleUnit": null,
+          "isBoostOffer": false,
+          "purchasingUnitPrice": null,
+          "orderedPrice": null,
+          "isUsingOrderedPrice": false,
+          "currentPricingMatchesOrderedPricing": null,
+          "extendedListPrice": null,
+          "originalAveragePricePerSingleUnit": null
+        },
+        "images": {
+          "small": "https://assets.woolworths.com.au/images/2010/490981.jpg?impolicy=wowcdxwbjbx&w=65&h=65",
+          "big": "https://assets.woolworths.com.au/images/2010/490981.jpg?impolicy=wowcdxwbjbx&w=200&h=200"
+        },
+        "quantity": {
+          "min": 1.0,
+          "max": 100.0,
+          "increment": 1.0,
+          "value": null,
+          "quantityInOrder": null,
+          "purchasingQuantityString": null
+        },
+        "stockLevel": 3,
+        "eachUnitQuantity": null,
+        "averageWeightPerUnit": null,
+        "size": {
+          "cupListPrice": 1.19,
+          "cupPrice": 1.19,
+          "cupMeasure": "100g",
+          "packageType": "",
+          "volumeSize": "100g"
+        },
+        "hasShopperNotes": null,
+        "productTag": {
+          "tagType": "Other",
+          "multiBuy": null,
+          "bonusPoints": null,
+          "additionalTag": {
+            "name": "Countdown's Own",
+            "link": "/shop/productgroup/80842",
+            "imagePath": "/Content/PromotionTags/F24_Own_brand.png",
+            "linkTarget": "_self",
+            "altText": null
+          },
+          "targetedOffer": null,
+          "boostOffer": null
+        },
+        "departments": [
+          {
+            "id": 15,
+            "name": "Christmas"
+          }
+        ],
+        "subsAllowed": false,
+        "supportsBothEachAndKgPricing": false,
+        "adId": null,
+        "brandSuggestionId": null,
+        "brandSuggestionName": null,
+        "priceUnitLabel": null,
+        "availabilityStatus": "In Stock",
+        "onlineSample": null,
+        "onlineSampleRealProductMapId": 0
+      },
+      {
+        "type": "Product",
+        "name": "farrah's spice mix nacho",
+        "barcode": "9421017210403",
+        "variety": "nacho",
+        "brand": "farrah's",
+        "slug": "farrah-s-spice-mix-nacho",
+        "sku": "526020",
+        "unit": "Each",
+        "selectedPurchasingUnit": null,
+        "price": {
+          "originalPrice": 2.79,
+          "salePrice": 2.5,
+          "savePrice": 0.29,
+          "savePercentage": 0.0,
+          "canShowSavings": true,
+          "hasBonusPoints": false,
+          "isClubPrice": false,
+          "isSpecial": true,
+          "isNew": false,
+          "canShowOriginalPrice": true,
+          "discount": null,
+          "total": null,
+          "isTargetedOffer": false,
+          "averagePricePerSingleUnit": null,
+          "isBoostOffer": false,
+          "purchasingUnitPrice": null,
+          "orderedPrice": null,
+          "isUsingOrderedPrice": false,
+          "currentPricingMatchesOrderedPricing": null,
+          "extendedListPrice": null,
+          "originalAveragePricePerSingleUnit": null
+        },
+        "images": {
+          "small": "https://assets.woolworths.com.au/images/2010/526020.jpg?impolicy=wowcdxwbjbx&w=65&h=65",
+          "big": "https://assets.woolworths.com.au/images/2010/526020.jpg?impolicy=wowcdxwbjbx&w=200&h=200"
+        },
+        "quantity": {
+          "min": 1.0,
+          "max": 100.0,
+          "increment": 1.0,
+          "value": null,
+          "quantityInOrder": null,
+          "purchasingQuantityString": null
+        },
+        "stockLevel": 3,
+        "eachUnitQuantity": null,
+        "averageWeightPerUnit": null,
+        "size": {
+          "cupListPrice": 6.9800000000000000000000000006,
+          "cupPrice": 6.2544802867383512544802867389,
+          "cupMeasure": "100g",
+          "packageType": "sachet",
+          "volumeSize": "40g"
+        },
+        "hasShopperNotes": null,
+        "productTag": {
+          "tagType": "IsSpecial",
+          "multiBuy": null,
+          "bonusPoints": null,
+          "additionalTag": null,
+          "targetedOffer": null,
+          "boostOffer": null
+        },
+        "departments": [
+          {
+            "id": 7,
+            "name": "Pantry"
+          }
+        ],
+        "subsAllowed": false,
+        "supportsBothEachAndKgPricing": false,
+        "adId": null,
+        "brandSuggestionId": null,
+        "brandSuggestionName": null,
+        "priceUnitLabel": null,
+        "availabilityStatus": "In Stock",
+        "onlineSample": null,
+        "onlineSampleRealProductMapId": 0
+      },
+      {
+        "type": "Product",
+        "name": "kellogg's nutrigrain cereal ",
+        "barcode": "9310055105942",
+        "variety": null,
+        "brand": "kellogg's nutrigrain",
+        "slug": "kellogg-s-nutrigrain-cereal",
+        "sku": "276187",
+        "unit": "Each",
+        "selectedPurchasingUnit": null,
+        "price": {
+          "originalPrice": 10.1,
+          "salePrice": 10.1,
+          "savePrice": 0.0,
+          "savePercentage": 0.0,
+          "canShowSavings": true,
+          "hasBonusPoints": false,
+          "isClubPrice": false,
+          "isSpecial": false,
+          "isNew": false,
+          "canShowOriginalPrice": true,
+          "discount": null,
+          "total": null,
+          "isTargetedOffer": false,
+          "averagePricePerSingleUnit": null,
+          "isBoostOffer": false,
+          "purchasingUnitPrice": null,
+          "orderedPrice": null,
+          "isUsingOrderedPrice": false,
+          "currentPricingMatchesOrderedPricing": null,
+          "extendedListPrice": null,
+          "originalAveragePricePerSingleUnit": null
+        },
+        "images": {
+          "small": "https://assets.woolworths.com.au/images/2010/276187.jpg?impolicy=wowcdxwbjbx&w=65&h=65",
+          "big": "https://assets.woolworths.com.au/images/2010/276187.jpg?impolicy=wowcdxwbjbx&w=200&h=200"
+        },
+        "quantity": {
+          "min": 1.0,
+          "max": 100.0,
+          "increment": 1.0,
+          "value": null,
+          "quantityInOrder": null,
+          "purchasingQuantityString": null
+        },
+        "stockLevel": 3,
+        "eachUnitQuantity": null,
+        "averageWeightPerUnit": null,
+        "size": {
+          "cupListPrice": 2.15,
+          "cupPrice": 2.15,
+          "cupMeasure": "100g",
+          "packageType": null,
+          "volumeSize": "470g"
+        },
+        "hasShopperNotes": null,
+        "productTag": null,
+        "departments": [
+          {
+            "id": 7,
+            "name": "Pantry"
+          }
+        ],
+        "subsAllowed": false,
+        "supportsBothEachAndKgPricing": false,
+        "adId": null,
+        "brandSuggestionId": null,
+        "brandSuggestionName": null,
+        "priceUnitLabel": null,
+        "availabilityStatus": "In Stock",
+        "onlineSample": null,
+        "onlineSampleRealProductMapId": 0
+      },
+      {
+        "type": "Product",
+        "name": "woolworths fruit snack peach in strawberry jelly 480g",
+        "barcode": "9300633615635",
+        "variety": "peach in strawberry jelly 480g",
+        "brand": "woolworths",
+        "slug": "woolworths-fruit-snack-peach-in-strawberry-jelly-480g",
+        "sku": "526015",
+        "unit": "Each",
+        "selectedPurchasingUnit": null,
+        "price": {
+          "originalPrice": 2.8,
+          "salePrice": 2.8,
+          "savePrice": 0.0,
+          "savePercentage": 0.0,
+          "canShowSavings": true,
+          "hasBonusPoints": false,
+          "isClubPrice": false,
+          "isSpecial": false,
+          "isNew": false,
+          "canShowOriginalPrice": true,
+          "discount": null,
+          "total": null,
+          "isTargetedOffer": false,
+          "averagePricePerSingleUnit": null,
+          "isBoostOffer": false,
+          "purchasingUnitPrice": null,
+          "orderedPrice": null,
+          "isUsingOrderedPrice": false,
+          "currentPricingMatchesOrderedPricing": null,
+          "extendedListPrice": null,
+          "originalAveragePricePerSingleUnit": null
+        },
+        "images": {
+          "small": "https://assets.woolworths.com.au/images/2010/526015.jpg?impolicy=wowcdxwbjbx&w=65&h=65",
+          "big": "https://assets.woolworths.com.au/images/2010/526015.jpg?impolicy=wowcdxwbjbx&w=200&h=200"
+        },
+        "quantity": {
+          "min": 1.0,
+          "max": 100.0,
+          "increment": 1.0,
+          "value": null,
+          "quantityInOrder": null,
+          "purchasingQuantityString": null
+        },
+        "stockLevel": 3,
+        "eachUnitQuantity": null,
+        "averageWeightPerUnit": null,
+        "size": {
+          "cupListPrice": 5.83,
+          "cupPrice": 5.83,
+          "cupMeasure": "1kg",
+          "packageType": "120g pottles",
+          "volumeSize": "4pack"
+        },
+        "hasShopperNotes": null,
+        "productTag": {
+          "tagType": "Other",
+          "multiBuy": null,
+          "bonusPoints": null,
+          "additionalTag": {
+            "name": "Countdown's Own",
+            "link": "/shop/productgroup/80842",
+            "imagePath": "/Content/PromotionTags/F24_Own_brand.png",
+            "linkTarget": "_self",
+            "altText": null
+          },
+          "targetedOffer": null,
+          "boostOffer": null
+        },
+        "departments": [
+          {
+            "id": 7,
+            "name": "Pantry"
+          }
+        ],
+        "subsAllowed": false,
+        "supportsBothEachAndKgPricing": false,
+        "adId": null,
+        "brandSuggestionId": null,
+        "brandSuggestionName": null,
+        "priceUnitLabel": null,
+        "availabilityStatus": "In Stock",
+        "onlineSample": null,
+        "onlineSampleRealProductMapId": 0
+      },
+      {
+        "type": "Product",
+        "name": "mutti tomato paste double concentrate",
+        "barcode": "80042532",
+        "variety": "double concentrate",
+        "brand": "mutti",
+        "slug": "mutti-tomato-paste-double-concentrate",
+        "sku": "290303",
+        "unit": "Each",
+        "selectedPurchasingUnit": null,
+        "price": {
+          "originalPrice": 3.19,
+          "salePrice": 3.19,
+          "savePrice": 0.00,
+          "savePercentage": 0.0,
+          "canShowSavings": true,
+          "hasBonusPoints": false,
+          "isClubPrice": false,
+          "isSpecial": false,
+          "isNew": false,
+          "canShowOriginalPrice": true,
+          "discount": null,
+          "total": null,
+          "isTargetedOffer": false,
+          "averagePricePerSingleUnit": null,
+          "isBoostOffer": false,
+          "purchasingUnitPrice": null,
+          "orderedPrice": null,
+          "isUsingOrderedPrice": false,
+          "currentPricingMatchesOrderedPricing": null,
+          "extendedListPrice": null,
+          "originalAveragePricePerSingleUnit": null
+        },
+        "images": {
+          "small": "https://assets.woolworths.com.au/images/2010/290303.jpg?impolicy=wowcdxwbjbx&w=65&h=65",
+          "big": "https://assets.woolworths.com.au/images/2010/290303.jpg?impolicy=wowcdxwbjbx&w=200&h=200"
+        },
+        "quantity": {
+          "min": 1.0,
+          "max": 100.0,
+          "increment": 1.0,
+          "value": null,
+          "quantityInOrder": null,
+          "purchasingQuantityString": null
+        },
+        "stockLevel": 3,
+        "eachUnitQuantity": null,
+        "averageWeightPerUnit": null,
+        "size": {
+          "cupListPrice": 2.45,
+          "cupPrice": 2.45,
+          "cupMeasure": "100g",
+          "packageType": "tube",
+          "volumeSize": "130g"
+        },
+        "hasShopperNotes": null,
+        "productTag": null,
+        "departments": [
+          {
+            "id": 7,
+            "name": "Pantry"
+          }
+        ],
+        "subsAllowed": false,
+        "supportsBothEachAndKgPricing": false,
+        "adId": null,
+        "brandSuggestionId": null,
+        "brandSuggestionName": null,
+        "priceUnitLabel": null,
+        "availabilityStatus": "In Stock",
+        "onlineSample": null,
+        "onlineSampleRealProductMapId": 0
+      },
+      {
+        "type": "Product",
+        "name": "woolworths maple syrup ",
+        "barcode": "9300633967475",
+        "variety": "",
+        "brand": "woolworths",
+        "slug": "woolworths-maple-syrup",
+        "sku": "298476",
+        "unit": "Each",
+        "selectedPurchasingUnit": null,
+        "price": {
+          "originalPrice": 9.7,
+          "salePrice": 9.7,
+          "savePrice": 0.0,
+          "savePercentage": 0.0,
+          "canShowSavings": true,
+          "hasBonusPoints": false,
+          "isClubPrice": false,
+          "isSpecial": false,
+          "isNew": false,
+          "canShowOriginalPrice": true,
+          "discount": null,
+          "total": null,
+          "isTargetedOffer": false,
+          "averagePricePerSingleUnit": null,
+          "isBoostOffer": false,
+          "purchasingUnitPrice": null,
+          "orderedPrice": null,
+          "isUsingOrderedPrice": false,
+          "currentPricingMatchesOrderedPricing": null,
+          "extendedListPrice": null,
+          "originalAveragePricePerSingleUnit": null
+        },
+        "images": {
+          "small": "https://assets.woolworths.com.au/images/2010/298476.jpg?impolicy=wowcdxwbjbx&w=65&h=65",
+          "big": "https://assets.woolworths.com.au/images/2010/298476.jpg?impolicy=wowcdxwbjbx&w=200&h=200"
+        },
+        "quantity": {
+          "min": 1.0,
+          "max": 100.0,
+          "increment": 1.0,
+          "value": null,
+          "quantityInOrder": null,
+          "purchasingQuantityString": null
+        },
+        "stockLevel": 3,
+        "eachUnitQuantity": null,
+        "averageWeightPerUnit": null,
+        "size": {
+          "cupListPrice": 3.88,
+          "cupPrice": 3.88,
+          "cupMeasure": "100mL",
+          "packageType": "bottle",
+          "volumeSize": "250mL"
+        },
+        "hasShopperNotes": null,
+        "productTag": {
+          "tagType": "Other",
+          "multiBuy": null,
+          "bonusPoints": null,
+          "additionalTag": {
+            "name": "Countdown's Own",
+            "link": "/shop/productgroup/80842",
+            "imagePath": "/Content/PromotionTags/F24_Own_brand.png",
+            "linkTarget": "_self",
+            "altText": null
+          },
+          "targetedOffer": null,
+          "boostOffer": null
+        },
+        "departments": [
+          {
+            "id": 7,
+            "name": "Pantry"
+          }
+        ],
+        "subsAllowed": false,
+        "supportsBothEachAndKgPricing": false,
+        "adId": null,
+        "brandSuggestionId": null,
+        "brandSuggestionName": null,
+        "priceUnitLabel": null,
+        "availabilityStatus": "In Stock",
+        "onlineSample": null,
+        "onlineSampleRealProductMapId": 0
+      },
+      {
+        "type": "Product",
+        "name": "griffins ginger biscuits gingernuts twin pack",
+        "barcode": "9400553015468",
+        "variety": "gingernuts twin pack",
+        "brand": "griffins",
+        "slug": "griffins-ginger-biscuits-gingernuts-twin-pack",
+        "sku": "170312",
+        "unit": "Each",
+        "selectedPurchasingUnit": null,
+        "price": {
+          "originalPrice": 6.59,
+          "salePrice": 5.9,
+          "savePrice": 0.69,
+          "savePercentage": 0.0,
+          "canShowSavings": true,
+          "hasBonusPoints": false,
+          "isClubPrice": false,
+          "isSpecial": true,
+          "isNew": false,
+          "canShowOriginalPrice": true,
+          "discount": null,
+          "total": null,
+          "isTargetedOffer": false,
+          "averagePricePerSingleUnit": null,
+          "isBoostOffer": false,
+          "purchasingUnitPrice": null,
+          "orderedPrice": null,
+          "isUsingOrderedPrice": false,
+          "currentPricingMatchesOrderedPricing": null,
+          "extendedListPrice": null,
+          "originalAveragePricePerSingleUnit": null
+        },
+        "images": {
+          "small": "https://assets.woolworths.com.au/images/2010/170312.jpg?impolicy=wowcdxwbjbx&w=65&h=65",
+          "big": "https://assets.woolworths.com.au/images/2010/170312.jpg?impolicy=wowcdxwbjbx&w=200&h=200"
+        },
+        "quantity": {
+          "min": 1.0,
+          "max": 100.0,
+          "increment": 1.0,
+          "value": null,
+          "quantityInOrder": null,
+          "purchasingQuantityString": null
+        },
+        "stockLevel": 3,
+        "eachUnitQuantity": null,
+        "averageWeightPerUnit": null,
+        "size": {
+          "cupListPrice": 1.32,
+          "cupPrice": 1.1817905918057663125948406677,
+          "cupMeasure": "100g",
+          "packageType": null,
+          "volumeSize": "500g"
+        },
+        "hasShopperNotes": null,
+        "productTag": {
+          "tagType": "IsSpecial",
+          "multiBuy": null,
+          "bonusPoints": null,
+          "additionalTag": null,
+          "targetedOffer": null,
+          "boostOffer": null
+        },
+        "departments": [
+          {
+            "id": 7,
+            "name": "Pantry"
+          }
+        ],
+        "subsAllowed": false,
+        "supportsBothEachAndKgPricing": false,
+        "adId": null,
+        "brandSuggestionId": null,
+        "brandSuggestionName": null,
+        "priceUnitLabel": null,
+        "availabilityStatus": "In Stock",
+        "onlineSample": null,
+        "onlineSampleRealProductMapId": 0
+      },
+      {
+        "type": "Product",
+        "name": "copper kettle crackers salt & balsamic vinegar",
+        "barcode": "9400566011006",
+        "variety": "salt & balsamic vinegar",
+        "brand": "copper kettle",
+        "slug": "copper-kettle-crackers-salt-balsamic-vinegar",
+        "sku": "897213",
+        "unit": "Each",
+        "selectedPurchasingUnit": null,
+        "price": {
+          "originalPrice": 4.7,
+          "salePrice": 4.7,
+          "savePrice": 0.0,
+          "savePercentage": 0.0,
+          "canShowSavings": true,
+          "hasBonusPoints": false,
+          "isClubPrice": false,
+          "isSpecial": false,
+          "isNew": false,
+          "canShowOriginalPrice": true,
+          "discount": null,
+          "total": null,
+          "isTargetedOffer": false,
+          "averagePricePerSingleUnit": null,
+          "isBoostOffer": false,
+          "purchasingUnitPrice": null,
+          "orderedPrice": null,
+          "isUsingOrderedPrice": false,
+          "currentPricingMatchesOrderedPricing": null,
+          "extendedListPrice": null,
+          "originalAveragePricePerSingleUnit": null
+        },
+        "images": {
+          "small": "https://assets.woolworths.com.au/images/2010/897213.jpg?impolicy=wowcdxwbjbx&w=65&h=65",
+          "big": "https://assets.woolworths.com.au/images/2010/897213.jpg?impolicy=wowcdxwbjbx&w=200&h=200"
+        },
+        "quantity": {
+          "min": 1.0,
+          "max": 100.0,
+          "increment": 1.0,
+          "value": null,
+          "quantityInOrder": null,
+          "purchasingQuantityString": null
+        },
+        "stockLevel": 3,
+        "eachUnitQuantity": null,
+        "averageWeightPerUnit": null,
+        "size": {
+          "cupListPrice": 3.48,
+          "cupPrice": 3.48,
+          "cupMeasure": "100g",
+          "packageType": null,
+          "volumeSize": "135g"
+        },
+        "hasShopperNotes": null,
+        "productTag": null,
+        "departments": [
+          {
+            "id": 7,
+            "name": "Pantry"
+          }
+        ],
+        "subsAllowed": false,
+        "supportsBothEachAndKgPricing": false,
+        "adId": null,
+        "brandSuggestionId": null,
+        "brandSuggestionName": null,
+        "priceUnitLabel": null,
+        "availabilityStatus": "In Stock",
+        "onlineSample": null,
+        "onlineSampleRealProductMapId": 0
+      },
+      {
+        "type": "Product",
+        "name": "copper kettle multipack chips wood fired bbq 110g",
+        "barcode": "9400566010061",
+        "variety": "wood fired bbq 110g",
+        "brand": "copper kettle multipack",
+        "slug": "copper-kettle-multipack-chips-wood-fired-bbq-110g",
+        "sku": "197191",
+        "unit": "Each",
+        "selectedPurchasingUnit": null,
+        "price": {
+          "originalPrice": 5.0,
+          "salePrice": 5.0,
+          "savePrice": 0.0,
+          "savePercentage": 0.0,
+          "canShowSavings": true,
+          "hasBonusPoints": false,
+          "isClubPrice": false,
+          "isSpecial": false,
+          "isNew": false,
+          "canShowOriginalPrice": true,
+          "discount": null,
+          "total": null,
+          "isTargetedOffer": false,
+          "averagePricePerSingleUnit": null,
+          "isBoostOffer": false,
+          "purchasingUnitPrice": null,
+          "orderedPrice": null,
+          "isUsingOrderedPrice": false,
+          "currentPricingMatchesOrderedPricing": null,
+          "extendedListPrice": null,
+          "originalAveragePricePerSingleUnit": null
+        },
+        "images": {
+          "small": "https://assets.woolworths.com.au/images/2010/197191.jpg?impolicy=wowcdxwbjbx&w=65&h=65",
+          "big": "https://assets.woolworths.com.au/images/2010/197191.jpg?impolicy=wowcdxwbjbx&w=200&h=200"
+        },
+        "quantity": {
+          "min": 1.0,
+          "max": 100.0,
+          "increment": 1.0,
+          "value": null,
+          "quantityInOrder": null,
+          "purchasingQuantityString": null
+        },
+        "stockLevel": 3,
+        "eachUnitQuantity": null,
+        "averageWeightPerUnit": null,
+        "size": {
+          "cupListPrice": 4.55,
+          "cupPrice": 4.55,
+          "cupMeasure": "100g",
+          "packageType": null,
+          "volumeSize": "5pack"
+        },
+        "hasShopperNotes": null,
+        "productTag": {
+          "tagType": "IsMultiBuy",
+          "multiBuy": {
+            "quantity": 2.0,
+            "value": 6.000,
+            "link": "/shop/productgroup/185667",
+            "multiCupValue": 2.730
+          },
+          "bonusPoints": null,
+          "additionalTag": null,
+          "targetedOffer": null,
+          "boostOffer": null
+        },
+        "departments": [
+          {
+            "id": 7,
+            "name": "Pantry"
+          }
+        ],
+        "subsAllowed": false,
+        "supportsBothEachAndKgPricing": false,
+        "adId": null,
+        "brandSuggestionId": null,
+        "brandSuggestionName": null,
+        "priceUnitLabel": null,
+        "availabilityStatus": "In Stock",
+        "onlineSample": null,
+        "onlineSampleRealProductMapId": 0
+      },
+      {
+        "type": "Product",
+        "name": "cerebos tomato relish ",
+        "barcode": "9415062000614",
+        "variety": "",
+        "brand": "cerebos",
+        "slug": "cerebos-tomato-relish",
+        "sku": "264757",
+        "unit": "Each",
+        "selectedPurchasingUnit": null,
+        "price": {
+          "originalPrice": 4.29,
+          "salePrice": 4.29,
+          "savePrice": 0.00,
+          "savePercentage": 0.0,
+          "canShowSavings": true,
+          "hasBonusPoints": false,
+          "isClubPrice": false,
+          "isSpecial": false,
+          "isNew": false,
+          "canShowOriginalPrice": true,
+          "discount": null,
+          "total": null,
+          "isTargetedOffer": false,
+          "averagePricePerSingleUnit": null,
+          "isBoostOffer": false,
+          "purchasingUnitPrice": null,
+          "orderedPrice": null,
+          "isUsingOrderedPrice": false,
+          "currentPricingMatchesOrderedPricing": null,
+          "extendedListPrice": null,
+          "originalAveragePricePerSingleUnit": null
+        },
+        "images": {
+          "small": "https://assets.woolworths.com.au/images/2010/264757.jpg?impolicy=wowcdxwbjbx&w=65&h=65",
+          "big": "https://assets.woolworths.com.au/images/2010/264757.jpg?impolicy=wowcdxwbjbx&w=200&h=200"
+        },
+        "quantity": {
+          "min": 1.0,
+          "max": 100.0,
+          "increment": 1.0,
+          "value": null,
+          "quantityInOrder": null,
+          "purchasingQuantityString": null
+        },
+        "stockLevel": 3,
+        "eachUnitQuantity": null,
+        "averageWeightPerUnit": null,
+        "size": {
+          "cupListPrice": 1.07,
+          "cupPrice": 1.07,
+          "cupMeasure": "100g",
+          "packageType": "jar",
+          "volumeSize": "400g"
+        },
+        "hasShopperNotes": null,
+        "productTag": null,
+        "departments": [
+          {
+            "id": 7,
+            "name": "Pantry"
+          }
+        ],
+        "subsAllowed": false,
+        "supportsBothEachAndKgPricing": false,
+        "adId": null,
+        "brandSuggestionId": null,
+        "brandSuggestionName": null,
+        "priceUnitLabel": null,
+        "availabilityStatus": "In Stock",
+        "onlineSample": null,
+        "onlineSampleRealProductMapId": 0
+      },
+      {
+        "type": "Product",
+        "name": "maggi soup cream of chicken",
+        "barcode": "9400556007811",
+        "variety": "cream of chicken",
+        "brand": "maggi",
+        "slug": "maggi-soup-cream-of-chicken",
+        "sku": "265366",
+        "unit": "Each",
+        "selectedPurchasingUnit": null,
+        "price": {
+          "originalPrice": 1.7,
+          "salePrice": 1.7,
+          "savePrice": 0.0,
+          "savePercentage": 0.0,
+          "canShowSavings": true,
+          "hasBonusPoints": false,
+          "isClubPrice": false,
+          "isSpecial": false,
+          "isNew": false,
+          "canShowOriginalPrice": true,
+          "discount": null,
+          "total": null,
+          "isTargetedOffer": false,
+          "averagePricePerSingleUnit": null,
+          "isBoostOffer": false,
+          "purchasingUnitPrice": null,
+          "orderedPrice": null,
+          "isUsingOrderedPrice": false,
+          "currentPricingMatchesOrderedPricing": null,
+          "extendedListPrice": null,
+          "originalAveragePricePerSingleUnit": null
+        },
+        "images": {
+          "small": "https://assets.woolworths.com.au/images/2010/265366.jpg?impolicy=wowcdxwbjbx&w=65&h=65",
+          "big": "https://assets.woolworths.com.au/images/2010/265366.jpg?impolicy=wowcdxwbjbx&w=200&h=200"
+        },
+        "quantity": {
+          "min": 1.0,
+          "max": 100.0,
+          "increment": 1.0,
+          "value": null,
+          "quantityInOrder": null,
+          "purchasingQuantityString": null
+        },
+        "stockLevel": 3,
+        "eachUnitQuantity": null,
+        "averageWeightPerUnit": null,
+        "size": {
+          "cupListPrice": 4.5899999999999999999999999996,
+          "cupPrice": 4.5899999999999999999999999996,
+          "cupMeasure": "100g",
+          "packageType": "sachet",
+          "volumeSize": "37g"
+        },
+        "hasShopperNotes": null,
+        "productTag": {
+          "tagType": "IsGreatPriceMultiBuy",
+          "multiBuy": {
+            "quantity": 2.0,
+            "value": 2.900,
+            "link": "/shop/productgroup/185004",
+            "multiCupValue": 3.919
+          },
+          "bonusPoints": null,
+          "additionalTag": null,
+          "targetedOffer": null,
+          "boostOffer": null
+        },
+        "departments": [
+          {
+            "id": 7,
+            "name": "Pantry"
+          }
+        ],
+        "subsAllowed": false,
+        "supportsBothEachAndKgPricing": false,
+        "adId": null,
+        "brandSuggestionId": null,
+        "brandSuggestionName": null,
+        "priceUnitLabel": null,
+        "availabilityStatus": "In Stock",
+        "onlineSample": null,
+        "onlineSampleRealProductMapId": 0
+      },
+      {
+        "type": "Product",
+        "name": "copper kettle chips bbq",
+        "barcode": "9400566004541",
+        "variety": "bbq",
+        "brand": "copper kettle",
+        "slug": "copper-kettle-chips-bbq",
+        "sku": "267945",
+        "unit": "Each",
+        "selectedPurchasingUnit": null,
+        "price": {
+          "originalPrice": 5.0,
+          "salePrice": 5.0,
+          "savePrice": 0.0,
+          "savePercentage": 0.0,
+          "canShowSavings": true,
+          "hasBonusPoints": false,
+          "isClubPrice": false,
+          "isSpecial": false,
+          "isNew": false,
+          "canShowOriginalPrice": true,
+          "discount": null,
+          "total": null,
+          "isTargetedOffer": false,
+          "averagePricePerSingleUnit": null,
+          "isBoostOffer": false,
+          "purchasingUnitPrice": null,
+          "orderedPrice": null,
+          "isUsingOrderedPrice": false,
+          "currentPricingMatchesOrderedPricing": null,
+          "extendedListPrice": null,
+          "originalAveragePricePerSingleUnit": null
+        },
+        "images": {
+          "small": "https://assets.woolworths.com.au/images/2010/267945.jpg?impolicy=wowcdxwbjbx&w=65&h=65",
+          "big": "https://assets.woolworths.com.au/images/2010/267945.jpg?impolicy=wowcdxwbjbx&w=200&h=200"
+        },
+        "quantity": {
+          "min": 1.0,
+          "max": 100.0,
+          "increment": 1.0,
+          "value": null,
+          "quantityInOrder": null,
+          "purchasingQuantityString": null
+        },
+        "stockLevel": 3,
+        "eachUnitQuantity": null,
+        "averageWeightPerUnit": null,
+        "size": {
+          "cupListPrice": 3.33,
+          "cupPrice": 3.33,
+          "cupMeasure": "100g",
+          "packageType": null,
+          "volumeSize": "150g"
+        },
+        "hasShopperNotes": null,
+        "productTag": null,
+        "departments": [
+          {
+            "id": 15,
+            "name": "Christmas"
+          }
+        ],
+        "subsAllowed": false,
+        "supportsBothEachAndKgPricing": false,
+        "adId": null,
+        "brandSuggestionId": null,
+        "brandSuggestionName": null,
+        "priceUnitLabel": null,
+        "availabilityStatus": "In Stock",
+        "onlineSample": null,
+        "onlineSampleRealProductMapId": 0
+      },
+      {
+        "type": "Product",
+        "name": "woolworths muesli toasted berry",
+        "barcode": "9400597027601",
+        "variety": "toasted berry",
+        "brand": "woolworths",
+        "slug": "woolworths-muesli-toasted-berry",
+        "sku": "854588",
+        "unit": "Each",
+        "selectedPurchasingUnit": null,
+        "price": {
+          "originalPrice": 4.59,
+          "salePrice": 4.59,
+          "savePrice": 0.00,
+          "savePercentage": 0.0,
+          "canShowSavings": true,
+          "hasBonusPoints": false,
+          "isClubPrice": false,
+          "isSpecial": false,
+          "isNew": false,
+          "canShowOriginalPrice": true,
+          "discount": null,
+          "total": null,
+          "isTargetedOffer": false,
+          "averagePricePerSingleUnit": null,
+          "isBoostOffer": false,
+          "purchasingUnitPrice": null,
+          "orderedPrice": null,
+          "isUsingOrderedPrice": false,
+          "currentPricingMatchesOrderedPricing": null,
+          "extendedListPrice": null,
+          "originalAveragePricePerSingleUnit": null
+        },
+        "images": {
+          "small": "https://assets.woolworths.com.au/images/2010/854588.jpg?impolicy=wowcdxwbjbx&w=65&h=65",
+          "big": "https://assets.woolworths.com.au/images/2010/854588.jpg?impolicy=wowcdxwbjbx&w=200&h=200"
+        },
+        "quantity": {
+          "min": 1.0,
+          "max": 100.0,
+          "increment": 1.0,
+          "value": null,
+          "quantityInOrder": null,
+          "purchasingQuantityString": null
+        },
+        "stockLevel": 3,
+        "eachUnitQuantity": null,
+        "averageWeightPerUnit": null,
+        "size": {
+          "cupListPrice": 0.71,
+          "cupPrice": 0.71,
+          "cupMeasure": "100g",
+          "packageType": "",
+          "volumeSize": "650g"
+        },
+        "hasShopperNotes": null,
+        "productTag": {
+          "tagType": "Other",
+          "multiBuy": null,
+          "bonusPoints": null,
+          "additionalTag": {
+            "name": "Countdown's Own",
+            "link": "/shop/productgroup/80842",
+            "imagePath": "/Content/PromotionTags/F24_Own_brand.png",
+            "linkTarget": "_self",
+            "altText": null
+          },
+          "targetedOffer": null,
+          "boostOffer": null
+        },
+        "departments": [
+          {
+            "id": 7,
+            "name": "Pantry"
+          }
+        ],
+        "subsAllowed": false,
+        "supportsBothEachAndKgPricing": false,
+        "adId": null,
+        "brandSuggestionId": null,
+        "brandSuggestionName": null,
+        "priceUnitLabel": null,
+        "availabilityStatus": "In Stock",
+        "onlineSample": null,
+        "onlineSampleRealProductMapId": 0
+      },
+      {
+        "type": "Product",
+        "name": "best foods mayonnaise lite",
+        "barcode": "9415559040024",
+        "variety": "lite",
+        "brand": "best foods",
+        "slug": "best-foods-mayonnaise-lite",
+        "sku": "308394",
+        "unit": "Each",
+        "selectedPurchasingUnit": null,
+        "price": {
+          "originalPrice": 7.9,
+          "salePrice": 7.9,
+          "savePrice": 0.0,
+          "savePercentage": 0.0,
+          "canShowSavings": true,
+          "hasBonusPoints": false,
+          "isClubPrice": false,
+          "isSpecial": false,
+          "isNew": false,
+          "canShowOriginalPrice": true,
+          "discount": null,
+          "total": null,
+          "isTargetedOffer": false,
+          "averagePricePerSingleUnit": null,
+          "isBoostOffer": false,
+          "purchasingUnitPrice": null,
+          "orderedPrice": null,
+          "isUsingOrderedPrice": false,
+          "currentPricingMatchesOrderedPricing": null,
+          "extendedListPrice": null,
+          "originalAveragePricePerSingleUnit": null
+        },
+        "images": {
+          "small": "https://assets.woolworths.com.au/images/2010/308394.jpg?impolicy=wowcdxwbjbx&w=65&h=65",
+          "big": "https://assets.woolworths.com.au/images/2010/308394.jpg?impolicy=wowcdxwbjbx&w=200&h=200"
+        },
+        "quantity": {
+          "min": 1.0,
+          "max": 100.0,
+          "increment": 1.0,
+          "value": null,
+          "quantityInOrder": null,
+          "purchasingQuantityString": null
+        },
+        "stockLevel": 3,
+        "eachUnitQuantity": null,
+        "averageWeightPerUnit": null,
+        "size": {
+          "cupListPrice": 1.82,
+          "cupPrice": 1.82,
+          "cupMeasure": "100g",
+          "packageType": null,
+          "volumeSize": "435g"
+        },
+        "hasShopperNotes": null,
+        "productTag": null,
+        "departments": [
+          {
+            "id": 15,
+            "name": "Christmas"
+          }
+        ],
+        "subsAllowed": false,
+        "supportsBothEachAndKgPricing": false,
+        "adId": null,
+        "brandSuggestionId": null,
+        "brandSuggestionName": null,
+        "priceUnitLabel": null,
+        "availabilityStatus": "In Stock",
+        "onlineSample": null,
+        "onlineSampleRealProductMapId": 0
+      },
+      {
+        "type": "Product",
+        "name": "snickers chocolate sharepack fun size",
+        "barcode": "9300682060967",
+        "variety": "fun size",
+        "brand": "snickers",
+        "slug": "snickers-chocolate-sharepack-fun-size",
+        "sku": "206889",
+        "unit": "Each",
+        "selectedPurchasingUnit": null,
+        "price": {
+          "originalPrice": 5.79,
+          "salePrice": 5.79,
+          "savePrice": 0.00,
+          "savePercentage": 0.0,
+          "canShowSavings": true,
+          "hasBonusPoints": false,
+          "isClubPrice": false,
+          "isSpecial": false,
+          "isNew": false,
+          "canShowOriginalPrice": true,
+          "discount": null,
+          "total": null,
+          "isTargetedOffer": false,
+          "averagePricePerSingleUnit": null,
+          "isBoostOffer": false,
+          "purchasingUnitPrice": null,
+          "orderedPrice": null,
+          "isUsingOrderedPrice": false,
+          "currentPricingMatchesOrderedPricing": null,
+          "extendedListPrice": null,
+          "originalAveragePricePerSingleUnit": null
+        },
+        "images": {
+          "small": "https://assets.woolworths.com.au/images/2010/206889.jpg?impolicy=wowcdxwbjbx&w=65&h=65",
+          "big": "https://assets.woolworths.com.au/images/2010/206889.jpg?impolicy=wowcdxwbjbx&w=200&h=200"
+        },
+        "quantity": {
+          "min": 1.0,
+          "max": 100.0,
+          "increment": 1.0,
+          "value": null,
+          "quantityInOrder": null,
+          "purchasingQuantityString": null
+        },
+        "stockLevel": 3,
+        "eachUnitQuantity": null,
+        "averageWeightPerUnit": null,
+        "size": {
+          "cupListPrice": 3.22,
+          "cupPrice": 3.22,
+          "cupMeasure": "100g",
+          "packageType": "180g bag",
+          "volumeSize": "12pack"
+        },
+        "hasShopperNotes": null,
+        "productTag": null,
+        "departments": [
+          {
+            "id": 7,
+            "name": "Pantry"
+          }
+        ],
+        "subsAllowed": false,
+        "supportsBothEachAndKgPricing": false,
+        "adId": null,
+        "brandSuggestionId": null,
+        "brandSuggestionName": null,
+        "priceUnitLabel": null,
+        "availabilityStatus": "In Stock",
+        "onlineSample": null,
+        "onlineSampleRealProductMapId": 0
+      },
+      {
+        "type": "Product",
+        "name": "lee kum kee sesame oil pure gluten free",
+        "barcode": "78895710922",
+        "variety": "pure gluten free",
+        "brand": "lee kum kee",
+        "slug": "lee-kum-kee-sesame-oil-pure-gluten-free",
+        "sku": "16340",
+        "unit": "Each",
+        "selectedPurchasingUnit": null,
+        "price": {
+          "originalPrice": 7.69,
+          "salePrice": 7.69,
+          "savePrice": 0.00,
+          "savePercentage": 0.0,
+          "canShowSavings": true,
+          "hasBonusPoints": false,
+          "isClubPrice": false,
+          "isSpecial": false,
+          "isNew": false,
+          "canShowOriginalPrice": true,
+          "discount": null,
+          "total": null,
+          "isTargetedOffer": false,
+          "averagePricePerSingleUnit": null,
+          "isBoostOffer": false,
+          "purchasingUnitPrice": null,
+          "orderedPrice": null,
+          "isUsingOrderedPrice": false,
+          "currentPricingMatchesOrderedPricing": null,
+          "extendedListPrice": null,
+          "originalAveragePricePerSingleUnit": null
+        },
+        "images": {
+          "small": "https://assets.woolworths.com.au/images/2010/16340.jpg?impolicy=wowcdxwbjbx&w=65&h=65",
+          "big": "https://assets.woolworths.com.au/images/2010/16340.jpg?impolicy=wowcdxwbjbx&w=200&h=200"
+        },
+        "quantity": {
+          "min": 1.0,
+          "max": 100.0,
+          "increment": 1.0,
+          "value": null,
+          "quantityInOrder": null,
+          "purchasingQuantityString": null
+        },
+        "stockLevel": 3,
+        "eachUnitQuantity": null,
+        "averageWeightPerUnit": null,
+        "size": {
+          "cupListPrice": 3.7099999999999999999999999999,
+          "cupPrice": 3.7099999999999999999999999999,
+          "cupMeasure": "100mL",
+          "packageType": "btl",
+          "volumeSize": "207mL"
+        },
+        "hasShopperNotes": null,
+        "productTag": null,
+        "departments": [
+          {
+            "id": 7,
+            "name": "Pantry"
+          }
+        ],
+        "subsAllowed": false,
+        "supportsBothEachAndKgPricing": false,
+        "adId": null,
+        "brandSuggestionId": null,
+        "brandSuggestionName": null,
+        "priceUnitLabel": null,
+        "availabilityStatus": "In Stock",
+        "onlineSample": null,
+        "onlineSampleRealProductMapId": 0
+      },
+      {
+        "type": "Product",
+        "name": "tostitos corn chips lightly salted",
+        "barcode": "9310015246142",
+        "variety": "lightly salted",
+        "brand": "tostitos",
+        "slug": "tostitos-corn-chips-lightly-salted",
+        "sku": "707192",
+        "unit": "Each",
+        "selectedPurchasingUnit": null,
+        "price": {
+          "originalPrice": 3.7,
+          "salePrice": 3.7,
+          "savePrice": 0.0,
+          "savePercentage": 0.0,
+          "canShowSavings": true,
+          "hasBonusPoints": false,
+          "isClubPrice": false,
+          "isSpecial": false,
+          "isNew": false,
+          "canShowOriginalPrice": true,
+          "discount": null,
+          "total": null,
+          "isTargetedOffer": false,
+          "averagePricePerSingleUnit": null,
+          "isBoostOffer": false,
+          "purchasingUnitPrice": null,
+          "orderedPrice": null,
+          "isUsingOrderedPrice": false,
+          "currentPricingMatchesOrderedPricing": null,
+          "extendedListPrice": null,
+          "originalAveragePricePerSingleUnit": null
+        },
+        "images": {
+          "small": "https://assets.woolworths.com.au/images/2010/707192.jpg?impolicy=wowcdxwbjbx&w=65&h=65",
+          "big": "https://assets.woolworths.com.au/images/2010/707192.jpg?impolicy=wowcdxwbjbx&w=200&h=200"
+        },
+        "quantity": {
+          "min": 1.0,
+          "max": 100.0,
+          "increment": 1.0,
+          "value": null,
+          "quantityInOrder": null,
+          "purchasingQuantityString": null
+        },
+        "stockLevel": 3,
+        "eachUnitQuantity": null,
+        "averageWeightPerUnit": null,
+        "size": {
+          "cupListPrice": 2.5662162162162162162162162163,
+          "cupPrice": 2.11,
+          "cupMeasure": "100g",
+          "packageType": null,
+          "volumeSize": "175g"
+        },
+        "hasShopperNotes": null,
+        "productTag": {
+          "tagType": "IsGreatPrice",
+          "multiBuy": null,
+          "bonusPoints": null,
+          "additionalTag": null,
+          "targetedOffer": null,
+          "boostOffer": null
+        },
+        "departments": [
+          {
+            "id": 7,
+            "name": "Pantry"
+          }
+        ],
+        "subsAllowed": false,
+        "supportsBothEachAndKgPricing": false,
+        "adId": null,
+        "brandSuggestionId": null,
+        "brandSuggestionName": null,
+        "priceUnitLabel": null,
+        "availabilityStatus": "In Stock",
+        "onlineSample": null,
+        "onlineSampleRealProductMapId": 0
+      },
+      {
+        "type": "Product",
+        "name": "otaika valley eggs free range size 7",
+        "barcode": "9415403000112",
+        "variety": "free range size 7",
+        "brand": "otaika valley",
+        "slug": "otaika-valley-eggs-free-range-size-7",
+        "sku": "820954",
+        "unit": "Each",
+        "selectedPurchasingUnit": null,
+        "price": {
+          "originalPrice": 6.79,
+          "salePrice": 5.9,
+          "savePrice": 0.89,
+          "savePercentage": 0.0,
+          "canShowSavings": true,
+          "hasBonusPoints": false,
+          "isClubPrice": false,
+          "isSpecial": true,
+          "isNew": false,
+          "canShowOriginalPrice": true,
+          "discount": null,
+          "total": null,
+          "isTargetedOffer": false,
+          "averagePricePerSingleUnit": null,
+          "isBoostOffer": false,
+          "purchasingUnitPrice": null,
+          "orderedPrice": null,
+          "isUsingOrderedPrice": false,
+          "currentPricingMatchesOrderedPricing": null,
+          "extendedListPrice": null,
+          "originalAveragePricePerSingleUnit": null
+        },
+        "images": {
+          "small": "https://assets.woolworths.com.au/images/2010/820954.jpg?impolicy=wowcdxwbjbx&w=65&h=65",
+          "big": "https://assets.woolworths.com.au/images/2010/820954.jpg?impolicy=wowcdxwbjbx&w=200&h=200"
+        },
+        "quantity": {
+          "min": 1.0,
+          "max": 100.0,
+          "increment": 1.0,
+          "value": null,
+          "quantityInOrder": null,
+          "purchasingQuantityString": null
+        },
+        "stockLevel": 3,
+        "eachUnitQuantity": null,
+        "averageWeightPerUnit": null,
+        "size": {
+          "cupListPrice": 1.13,
+          "cupPrice": 0.98,
+          "cupMeasure": "1ea",
+          "packageType": "carton",
+          "volumeSize": "6pack"
+        },
+        "hasShopperNotes": null,
+        "productTag": {
+          "tagType": "IsSpecial",
+          "multiBuy": null,
+          "bonusPoints": null,
+          "additionalTag": null,
+          "targetedOffer": null,
+          "boostOffer": null
+        },
+        "departments": [
+          {
+            "id": 4,
+            "name": "Fridge & Deli"
+          }
+        ],
+        "subsAllowed": false,
+        "supportsBothEachAndKgPricing": false,
+        "adId": null,
+        "brandSuggestionId": null,
+        "brandSuggestionName": null,
+        "priceUnitLabel": null,
+        "availabilityStatus": "In Stock",
+        "onlineSample": null,
+        "onlineSampleRealProductMapId": 0
+      },
+      {
+        "type": "Product",
+        "name": "vitasoy almond milk unsweetened",
+        "barcode": "9341650000899",
+        "variety": "unsweetened",
+        "brand": "vitasoy",
+        "slug": "vitasoy-almond-milk-unsweetened",
+        "sku": "926885",
+        "unit": "Each",
+        "selectedPurchasingUnit": null,
+        "price": {
+          "originalPrice": 4.19,
+          "salePrice": 4.19,
+          "savePrice": 0.00,
+          "savePercentage": 0.0,
+          "canShowSavings": true,
+          "hasBonusPoints": false,
+          "isClubPrice": false,
+          "isSpecial": false,
+          "isNew": false,
+          "canShowOriginalPrice": true,
+          "discount": null,
+          "total": null,
+          "isTargetedOffer": false,
+          "averagePricePerSingleUnit": null,
+          "isBoostOffer": false,
+          "purchasingUnitPrice": null,
+          "orderedPrice": null,
+          "isUsingOrderedPrice": false,
+          "currentPricingMatchesOrderedPricing": null,
+          "extendedListPrice": null,
+          "originalAveragePricePerSingleUnit": null
+        },
+        "images": {
+          "small": "https://assets.woolworths.com.au/images/2010/926885.jpg?impolicy=wowcdxwbjbx&w=65&h=65",
+          "big": "https://assets.woolworths.com.au/images/2010/926885.jpg?impolicy=wowcdxwbjbx&w=200&h=200"
+        },
+        "quantity": {
+          "min": 1.0,
+          "max": 100.0,
+          "increment": 1.0,
+          "value": null,
+          "quantityInOrder": null,
+          "purchasingQuantityString": null
+        },
+        "stockLevel": 3,
+        "eachUnitQuantity": null,
+        "averageWeightPerUnit": null,
+        "size": {
+          "cupListPrice": 4.19,
+          "cupPrice": 4.19,
+          "cupMeasure": "1L",
+          "packageType": "carton",
+          "volumeSize": "1L"
+        },
+        "hasShopperNotes": null,
+        "productTag": null,
+        "departments": [
+          {
+            "id": 4,
+            "name": "Fridge & Deli"
+          }
+        ],
+        "subsAllowed": false,
+        "supportsBothEachAndKgPricing": false,
+        "adId": null,
+        "brandSuggestionId": null,
+        "brandSuggestionName": null,
+        "priceUnitLabel": null,
+        "availabilityStatus": "In Stock",
+        "onlineSample": null,
+        "onlineSampleRealProductMapId": 0
+      },
+      {
+        "type": "Product",
+        "name": "arnotts biscuits iced animals",
+        "barcode": "9310072015453",
+        "variety": "iced animals",
+        "brand": "arnotts",
+        "slug": "arnotts-biscuits-iced-animals",
+        "sku": "271055",
+        "unit": "Each",
+        "selectedPurchasingUnit": null,
+        "price": {
+          "originalPrice": 4.29,
+          "salePrice": 4.29,
+          "savePrice": 0.00,
+          "savePercentage": 0.0,
+          "canShowSavings": true,
+          "hasBonusPoints": false,
+          "isClubPrice": false,
+          "isSpecial": false,
+          "isNew": false,
+          "canShowOriginalPrice": true,
+          "discount": null,
+          "total": null,
+          "isTargetedOffer": false,
+          "averagePricePerSingleUnit": null,
+          "isBoostOffer": false,
+          "purchasingUnitPrice": null,
+          "orderedPrice": null,
+          "isUsingOrderedPrice": false,
+          "currentPricingMatchesOrderedPricing": null,
+          "extendedListPrice": null,
+          "originalAveragePricePerSingleUnit": null
+        },
+        "images": {
+          "small": "https://assets.woolworths.com.au/images/2010/271055.jpg?impolicy=wowcdxwbjbx&w=65&h=65",
+          "big": "https://assets.woolworths.com.au/images/2010/271055.jpg?impolicy=wowcdxwbjbx&w=200&h=200"
+        },
+        "quantity": {
+          "min": 1.0,
+          "max": 100.0,
+          "increment": 1.0,
+          "value": null,
+          "quantityInOrder": null,
+          "purchasingQuantityString": null
+        },
+        "stockLevel": 3,
+        "eachUnitQuantity": null,
+        "averageWeightPerUnit": null,
+        "size": {
+          "cupListPrice": 2.15,
+          "cupPrice": 2.15,
+          "cupMeasure": "100g",
+          "packageType": "pkt",
+          "volumeSize": "200g"
+        },
+        "hasShopperNotes": null,
+        "productTag": null,
+        "departments": [
+          {
+            "id": 7,
+            "name": "Pantry"
+          }
+        ],
+        "subsAllowed": false,
+        "supportsBothEachAndKgPricing": false,
+        "adId": null,
+        "brandSuggestionId": null,
+        "brandSuggestionName": null,
+        "priceUnitLabel": null,
+        "availabilityStatus": "In Stock",
+        "onlineSample": null,
+        "onlineSampleRealProductMapId": 0
+      },
+      {
+        "type": "Product",
+        "name": "pascall lollies fruit bursts",
+        "barcode": "9300617074434",
+        "variety": "fruit bursts",
+        "brand": "pascall",
+        "slug": "pascall-lollies-fruit-bursts",
+        "sku": "819015",
+        "unit": "Each",
+        "selectedPurchasingUnit": null,
+        "price": {
+          "originalPrice": 3.09,
+          "salePrice": 3.09,
+          "savePrice": 0.00,
+          "savePercentage": 0.0,
+          "canShowSavings": true,
+          "hasBonusPoints": false,
+          "isClubPrice": false,
+          "isSpecial": false,
+          "isNew": false,
+          "canShowOriginalPrice": true,
+          "discount": null,
+          "total": null,
+          "isTargetedOffer": false,
+          "averagePricePerSingleUnit": null,
+          "isBoostOffer": false,
+          "purchasingUnitPrice": null,
+          "orderedPrice": null,
+          "isUsingOrderedPrice": false,
+          "currentPricingMatchesOrderedPricing": null,
+          "extendedListPrice": null,
+          "originalAveragePricePerSingleUnit": null
+        },
+        "images": {
+          "small": "https://assets.woolworths.com.au/images/2010/819015.jpg?impolicy=wowcdxwbjbx&w=65&h=65",
+          "big": "https://assets.woolworths.com.au/images/2010/819015.jpg?impolicy=wowcdxwbjbx&w=200&h=200"
+        },
+        "quantity": {
+          "min": 1.0,
+          "max": 100.0,
+          "increment": 1.0,
+          "value": null,
+          "quantityInOrder": null,
+          "purchasingQuantityString": null
+        },
+        "stockLevel": 3,
+        "eachUnitQuantity": null,
+        "averageWeightPerUnit": null,
+        "size": {
+          "cupListPrice": 1.82,
+          "cupPrice": 1.82,
+          "cupMeasure": "100g",
+          "packageType": null,
+          "volumeSize": "170g"
+        },
+        "hasShopperNotes": null,
+        "productTag": null,
+        "departments": [
+          {
+            "id": 7,
+            "name": "Pantry"
+          }
+        ],
+        "subsAllowed": false,
+        "supportsBothEachAndKgPricing": false,
+        "adId": null,
+        "brandSuggestionId": null,
+        "brandSuggestionName": null,
+        "priceUnitLabel": null,
+        "availabilityStatus": "In Stock",
+        "onlineSample": null,
+        "onlineSampleRealProductMapId": 0
+      },
+      {
+        "type": "Product",
+        "name": "woolworths muesli bars choco honeycomb",
+        "barcode": "9400597032988",
+        "variety": "choco honeycomb",
+        "brand": "woolworths",
+        "slug": "woolworths-muesli-bars-choco-honeycomb",
+        "sku": "102285",
+        "unit": "Each",
+        "selectedPurchasingUnit": null,
+        "price": {
+          "originalPrice": 2.69,
+          "salePrice": 2.69,
+          "savePrice": 0.00,
+          "savePercentage": 0.0,
+          "canShowSavings": true,
+          "hasBonusPoints": false,
+          "isClubPrice": false,
+          "isSpecial": false,
+          "isNew": false,
+          "canShowOriginalPrice": true,
+          "discount": null,
+          "total": null,
+          "isTargetedOffer": false,
+          "averagePricePerSingleUnit": null,
+          "isBoostOffer": false,
+          "purchasingUnitPrice": null,
+          "orderedPrice": null,
+          "isUsingOrderedPrice": false,
+          "currentPricingMatchesOrderedPricing": null,
+          "extendedListPrice": null,
+          "originalAveragePricePerSingleUnit": null
+        },
+        "images": {
+          "small": "https://assets.woolworths.com.au/images/2010/102285.jpg?impolicy=wowcdxwbjbx&w=65&h=65",
+          "big": "https://assets.woolworths.com.au/images/2010/102285.jpg?impolicy=wowcdxwbjbx&w=200&h=200"
+        },
+        "quantity": {
+          "min": 1.0,
+          "max": 100.0,
+          "increment": 1.0,
+          "value": null,
+          "quantityInOrder": null,
+          "purchasingQuantityString": null
+        },
+        "stockLevel": 3,
+        "eachUnitQuantity": null,
+        "averageWeightPerUnit": null,
+        "size": {
+          "cupListPrice": 1.49,
+          "cupPrice": 1.49,
+          "cupMeasure": "100g",
+          "packageType": "6pk",
+          "volumeSize": "180g"
+        },
+        "hasShopperNotes": null,
+        "productTag": {
+          "tagType": "Other",
+          "multiBuy": null,
+          "bonusPoints": null,
+          "additionalTag": {
+            "name": "Countdown's Own",
+            "link": "/shop/productgroup/80842",
+            "imagePath": "/Content/PromotionTags/F24_Own_brand.png",
+            "linkTarget": "_self",
+            "altText": null
+          },
+          "targetedOffer": null,
+          "boostOffer": null
+        },
+        "departments": [
+          {
+            "id": 7,
+            "name": "Pantry"
+          }
+        ],
+        "subsAllowed": false,
+        "supportsBothEachAndKgPricing": false,
+        "adId": null,
+        "brandSuggestionId": null,
+        "brandSuggestionName": null,
+        "priceUnitLabel": null,
+        "availabilityStatus": "In Stock",
+        "onlineSample": null,
+        "onlineSampleRealProductMapId": 0
+      },
+      {
+        "type": "Product",
+        "name": "essentials cornflour ",
+        "barcode": "9414742014392",
+        "variety": null,
+        "brand": "essentials",
+        "slug": "essentials-cornflour",
+        "sku": "39128",
+        "unit": "Each",
+        "selectedPurchasingUnit": null,
+        "price": {
+          "originalPrice": 2.2,
+          "salePrice": 2.2,
+          "savePrice": 0.0,
+          "savePercentage": 0.0,
+          "canShowSavings": true,
+          "hasBonusPoints": false,
+          "isClubPrice": false,
+          "isSpecial": false,
+          "isNew": false,
+          "canShowOriginalPrice": true,
+          "discount": null,
+          "total": null,
+          "isTargetedOffer": false,
+          "averagePricePerSingleUnit": null,
+          "isBoostOffer": false,
+          "purchasingUnitPrice": null,
+          "orderedPrice": null,
+          "isUsingOrderedPrice": false,
+          "currentPricingMatchesOrderedPricing": null,
+          "extendedListPrice": null,
+          "originalAveragePricePerSingleUnit": null
+        },
+        "images": {
+          "small": "https://assets.woolworths.com.au/images/2010/39128.jpg?impolicy=wowcdxwbjbx&w=65&h=65",
+          "big": "https://assets.woolworths.com.au/images/2010/39128.jpg?impolicy=wowcdxwbjbx&w=200&h=200"
+        },
+        "quantity": {
+          "min": 1.0,
+          "max": 100.0,
+          "increment": 1.0,
+          "value": null,
+          "quantityInOrder": null,
+          "purchasingQuantityString": null
+        },
+        "stockLevel": 3,
+        "eachUnitQuantity": null,
+        "averageWeightPerUnit": null,
+        "size": {
+          "cupListPrice": 0.44,
+          "cupPrice": 0.44,
+          "cupMeasure": "100g",
+          "packageType": null,
+          "volumeSize": "500g"
+        },
+        "hasShopperNotes": null,
+        "productTag": null,
+        "departments": [
+          {
+            "id": 7,
+            "name": "Pantry"
+          }
+        ],
+        "subsAllowed": false,
+        "supportsBothEachAndKgPricing": false,
+        "adId": null,
+        "brandSuggestionId": null,
+        "brandSuggestionName": null,
+        "priceUnitLabel": null,
+        "availabilityStatus": "In Stock",
+        "onlineSample": null,
+        "onlineSampleRealProductMapId": 0
+      },
+      {
+        "type": "Product",
+        "name": "woolworths almonds natural",
+        "barcode": "9400597025027",
+        "variety": "natural",
+        "brand": "woolworths",
+        "slug": "woolworths-almonds-natural",
+        "sku": "689109",
+        "unit": "Each",
+        "selectedPurchasingUnit": null,
+        "price": {
+          "originalPrice": 3.8,
+          "salePrice": 3.8,
+          "savePrice": 0.0,
+          "savePercentage": 0.0,
+          "canShowSavings": true,
+          "hasBonusPoints": false,
+          "isClubPrice": false,
+          "isSpecial": false,
+          "isNew": false,
+          "canShowOriginalPrice": true,
+          "discount": null,
+          "total": null,
+          "isTargetedOffer": false,
+          "averagePricePerSingleUnit": null,
+          "isBoostOffer": false,
+          "purchasingUnitPrice": null,
+          "orderedPrice": null,
+          "isUsingOrderedPrice": false,
+          "currentPricingMatchesOrderedPricing": null,
+          "extendedListPrice": null,
+          "originalAveragePricePerSingleUnit": null
+        },
+        "images": {
+          "small": "https://assets.woolworths.com.au/images/2010/689109.jpg?impolicy=wowcdxwbjbx&w=65&h=65",
+          "big": "https://assets.woolworths.com.au/images/2010/689109.jpg?impolicy=wowcdxwbjbx&w=200&h=200"
+        },
+        "quantity": {
+          "min": 1.0,
+          "max": 100.0,
+          "increment": 1.0,
+          "value": null,
+          "quantityInOrder": null,
+          "purchasingQuantityString": null
+        },
+        "stockLevel": 3,
+        "eachUnitQuantity": null,
+        "averageWeightPerUnit": null,
+        "size": {
+          "cupListPrice": 2.1,
+          "cupPrice": 1.9,
+          "cupMeasure": "100g",
+          "packageType": null,
+          "volumeSize": "200g"
+        },
+        "hasShopperNotes": null,
+        "productTag": {
+          "tagType": "IsGreatPrice",
+          "multiBuy": null,
+          "bonusPoints": null,
+          "additionalTag": null,
+          "targetedOffer": null,
+          "boostOffer": null
+        },
+        "departments": [
+          {
+            "id": 15,
+            "name": "Christmas"
+          }
+        ],
+        "subsAllowed": false,
+        "supportsBothEachAndKgPricing": false,
+        "adId": null,
+        "brandSuggestionId": null,
+        "brandSuggestionName": null,
+        "priceUnitLabel": null,
+        "availabilityStatus": "In Stock",
+        "onlineSample": null,
+        "onlineSampleRealProductMapId": 0
+      },
+      {
+        "type": "Product",
+        "name": "pascall lollies party pack",
+        "barcode": "9300617074212",
+        "variety": "party pack",
+        "brand": "pascall",
+        "slug": "pascall-lollies-party-pack",
+        "sku": "818972",
+        "unit": "Each",
+        "selectedPurchasingUnit": null,
+        "price": {
+          "originalPrice": 3.09,
+          "salePrice": 3.09,
+          "savePrice": 0.00,
+          "savePercentage": 0.0,
+          "canShowSavings": true,
+          "hasBonusPoints": false,
+          "isClubPrice": false,
+          "isSpecial": false,
+          "isNew": false,
+          "canShowOriginalPrice": true,
+          "discount": null,
+          "total": null,
+          "isTargetedOffer": false,
+          "averagePricePerSingleUnit": null,
+          "isBoostOffer": false,
+          "purchasingUnitPrice": null,
+          "orderedPrice": null,
+          "isUsingOrderedPrice": false,
+          "currentPricingMatchesOrderedPricing": null,
+          "extendedListPrice": null,
+          "originalAveragePricePerSingleUnit": null
+        },
+        "images": {
+          "small": "https://assets.woolworths.com.au/images/2010/818972.jpg?impolicy=wowcdxwbjbx&w=65&h=65",
+          "big": "https://assets.woolworths.com.au/images/2010/818972.jpg?impolicy=wowcdxwbjbx&w=200&h=200"
+        },
+        "quantity": {
+          "min": 1.0,
+          "max": 100.0,
+          "increment": 1.0,
+          "value": null,
+          "quantityInOrder": null,
+          "purchasingQuantityString": null
+        },
+        "stockLevel": 3,
+        "eachUnitQuantity": null,
+        "averageWeightPerUnit": null,
+        "size": {
+          "cupListPrice": 1.72,
+          "cupPrice": 1.72,
+          "cupMeasure": "100g",
+          "packageType": null,
+          "volumeSize": "180g"
+        },
+        "hasShopperNotes": null,
+        "productTag": null,
+        "departments": [
+          {
+            "id": 7,
+            "name": "Pantry"
+          }
+        ],
+        "subsAllowed": false,
+        "supportsBothEachAndKgPricing": false,
+        "adId": null,
+        "brandSuggestionId": null,
+        "brandSuggestionName": null,
+        "priceUnitLabel": null,
+        "availabilityStatus": "In Stock",
+        "onlineSample": null,
+        "onlineSampleRealProductMapId": 0
+      },
+      {
+        "type": "Product",
+        "name": "kettle chip company chips original sea salt",
+        "barcode": "9414882453723",
+        "variety": "original sea salt",
+        "brand": "kettle chip company",
+        "slug": "kettle-chip-company-chips-original-sea-salt",
+        "sku": "679984",
+        "unit": "Each",
+        "selectedPurchasingUnit": null,
+        "price": {
+          "originalPrice": 4.69,
+          "salePrice": 2.9,
+          "savePrice": 1.79,
+          "savePercentage": 33.0,
+          "canShowSavings": true,
+          "hasBonusPoints": false,
+          "isClubPrice": false,
+          "isSpecial": true,
+          "isNew": false,
+          "canShowOriginalPrice": true,
+          "discount": null,
+          "total": null,
+          "isTargetedOffer": false,
+          "averagePricePerSingleUnit": null,
+          "isBoostOffer": false,
+          "purchasingUnitPrice": null,
+          "orderedPrice": null,
+          "isUsingOrderedPrice": false,
+          "currentPricingMatchesOrderedPricing": null,
+          "extendedListPrice": null,
+          "originalAveragePricePerSingleUnit": null
+        },
+        "images": {
+          "small": "https://assets.woolworths.com.au/images/2010/679984.jpg?impolicy=wowcdxwbjbx&w=65&h=65",
+          "big": "https://assets.woolworths.com.au/images/2010/679984.jpg?impolicy=wowcdxwbjbx&w=200&h=200"
+        },
+        "quantity": {
+          "min": 1.0,
+          "max": 100.0,
+          "increment": 1.0,
+          "value": null,
+          "quantityInOrder": null,
+          "purchasingQuantityString": null
+        },
+        "stockLevel": 3,
+        "eachUnitQuantity": null,
+        "averageWeightPerUnit": null,
+        "size": {
+          "cupListPrice": 3.1299999999999999999999999999,
+          "cupPrice": 1.9353944562899786780383795309,
+          "cupMeasure": "100g",
+          "packageType": null,
+          "volumeSize": "150g"
+        },
+        "hasShopperNotes": null,
+        "productTag": {
+          "tagType": "IsSpecial",
+          "multiBuy": null,
+          "bonusPoints": null,
+          "additionalTag": null,
+          "targetedOffer": null,
+          "boostOffer": null
+        },
+        "departments": [
+          {
+            "id": 7,
+            "name": "Pantry"
+          }
+        ],
+        "subsAllowed": false,
+        "supportsBothEachAndKgPricing": false,
+        "adId": null,
+        "brandSuggestionId": null,
+        "brandSuggestionName": null,
+        "priceUnitLabel": null,
+        "availabilityStatus": "In Stock",
+        "onlineSample": null,
+        "onlineSampleRealProductMapId": 0
+      },
+      {
+        "type": "Product",
+        "name": "griffins coconut biscuits krispies",
+        "barcode": "9400553015116",
+        "variety": "krispies",
+        "brand": "griffins",
+        "slug": "griffins-coconut-biscuits-krispies",
+        "sku": "28514",
+        "unit": "Each",
+        "selectedPurchasingUnit": null,
+        "price": {
+          "originalPrice": 3.79,
+          "salePrice": 3.79,
+          "savePrice": 0.00,
+          "savePercentage": 0.0,
+          "canShowSavings": true,
+          "hasBonusPoints": false,
+          "isClubPrice": false,
+          "isSpecial": false,
+          "isNew": false,
+          "canShowOriginalPrice": true,
+          "discount": null,
+          "total": null,
+          "isTargetedOffer": false,
+          "averagePricePerSingleUnit": null,
+          "isBoostOffer": false,
+          "purchasingUnitPrice": null,
+          "orderedPrice": null,
+          "isUsingOrderedPrice": false,
+          "currentPricingMatchesOrderedPricing": null,
+          "extendedListPrice": null,
+          "originalAveragePricePerSingleUnit": null
+        },
+        "images": {
+          "small": "https://assets.woolworths.com.au/images/2010/28514.jpg?impolicy=wowcdxwbjbx&w=65&h=65",
+          "big": "https://assets.woolworths.com.au/images/2010/28514.jpg?impolicy=wowcdxwbjbx&w=200&h=200"
+        },
+        "quantity": {
+          "min": 1.0,
+          "max": 100.0,
+          "increment": 1.0,
+          "value": null,
+          "quantityInOrder": null,
+          "purchasingQuantityString": null
+        },
+        "stockLevel": 3,
+        "eachUnitQuantity": null,
+        "averageWeightPerUnit": null,
+        "size": {
+          "cupListPrice": 1.52,
+          "cupPrice": 1.52,
+          "cupMeasure": "100g",
+          "packageType": null,
+          "volumeSize": "250g"
+        },
+        "hasShopperNotes": null,
+        "productTag": null,
+        "departments": [
+          {
+            "id": 7,
+            "name": "Pantry"
+          }
+        ],
+        "subsAllowed": false,
+        "supportsBothEachAndKgPricing": false,
+        "adId": null,
+        "brandSuggestionId": null,
+        "brandSuggestionName": null,
+        "priceUnitLabel": null,
+        "availabilityStatus": "In Stock",
+        "onlineSample": null,
+        "onlineSampleRealProductMapId": 0
+      },
+      {
+        "type": "Product",
+        "name": "arnotts cruskits light crispbread low fat",
+        "barcode": "9310072029795",
+        "variety": "low fat",
+        "brand": "arnotts cruskits",
+        "slug": "arnotts-cruskits-light-crispbread-low-fat",
+        "sku": "197462",
+        "unit": "Each",
+        "selectedPurchasingUnit": null,
+        "price": {
+          "originalPrice": 3.79,
+          "salePrice": 3.79,
+          "savePrice": 0.00,
+          "savePercentage": 0.0,
+          "canShowSavings": true,
+          "hasBonusPoints": false,
+          "isClubPrice": false,
+          "isSpecial": false,
+          "isNew": false,
+          "canShowOriginalPrice": true,
+          "discount": null,
+          "total": null,
+          "isTargetedOffer": false,
+          "averagePricePerSingleUnit": null,
+          "isBoostOffer": false,
+          "purchasingUnitPrice": null,
+          "orderedPrice": null,
+          "isUsingOrderedPrice": false,
+          "currentPricingMatchesOrderedPricing": null,
+          "extendedListPrice": null,
+          "originalAveragePricePerSingleUnit": null
+        },
+        "images": {
+          "small": "https://assets.woolworths.com.au/images/2010/197462.jpg?impolicy=wowcdxwbjbx&w=65&h=65",
+          "big": "https://assets.woolworths.com.au/images/2010/197462.jpg?impolicy=wowcdxwbjbx&w=200&h=200"
+        },
+        "quantity": {
+          "min": 1.0,
+          "max": 100.0,
+          "increment": 1.0,
+          "value": null,
+          "quantityInOrder": null,
+          "purchasingQuantityString": null
+        },
+        "stockLevel": 3,
+        "eachUnitQuantity": null,
+        "averageWeightPerUnit": null,
+        "size": {
+          "cupListPrice": 3.0300000000000000000000000001,
+          "cupPrice": 3.0300000000000000000000000001,
+          "cupMeasure": "100g",
+          "packageType": null,
+          "volumeSize": "125g"
+        },
+        "hasShopperNotes": null,
+        "productTag": null,
+        "departments": [
+          {
+            "id": 7,
+            "name": "Pantry"
+          }
+        ],
+        "subsAllowed": false,
+        "supportsBothEachAndKgPricing": false,
+        "adId": null,
+        "brandSuggestionId": null,
+        "brandSuggestionName": null,
+        "priceUnitLabel": null,
+        "availabilityStatus": "In Stock",
+        "onlineSample": null,
+        "onlineSampleRealProductMapId": 0
+      },
+      {
+        "type": "Product",
+        "name": "mother earth oaty slices oat bars apricot chocolate",
+        "barcode": "9400550638110",
+        "variety": "apricot chocolate",
+        "brand": "mother earth oaty slices",
+        "slug": "mother-earth-oaty-slices-oat-bars-apricot-chocolate",
+        "sku": "293067",
+        "unit": "Each",
+        "selectedPurchasingUnit": null,
+        "price": {
+          "originalPrice": 5.0,
+          "salePrice": 5.0,
+          "savePrice": 0.0,
+          "savePercentage": 0.0,
+          "canShowSavings": true,
+          "hasBonusPoints": false,
+          "isClubPrice": false,
+          "isSpecial": false,
+          "isNew": false,
+          "canShowOriginalPrice": true,
+          "discount": null,
+          "total": null,
+          "isTargetedOffer": false,
+          "averagePricePerSingleUnit": null,
+          "isBoostOffer": false,
+          "purchasingUnitPrice": null,
+          "orderedPrice": null,
+          "isUsingOrderedPrice": false,
+          "currentPricingMatchesOrderedPricing": null,
+          "extendedListPrice": null,
+          "originalAveragePricePerSingleUnit": null
+        },
+        "images": {
+          "small": "https://assets.woolworths.com.au/images/2010/293067.jpg?impolicy=wowcdxwbjbx&w=65&h=65",
+          "big": "https://assets.woolworths.com.au/images/2010/293067.jpg?impolicy=wowcdxwbjbx&w=200&h=200"
+        },
+        "quantity": {
+          "min": 1.0,
+          "max": 100.0,
+          "increment": 1.0,
+          "value": null,
+          "quantityInOrder": null,
+          "purchasingQuantityString": null
+        },
+        "stockLevel": 3,
+        "eachUnitQuantity": null,
+        "averageWeightPerUnit": null,
+        "size": {
+          "cupListPrice": 2.08,
+          "cupPrice": 2.08,
+          "cupMeasure": "100g",
+          "packageType": "6pk",
+          "volumeSize": "240g"
+        },
+        "hasShopperNotes": null,
+        "productTag": null,
+        "departments": [
+          {
+            "id": 7,
+            "name": "Pantry"
+          }
+        ],
+        "subsAllowed": false,
+        "supportsBothEachAndKgPricing": false,
+        "adId": null,
+        "brandSuggestionId": null,
+        "brandSuggestionName": null,
+        "priceUnitLabel": null,
+        "availabilityStatus": "In Stock",
+        "onlineSample": null,
+        "onlineSampleRealProductMapId": 0
+      },
+      {
+        "type": "Product",
+        "name": "la molisana pasta rigatoni divini no. 31",
+        "barcode": "8004690313183",
+        "variety": "rigatoni divini no. 31",
+        "brand": "la molisana",
+        "slug": "la-molisana-pasta-rigatoni-divini-no-31",
+        "sku": "74791",
+        "unit": "Each",
+        "selectedPurchasingUnit": null,
+        "price": {
+          "originalPrice": 3.5,
+          "salePrice": 3.5,
+          "savePrice": 0.0,
+          "savePercentage": 0.0,
+          "canShowSavings": true,
+          "hasBonusPoints": false,
+          "isClubPrice": false,
+          "isSpecial": false,
+          "isNew": false,
+          "canShowOriginalPrice": true,
+          "discount": null,
+          "total": null,
+          "isTargetedOffer": false,
+          "averagePricePerSingleUnit": null,
+          "isBoostOffer": false,
+          "purchasingUnitPrice": null,
+          "orderedPrice": null,
+          "isUsingOrderedPrice": false,
+          "currentPricingMatchesOrderedPricing": null,
+          "extendedListPrice": null,
+          "originalAveragePricePerSingleUnit": null
+        },
+        "images": {
+          "small": "https://assets.woolworths.com.au/images/2010/74791.jpg?impolicy=wowcdxwbjbx&w=65&h=65",
+          "big": "https://assets.woolworths.com.au/images/2010/74791.jpg?impolicy=wowcdxwbjbx&w=200&h=200"
+        },
+        "quantity": {
+          "min": 1.0,
+          "max": 100.0,
+          "increment": 1.0,
+          "value": null,
+          "quantityInOrder": null,
+          "purchasingQuantityString": null
+        },
+        "stockLevel": 3,
+        "eachUnitQuantity": null,
+        "averageWeightPerUnit": null,
+        "size": {
+          "cupListPrice": 0.7,
+          "cupPrice": 0.7,
+          "cupMeasure": "100g",
+          "packageType": null,
+          "volumeSize": "500g"
+        },
+        "hasShopperNotes": null,
+        "productTag": {
+          "tagType": "IsMultiBuy",
+          "multiBuy": {
+            "quantity": 2.0,
+            "value": 5.000,
+            "link": "/shop/productgroup/185678",
+            "multiCupValue": 0.500
+          },
+          "bonusPoints": null,
+          "additionalTag": null,
+          "targetedOffer": null,
+          "boostOffer": null
+        },
+        "departments": [
+          {
+            "id": 7,
+            "name": "Pantry"
+          }
+        ],
+        "subsAllowed": false,
+        "supportsBothEachAndKgPricing": false,
+        "adId": null,
+        "brandSuggestionId": null,
+        "brandSuggestionName": null,
+        "priceUnitLabel": null,
+        "availabilityStatus": "In Stock",
+        "onlineSample": null,
+        "onlineSampleRealProductMapId": 0
+      },
+      {
+        "type": "Product",
+        "name": "freshlife pine nuts ",
+        "barcode": "9337810109229",
+        "variety": null,
+        "brand": "freshlife",
+        "slug": "freshlife-pine-nuts",
+        "sku": "946426",
+        "unit": "Each",
+        "selectedPurchasingUnit": null,
+        "price": {
+          "originalPrice": 4.9,
+          "salePrice": 4.9,
+          "savePrice": 0.0,
+          "savePercentage": 0.0,
+          "canShowSavings": true,
+          "hasBonusPoints": false,
+          "isClubPrice": false,
+          "isSpecial": false,
+          "isNew": false,
+          "canShowOriginalPrice": true,
+          "discount": null,
+          "total": null,
+          "isTargetedOffer": false,
+          "averagePricePerSingleUnit": null,
+          "isBoostOffer": false,
+          "purchasingUnitPrice": null,
+          "orderedPrice": null,
+          "isUsingOrderedPrice": false,
+          "currentPricingMatchesOrderedPricing": null,
+          "extendedListPrice": null,
+          "originalAveragePricePerSingleUnit": null
+        },
+        "images": {
+          "small": "https://assets.woolworths.com.au/images/2010/946426.jpg?impolicy=wowcdxwbjbx&w=65&h=65",
+          "big": "https://assets.woolworths.com.au/images/2010/946426.jpg?impolicy=wowcdxwbjbx&w=200&h=200"
+        },
+        "quantity": {
+          "min": 1.0,
+          "max": 100.0,
+          "increment": 1.0,
+          "value": null,
+          "quantityInOrder": null,
+          "purchasingQuantityString": null
+        },
+        "stockLevel": 3,
+        "eachUnitQuantity": null,
+        "averageWeightPerUnit": null,
+        "size": {
+          "cupListPrice": 7.86,
+          "cupPrice": 7.0,
+          "cupMeasure": "100g",
+          "packageType": null,
+          "volumeSize": "70g"
+        },
+        "hasShopperNotes": null,
+        "productTag": {
+          "tagType": "IsGreatPrice",
+          "multiBuy": null,
+          "bonusPoints": null,
+          "additionalTag": null,
+          "targetedOffer": null,
+          "boostOffer": null
+        },
+        "departments": [
+          {
+            "id": 7,
+            "name": "Pantry"
+          }
+        ],
+        "subsAllowed": false,
+        "supportsBothEachAndKgPricing": false,
+        "adId": null,
+        "brandSuggestionId": null,
+        "brandSuggestionName": null,
+        "priceUnitLabel": null,
+        "availabilityStatus": "In Stock",
+        "onlineSample": null,
+        "onlineSampleRealProductMapId": 0
+      },
+      {
+        "type": "Product",
+        "name": "woolworths popcorn microwave sweet & salty",
+        "barcode": "9400597019132",
+        "variety": "microwave sweet & salty",
+        "brand": "woolworths",
+        "slug": "woolworths-popcorn-microwave-sweet-salty",
+        "sku": "519003",
+        "unit": "Each",
+        "selectedPurchasingUnit": null,
+        "price": {
+          "originalPrice": 1.2,
+          "salePrice": 1.2,
+          "savePrice": 0.0,
+          "savePercentage": 0.0,
+          "canShowSavings": true,
+          "hasBonusPoints": false,
+          "isClubPrice": false,
+          "isSpecial": false,
+          "isNew": false,
+          "canShowOriginalPrice": true,
+          "discount": null,
+          "total": null,
+          "isTargetedOffer": false,
+          "averagePricePerSingleUnit": null,
+          "isBoostOffer": false,
+          "purchasingUnitPrice": null,
+          "orderedPrice": null,
+          "isUsingOrderedPrice": false,
+          "currentPricingMatchesOrderedPricing": null,
+          "extendedListPrice": null,
+          "originalAveragePricePerSingleUnit": null
+        },
+        "images": {
+          "small": "https://assets.woolworths.com.au/images/2010/519003.jpg?impolicy=wowcdxwbjbx&w=65&h=65",
+          "big": "https://assets.woolworths.com.au/images/2010/519003.jpg?impolicy=wowcdxwbjbx&w=200&h=200"
+        },
+        "quantity": {
+          "min": 1.0,
+          "max": 100.0,
+          "increment": 1.0,
+          "value": null,
+          "quantityInOrder": null,
+          "purchasingQuantityString": null
+        },
+        "stockLevel": 3,
+        "eachUnitQuantity": null,
+        "averageWeightPerUnit": null,
+        "size": {
+          "cupListPrice": 1.41,
+          "cupPrice": 1.41,
+          "cupMeasure": "100g",
+          "packageType": "",
+          "volumeSize": "85g"
+        },
+        "hasShopperNotes": null,
+        "productTag": {
+          "tagType": "Other",
+          "multiBuy": null,
+          "bonusPoints": null,
+          "additionalTag": {
+            "name": "Countdown's Own",
+            "link": "/shop/productgroup/80842",
+            "imagePath": "/Content/PromotionTags/F24_Own_brand.png",
+            "linkTarget": "_self",
+            "altText": null
+          },
+          "targetedOffer": null,
+          "boostOffer": null
+        },
+        "departments": [
+          {
+            "id": 7,
+            "name": "Pantry"
+          }
+        ],
+        "subsAllowed": false,
+        "supportsBothEachAndKgPricing": false,
+        "adId": null,
+        "brandSuggestionId": null,
+        "brandSuggestionName": null,
+        "priceUnitLabel": null,
+        "availabilityStatus": "In Stock",
+        "onlineSample": null,
+        "onlineSampleRealProductMapId": 0
+      },
+      {
+        "type": "Product",
+        "name": "woolworths black pepper ground",
+        "barcode": "9400597029612",
+        "variety": "ground",
+        "brand": "woolworths",
+        "slug": "woolworths-black-pepper-ground",
+        "sku": "65582",
+        "unit": "Each",
+        "selectedPurchasingUnit": null,
+        "price": {
+          "originalPrice": 2.9,
+          "salePrice": 2.9,
+          "savePrice": 0.0,
+          "savePercentage": 0.0,
+          "canShowSavings": true,
+          "hasBonusPoints": false,
+          "isClubPrice": false,
+          "isSpecial": false,
+          "isNew": false,
+          "canShowOriginalPrice": true,
+          "discount": null,
+          "total": null,
+          "isTargetedOffer": false,
+          "averagePricePerSingleUnit": null,
+          "isBoostOffer": false,
+          "purchasingUnitPrice": null,
+          "orderedPrice": null,
+          "isUsingOrderedPrice": false,
+          "currentPricingMatchesOrderedPricing": null,
+          "extendedListPrice": null,
+          "originalAveragePricePerSingleUnit": null
+        },
+        "images": {
+          "small": "https://assets.woolworths.com.au/images/2010/65582.jpg?impolicy=wowcdxwbjbx&w=65&h=65",
+          "big": "https://assets.woolworths.com.au/images/2010/65582.jpg?impolicy=wowcdxwbjbx&w=200&h=200"
+        },
+        "quantity": {
+          "min": 1.0,
+          "max": 100.0,
+          "increment": 1.0,
+          "value": null,
+          "quantityInOrder": null,
+          "purchasingQuantityString": null
+        },
+        "stockLevel": 3,
+        "eachUnitQuantity": null,
+        "averageWeightPerUnit": null,
+        "size": {
+          "cupListPrice": 0.6,
+          "cupPrice": 0.58,
+          "cupMeasure": "10g",
+          "packageType": "shaker",
+          "volumeSize": "50g"
+        },
+        "hasShopperNotes": null,
+        "productTag": {
+          "tagType": "IsGreatPrice",
+          "multiBuy": null,
+          "bonusPoints": null,
+          "additionalTag": null,
+          "targetedOffer": null,
+          "boostOffer": null
+        },
+        "departments": [
+          {
+            "id": 7,
+            "name": "Pantry"
+          }
+        ],
+        "subsAllowed": false,
+        "supportsBothEachAndKgPricing": false,
+        "adId": null,
+        "brandSuggestionId": null,
+        "brandSuggestionName": null,
+        "priceUnitLabel": null,
+        "availabilityStatus": "In Stock",
+        "onlineSample": null,
+        "onlineSampleRealProductMapId": 0
+      },
+      {
+        "type": "Product",
+        "name": "woolworths coconut fine desiccated",
+        "barcode": "9300633341732",
+        "variety": "fine desiccated",
+        "brand": "woolworths",
+        "slug": "woolworths-coconut-fine-desiccated",
+        "sku": "740029",
+        "unit": "Each",
+        "selectedPurchasingUnit": null,
+        "price": {
+          "originalPrice": 2.49,
+          "salePrice": 2.49,
+          "savePrice": 0.00,
+          "savePercentage": 0.0,
+          "canShowSavings": true,
+          "hasBonusPoints": false,
+          "isClubPrice": false,
+          "isSpecial": false,
+          "isNew": false,
+          "canShowOriginalPrice": true,
+          "discount": null,
+          "total": null,
+          "isTargetedOffer": false,
+          "averagePricePerSingleUnit": null,
+          "isBoostOffer": false,
+          "purchasingUnitPrice": null,
+          "orderedPrice": null,
+          "isUsingOrderedPrice": false,
+          "currentPricingMatchesOrderedPricing": null,
+          "extendedListPrice": null,
+          "originalAveragePricePerSingleUnit": null
+        },
+        "images": {
+          "small": "https://assets.woolworths.com.au/images/2010/740029.jpg?impolicy=wowcdxwbjbx&w=65&h=65",
+          "big": "https://assets.woolworths.com.au/images/2010/740029.jpg?impolicy=wowcdxwbjbx&w=200&h=200"
+        },
+        "quantity": {
+          "min": 1.0,
+          "max": 100.0,
+          "increment": 1.0,
+          "value": null,
+          "quantityInOrder": null,
+          "purchasingQuantityString": null
+        },
+        "stockLevel": 3,
+        "eachUnitQuantity": null,
+        "averageWeightPerUnit": null,
+        "size": {
+          "cupListPrice": 9.96,
+          "cupPrice": 9.96,
+          "cupMeasure": "1kg",
+          "packageType": null,
+          "volumeSize": "250g"
+        },
+        "hasShopperNotes": null,
+        "productTag": {
+          "tagType": "Other",
+          "multiBuy": null,
+          "bonusPoints": null,
+          "additionalTag": {
+            "name": "Countdown's Own",
+            "link": "/shop/productgroup/80842",
+            "imagePath": "/Content/PromotionTags/F24_Own_brand.png",
+            "linkTarget": "_self",
+            "altText": null
+          },
+          "targetedOffer": null,
+          "boostOffer": null
+        },
+        "departments": [
+          {
+            "id": 7,
+            "name": "Pantry"
+          }
+        ],
+        "subsAllowed": false,
+        "supportsBothEachAndKgPricing": false,
+        "adId": null,
+        "brandSuggestionId": null,
+        "brandSuggestionName": null,
+        "priceUnitLabel": null,
+        "availabilityStatus": "In Stock",
+        "onlineSample": null,
+        "onlineSampleRealProductMapId": 0
+      },
+      {
+        "type": "Product",
+        "name": "woolworths chocolate biscuits chocy slams",
+        "barcode": "9300633626204",
+        "variety": "chocy slams",
+        "brand": "woolworths",
+        "slug": "woolworths-chocolate-biscuits-chocy-slams",
+        "sku": "545457",
+        "unit": "Each",
+        "selectedPurchasingUnit": null,
+        "price": {
+          "originalPrice": 3.09,
+          "salePrice": 3.09,
+          "savePrice": 0.00,
+          "savePercentage": 0.0,
+          "canShowSavings": true,
+          "hasBonusPoints": false,
+          "isClubPrice": false,
+          "isSpecial": false,
+          "isNew": false,
+          "canShowOriginalPrice": true,
+          "discount": null,
+          "total": null,
+          "isTargetedOffer": false,
+          "averagePricePerSingleUnit": null,
+          "isBoostOffer": false,
+          "purchasingUnitPrice": null,
+          "orderedPrice": null,
+          "isUsingOrderedPrice": false,
+          "currentPricingMatchesOrderedPricing": null,
+          "extendedListPrice": null,
+          "originalAveragePricePerSingleUnit": null
+        },
+        "images": {
+          "small": "https://assets.woolworths.com.au/images/2010/545457.jpg?impolicy=wowcdxwbjbx&w=65&h=65",
+          "big": "https://assets.woolworths.com.au/images/2010/545457.jpg?impolicy=wowcdxwbjbx&w=200&h=200"
+        },
+        "quantity": {
+          "min": 1.0,
+          "max": 100.0,
+          "increment": 1.0,
+          "value": null,
+          "quantityInOrder": null,
+          "purchasingQuantityString": null
+        },
+        "stockLevel": 3,
+        "eachUnitQuantity": null,
+        "averageWeightPerUnit": null,
+        "size": {
+          "cupListPrice": 1.55,
+          "cupPrice": 1.55,
+          "cupMeasure": "100g",
+          "packageType": null,
+          "volumeSize": "200g"
+        },
+        "hasShopperNotes": null,
+        "productTag": {
+          "tagType": "Other",
+          "multiBuy": null,
+          "bonusPoints": null,
+          "additionalTag": {
+            "name": "Countdown's Own",
+            "link": "/shop/productgroup/80842",
+            "imagePath": "/Content/PromotionTags/F24_Own_brand.png",
+            "linkTarget": "_self",
+            "altText": null
+          },
+          "targetedOffer": null,
+          "boostOffer": null
+        },
+        "departments": [
+          {
+            "id": 15,
+            "name": "Christmas"
+          }
+        ],
+        "subsAllowed": false,
+        "supportsBothEachAndKgPricing": false,
+        "adId": null,
+        "brandSuggestionId": null,
+        "brandSuggestionName": null,
+        "priceUnitLabel": null,
+        "availabilityStatus": "In Stock",
+        "onlineSample": null,
+        "onlineSampleRealProductMapId": 0
+      },
+      {
+        "type": "Product",
+        "name": "essentials peaches in syrup",
+        "barcode": "9400597032889",
+        "variety": "in syrup",
+        "brand": "essentials",
+        "slug": "essentials-peaches-in-syrup",
+        "sku": "97495",
+        "unit": "Each",
+        "selectedPurchasingUnit": null,
+        "price": {
+          "originalPrice": 1.7,
+          "salePrice": 1.7,
+          "savePrice": 0.0,
+          "savePercentage": 0.0,
+          "canShowSavings": true,
+          "hasBonusPoints": false,
+          "isClubPrice": false,
+          "isSpecial": false,
+          "isNew": false,
+          "canShowOriginalPrice": true,
+          "discount": null,
+          "total": null,
+          "isTargetedOffer": false,
+          "averagePricePerSingleUnit": null,
+          "isBoostOffer": false,
+          "purchasingUnitPrice": null,
+          "orderedPrice": null,
+          "isUsingOrderedPrice": false,
+          "currentPricingMatchesOrderedPricing": null,
+          "extendedListPrice": null,
+          "originalAveragePricePerSingleUnit": null
+        },
+        "images": {
+          "small": "https://assets.woolworths.com.au/images/2010/97495.jpg?impolicy=wowcdxwbjbx&w=65&h=65",
+          "big": "https://assets.woolworths.com.au/images/2010/97495.jpg?impolicy=wowcdxwbjbx&w=200&h=200"
+        },
+        "quantity": {
+          "min": 1.0,
+          "max": 100.0,
+          "increment": 1.0,
+          "value": null,
+          "quantityInOrder": null,
+          "purchasingQuantityString": null
+        },
+        "stockLevel": 3,
+        "eachUnitQuantity": null,
+        "averageWeightPerUnit": null,
+        "size": {
+          "cupListPrice": 4.0999999999999999999999999996,
+          "cupPrice": 4.0999999999999999999999999996,
+          "cupMeasure": "1kg",
+          "packageType": "can",
+          "volumeSize": "415g"
+        },
+        "hasShopperNotes": null,
+        "productTag": {
+          "tagType": "IsGreatPrice",
+          "multiBuy": null,
+          "bonusPoints": null,
+          "additionalTag": null,
+          "targetedOffer": null,
+          "boostOffer": null
+        },
+        "departments": [
+          {
+            "id": 7,
+            "name": "Pantry"
+          }
+        ],
+        "subsAllowed": false,
+        "supportsBothEachAndKgPricing": false,
+        "adId": null,
+        "brandSuggestionId": null,
+        "brandSuggestionName": null,
+        "priceUnitLabel": null,
+        "availabilityStatus": "In Stock",
+        "onlineSample": null,
+        "onlineSampleRealProductMapId": 0
+      },
+      {
+        "type": "Product",
+        "name": "vegemite yeast spread ",
+        "barcode": "9300650018945",
+        "variety": null,
+        "brand": "vegemite",
+        "slug": "vegemite-yeast-spread",
+        "sku": "796439",
+        "unit": "Each",
+        "selectedPurchasingUnit": null,
+        "price": {
+          "originalPrice": 8.29,
+          "salePrice": 8.29,
+          "savePrice": 0.00,
+          "savePercentage": 0.0,
+          "canShowSavings": true,
+          "hasBonusPoints": false,
+          "isClubPrice": false,
+          "isSpecial": false,
+          "isNew": false,
+          "canShowOriginalPrice": true,
+          "discount": null,
+          "total": null,
+          "isTargetedOffer": false,
+          "averagePricePerSingleUnit": null,
+          "isBoostOffer": false,
+          "purchasingUnitPrice": null,
+          "orderedPrice": null,
+          "isUsingOrderedPrice": false,
+          "currentPricingMatchesOrderedPricing": null,
+          "extendedListPrice": null,
+          "originalAveragePricePerSingleUnit": null
+        },
+        "images": {
+          "small": "https://assets.woolworths.com.au/images/2010/796439.jpg?impolicy=wowcdxwbjbx&w=65&h=65",
+          "big": "https://assets.woolworths.com.au/images/2010/796439.jpg?impolicy=wowcdxwbjbx&w=200&h=200"
+        },
+        "quantity": {
+          "min": 1.0,
+          "max": 100.0,
+          "increment": 1.0,
+          "value": null,
+          "quantityInOrder": null,
+          "purchasingQuantityString": null
+        },
+        "stockLevel": 3,
+        "eachUnitQuantity": null,
+        "averageWeightPerUnit": null,
+        "size": {
+          "cupListPrice": 2.18,
+          "cupPrice": 2.18,
+          "cupMeasure": "100g",
+          "packageType": null,
+          "volumeSize": "380g"
+        },
+        "hasShopperNotes": null,
+        "productTag": null,
+        "departments": [
+          {
+            "id": 7,
+            "name": "Pantry"
+          }
+        ],
+        "subsAllowed": false,
+        "supportsBothEachAndKgPricing": false,
+        "adId": null,
+        "brandSuggestionId": null,
+        "brandSuggestionName": null,
+        "priceUnitLabel": null,
+        "availabilityStatus": "In Stock",
+        "onlineSample": null,
+        "onlineSampleRealProductMapId": 0
+      },
+      {
+        "type": "Product",
+        "name": "woolworths tuna in oil",
+        "barcode": "9300633584542",
+        "variety": "in oil",
+        "brand": "woolworths",
+        "slug": "woolworths-tuna-in-oil",
+        "sku": "476701",
+        "unit": "Each",
+        "selectedPurchasingUnit": null,
+        "price": {
+          "originalPrice": 1.4,
+          "salePrice": 1.4,
+          "savePrice": 0.0,
+          "savePercentage": 0.0,
+          "canShowSavings": true,
+          "hasBonusPoints": false,
+          "isClubPrice": false,
+          "isSpecial": false,
+          "isNew": false,
+          "canShowOriginalPrice": true,
+          "discount": null,
+          "total": null,
+          "isTargetedOffer": false,
+          "averagePricePerSingleUnit": null,
+          "isBoostOffer": false,
+          "purchasingUnitPrice": null,
+          "orderedPrice": null,
+          "isUsingOrderedPrice": false,
+          "currentPricingMatchesOrderedPricing": null,
+          "extendedListPrice": null,
+          "originalAveragePricePerSingleUnit": null
+        },
+        "images": {
+          "small": "https://assets.woolworths.com.au/images/2010/476701.jpg?impolicy=wowcdxwbjbx&w=65&h=65",
+          "big": "https://assets.woolworths.com.au/images/2010/476701.jpg?impolicy=wowcdxwbjbx&w=200&h=200"
+        },
+        "quantity": {
+          "min": 1.0,
+          "max": 100.0,
+          "increment": 1.0,
+          "value": null,
+          "quantityInOrder": null,
+          "purchasingQuantityString": null
+        },
+        "stockLevel": 3,
+        "eachUnitQuantity": null,
+        "averageWeightPerUnit": null,
+        "size": {
+          "cupListPrice": 14.739999999999999999999999998,
+          "cupPrice": 14.739999999999999999999999998,
+          "cupMeasure": "1kg",
+          "packageType": "tear tab can",
+          "volumeSize": "95g"
+        },
+        "hasShopperNotes": null,
+        "productTag": {
+          "tagType": "IsGreatPriceMultiBuy",
+          "multiBuy": {
+            "quantity": 4.0,
+            "value": 5.000,
+            "link": "/shop/productgroup/181861",
+            "multiCupValue": 13.158
+          },
+          "bonusPoints": null,
+          "additionalTag": null,
+          "targetedOffer": null,
+          "boostOffer": null
+        },
+        "departments": [
+          {
+            "id": 7,
+            "name": "Pantry"
+          }
+        ],
+        "subsAllowed": false,
+        "supportsBothEachAndKgPricing": false,
+        "adId": null,
+        "brandSuggestionId": null,
+        "brandSuggestionName": null,
+        "priceUnitLabel": null,
+        "availabilityStatus": "In Stock",
+        "onlineSample": null,
+        "onlineSampleRealProductMapId": 0
+      },
+      {
+        "type": "Product",
+        "name": "pop n good popcorn lunch pack 120g",
+        "barcode": "9415359121510",
+        "variety": "lunch pack 120g",
+        "brand": "pop n good",
+        "slug": "pop-n-good-popcorn-lunch-pack-120g",
+        "sku": "354296",
+        "unit": "Each",
+        "selectedPurchasingUnit": null,
+        "price": {
+          "originalPrice": 6.69,
+          "salePrice": 5.8,
+          "savePrice": 0.89,
+          "savePercentage": 0.0,
+          "canShowSavings": true,
+          "hasBonusPoints": false,
+          "isClubPrice": true,
+          "isSpecial": true,
+          "isNew": false,
+          "canShowOriginalPrice": true,
+          "discount": null,
+          "total": null,
+          "isTargetedOffer": false,
+          "averagePricePerSingleUnit": null,
+          "isBoostOffer": false,
+          "purchasingUnitPrice": null,
+          "orderedPrice": null,
+          "isUsingOrderedPrice": false,
+          "currentPricingMatchesOrderedPricing": null,
+          "extendedListPrice": null,
+          "originalAveragePricePerSingleUnit": null
+        },
+        "images": {
+          "small": "https://assets.woolworths.com.au/images/2010/354296.jpg?impolicy=wowcdxwbjbx&w=65&h=65",
+          "big": "https://assets.woolworths.com.au/images/2010/354296.jpg?impolicy=wowcdxwbjbx&w=200&h=200"
+        },
+        "quantity": {
+          "min": 1.0,
+          "max": 100.0,
+          "increment": 1.0,
+          "value": null,
+          "quantityInOrder": null,
+          "purchasingQuantityString": null
+        },
+        "stockLevel": 3,
+        "eachUnitQuantity": null,
+        "averageWeightPerUnit": null,
+        "size": {
+          "cupListPrice": 5.58,
+          "cupPrice": 4.83,
+          "cupMeasure": "100g",
+          "packageType": null,
+          "volumeSize": "10pack"
+        },
+        "hasShopperNotes": null,
+        "productTag": {
+          "tagType": "IsClubPrice",
+          "multiBuy": null,
+          "bonusPoints": null,
+          "additionalTag": null,
+          "targetedOffer": null,
+          "boostOffer": null
+        },
+        "departments": [
+          {
+            "id": 7,
+            "name": "Pantry"
+          }
+        ],
+        "subsAllowed": false,
+        "supportsBothEachAndKgPricing": false,
+        "adId": null,
+        "brandSuggestionId": null,
+        "brandSuggestionName": null,
+        "priceUnitLabel": null,
+        "availabilityStatus": "In Stock",
+        "onlineSample": null,
+        "onlineSampleRealProductMapId": 0
+      },
+      {
+        "type": "Product",
+        "name": "griffins malt biscuits ",
+        "barcode": "9400553438779",
+        "variety": null,
+        "brand": "griffins",
+        "slug": "griffins-malt-biscuits",
+        "sku": "335760",
+        "unit": "Each",
+        "selectedPurchasingUnit": null,
+        "price": {
+          "originalPrice": 3.79,
+          "salePrice": 3.79,
+          "savePrice": 0.00,
+          "savePercentage": 0.0,
+          "canShowSavings": true,
+          "hasBonusPoints": false,
+          "isClubPrice": false,
+          "isSpecial": false,
+          "isNew": false,
+          "canShowOriginalPrice": true,
+          "discount": null,
+          "total": null,
+          "isTargetedOffer": false,
+          "averagePricePerSingleUnit": null,
+          "isBoostOffer": false,
+          "purchasingUnitPrice": null,
+          "orderedPrice": null,
+          "isUsingOrderedPrice": false,
+          "currentPricingMatchesOrderedPricing": null,
+          "extendedListPrice": null,
+          "originalAveragePricePerSingleUnit": null
+        },
+        "images": {
+          "small": "https://assets.woolworths.com.au/images/2010/335760.jpg?impolicy=wowcdxwbjbx&w=65&h=65",
+          "big": "https://assets.woolworths.com.au/images/2010/335760.jpg?impolicy=wowcdxwbjbx&w=200&h=200"
+        },
+        "quantity": {
+          "min": 1.0,
+          "max": 100.0,
+          "increment": 1.0,
+          "value": null,
+          "quantityInOrder": null,
+          "purchasingQuantityString": null
+        },
+        "stockLevel": 3,
+        "eachUnitQuantity": null,
+        "averageWeightPerUnit": null,
+        "size": {
+          "cupListPrice": 1.52,
+          "cupPrice": 1.52,
+          "cupMeasure": "100g",
+          "packageType": null,
+          "volumeSize": "250g"
+        },
+        "hasShopperNotes": null,
+        "productTag": null,
+        "departments": [
+          {
+            "id": 7,
+            "name": "Pantry"
+          }
+        ],
+        "subsAllowed": false,
+        "supportsBothEachAndKgPricing": false,
+        "adId": null,
+        "brandSuggestionId": null,
+        "brandSuggestionName": null,
+        "priceUnitLabel": null,
+        "availabilityStatus": "In Stock",
+        "onlineSample": null,
+        "onlineSampleRealProductMapId": 0
+      },
+      {
+        "type": "Product",
+        "name": "leggo's passata classic tomato",
+        "barcode": "9300645019629",
+        "variety": "classic tomato",
+        "brand": "leggo's",
+        "slug": "leggo-s-passata-classic-tomato",
+        "sku": "250961",
+        "unit": "Each",
+        "selectedPurchasingUnit": null,
+        "price": {
+          "originalPrice": 4.39,
+          "salePrice": 4.39,
+          "savePrice": 0.00,
+          "savePercentage": 0.0,
+          "canShowSavings": true,
+          "hasBonusPoints": false,
+          "isClubPrice": false,
+          "isSpecial": false,
+          "isNew": false,
+          "canShowOriginalPrice": true,
+          "discount": null,
+          "total": null,
+          "isTargetedOffer": false,
+          "averagePricePerSingleUnit": null,
+          "isBoostOffer": false,
+          "purchasingUnitPrice": null,
+          "orderedPrice": null,
+          "isUsingOrderedPrice": false,
+          "currentPricingMatchesOrderedPricing": null,
+          "extendedListPrice": null,
+          "originalAveragePricePerSingleUnit": null
+        },
+        "images": {
+          "small": "https://assets.woolworths.com.au/images/2010/250961.jpg?impolicy=wowcdxwbjbx&w=65&h=65",
+          "big": "https://assets.woolworths.com.au/images/2010/250961.jpg?impolicy=wowcdxwbjbx&w=200&h=200"
+        },
+        "quantity": {
+          "min": 1.0,
+          "max": 100.0,
+          "increment": 1.0,
+          "value": null,
+          "quantityInOrder": null,
+          "purchasingQuantityString": null
+        },
+        "stockLevel": 3,
+        "eachUnitQuantity": null,
+        "averageWeightPerUnit": null,
+        "size": {
+          "cupListPrice": 0.63,
+          "cupPrice": 0.63,
+          "cupMeasure": "100g",
+          "packageType": "",
+          "volumeSize": "700g"
+        },
+        "hasShopperNotes": null,
+        "productTag": null,
+        "departments": [
+          {
+            "id": 7,
+            "name": "Pantry"
+          }
+        ],
+        "subsAllowed": false,
+        "supportsBothEachAndKgPricing": false,
+        "adId": null,
+        "brandSuggestionId": null,
+        "brandSuggestionName": null,
+        "priceUnitLabel": null,
+        "availabilityStatus": "In Stock",
+        "onlineSample": null,
+        "onlineSampleRealProductMapId": 0
+      },
+      {
+        "type": "Product",
+        "name": "pascall marshmallows jumbo size pink & white",
+        "barcode": "9300617043003",
+        "variety": "jumbo size pink & white",
+        "brand": "pascall",
+        "slug": "pascall-marshmallows-jumbo-size-pink-white",
+        "sku": "828998",
+        "unit": "Each",
+        "selectedPurchasingUnit": null,
+        "price": {
+          "originalPrice": 6.5,
+          "salePrice": 5.8,
+          "savePrice": 0.7,
+          "savePercentage": 0.0,
+          "canShowSavings": true,
+          "hasBonusPoints": false,
+          "isClubPrice": false,
+          "isSpecial": true,
+          "isNew": false,
+          "canShowOriginalPrice": true,
+          "discount": null,
+          "total": null,
+          "isTargetedOffer": false,
+          "averagePricePerSingleUnit": null,
+          "isBoostOffer": false,
+          "purchasingUnitPrice": null,
+          "orderedPrice": null,
+          "isUsingOrderedPrice": false,
+          "currentPricingMatchesOrderedPricing": null,
+          "extendedListPrice": null,
+          "originalAveragePricePerSingleUnit": null
+        },
+        "images": {
+          "small": "https://assets.woolworths.com.au/images/2010/828998.jpg?impolicy=wowcdxwbjbx&w=65&h=65",
+          "big": "https://assets.woolworths.com.au/images/2010/828998.jpg?impolicy=wowcdxwbjbx&w=200&h=200"
+        },
+        "quantity": {
+          "min": 1.0,
+          "max": 100.0,
+          "increment": 1.0,
+          "value": null,
+          "quantityInOrder": null,
+          "purchasingQuantityString": null
+        },
+        "stockLevel": 3,
+        "eachUnitQuantity": null,
+        "averageWeightPerUnit": null,
+        "size": {
+          "cupListPrice": 1.25,
+          "cupPrice": 1.1153846153846153846153846154,
+          "cupMeasure": "100g",
+          "packageType": null,
+          "volumeSize": "520g"
+        },
+        "hasShopperNotes": null,
+        "productTag": {
+          "tagType": "IsSpecial",
+          "multiBuy": null,
+          "bonusPoints": null,
+          "additionalTag": null,
+          "targetedOffer": null,
+          "boostOffer": null
+        },
+        "departments": [
+          {
+            "id": 7,
+            "name": "Pantry"
+          }
+        ],
+        "subsAllowed": false,
+        "supportsBothEachAndKgPricing": false,
+        "adId": null,
+        "brandSuggestionId": null,
+        "brandSuggestionName": null,
+        "priceUnitLabel": null,
+        "availabilityStatus": "In Stock",
+        "onlineSample": null,
+        "onlineSampleRealProductMapId": 0
+      },
+      {
+        "type": "Product",
+        "name": "pop n good popcorn butter max",
+        "barcode": "9415359121503",
+        "variety": "butter max",
+        "brand": "pop n good",
+        "slug": "pop-n-good-popcorn-butter-max",
+        "sku": "411724",
+        "unit": "Each",
+        "selectedPurchasingUnit": null,
+        "price": {
+          "originalPrice": 2.8,
+          "salePrice": 2.8,
+          "savePrice": 0.0,
+          "savePercentage": 0.0,
+          "canShowSavings": true,
+          "hasBonusPoints": false,
+          "isClubPrice": false,
+          "isSpecial": false,
+          "isNew": false,
+          "canShowOriginalPrice": true,
+          "discount": null,
+          "total": null,
+          "isTargetedOffer": false,
+          "averagePricePerSingleUnit": null,
+          "isBoostOffer": false,
+          "purchasingUnitPrice": null,
+          "orderedPrice": null,
+          "isUsingOrderedPrice": false,
+          "currentPricingMatchesOrderedPricing": null,
+          "extendedListPrice": null,
+          "originalAveragePricePerSingleUnit": null
+        },
+        "images": {
+          "small": "https://assets.woolworths.com.au/images/2010/411724.jpg?impolicy=wowcdxwbjbx&w=65&h=65",
+          "big": "https://assets.woolworths.com.au/images/2010/411724.jpg?impolicy=wowcdxwbjbx&w=200&h=200"
+        },
+        "quantity": {
+          "min": 1.0,
+          "max": 100.0,
+          "increment": 1.0,
+          "value": null,
+          "quantityInOrder": null,
+          "purchasingQuantityString": null
+        },
+        "stockLevel": 3,
+        "eachUnitQuantity": null,
+        "averageWeightPerUnit": null,
+        "size": {
+          "cupListPrice": 1.93,
+          "cupPrice": 1.87,
+          "cupMeasure": "100g",
+          "packageType": null,
+          "volumeSize": "150g"
+        },
+        "hasShopperNotes": null,
+        "productTag": {
+          "tagType": "IsGreatPrice",
+          "multiBuy": null,
+          "bonusPoints": null,
+          "additionalTag": null,
+          "targetedOffer": null,
+          "boostOffer": null
+        },
+        "departments": [
+          {
+            "id": 7,
+            "name": "Pantry"
+          }
+        ],
+        "subsAllowed": false,
+        "supportsBothEachAndKgPricing": false,
+        "adId": null,
+        "brandSuggestionId": null,
+        "brandSuggestionName": null,
+        "priceUnitLabel": null,
+        "availabilityStatus": "In Stock",
+        "onlineSample": null,
+        "onlineSampleRealProductMapId": 0
+      },
+      {
+        "type": "Product",
+        "name": "so good almond milk barista edition uht",
+        "barcode": "9300652808834",
+        "variety": "barista edition uht",
+        "brand": "so good",
+        "slug": "so-good-almond-milk-barista-edition-uht",
+        "sku": "83836",
+        "unit": "Each",
+        "selectedPurchasingUnit": null,
+        "price": {
+          "originalPrice": 4.59,
+          "salePrice": 4.0,
+          "savePrice": 0.59,
+          "savePercentage": 0.0,
+          "canShowSavings": true,
+          "hasBonusPoints": false,
+          "isClubPrice": false,
+          "isSpecial": true,
+          "isNew": false,
+          "canShowOriginalPrice": true,
+          "discount": null,
+          "total": null,
+          "isTargetedOffer": false,
+          "averagePricePerSingleUnit": null,
+          "isBoostOffer": false,
+          "purchasingUnitPrice": null,
+          "orderedPrice": null,
+          "isUsingOrderedPrice": false,
+          "currentPricingMatchesOrderedPricing": null,
+          "extendedListPrice": null,
+          "originalAveragePricePerSingleUnit": null
+        },
+        "images": {
+          "small": "https://assets.woolworths.com.au/images/2010/83836.jpg?impolicy=wowcdxwbjbx&w=65&h=65",
+          "big": "https://assets.woolworths.com.au/images/2010/83836.jpg?impolicy=wowcdxwbjbx&w=200&h=200"
+        },
+        "quantity": {
+          "min": 1.0,
+          "max": 100.0,
+          "increment": 1.0,
+          "value": null,
+          "quantityInOrder": null,
+          "purchasingQuantityString": null
+        },
+        "stockLevel": 3,
+        "eachUnitQuantity": null,
+        "averageWeightPerUnit": null,
+        "size": {
+          "cupListPrice": 4.59,
+          "cupPrice": 4.0,
+          "cupMeasure": "1L",
+          "packageType": "carton",
+          "volumeSize": "1L"
+        },
+        "hasShopperNotes": null,
+        "productTag": {
+          "tagType": "IsSpecial",
+          "multiBuy": null,
+          "bonusPoints": null,
+          "additionalTag": null,
+          "targetedOffer": null,
+          "boostOffer": null
+        },
+        "departments": [
+          {
+            "id": 4,
+            "name": "Fridge & Deli"
+          }
+        ],
+        "subsAllowed": false,
+        "supportsBothEachAndKgPricing": false,
+        "adId": null,
+        "brandSuggestionId": null,
+        "brandSuggestionName": null,
+        "priceUnitLabel": null,
+        "availabilityStatus": "In Stock",
+        "onlineSample": null,
+        "onlineSampleRealProductMapId": 0
+      },
+      {
+        "type": "Product",
+        "name": "old el paso taco seasoning spice mix",
+        "barcode": "9300695001285",
+        "variety": "spice mix",
+        "brand": "old el paso",
+        "slug": "old-el-paso-taco-seasoning-spice-mix",
+        "sku": "93444",
+        "unit": "Each",
+        "selectedPurchasingUnit": null,
+        "price": {
+          "originalPrice": 3.0,
+          "salePrice": 3.0,
+          "savePrice": 0.0,
+          "savePercentage": 0.0,
+          "canShowSavings": true,
+          "hasBonusPoints": false,
+          "isClubPrice": false,
+          "isSpecial": false,
+          "isNew": false,
+          "canShowOriginalPrice": true,
+          "discount": null,
+          "total": null,
+          "isTargetedOffer": false,
+          "averagePricePerSingleUnit": null,
+          "isBoostOffer": false,
+          "purchasingUnitPrice": null,
+          "orderedPrice": null,
+          "isUsingOrderedPrice": false,
+          "currentPricingMatchesOrderedPricing": null,
+          "extendedListPrice": null,
+          "originalAveragePricePerSingleUnit": null
+        },
+        "images": {
+          "small": "https://assets.woolworths.com.au/images/2010/93444.jpg?impolicy=wowcdxwbjbx&w=65&h=65",
+          "big": "https://assets.woolworths.com.au/images/2010/93444.jpg?impolicy=wowcdxwbjbx&w=200&h=200"
+        },
+        "quantity": {
+          "min": 1.0,
+          "max": 100.0,
+          "increment": 1.0,
+          "value": null,
+          "quantityInOrder": null,
+          "purchasingQuantityString": null
+        },
+        "stockLevel": 3,
+        "eachUnitQuantity": null,
+        "averageWeightPerUnit": null,
+        "size": {
+          "cupListPrice": 10.0,
+          "cupPrice": 10.0,
+          "cupMeasure": "100g",
+          "packageType": "sachet",
+          "volumeSize": "30g"
+        },
+        "hasShopperNotes": null,
+        "productTag": null,
+        "departments": [
+          {
+            "id": 7,
+            "name": "Pantry"
+          }
+        ],
+        "subsAllowed": false,
+        "supportsBothEachAndKgPricing": false,
+        "adId": null,
+        "brandSuggestionId": null,
+        "brandSuggestionName": null,
+        "priceUnitLabel": null,
+        "availabilityStatus": "In Stock",
+        "onlineSample": null,
+        "onlineSampleRealProductMapId": 0
+      },
+      {
+        "type": "Product",
+        "name": "macro organic almond milk unsweetened",
+        "barcode": "9400597009744",
+        "variety": "unsweetened",
+        "brand": "macro organic",
+        "slug": "macro-organic-almond-milk-unsweetened",
+        "sku": "901450",
+        "unit": "Each",
+        "selectedPurchasingUnit": null,
+        "price": {
+          "originalPrice": 4.49,
+          "salePrice": 4.49,
+          "savePrice": 0.00,
+          "savePercentage": 0.0,
+          "canShowSavings": true,
+          "hasBonusPoints": false,
+          "isClubPrice": false,
+          "isSpecial": false,
+          "isNew": false,
+          "canShowOriginalPrice": true,
+          "discount": null,
+          "total": null,
+          "isTargetedOffer": false,
+          "averagePricePerSingleUnit": null,
+          "isBoostOffer": false,
+          "purchasingUnitPrice": null,
+          "orderedPrice": null,
+          "isUsingOrderedPrice": false,
+          "currentPricingMatchesOrderedPricing": null,
+          "extendedListPrice": null,
+          "originalAveragePricePerSingleUnit": null
+        },
+        "images": {
+          "small": "https://assets.woolworths.com.au/images/2010/901450.jpg?impolicy=wowcdxwbjbx&w=65&h=65",
+          "big": "https://assets.woolworths.com.au/images/2010/901450.jpg?impolicy=wowcdxwbjbx&w=200&h=200"
+        },
+        "quantity": {
+          "min": 1.0,
+          "max": 100.0,
+          "increment": 1.0,
+          "value": null,
+          "quantityInOrder": null,
+          "purchasingQuantityString": null
+        },
+        "stockLevel": 3,
+        "eachUnitQuantity": null,
+        "averageWeightPerUnit": null,
+        "size": {
+          "cupListPrice": 4.49,
+          "cupPrice": 4.49,
+          "cupMeasure": "1L",
+          "packageType": "carton",
+          "volumeSize": "1L"
+        },
+        "hasShopperNotes": null,
+        "productTag": null,
+        "departments": [
+          {
+            "id": 4,
+            "name": "Fridge & Deli"
+          }
+        ],
+        "subsAllowed": false,
+        "supportsBothEachAndKgPricing": false,
+        "adId": null,
+        "brandSuggestionId": null,
+        "brandSuggestionName": null,
+        "priceUnitLabel": null,
+        "availabilityStatus": "In Stock",
+        "onlineSample": null,
+        "onlineSampleRealProductMapId": 0
+      }
+    ],
+    "totalItems": 5376
+  },
+  "dasFacets": [
+    {
+      "key": "Aisle",
+      "value": "60",
+      "isBooleanValue": false,
+      "name": "Snacks & Sweets",
+      "productCount": 1540,
+      "shelfResponses": null,
+      "group": "Aisle"
+    },
+    {
+      "key": "Aisle",
+      "value": "61",
+      "isBooleanValue": false,
+      "name": "Biscuits & Crackers",
+      "productCount": 586,
+      "shelfResponses": null,
+      "group": "Aisle"
+    },
+    {
+      "key": "Aisle",
+      "value": "62",
+      "isBooleanValue": false,
+      "name": "Tinned Foods & Packets",
+      "productCount": 578,
+      "shelfResponses": null,
+      "group": "Aisle"
+    },
+    {
+      "key": "Aisle",
+      "value": "63",
+      "isBooleanValue": false,
+      "name": "Baking",
+      "productCount": 545,
+      "shelfResponses": null,
+      "group": "Aisle"
+    },
+    {
+      "key": "Aisle",
+      "value": "64",
+      "isBooleanValue": false,
+      "name": "Cereals & Spreads",
+      "productCount": 506,
+      "shelfResponses": null,
+      "group": "Aisle"
+    },
+    {
+      "key": "Aisle",
+      "value": "65",
+      "isBooleanValue": false,
+      "name": "Sauces & Pastes",
+      "productCount": 715,
+      "shelfResponses": null,
+      "group": "Aisle"
+    },
+    {
+      "key": "Aisle",
+      "value": "66",
+      "isBooleanValue": false,
+      "name": "Pasta, Noodles & Grains",
+      "productCount": 386,
+      "shelfResponses": null,
+      "group": "Aisle"
+    },
+    {
+      "key": "Aisle",
+      "value": "67",
+      "isBooleanValue": false,
+      "name": "Herbs, Spices & Stock",
+      "productCount": 348,
+      "shelfResponses": null,
+      "group": "Aisle"
+    },
+    {
+      "key": "Aisle",
+      "value": "68",
+      "isBooleanValue": false,
+      "name": "Oil, Vinegar & Condiments",
+      "productCount": 440,
+      "shelfResponses": null,
+      "group": "Aisle"
+    },
+    {
+      "key": "Aisle",
+      "value": "69",
+      "isBooleanValue": false,
+      "name": "Meal Kits",
+      "productCount": 207,
+      "shelfResponses": null,
+      "group": "Aisle"
+    },
+    {
+      "key": "Aisle",
+      "value": "70",
+      "isBooleanValue": false,
+      "name": "International Foods",
+      "productCount": 286,
+      "shelfResponses": null,
+      "group": "Aisle"
+    },
+    {
+      "key": "Aisle",
+      "value": "71",
+      "isBooleanValue": false,
+      "name": "Eggs",
+      "productCount": 59,
+      "shelfResponses": null,
+      "group": "Aisle"
+    },
+    {
+      "key": "Aisle",
+      "value": "72",
+      "isBooleanValue": false,
+      "name": "Desserts",
+      "productCount": 197,
+      "shelfResponses": null,
+      "group": "Aisle"
+    },
+    {
+      "key": "Aisle",
+      "value": "73",
+      "isBooleanValue": false,
+      "name": "Long Life Milk",
+      "productCount": 80,
+      "shelfResponses": null,
+      "group": "Aisle"
+    },
+    {
+      "key": "Aisle",
+      "value": "74",
+      "isBooleanValue": false,
+      "name": "Bulk Foods",
+      "productCount": 141,
+      "shelfResponses": null,
+      "group": "Aisle"
+    }
+  ],
+  "facets": [
+    {
+      "key": "All",
+      "value": "All",
+      "isBooleanValue": true,
+      "name": "All",
+      "productCount": 1559,
+      "shelfResponses": null,
+      "group": "Specials & Great Prices"
+    },
+    {
+      "key": "Specials",
+      "value": "Specials",
+      "isBooleanValue": true,
+      "name": "Specials",
+      "productCount": 895,
+      "shelfResponses": null,
+      "group": "Specials & Great Prices"
+    },
+    {
+      "key": "Great Price",
+      "value": "Great Price",
+      "isBooleanValue": true,
+      "name": "Great Price",
+      "productCount": 664,
+      "shelfResponses": null,
+      "group": "Specials & Great Prices"
+    },
+    {
+      "key": "Onecard Club",
+      "value": "Onecard Club",
+      "isBooleanValue": true,
+      "name": "Onecard Club",
+      "productCount": 435,
+      "shelfResponses": null,
+      "group": "Specials & Great Prices"
+    },
+    {
+      "key": "PiesAttributes",
+      "value": "Dairy Free",
+      "isBooleanValue": false,
+      "name": "Dairy Free",
+      "productCount": 2288,
+      "shelfResponses": null,
+      "group": "Dietary & Lifestyle"
+    },
+    {
+      "key": "PiesAttributes",
+      "value": "Gluten Free",
+      "isBooleanValue": false,
+      "name": "Gluten Free",
+      "productCount": 2126,
+      "shelfResponses": null,
+      "group": "Dietary & Lifestyle"
+    },
+    {
+      "key": "PiesAttributes",
+      "value": "Low Salt",
+      "isBooleanValue": false,
+      "name": "Low Salt",
+      "productCount": 1540,
+      "shelfResponses": null,
+      "group": "Dietary & Lifestyle"
+    },
+    {
+      "key": "PiesAttributes",
+      "value": "Low Sugar",
+      "isBooleanValue": false,
+      "name": "Low Sugar",
+      "productCount": 1706,
+      "shelfResponses": null,
+      "group": "Dietary & Lifestyle"
+    },
+    {
+      "key": "PiesAttributes",
+      "value": "Organic",
+      "isBooleanValue": false,
+      "name": "Organic",
+      "productCount": 196,
+      "shelfResponses": null,
+      "group": "Dietary & Lifestyle"
+    },
+    {
+      "key": "PiesAttributes",
+      "value": "Vegan",
+      "isBooleanValue": false,
+      "name": "Vegan",
+      "productCount": 1809,
+      "shelfResponses": null,
+      "group": "Dietary & Lifestyle"
+    },
+    {
+      "key": "PiesAttributes",
+      "value": "Vegetarian",
+      "isBooleanValue": false,
+      "name": "Vegetarian",
+      "productCount": 2468,
+      "shelfResponses": null,
+      "group": "Dietary & Lifestyle"
+    }
+  ],
+  "sortOptions": [
+    {
+      "value": "PriceAsc",
+      "text": "Price Low to High",
+      "selected": false
+    },
+    {
+      "value": "PriceDesc",
+      "text": "Price High to Low",
+      "selected": false
+    },
+    {
+      "value": "CUPAsc",
+      "text": "Unit Price Low to High",
+      "selected": false
+    },
+    {
+      "value": "BrowseRelevance",
+      "text": "Relevance",
+      "selected": true
+    }
+  ],
+  "currentPageSize": 48,
+  "currentSortOption": "BrowseRelevance",
+  "brandSuggestions": null,
+  "breadcrumb": {
+    "department": {
+      "key": "Department",
+      "value": 7,
+      "isBooleanValue": false,
+      "name": "Pantry",
+      "productCount": 0,
+      "shelfResponses": null,
+      "group": null
+    },
+    "aisle": null,
+    "shelf": null,
+    "productGroup": null,
+    "dynamicGroup": null
+  },
+  "partialFailures": {
+    "shopperNotesFetchFailed": null,
+    "maxSupplyLimitFetchFailed": null,
+    "purchaseUnitFetchFailed": null,
+    "trolleyQuantityUpdateFailed": null,
+    "productTagFetchFailed": null,
+    "breadcrumbGenerationFailed": null,
+    "productGroupFetchFailed": null,
+    "targetOfferFetchFailed": null
+  },
+  "targetedOfferDetails": null,
+  "action": null,
+  "isSuccessful": true,
+  "rootUrl": "http://shop.countdown.co.nz",
+  "context": {
+    "shopper": {
+      "firstName": null,
+      "isShopper": false,
+      "isLoggedIn": false,
+      "hasOnecard": false,
+      "oneCardBalance": null,
+      "shopperIdHash": null,
+      "shopperScvId": "",
+      "sessionGroups": null,
+      "orderCount": null,
+      "isSupplyLimitOverrideShopper": false,
+      "isPriorityShopper": false,
+      "isChangingOrder": false,
+      "changingOrderId": null,
+      "hasActiveDeliverySubscription": false
+    },
+    "fulfilment": {
+      "address": "Glenfield",
+      "selectedDate": null,
+      "selectedDateWithTZInfo": null,
+      "startTime": null,
+      "endTime": null,
+      "method": "Courier",
+      "cutOffTime": null,
+      "isSlotToday": false,
+      "isAddressInDeliveryZone": true,
+      "isDefaultDeliveryAddress": false,
+      "areaId": 77,
+      "suburbId": 0,
+      "pickupAddressId": 0,
+      "fulfilmentStoreId": 9443,
+      "perishableCode": "P",
+      "locker": null,
+      "expressFulfilment": {
+        "isExpressSlot": false,
+        "expressPickUpFee": null,
+        "expressDeliveryFee": null
+      }
+    },
+    "enabledFeatures": [
+      "HaveYouForgotten",
+      "ProjectShore",
+      "ManagedServiceBar",
+      "RecipesAddToTrolley",
+      "SavedRecipes",
+      "ProductStraps",
+      "DeliverySubscriptionSignUp",
+      "FirstTimeShopper",
+      "OrderConfirmation",
+      "NewDeliverySubscriptionPage",
+      "CancelOrder",
+      "CountryOfOriginInAccordion",
+      "PiesEnableEachUnitForKgProducts",
+      "ForgotPassword",
+      "JQueryDeprecationLogging",
+      "EnableDeliverySaverRetryPayment",
+      "RecipesInApp",
+      "DeliverySaverBannerOnTrolleyPage",
+      "RecipeCategorySeo",
+      "EnableBoostsLandingPage",
+      "CustomerSelfService",
+      "MerchantHostedLocalStorefront",
+      "LazyLoadProductStampImages",
+      "OptimizelyWeb",
+      "ChangeOrderPromptHomepage",
+      "ChangeOrder",
+      "ChangeOrderIndicateChangedPriceInProductList",
+      "SwitchToggleToShowInStockItemsOnly",
+      "HideSwitchToggleForOOS",
+      "ExpressDelivery",
+      "Optimizely",
+      "StickyCTAReviewOrder",
+      "ViewOrderConfirmationLinkOnMyOrders",
+      "ChangeOrderChangedPriceTutorial",
+      "OnlineSamplesCheckoutJourney",
+      "OnlineSampleOrderConfirmation",
+      "ShowDiscountPercentage",
+      "GreatToLowPrice",
+      "OnlineSampleRemarketing",
+      "EnableDeviceFingerprinting",
+      "ChangeOrderChangedPriceTutorialMobileWeb",
+      "SameDayDelivery",
+      "LowPriceProductStrap",
+      "CheckSSU",
+      "PaperPackingSlipPreference",
+      "RebrandInHeaderAndFooter",
+      "MobileSSU",
+      "HaystackEDRChanges",
+      "EnableEDR",
+      "NewBrowseMenuLinks",
+      "BoostShopRange",
+      "HomePageHeroCarousel",
+      "ReloadDataInFavouritesAndLists",
+      "EnableCartologyGA4EventTracking",
+      "EnableMultiBuyGreatPriceTagMissingFix",
+      "DisplayNewLozenge",
+      "EnablePDPNewDesign",
+      "EnableHaveYouForgottenGATracking",
+      "EnablePDPTabOrder",
+      "EnableCUPUIAdjustments",
+      "EnablePasCupCalculations",
+      "ProductPricingFromTraderMongoDB",
+      "EnableDiscardPasPriceIfNoPriceInTrader",
+      "EnablePasMissingPrice",
+      "EnableHYFTopPicksTile",
+      "DisplayNewOlsAndYouMightLikeCarousels",
+      "EnablePasOnlineOnlyTag"
+    ],
+    "shoppingListItems": [],
+    "basketTotals": null,
+    "advancedSettingsResponse": null
+  },
+  "messages": null
+}
